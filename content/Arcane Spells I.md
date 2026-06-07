@@ -1,0 +1,73 @@
+**Requirements**:: [[Arcane Spellcasting]]
+**Cost**:: 2 LP
+
+_Flavour text_.
+
+These spells are added to your [[Arcane Spell List]]:
+
+##### Cantrips
+
+- [[Acid Splash]]
+- [[Animal Call]]
+- [[Arcane Blast]]
+- [[Chaos Burst]]
+- [[Chill Touch]]
+- [[Corrosive Shot]]
+- [[Deflection]]
+- [[Ethereal Blade]]
+- [[Flame Blade]]
+- [[Flame Burst]]
+- [[Force Wave]]
+- [[Frostbite]]
+- [[Gravity Slam]]
+- [[Ignite]]
+- [[Infestation]]
+- [[Lightning Lure]]
+- [[Mind Sliver]]
+- [[Minor Illusion]]
+- [[Poison Spray]]
+- [[Prismatic Ray]]
+- [[Psychic Shock]]
+- [[Ray of Frost]]
+- [[Sapping Sting]]
+- [[Shocking Grasp]]
+- [[Solar Flare]]
+- [[Telekinetic Throw]]
+- [[Thorn Dart]]
+- [[Thunderclap]]
+- [[Toxic Torrent]]
+- [[Water Bolt]]
+- [[Wind Slash]]
+
+##### 1st Level Spells
+
+- [[Absorb Elements]]
+- [[Animate Rope]]
+- [[Arcane Arrow]]
+- [[Arcane Shield]]
+- [[Burning Hands]]
+- [[Call Object]]
+- [[Call Object]]
+- [[Chromatic Orb]]
+- [[Disguise Self]]
+- [[Fog Cloud]]
+- [[Frost Armour]]
+- [[Grease]]
+- [[Hold Beast]]
+- [[Hold Humanoid]]
+- [[Ice Knife]]
+- [[Jump]]
+- [[Long Strider]]
+- [[Summon Weapon]]
+- [[Thunderwave]]
+- [[Unseen Servant]]
+- [[Witch Bolt]]
+
+**Tree**:: [[Arcane Talent Tree]]
+**Group**:: [[Arcane Talent]]
+**Following**:: [[Arcane Spells II]]
+
+---
+
+#talent #arcane
+[[Talent]] [[Talent]] [[Arcane Talent]]

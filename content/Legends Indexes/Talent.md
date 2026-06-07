@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-04-10T22:55:56.551+03:00
-modified: 2026-06-07T20:47:59.156+03:00
 ---
 
 A Talent is a single learned ability or power that grants a specific mechanical benefit and helps define what a character can do.
