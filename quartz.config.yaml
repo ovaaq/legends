@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: legends.github.io
+  baseUrl: ovaaq.github.io/legends
   ignorePatterns:
     - private
     - templates

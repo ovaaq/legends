@@ -1,0 +1,5 @@
+[[Shadow Step]]
+[[Otherworldly Resistance]]
+[[Tempting Aura]]
+[[Demon Claws]]
+[[False Reflection]]

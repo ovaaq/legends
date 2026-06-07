@@ -1,0 +1,23 @@
+- [[Mark of Wild Magic]]
+	- [[Wild Magic Surge]]
+		- [[Tides of Chaos]]
+			- [[Bend Luck]]
+				- [[Controlled Chaos]]
+	- [[wa1]]
+		- [[Mana Burst]]
+			- [[Unstable Resistance]]
+				- [[Spell Rebound]]
+	- [[Twisted Body]]
+		- [[Magic Awareness]]
+			- [[Unstable Aura]]
+				- [[wp4]]
+	- [[Wild Magic Spells I]]
+		- [[Wild Magic Spells II]]
+			- [[Wild Magic Spells III]]
+				- [[Wild Magic Spells IV]]
+					- [[Wild Magic Spells V]]
+						- [[Wild Magic Spells VI]]
+
+___
+#talent_tree #innate 
+[[Talent Tree|]]

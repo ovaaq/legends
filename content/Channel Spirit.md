@@ -1,0 +1,14 @@
+**Requirements**:: [[Spirit Guide]]
+**Cost**:: 1 LP
+
+*Flavour text*.
+
+**Benefit(s)**: Select one of the spirit legends available to a [medium](https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/medium). You can trade control of your body to a spirit of this type for power. You must perform a seance, taking 1 hour and requiring your [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration). At the end of the seance, you invite a spirit of the chosen type to inhabit your body. You do not require an appropriate location to channel the spirit. You gain the benefits of the spirit’s spirit bonus and seance boon, but no spirit powers. Your spirit bonus is +1, or equal to your spirit bonus from any [medium](https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/medium) class levels you have (whichever is higher). You don’t select a taboo and the spirit gains no influence over you. You can continue to gain the benefits of the spiritual possession for up to 1 hour per character level you have. At the end of the duration, the spirit takes over your body, and you become an NPC under the GM’s control for a duration equal to the amount of time the spirit possessed you. You can end the duration prematurely as a [free action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions), but the spirit still takes over your body. If you have the spirit class feature, you can’t use this feat and act as a vessel for a second spirit simultaneously, but you gain spirit powers as normal for your [medium](https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/medium) level.
+
+
+**Tree**:: [[Spiritual Talent Tree]]
+**Group**:: [[Spiritual Talent]]
+**Following**:: 
+___
+#talent #spiritual
+[[Talent|]] [[Spiritual Talent|]]
