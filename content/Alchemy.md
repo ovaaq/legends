@@ -1,2 +1,0 @@
-#expert_skill
-

@@ -1,7 +1,0 @@
----
-aliases:
-  - MP
----
-
-___
-#keyword

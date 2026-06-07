@@ -1,7 +1,0 @@
----
-aliases:
-  - HP
----
-
-___
-#keyword

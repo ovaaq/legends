@@ -1,1 +1,0 @@
-[[Equipment]], [[Alchemical Item]], [[Potion]]

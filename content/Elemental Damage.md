@@ -1,3 +1,0 @@
-[[Damage Type]]
-___
-#keyword 

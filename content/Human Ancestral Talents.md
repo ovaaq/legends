@@ -1,6 +1,0 @@
-[[Versatile Heritage]]
-[[Moment of Glory]]
-[[Relentless Endurance]]
-[[Resourceful]]
-[[Social Chameleon]]
-[[Wayfinder]]

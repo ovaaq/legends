@@ -1,2 +1,0 @@
-
-[[Alchemical Item]], [[Adventuring Item]]
