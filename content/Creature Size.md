@@ -1,3 +1,5 @@
+these are effects for creature size
+
 |     Size     | Dimensions |    Example     | [[Agility]] | [[Strength]] | [[Precision]] | [[Constitution]] |
 | :----------: | :--------: | :------------: | :---------: | :----------: | :-----------: | :--------------: |
 |   [[Tiny]]   |            |   Cat, Fairy   |     +4      |      -4      |      +2       |        -2        |
