@@ -1,4 +1,0 @@
-[[Saving Throw]]
-
-___
-#keyword

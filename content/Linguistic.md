@@ -1,6 +1,0 @@
-Your Acrobatics check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The [[Game Master]] might also call for a Acrobatics check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
-
-___
-#expert_skill [[Expert Skill|]]
-
-
