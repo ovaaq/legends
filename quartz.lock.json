@@ -193,6 +193,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-06-03T13:32:36.002Z"
     },
+    "quartz-leaflet-bases-plugin": {
+      "source": "github:Requiae/quartz-leaflet-bases-plugin",
+      "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
+      "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
+      "installedAt": "2026-06-07T15:44:57.017Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",
@@ -202,7 +208,7 @@
       "resolved": "https://github.com/saberzero1/quartz-themes.git",
       "commit": "e258410285f82594743fd23f39132b6a0947bed3",
       "subdir": "plugin",
-      "installedAt": "2026-06-03T13:17:42.994Z"
+      "installedAt": "2026-06-07T15:51:40.133Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
