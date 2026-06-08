@@ -21,7 +21,7 @@ configuration:
       code: Courier New, monospace
     colors:
       lightMode:
-        light: "#ffffff"
+        light: "#fcfaf5"
         lightgray: "#eaeaea"
         gray: "#888888"
         darkgray: "#333333"
