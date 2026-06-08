@@ -274,16 +274,22 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+      template: full-width
+    content:
+      template: full-width
     folder:
       exclude:
         - reader-mode
       positions:
         right: []
+      template: full-width
     tag:
       exclude:
         - reader-mode
       positions:
         right: []
-    canvas: {}
-    bases: {}
+      template: full-width
+    canvas:
+      template: full-width
+    bases:
+      template: full-width
