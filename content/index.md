@@ -1,3 +1,8 @@
+---
+publish: true
+title: Homepage
+---
+
 Hello there! You have found Legends TTRPG wiki. This website host current and evolving rules of Legends.
 
 #### Introduction
