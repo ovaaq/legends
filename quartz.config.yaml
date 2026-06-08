@@ -276,22 +276,16 @@ layout:
         beforeBody: []
         left: []
         right: []
-      template: minimal
-    content:
-      template: minimal
+    content: {}
     folder:
       exclude:
         - reader-mode
       positions:
         right: []
-      template: minimal
     tag:
       exclude:
         - reader-mode
       positions:
         right: []
-      template: minimal
-    canvas:
-      template: minimal
-    bases:
-      template: minimal
+    canvas: {}
+    bases: {}
