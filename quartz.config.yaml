@@ -164,7 +164,7 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 20
+      priority: 15
       group: toolbar
       groupOptions:
         grow: true
@@ -176,7 +176,7 @@ plugins:
     enabled: true
     layout:
       position: beforeBody
-      priority: 10
+      priority: 5
   - source: github:quartz-community/content-meta
     enabled: false
     layout:
@@ -191,7 +191,8 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 10
+      priority: 5
+    options: {}
   - source: github:quartz-community/darkmode
     enabled: false
     layout:
@@ -274,22 +275,16 @@ layout:
         beforeBody: []
         left: []
         right: []
-      template: full-width
-    content:
-      template: full-width
+    content: {}
     folder:
       exclude:
         - reader-mode
       positions:
         right: []
-      template: full-width
     tag:
       exclude:
         - reader-mode
       positions:
         right: []
-      template: full-width
-    canvas:
-      template: full-width
-    bases:
-      template: full-width
+    canvas: {}
+    bases: {}
