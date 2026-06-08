@@ -91,6 +91,7 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
+    options: {}
   - source: github:quartz-community/latex
     enabled: true
     options:
@@ -275,16 +276,22 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+      template: minimal
+    content:
+      template: minimal
     folder:
       exclude:
         - reader-mode
       positions:
         right: []
+      template: minimal
     tag:
       exclude:
         - reader-mode
       positions:
         right: []
-    canvas: {}
-    bases: {}
+      template: minimal
+    canvas:
+      template: minimal
+    bases:
+      template: minimal
