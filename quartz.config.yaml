@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Georgia, serif
-      body: Verdana, Geneva, sans-serif
+      body: Inter
       code: Courier New, monospace
     colors:
       lightMode:
