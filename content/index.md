@@ -1,12 +1,19 @@
----
-publish: true
----
+Hello there! You have found Legends TTRPG wiki. This website host current and evolving rules of Legends.
 
-Hello world!
+#### Introduction
 
-this is Legends
+[[Introduction to Legends TTRPG]]
 
-here some [[Talent]] to read
-here some [[Spell]]
+#### Character Creation
 
-testing testing
+[[Ancestry|Ancestries]]
+[[Background|Backgrounds]]
+[[Talent|Talents]]
+[[Spell|Spells]]
+[[Martial Technique|Martial Techniques]]
+[[Equipment]]
+[[Character Sheet]]
+
+#### Playing Legends
+
+[[Encounter Actions]]

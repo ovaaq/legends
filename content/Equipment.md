@@ -95,6 +95,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Hook Sword.md\|Hook Sword]]                                             | -       | -     | Weapon   |
 | [[Hunting Trap.md\|Hunting Trap]]                                         | -       | -     | Weapon   |
 | [[Incense.md\|Incense]]                                                   | -       | -     | Weapon   |
+| [[index.md\|index]]                                                       | -       | -     | Weapon   |
 | [[Ink Bottle.md\|Ink Bottle]]                                             | -       | -     | Weapon   |
 | [[Invisibility Potion.md\|Invisibility Potion]]                           | -       | -     | Weapon   |
 | [[Javelin.md\|Javelin]]                                                   | -       | -     | Weapon   |

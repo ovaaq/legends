@@ -82,6 +82,7 @@
 | [[Hook Sword.md\|Hook Sword]]                                             | -       | -     |
 | [[Hunting Trap.md\|Hunting Trap]]                                         | -       | -     |
 | [[Incense.md\|Incense]]                                                   | -       | -     |
+| [[index.md\|index]]                                                       | -       | -     |
 | [[Ink Bottle.md\|Ink Bottle]]                                             | -       | -     |
 | [[Invisibility Potion.md\|Invisibility Potion]]                           | -       | -     |
 | [[Javelin.md\|Javelin]]                                                   | -       | -     |
