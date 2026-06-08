@@ -2,3 +2,36 @@
 @use "./syncer";
 
 // put your custom CSS here!
+
+/* Hides the right sidebar entirely */
+.sidebar.right {
+    display: none !important;
+}
+
+/* Allows the main center content to expand into the empty space */
+.page .center {
+    max-width: 100% !important; /* Adjust if you still want some margins */
+    width: 100%;
+}
+
+/* --- 1. Reduce the heavy top padding --- */
+.page .center {
+    padding-top: 2rem !important; /* Adjust this value (e.g., 1rem or 3rem) to shift it up or down */
+}
+
+/* Remove extra default spacing applied to the very first heading */
+.page article > h1:first-child {
+    margin-top: 0 !important; 
+}
+
+
+/* --- 2. Center the main content area --- */
+.page .center {
+    /* Forces the container to push away from the sides equally */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    
+    /* Sets a comfortable reading width so the text doesn't stretch infinitely across wide screens */
+    max-width: 850px !important; 
+    width: 100% !important;
+}
