@@ -195,7 +195,7 @@ plugins:
       priority: 5
     options: {}
   - source: github:quartz-community/darkmode
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 30
