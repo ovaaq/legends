@@ -1,4 +1,4 @@
-_[[1 Level Alchemical Formula]]_
+_[[1st Level Alchemical Formula]]_
 
 **Preparation Time**:: 1 hour
 **Equipment**:: [[Alchemist’s Supplies]]
