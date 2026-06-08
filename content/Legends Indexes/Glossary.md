@@ -8,7 +8,7 @@
 | [[Agility Saving Throw.md\|Agility Saving Throw]]           |
 | [[Alchemical Item.md\|Alchemical Item]]                     |
 | [[Alteration Magic.md\|Alteration Magic]]                   |
-| [[Ancestry.md\|Ancestry]]                                   |
+| [[Legends Indexes/Ancestry.md\|Ancestry]]                   |
 | [[Arcana.md\|Arcana]]                                       |
 | [[Armour.md\|Armour]]                                       |
 | [[Armour Class.md\|Armour Class]]                           |
@@ -16,7 +16,7 @@
 | [[Attack.md\|Attack]]                                       |
 | [[Attack Roll.md\|Attack Roll]]                             |
 | [[Awareness.md\|Awareness]]                                 |
-| [[Background.md\|Background]]                               |
+| [[Legends Indexes/Background.md\|Background]]               |
 | [[Bleeding.md\|Bleeding]]                                   |
 | [[Blinded.md\|Blinded]]                                     |
 | [[Bloodied.md\|Bloodied]]                                   |
@@ -26,7 +26,7 @@
 | [[Carrying Capacity.md\|Carrying Capacity]]                 |
 | [[Cast Spell.md\|Cast Spell]]                               |
 | [[Celestial Ancestry.md\|Celestial Ancestry]]               |
-| [[Character Sheet.md\|Character Sheet]]                     |
+| [[Legends Indexes/Character Sheet.md\|Character Sheet]]     |
 | [[Charisma.md\|Charisma]]                                   |
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]         |
 | [[Charmed.md\|Charmed]]                                     |
@@ -69,7 +69,7 @@
 | [[Elemental Damage.md\|Elemental Damage]]                   |
 | [[Elven Ancestry.md\|Elven Ancestry]]                       |
 | [[Enchantment Magic.md\|Enchantment Magic]]                 |
-| [[Equipment.md\|Equipment]]                                 |
+| [[Legends Indexes/Equipment.md\|Equipment]]                 |
 | [[01 - Projects/Legends Game Master/Escape.md\|Escape]]                                 |
 | [[Ethereal Damage.md\|Ethereal Damage]]                     |
 | [[Evasion Class.md\|Evasion Class]]                         |
@@ -118,7 +118,7 @@
 | [[Mana.md\|Mana]]                                           |
 | [[Mana Maximum.md\|Mana Maximum]]                           |
 | [[Martial Save DC.md\|Martial Save DC]]                     |
-| [[Martial Technique.md\|Martial Technique]]                 |
+| [[Legends Indexes/Martial Technique.md\|Martial Technique]] |
 | [[Medicine.md\|Medicine]]                                   |
 | [[Melee Attack.md\|Melee Attack]]                           |
 | [[Melee Spell Attack.md\|Melee Spell Attack]]               |
@@ -169,7 +169,7 @@
 | [[Skill.md\|Skill]]                                         |
 | [[Slashing Damage.md\|Slashing Damage]]                     |
 | [[Sorcery.md\|Sorcery]]                                     |
-| [[Spell.md\|Spell]]                                         |
+| [[Legends Indexes/Spell.md\|Spell]]                         |
 | [[Spell Attack.md\|Spell Attack]]                           |
 | [[Spell Save DC.md\|Spell Save DC]]                         |
 | [[Stand Up.md\|Stand Up]]                                   |

@@ -1,0 +1,331 @@
+Purchasable equipment is divided into six categories, shown in the table belo
+
+| Item Group                              | Description                                                                                           |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [[Adventuring Item\|Adventuring Items]] | General gear needed for exploration, survival, and travel.                                            |
+| [[Alchemical Item\|Alchemical Items]]   | Potions, elixirs, and other substances with magical or practical effects.                             |
+| [[Armour]]                              | Protective gear that reduces damage and increases survivability in combat.                            |
+| [[Clothing]]                            | Everyday attire and specialized garments used for travel, social interaction, performance.            |
+| [[Tool\|Tools]]                         | Kits and implements for crafting, repairing, or specialized tasks (e.g., lockpicking, artisan tools). |
+| [[Weapon\|Weapons]]                     | Melee and ranged arms used for combat or hunting.                                                     |
+|                                         |                                                                                                       |
+
+### Adventuring Items
+
+There is also [[Premade Packs]] for quick grabs.
+| Equipment                                                                                             | Weight   | Cost   | Category |
+| ----------------------------------------------------------------------------------------------------- | -------- | ------ | -------- |
+| [[Acid Vial.md\|Acid Vial]]                                               | -       | -     | Weapon   |
+| [[Adventuring Item.md\|Adventuring Item]]                                 | -       | -     | Weapon   |
+| [[Alchemical Item.md\|Alchemical Item]]                                   | -       | -     | Weapon   |
+| [[Alchemist's Fire.md\|Alchemist's Fire]]                                 | -       | -     | Weapon   |
+| [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]                         | 1 Stack  | -     | Weapon   |
+| [[Animal Friendship Potion.md\|Animal Friendship Potion]]                 | -       | -     | Weapon   |
+| [[Anti-Potion.md\|Anti-Potion]]                                           | -       | -     | Weapon   |
+| [[Antidote Vial.md\|Antidote Vial]]                                       | -       | -     | Weapon   |
+| [[Appraisal Tools.md\|Appraisal Tools]]                                   | 1 Stack  | -     | Weapon   |
+| [[Armour.md\|Armour]]                                                     | -       | -     | Weapon   |
+| [[Legends Indexes/Background.md\|Background]]                             | -       | -     | Weapon   |
+| [[Backpack.md\|Backpack]]                                                 | 1 Stack  | 2 GP   | Weapon   |
+| [[Ball Bearings.md\|Ball Bearings]]                                       | --       | 1 Gold | Weapon   |
+| [[Battleaxe.md\|Battleaxe]]                                               | 2 Stacks | 1 Gold | Weapon   |
+| [[Bedroll.md\|Bedroll]]                                                   | -       | -     | Weapon   |
+| [[Bell.md\|Bell]]                                                         | --       | 1 Gold | Weapon   |
+| [[Boomerang.md\|Boomerang]]                                               | -       | -     | Weapon   |
+| [[Breastplate.md\|Breastplate]]                                           | -       | -     | Weapon   |
+| [[Brewer’s Kit.md\|Brewer’s Kit]]                                         | 1 Stack  | -     | Weapon   |
+| [[Bucket.md\|Bucket]]                                                     | -       | -     | Weapon   |
+| [[Buckler.md\|Buckler]]                                                   | -       | -     | Weapon   |
+| [[Bullseye Lantern.md\|Bullseye Lantern]]                                 | -       | -     | Weapon   |
+| [[Caltrops.md\|Caltrops]]                                                 | -       | -     | Weapon   |
+| [[Candle.md\|Candle]]                                                     | -       | -     | Weapon   |
+| [[Carpenter’s Tools.md\|Carpenter’s Tools]]                               | 1 Stack  | -     | Weapon   |
+| [[Cartographer’s Kit.md\|Cartographer’s Kit]]                             | 1 Stack  | -     | Weapon   |
+| [[Chain.md\|Chain]]                                                       | -       | -     | Weapon   |
+| [[Chain Armor.md\|Chain Armor]]                                           | -       | -     | Weapon   |
+| [[Chain shirt.md\|Chain shirt]]                                           | -       | -     | Weapon   |
+| [[Chalk.md\|Chalk]]                                                       | -       | -     | Weapon   |
+| [[Legends Indexes/Character Creation Guide.md\|Character Creation Guide]] | -       | -     | Weapon   |
+| [[Legends Indexes/Character Information.md\|Character Information]]       | -       | -     | Weapon   |
+| [[Charm Potion.md\|Charm Potion]]                                         | -       | -     | Weapon   |
+| [[Chest.md\|Chest]]                                                       | -       | -     | Weapon   |
+| [[Chisel.md\|Chisel]]                                                     | -       | -     | Weapon   |
+| [[Club.md\|Club]]                                                         | -       | -     | Weapon   |
+| [[Compass.md\|Compass]]                                                   | -       | -     | Weapon   |
+| [[Cook’s Kit.md\|Cook’s Kit]]                                             | 1 Stack  | -     | Weapon   |
+| [[Crowbar.md\|Crowbar]]                                                   | -       | -     | Weapon   |
+| [[Dagger.md\|Dagger]]                                                     | -       | -     | Weapon   |
+| [[Darkvision Potion.md\|Darkvision Potion]]                               | -       | -     | Weapon   |
+| [[Dart.md\|Dart]]                                                         | -       | -     | Weapon   |
+| [[Dragonfire Vial.md\|Dragonfire Vial]]                                   | -       | -     | Weapon   |
+| [[Dual-Blade.md\|Dual-Blade]]                                             | -       | -     | Weapon   |
+| [[Enlargement Potion.md\|Enlargement Potion]]                             | -       | -     | Weapon   |
+| [[Exorcism Supplies.md\|Exorcism Supplies]]                               | 1 Stack  | -     | Weapon   |
+| [[Explorer’s Pack.md\|Explorer’s Pack]]                                   | 1 Stack  | -     | Weapon   |
+| [[Explorer's Premium Pack.md\|Explorer's Premium Pack]]                   | 1 Stack  | -     | Weapon   |
+| [[Fire Breath Potion.md\|Fire Breath Potion]]                             | -       | -     | Weapon   |
+| [[Fishing Tools.md\|Fishing Tools]]                                       | 1 Stack  | -     | Weapon   |
+| [[Flint and Steel.md\|Flint and Steel]]                                   | -       | -     | Weapon   |
+| [[Flying Potion.md\|Flying Potion]]                                       | -       | -     | Weapon   |
+| [[Forgery Kit.md\|Forgery Kit]]                                           | 1 Stack  | -     | Weapon   |
+| [[Gambeson.md\|Gambeson]]                                                 | -       | -     | Weapon   |
+| [[Gauntlet.md\|Gauntlet]]                                                 | -       | -     | Weapon   |
+| [[Ghost Form Potion.md\|Ghost Form Potion]]                               | -       | -     | Weapon   |
+| [[Glaive.md\|Glaive]]                                                     | -       | -     | Weapon   |
+| [[Glass Vial.md\|Glass Vial]]                                             | -       | -     | Weapon   |
+| [[Glow Potion.md\|Glow Potion]]                                           | -       | -     | Weapon   |
+| [[Glue Vial.md\|Glue Vial]]                                               | -       | -     | Weapon   |
+| [[Gold Panning.md\|Gold Panning]]                                         | -       | -     | Weapon   |
+| [[Grappling Hook.md\|Grappling Hook]]                                     | -       | -     | Weapon   |
+| [[Greataxe.md\|Greataxe]]                                                 | -       | -     | Weapon   |
+| [[Greater Healing Potion.md\|Greater Healing Potion]]                     | -       | -     | Weapon   |
+| [[Greater Mana Potion.md\|Greater Mana Potion]]                           | -       | -     | Weapon   |
+| [[Greater Vitality Potion.md\|Greater Vitality Potion]]                   | -       | -     | Weapon   |
+| [[Greatsword.md\|Greatsword]]                                             | -       | -     | Weapon   |
+| [[Growth Potion.md\|Growth Potion]]                                       | -       | -     | Weapon   |
+| [[Halberd.md\|Halberd]]                                                   | -       | -     | Weapon   |
+| [[Hammer.md\|Hammer]]                                                     | -       | -     | Weapon   |
+| [[Handaxe.md\|Handaxe]]                                                   | -       | -     | Weapon   |
+| [[Healer's Kit.md\|Healer's Kit]]                                         | -       | -     | Weapon   |
+| [[Healing Potion.md\|Healing Potion]]                                     | -       | -     | Weapon   |
+| [[Healing Salve.md\|Healing Salve]]                                       | -       | -     | Weapon   |
+| [[Heavy Armour.md\|Heavy Armour]]                                         | -       | -     | Weapon   |
+| [[Herbalism Kit.md\|Herbalism Kit]]                                       | 1 Stack  | -     | Weapon   |
+| [[Hooded Lantern.md\|Hooded Lantern]]                                     | -       | -     | Weapon   |
+| [[Hook Sword.md\|Hook Sword]]                                             | -       | -     | Weapon   |
+| [[Hunting Trap.md\|Hunting Trap]]                                         | -       | -     | Weapon   |
+| [[Incense.md\|Incense]]                                                   | -       | -     | Weapon   |
+| [[index.md\|index]]                                                       | -       | -     | Weapon   |
+| [[Ink Bottle.md\|Ink Bottle]]                                             | -       | -     | Weapon   |
+| [[Invisibility Potion.md\|Invisibility Potion]]                           | -       | -     | Weapon   |
+| [[Javelin.md\|Javelin]]                                                   | -       | -     | Weapon   |
+| [[Lance.md\|Lance]]                                                       | -       | -     | Weapon   |
+| [[Lantern Shield.md\|Lantern Shield]]                                     | -       | -     | Weapon   |
+| [[Leather Armor.md\|Leather Armor]]                                       | -       | -     | Weapon   |
+| [[Leatherworking Tools.md\|Leatherworking Tools]]                         | 1 Stack  | -     | Weapon   |
+| [[Light Armour.md\|Light Armour]]                                         | -       | -     | Weapon   |
+| [[Liquid Lightning.md\|Liquid Lightning]]                                 | -       | -     | Weapon   |
+| [[Lock.md\|Lock]]                                                         | -       | -     | Weapon   |
+| [[Longsword.md\|Longsword]]                                               | -       | -     | Weapon   |
+| [[Love Potion.md\|Love Potion]]                                           | -       | -     | Weapon   |
+| [[Luck Potion.md\|Luck Potion]]                                           | -       | -     | Weapon   |
+| [[Mace.md\|Mace]]                                                         | -       | -     | Weapon   |
+| [[01 - Projects/Legends Game Master/Magic Item.md\|Magic Item]]                                       | -       | -     | Weapon   |
+| [[Magical Ink.md\|Magical Ink]]                                           | -       | -     | Weapon   |
+| [[Magnifying Glass.md\|Magnifying Glass]]                                 | -       | -     | Weapon   |
+| [[Mana Potion.md\|Mana Potion]]                                           | -       | -     | Weapon   |
+| [[Manacles.md\|Manacles]]                                                 | -       | -     | Weapon   |
+| [[Masonry Kit.md\|Masonry Kit]]                                           | 1 Stack  | -     | Weapon   |
+| [[Maul.md\|Maul]]                                                         | -       | -     | Weapon   |
+| [[Mess Kit.md\|Mess Kit]]                                                 | -       | -     | Weapon   |
+| [[Metal Spoon.md\|Metal Spoon]]                                           | -       | -     | Weapon   |
+| [[Mining Tools.md\|Mining Tools]]                                         | 1 Stack  | -     | Weapon   |
+| [[Mirror.md\|Mirror]]                                                     | -       | -     | Weapon   |
+| [[Morningstar.md\|Morningstar]]                                           | -       | -     | Weapon   |
+| [[Nourishment Potion.md\|Nourishment Potion]]                             | -       | -     | Weapon   |
+| [[Oil Flask.md\|Oil Flask]]                                               | -       | -     | Weapon   |
+| [[Padded Gambeson.md\|Padded Gambeson]]                                   | -       | -     | Weapon   |
+| [[Parchment Sheet.md\|Parchment Sheet]]                                   | -       | -     | Weapon   |
+| [[Pickaxe.md\|Pickaxe]]                                                   | -       | -     | Weapon   |
+| [[Pike.md\|Pike]]                                                         | -       | -     | Weapon   |
+| [[Pitons.md\|Pitons]]                                                     | -       | -     | Weapon   |
+| [[Plate Armor.md\|Plate Armor]]                                           | -       | -     | Weapon   |
+| [[Poison Vial.md\|Poison Vial]]                                           | -       | -     | Weapon   |
+| [[Portable Ram.md\|Portable Ram]]                                         | -       | -     | Weapon   |
+| [[Potion.md\|Potion]]                                                     | -       | -     | Weapon   |
+| [[01 - Projects/Legends Game Master/Potion Template.md\|Potion Template]]                             | -       | -     | Weapon   |
+| [[Pouch.md\|Pouch]]                                                       | -       | -     | Weapon   |
+| [[Quarterstaff.md\|Quarterstaff]]                                         | -       | -     | Weapon   |
+| [[Quill.md\|Quill]]                                                       | -       | -     | Weapon   |
+| [[Rapier.md\|Rapier]]                                                     | -       | -     | Weapon   |
+| [[Rations.md\|Rations]]                                                   | -       | -     | Weapon   |
+| [[Recovery Potion.md\|Recovery Potion]]                                   | -       | -     | Weapon   |
+| [[Regeneration Potion.md\|Regeneration Potion]]                           | -       | -     | Weapon   |
+| [[Resistance Potion.md\|Resistance Potion]]                               | -       | -     | Weapon   |
+| [[Ring Blade.md\|Ring Blade]]                                             | -       | -     | Weapon   |
+| [[Rope.md\|Rope]]                                                         | -       | -     | Weapon   |
+| [[Scale Armor.md\|Scale Armor]]                                           | -       | -     | Weapon   |
+| [[Scholar’s Pack.md\|Scholar’s Pack]]                                     | 1 Stack  | -     | Weapon   |
+| [[Scimitar.md\|Scimitar]]                                                 | -       | -     | Weapon   |
+| [[Scout’s Pack.md\|Scout’s Pack]]                                         | 1 Stack  | -     | Weapon   |
+| [[Scribe’s Supplies.md\|Scribe’s Supplies]]                               | 1 Stack  | -     | Weapon   |
+| [[Scroll Case.md\|Scroll Case]]                                           | -       | -     | Weapon   |
+| [[Shapechanging Potion.md\|Shapechanging Potion]]                         | -       | -     | Weapon   |
+| [[Shield.md\|Shield]]                                                     | -       | -     | Weapon   |
+| [[Shortsword.md\|Shortsword]]                                             | -       | -     | Weapon   |
+| [[Shovel.md\|Shovel]]                                                     | -       | -     | Weapon   |
+| [[Shrink Potion.md\|Shrink Potion]]                                       | -       | -     | Weapon   |
+| [[Sickle.md\|Sickle]]                                                     | -       | -     | Weapon   |
+| [[Silver Tongue Potion.md\|Silver Tongue Potion]]                         | -       | -     | Weapon   |
+| [[Skyflare.md\|Skyflare]]                                                 | -       | -     | Weapon   |
+| [[Sleep Potion.md\|Sleep Potion]]                                         | -       | -     | Weapon   |
+| [[Smithing Tools.md\|Smithing Tools]]                                     | 1 Stack  | -     | Weapon   |
+| [[Smoke Bomb.md\|Smoke Bomb]]                                             | -       | -     | Weapon   |
+| [[Solvent Vial.md\|Solvent Vial]]                                         | -       | -     | Weapon   |
+| [[Spear.md\|Spear]]                                                       | -       | -     | Weapon   |
+| [[Speed Potion.md\|Speed Potion]]                                         | -       | -     | Weapon   |
+| [[Spyglass.md\|Spyglass]]                                                 | -       | -     | Weapon   |
+| [[Stamina Potion.md\|Stamina Potion]]                                     | -       | -     | Weapon   |
+| [[Stone Skin Potion.md\|Stone Skin Potion]]                               | -       | -     | Weapon   |
+| [[Strength Potion.md\|Strength Potion]]                                   | -       | -     | Weapon   |
+| [[Tent.md\|Tent]]                                                         | -       | -     | Weapon   |
+| [[Thieves' Tools.md\|Thieves' Tools]]                                     | 1 Stack  | -     | Weapon   |
+| [[Throwing Knife.md\|Throwing Knife]]                                     | -       | -     | Weapon   |
+| [[Thunderboom Stick.md\|Thunderboom Stick]]                               | -       | -     | Weapon   |
+| [[Tiger Claw.md\|Tiger Claw]]                                             | -       | -     | Weapon   |
+| [[Tinderbox.md\|Tinderbox]]                                               | -       | -     | Weapon   |
+| [[Tome.md\|Tome]]                                                         | -       | -     | Weapon   |
+| [[Tonic of Endurance.md\|Tonic of Endurance]]                             | -       | -     | Weapon   |
+| [[Tonic of Wakefulness.md\|Tonic of Wakefulness]]                         | -       | -     | Weapon   |
+| [[Tool.md\|Tool]]                                                         | -       | -     | Weapon   |
+| [[Torch.md\|Torch]]                                                       | -       | -     | Weapon   |
+| [[Tower Shield.md\|Tower Shield]]                                         | -       | -     | Weapon   |
+| [[Trident.md\|Trident]]                                                   | -       | -     | Weapon   |
+| [[Tripwire.md\|Tripwire]]                                                 | -       | -     | Weapon   |
+| [[Truth Potion.md\|Truth Potion]]                                         | -       | -     | Weapon   |
+| [[Vial of Acid.md\|Vial of Acid]]                                         | -       | -     | Weapon   |
+| [[Vial of Antidote.md\|Vial of Antidote]]                                 | -       | -     | Weapon   |
+| [[Vial of Dragonfire.md\|Vial of Dragonfire]]                             | -       | -     | Weapon   |
+| [[Vial of Poison.md\|Vial of Poison]]                                     | -       | -     | Weapon   |
+| [[Vitality Potion.md\|Vitality Potion]]                                   | -       | -     | Weapon   |
+| [[War pickaxe.md\|War pickaxe]]                                           | -       | -     | Weapon   |
+| [[Warhammer.md\|Warhammer]]                                               | -       | -     | Weapon   |
+| [[Water Breathing Potion.md\|Water Breathing Potion]]                     | -       | -     | Weapon   |
+| [[Waterskin.md\|Waterskin]]                                               | -       | -     | Weapon   |
+| [[Wax Beads.md\|Wax Beads]]                                               | -       | -     | Weapon   |
+| [[Wax Seal Stamp.md\|Wax Seal Stamp]]                                     | -       | -     | Weapon   |
+| [[Weakness Potion.md\|Weakness Potion]]                                   | -       | -     | Weapon   |
+| [[Weapon.md\|Weapon]]                                                     | -       | -     | Weapon   |
+| [[Weightlessness Potion.md\|Weightlessness Potion]]                       | -       | -     | Weapon   |
+| [[Whip.md\|Whip]]                                                         | -       | -     | Weapon   |
+| [[Whistle.md\|Whistle]]                                                   | -       | -     | Weapon   |
+| [[Wooden Box.md\|Wooden Box]]                                             | -       | -     | Weapon   |
+
+| Name               | Price | Description |
+| ------------------ | ----- | ----------- |
+| [[Backpack]]       |       |             |
+| [[Bedroll]]        |       |             |
+| [[Candle]]         |       |             |
+| [[Chalk]] Piece    |       |             |
+| [[Crowbar]]        |       |             |
+| [[Tinderbox]]      |       |             |
+| [[Grappling Hook]] |       |             |
+| [[Hammer]]         |       |             |
+| [[Rope]] (15m)     |       |             |
+| [[Lantern]]        |       |             |
+| Ration             |       |             |
+| [[Torch]]          |       |             |
+| [[Waterskin]]      |       |             |
+| [[Tent]]           |       |             |
+| [[Scroll Case]]    |       |             |
+| [[Mess Kit]]       |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+|                    |       |             |
+
+### Weapons
+
+| Name | Price | Description |
+| ---- | ----- | ----------- |
+|      |       |             |
+
+### Armour
+
+| Name | Price | Description |
+| ---- | ----- | ----------- |
+|      |       |             |
+
+### Alchemical Items
+
+| Name                     | Price | Description                                 |
+| ------------------------ | ----- | ------------------------------------------- |
+| [[Flask of Oil]]         |       | A flask containing oil.                     |
+| [[Healing Salve]]        |       | Accelerates natural healing.                |
+| [[Skyflare]]             |       |                                             |
+| [[Smoke Bomb]]           |       | Smoke bomb.                                 |
+| [[Thunderboom Stick]]    |       | A small explosive.                          |
+| [[Tonic of Endurance]]   |       | Temporal boost to endurance and strength.   |
+| [[Tonic of Wakefulness]] |       | Temporal boost to cognitive function.       |
+| [[Vial of Acid]]         |       | A small vial of corrosive acid.             |
+| [[Vial of Antidote]]     |       | A small vial of antidote to common poisons. |
+| [[Vial of Dragonfire]]   |       | Explodes to flames when the vial is broken. |
+| [[Glue Vial]]         |       | Sticky liquid that can bind objects.        |
+| [[Vial of Poison]]       |       | A vial of basic poison.                     |
+
+### Potions
+
+| Name                        | Price | Description |
+| --------------------------- | ----- | ----------- |
+| [[Charm Potion]]            |       |             |
+| [[Darkvision Potion]]       |       |             |
+| [[Enlargement Potion]]      |       |             |
+| [[Fire Breath Potion]]      |       |             |
+| [[Flying Potion]]           |       |             |
+| [[Ghost Form Potion]]       |       |             |
+| [[Glow Potion]]             |       |             |
+| [[Greater Healing Potion]]  |       |             |
+| [[Greater Mana Potion]]     |       |             |
+| [[Greater Vitality Potion]] |       |             |
+| [[Growth Potion]]           |       |             |
+| [[Healing Potion]]          |       |             |
+| [[Invisibility Potion]]     |       |             |
+| [[Love Potion]]             |       |             |
+| [[Luck Potion]]             |       |             |
+| [[Mana Potion]]             |       |             |
+| [[Nourishment Potion]]      |       |             |
+| [[Regeneration Potion]]     |       |             |
+| [[Resistance Potion]]       |       |             |
+| [[Sleep Potion]]            |       |             |
+| [[Shapechanging Potion]]    |       |             |
+| [[Shrink Potion]]           |       |             |
+| [[Silver Tongue Potion]]    |       |             |
+| [[Speed Potion]]            |       |             |
+| [[Stamina Potion]]          |       |             |
+| [[Stone Skin Potion]]       |       |             |
+| [[Strength Potion]]         |       |             |
+| [[Truth Potion]]            |       |             |
+| [[Vitality Potion]]         |       |             |
+| [[Water Breathing Potion]]  |       |             |
+| [[Weakness Potion]]         |       |             |
+| [[Weightlessness Potion]]   |       |             |
+
+---
+
+#keyword

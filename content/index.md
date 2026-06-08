@@ -8,6 +8,8 @@ Hello there! You have found Legends TTRPG wiki. This website host current and ev
 #### Introduction
 
 [[Introduction to Legends TTRPG]]
+[[Character Creation Guide]]
+[[Magic System]]
 
 #### Character Creation
 
@@ -21,4 +23,7 @@ Hello there! You have found Legends TTRPG wiki. This website host current and ev
 
 #### Playing Legends
 
+[[Playing Legends]]
 [[Encounter Actions]]
+[[Resting]]
+[[Injury]]

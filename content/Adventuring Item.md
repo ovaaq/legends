@@ -12,7 +12,7 @@
 | [[Antidote Vial.md\|Antidote Vial]]                                       | -       | -     |
 | [[Appraisal Tools.md\|Appraisal Tools]]                                   | 1 Stack  | -     |
 | [[Armour.md\|Armour]]                                                     | -       | -     |
-| [[Background.md\|Background]]                                             | -       | -     |
+| [[Legends Indexes/Background.md\|Background]]                             | -       | -     |
 | [[Backpack.md\|Backpack]]                                                 | 1 Stack  | 2 GP   |
 | [[Ball Bearings.md\|Ball Bearings]]                                       | --       | 1 Gold |
 | [[Battleaxe.md\|Battleaxe]]                                               | 2 Stacks | 1 Gold |
@@ -211,7 +211,7 @@
 | [[Compass.md\|Compass]]                                                   | -     | -   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                                             | -     | -   |
 | [[Crowbar.md\|Crowbar]]                                                   | -     | -   |
-| [[Equipment.md\|Equipment]]                                               | -     | -   |
+| [[Legends Indexes/Equipment.md\|Equipment]]                               | -     | -   |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]                               | -     | -   |
 | [[Fishing Tools.md\|Fishing Tools]]                                       | -     | -   |
 | [[Flint and Steel.md\|Flint and Steel]]                                   | -     | -   |
@@ -283,7 +283,7 @@
 | [[Compass.md\|Compass]]                                                   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                                             |
 | [[Crowbar.md\|Crowbar]]                                                   |
-| [[Equipment.md\|Equipment]]                                               |
+| [[Legends Indexes/Equipment.md\|Equipment]]                               |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]                               |
 | [[Fishing Tools.md\|Fishing Tools]]                                       |
 | [[Flint and Steel.md\|Flint and Steel]]                                   |

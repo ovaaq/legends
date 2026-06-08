@@ -1,4 +1,10 @@
-write basic idea how magic works
+- Write Teleportation spells
+- Write Elemental spells
+- Write armor & dodge mechanics
+- Write Character Creation Document
+- Design Cards
+- Check WoW for inspiration
+- Check Hearthstone for inspiration
 
 [[Strand of Magic]]
 
@@ -111,3 +117,174 @@ Types of Magic
 - [[Art of Rhyme Talent Tree]]
 
 - [[Art of Perspective Talent Tree]]
+
+Spell To Do
+
+- **Aberto** — Opens doors or objects
+
+- **Anti-Disapparition Jinx** — Stops Apparition in an area
+
+- **Anti-Intruder Jinx** — Detects or repels intruders
+
+- **Bedazzling Hex** — Temporarily blinds target
+
+- **Bombarda** — Causes an explosion
+
+- **Bubble-Head Charm** — Creates breathable air bubble
+
+- **Cantis** — Forces target to sing
+
+- **Crinus Muto** — Alters hair
+
+- **Deletrius** — Erases spell traces
+
+- **Diffindo** — Cuts objects
+
+- **Evanesco** — Vanishes objects
+
+- **Expelliarmus** — Disarms opponent
+
+- **Fianto Duri** — Strengthens shields
+
+- **Imperio** — Mind control curse
+
+- **Mending Charm** — Repairs items
+
+- **Multicorfors** — Changes clothing
+
+- **Nox** — Extinguishes light / fire
+
+- **Portus** — Creates Portkey
+
+- **Prior Incantato** — Reveals last spell
+
+- **Sectumsempra** — Causes deep magical wounds
+
+- **Sonorus** — Amplifies voice
+
+- **Stupefy** — Knocks target unconscious
+
+- **Tarantallegra** — Forces dancing
+
+- **Unbreakable Vow** — Magically binding promise
+
+- **Mana burn** - burn spellcasters mana
+
+\[\[]]
+[[Modify Memory]]
+[[Erase Memory]]
+
+Overheal - talent
+
+Animate rope
+arcane strength
+
+2nd - Deflect
+Fire Whip
+Freeze
+[Magnet Orb](https://www.dandwiki.com/wiki/Magnet_Orb_\(5e_Spell\) "Magnet Orb (5e Spell)")
+
+https://rpgbot.net/2024-dnd/2024-dnd-meta/
+
+https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/696aecc88ba9cc37240c6e67/1768615112755/Kibbles%27+Playtest+Packet+v0.5.0\_compressed-1.pdf
+fun things for inspiration
+
+https://www.youtube.com/@Dadi-MysticArts/videos
+watch these
+
+Potions
+Spells
+Enchantments
+Martial Techniques
+Weapons
+Armours
+Equipment
+Trading Goods
+Cloth Armor
+Leather Armor
+Mail Armor
+Plate Armor
+Amulets
+Cloaks
+Rings
+Shields
+
+Martial Powers
+-Armor Training
+-Weapon Training
+-Combat Techniques
+-Reckless Tactics
+-Art of Evasion
+
+Divine Powers
+-Follower of the Light
+-Follower of the Knowledge
+-Follower of the War
+
+Inborn Powers
+-Gift of Diviner
+-Gift of Elements
+-Gift of Shapeshifting
+
+Pact Powers
+-Servant of the Artifact
+-Servant of the Djinni
+-Servant of the Ancient
+
+Scholarly Powers
+-Student of Alchemy
+-Study of Ki
+-Study of Teleportation
+
+Spiritual Powers
+-Path of Nature
+-Path of Spirit Animals
+-Path of Summoners
+
+- Wishborn
+- Marionette
+- Genasi but with Schools of magic / Zodiac Child etc.
+- Wizard Medic Doctor
+- Venom patron
+
+ROGUE into TALENTS
+
+Cunning Action
+Steady Aim
+Reliable Talent
+Fast Hands
+Slippery Mind
+Stroke of Luck
+Ambusher
+Infiltration Expertise
+Death Strike
+Eye for Weakness
+Master of Tactics
+Insightful Manipulator
+Skirmisher
+Survivalist
+Ambush Master
+Fancy Footwork
+Master Duellist
+
+https://www.finalfantasyd20.com/classes/
+
+[[Fey Talent Tree]]
+[[Haunting Spirit Talent Tree]]
+\[\[]]
+
+[[Hexcore Talent Tree]]
+
+https://www.gmbinder.com/profile/laserllama
+
+### How to fix Martial vs Casters balance?
+
+### 5e high level is too high
+
+### Short vs. Long Rest Balance Issues
+
+### what are my Adventuring Day Assumptions
+
+### Challenge Rating? Balanced combat?
+
+### crafting systems

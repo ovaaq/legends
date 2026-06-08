@@ -139,8 +139,7 @@ ideas
 | [[Solar Flare.md\|Solar Flare]]                 |
 | [[Spectral Grasp.md\|Spectral Grasp]]           |
 | [[Spectral Reach.md\|Spectral Reach]]           |
-| [[Spell.md\|Spell]]                             |
-| [[Legends Indexes/Spell Index.md\|Spell Index]] |
+| [[Legends Indexes/Spell.md\|Spell]]             |
 | [[Starry Wisp.md\|Starry Wisp]]                 |
 | [[Static Charge.md\|Static Charge]]             |
 | [[Summon Insect.md\|Summon Insect]]             |

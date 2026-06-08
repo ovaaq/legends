@@ -1,0 +1,31 @@
+| Martial Techniques                                                                |
+| --------------------------------------------------------------------------------- |
+| [[Bait and Switch.md\|Bait and Switch]]               |
+| [[Brute Strike.md\|Brute Strike]]                     |
+| [[Commander’s Strike.md\|Commander’s Strike]]         |
+| [[Crushing Grip.md\|Crushing Grip]]                   |
+| [[Dirty Hit.md\|Dirty Hit]]                           |
+| [[Disarming Attack.md\|Disarming Attack]]             |
+| [[Distracting Strike.md\|Distracting Strike]]         |
+| [[Evasive Footwork.md\|Evasive Footwork]]             |
+| [[Feinting Attack.md\|Feinting Attack]]               |
+| [[Glancing Blow.md\|Glancing Blow]]                   |
+| [[Intimidating Command.md\|Intimidating Command]]     |
+| [[Lunge.md\|Lunge]]                                   |
+| [[98 - Meta/Templates/Martial Technique Template.md\|Martial Technique Template]] |
+| [[Opportunity Attack.md\|Opportunity Attack]]         |
+| [[Parry.md\|Parry]]                                   |
+| [[Poison Attack.md\|Poison Attack]]                   |
+| [[Precision Attack.md\|Precision Attack]]             |
+| [[Pushing Attack.md\|Pushing Attack]]                 |
+| [[Rally.md\|Rally]]                                   |
+| [[Riposte.md\|Riposte]]                               |
+| [[Sneak Attack.md\|Sneak Attack]]                     |
+| [[Taunting Strike.md\|Taunting Strike]]               |
+| [[Trick Shot.md\|Trick Shot]]                         |
+| [[Trip Attack.md\|Trip Attack]]                       |
+| [[Withdrawing Strike.md\|Withdrawing Strike]]         |
+
+---
+
+#keyword
