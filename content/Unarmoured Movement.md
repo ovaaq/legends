@@ -1,9 +1,11 @@
 **Requirements**:: [[Unarmoured Defence]]
 **Cost**:: 1 LP
 
-_You have mastered the basics of weaponry. Now, your path to martial excellence begins._
+_Lore_
 
-x
+While you are not wearing any [[Armour]], you [[Walking Speed]] is increased by 2 meters.
+
+This [[Talent]] can be taken once.
 
 **Tree**:: [[Defence Talent Tree]]
 **Group**:: [[Martial Talent]]

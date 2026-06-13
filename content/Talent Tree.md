@@ -13,6 +13,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Divine Talent Tree.md\|Divine Talent Tree]]                       |
 | [[Draconic Pact Talent Tree.md\|Draconic Pact Talent Tree]]         |
 | [[Elemental Talent Tree.md\|Elemental Talent Tree]]                 |
+| [[Harmony Talent Tree.md\|Harmony Talent Tree]]                     |
 | [[Haste Talent Tree.md\|Haste Talent Tree]]                         |
 | [[Healer Talent Tree.md\|Healer Talent Tree]]                       |
 | [[Innate Talent Tree.md\|Innate Talent Tree]]                       |

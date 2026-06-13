@@ -11,13 +11,12 @@
     - [[kp2]]
       - [[kp3]]
         - [[kp4]]
-  - [[Knowledge Spellcasting]]
-    - [[Knowledge Spells I]]
-      - [[Knowledge Spells II]]
-        - [[Knowledge Spells III]]
-          - [[Knowledge Spells IV]]
-            - [[Knowledge Spells V]]
-              - [[Knowledge Spells VI]]
+  - [[Knowledge Spells I]]
+    - [[Knowledge Spells II]]
+      - [[Knowledge Spells III]]
+        - [[Knowledge Spells IV]]
+          - [[Knowledge Spells V]]
+            - [[Knowledge Spells VI]]
 
 ---
 

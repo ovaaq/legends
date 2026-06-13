@@ -332,7 +332,7 @@ When creating a character, you gain [[Rank|Ranks]] for your [[Skill|Skills]]. In
 
 These are [[General Skill|General Skills]] already listed on your [[Character Sheet]]. They represent common activities that most adventurers can attempt. While practice improves effectiveness, lack of training does not prevent a character from trying.
 
-After assigning [[Rank|Ranks]], calculate the [[Skill Modifier]] for each [[General Skill]] and record it on your [[Character Sheet]].
+After assigning [[Rank|Ranks]], calculate the [[Modifier]] for each [[General Skill]] and record it on your [[Character Sheet]].
 
 > [!info] Calculating General Skill Modifier\
 > General Skill Modifier = [[Ability Score]] + ([[Rank]] × 2)

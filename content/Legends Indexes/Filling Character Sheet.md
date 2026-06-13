@@ -21,7 +21,7 @@ Record [[Ability Score|Ability Scores]] in the corresponding rows. Remember to a
 
 Each [[General Skill]] has a [[Rank]] ranging from 0 to 4, as shown in the table below. Record the chosen Skill Rank by colouring in the corresponding bubbles for that General Skill on the Character Sheet.
 
-Each General Skill is also associated with an abbreviated [[Ability Score]], which is added to the [[Skill Modifier]].
+Each General Skill is also associated with an abbreviated [[Ability Score]], which is added to the [[Modifier]].
 
 | Bubbles | Skill Rank | Modifier | Description |
 | :-----: | :--------: | :------: | :---------: |
@@ -31,9 +31,9 @@ Each General Skill is also associated with an abbreviated [[Ability Score]], whi
 |  ⚫⚫⚫⚪   |     3      |    +6    |   Expert    |
 |  ⚫⚫⚫⚫   |     4      |    +8    |   Master    |
 
-After assigning Skill Ranks, calculate the [[Skill Modifier]] for each skill using the following formula and fill it in on the sheet:
+After assigning Skill Ranks, calculate the [[Modifier]] for each skill using the following formula and fill it in on the sheet:
 
-**[[Skill Modifier]]** = ([[Rank]] × 2) + [[Ability Score]]
+**[[Modifier]]** = ([[Rank]] × 2) + [[Ability Score]]
 
 ### Expert Skills
 
@@ -46,9 +46,9 @@ Each [[Expert Skill]] has a [[Rank]] ranging from 1 to 4, as shown in the table 
 |  ⚫⚫⚫⚪   |     3      |    +6    |   Expert    |
 |  ⚫⚫⚫⚫   |     4      |    +8    |   Master    |
 
-After assigning Skill Ranks, calculate the [[Skill Modifier]] for each skill using the following formula and fill it in on the sheet:
+After assigning Skill Ranks, calculate the [[Modifier]] for each skill using the following formula and fill it in on the sheet:
 
-**[[Skill Modifier]]** = ([[Rank]] × 2)
+**[[Modifier]]** = ([[Rank]] × 2)
 
 ### Saving Throws
 

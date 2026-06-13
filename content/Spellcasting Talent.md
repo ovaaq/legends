@@ -1,4 +1,6 @@
-| Talent Tree Name                                                                      |
+Spellcasting Talents enhance a character’s spellcasting abilities, making their magic more potent, versatile, and effective.
+
+| Spellcasting Talent Trees                                                             |
 | ------------------------------------------------------------------------------------- |
 | [[Metamagic Talent Tree.md\|Metamagic Talent Tree]]       |
 | [[Spellcasting Talent Tree.md\|Spellcasting Talent Tree]] |

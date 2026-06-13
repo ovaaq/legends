@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain 1 additional Haste Point.
+You gain 1 additional [[Haste Point]].
 
 Your quick thinking and agility allow you to act with speed and precision. You can use 1 [[Action]] to take the [[Dash]], [[Dodge]], or [[Hide]] action.
 

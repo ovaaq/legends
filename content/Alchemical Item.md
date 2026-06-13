@@ -30,10 +30,10 @@
 [[Acid Vial]]
 [[Glue Vial]]
 
-[[Common Reagents]]
+[[Common Reagent]]
 [[Uncommon Reagent]]
-[[Rare Reagents]]
-[[Legendary Reagents]]
+[[Rare Reagent]]
+[[Legendary Reagent]]
 
 [[Healing Salve]]
 Tonic of [[Endurance Tonic]]

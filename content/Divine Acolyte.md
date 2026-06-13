@@ -17,8 +17,8 @@ _Flavour text_.
 
 - **Destruction:** You damage a non-magical object. The object loses up to 10 [[Hit Point|Hit Points]]. Small, fragile items may be destroyed outright, while larger items may be partially broken. This effect cannot directly harm creatures and cannot destroy magical properties.
 
-**Group**:: Divine
-**Following**:: [[Cure Sickness]], [[Faithful Strike]], [[Turn Unholy]], [[Divine Blessing]], [[Follower of Light]], [[Follower of Knowledge]]
+**Group**:: [[Divine Talent]]
+**Following**:: [[Cure Sickness]], [[Faithful Strike]], [[Turn Unholy]], [[Divine Blessing]], [[Follower of Light]], [[Follower of Knowledge]], [[Follower of Harmony]]
 
 ---
 

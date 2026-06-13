@@ -3,7 +3,7 @@
 
 _Flavour._
 
-You gain 1 additional Haste Point.
+You gain 1 additional [[Haste Point]].
 
 **Opening Strike.** During the first round of an encounter, you may spend 2 Haste Points to take an additional turn. This turn occurs at your Initiative count −10.
 

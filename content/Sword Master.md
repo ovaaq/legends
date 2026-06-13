@@ -1,10 +1,9 @@
 **Requirements**:: [[Swordman]]
 **Cost**:: 1 LP
 
-\*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
+_Flavour text_
 
-![[99 - Files/Pasted image 20251021115548.png]]
-When you beat targets armour / evasion 5 or more add Martial Skill Rank to the damage.
+When your [[Attack Roll]] exceeds a target's [[Armour Class]] and [[Evasion Class]] by 5 or more, add half of your [[Martial Skill]] [[Modifier]] to the [[Damage]] dealt.
 
 **Tree**:: [[Weapon Mastery Talent Tree]]
 **Group**:: [[Martial Talent]]

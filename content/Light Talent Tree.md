@@ -11,13 +11,12 @@
     - [[Solar Resilience]]
       - [[Radiant Soul]]
         - [[Crown of Light]]
-  - [[Light Spellcasting]]
-    - [[Light Spells I]]
-      - [[Light Spells II]]
-        - [[Light Spells III]]
-          - [[Light Spells IV]]
-            - [[Light Spells V]]
-              - [[Light Spells VI]]
+  - [[Light Spells I]]
+    - [[Light Spells II]]
+      - [[Light Spells III]]
+        - [[Light Spells IV]]
+          - [[Light Spells V]]
+            - [[Light Spells VI]]
 
 ---
 

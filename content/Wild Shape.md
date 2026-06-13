@@ -3,9 +3,9 @@
 
 _Flavour text_.
 
-You gain 2 additional Spirit Points.
+You gain 2 additional [[Spirit Point|Spirit Points]].
 
-**Wild Shape.** The power of nature allows you to assume the form of an animal. As an [[Action]], you can spend 1 Spirit Point to shape-shift into a [[Natural Beast]] form that you have learned for this feature (see “Known Forms” below). You stay in that form for two hours or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as an [[Action]].
+**Wild Shape.** The power of nature allows you to assume the form of an animal. As an [[Action]], you can spend 1 [[Spirit Point]] to shape-shift into a [[Natural Beast]] form that you have learned for this feature (see “Known Forms” below). You stay in that form for two hours or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as an [[Action]].
 
 **Known Forms.** You know four Beast forms for this feature, chosen from among [[Natural Beast]] stat blocks that have a maximum [[Power Level]] of 1 and that lack a [[Fly Speed]]. The [[Rat]], [[Horse]], [[Spider]], and [[Wolf]] are recommended. Whenever you finish a [[Long Rest]], you can replace one of your known forms with another eligible form.
 

@@ -6,6 +6,7 @@
 | [[Adventuring Item.md\|Adventuring Item]]                                 | -       | -     |
 | [[Alchemical Item.md\|Alchemical Item]]                                   | -       | -     |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]                                 | -       | -     |
+| [[Alchemist's Frost.md\|Alchemist's Frost]]                               | -       | -     |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]                         | 1 Stack  | -     |
 | [[Animal Friendship Potion.md\|Animal Friendship Potion]]                 | -       | -     |
 | [[Anti-Potion.md\|Anti-Potion]]                                           | -       | -     |
@@ -35,15 +36,18 @@
 | [[Legends Indexes/Character Creation Guide.md\|Character Creation Guide]] | -       | -     |
 | [[Legends Indexes/Character Information.md\|Character Information]]       | -       | -     |
 | [[Charm Potion.md\|Charm Potion]]                                         | -       | -     |
+| [[Charming Perfume.md\|Charming Perfume]]                                 | -       | -     |
 | [[Chest.md\|Chest]]                                                       | -       | -     |
 | [[Chisel.md\|Chisel]]                                                     | -       | -     |
 | [[Club.md\|Club]]                                                         | -       | -     |
 | [[Compass.md\|Compass]]                                                   | -       | -     |
 | [[Cook’s Kit.md\|Cook’s Kit]]                                             | 1 Stack  | -     |
+| [[Courier's Ink.md\|Courier's Ink]]                                       | -       | -     |
 | [[Crowbar.md\|Crowbar]]                                                   | -       | -     |
 | [[Dagger.md\|Dagger]]                                                     | -       | -     |
 | [[Darkvision Potion.md\|Darkvision Potion]]                               | -       | -     |
 | [[Dart.md\|Dart]]                                                         | -       | -     |
+| [[Disappearing Ink.md\|Disappearing Ink]]                                 | -       | -     |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                                   | -       | -     |
 | [[Dual-Blade.md\|Dual-Blade]]                                             | -       | -     |
 | [[Enlargement Potion.md\|Enlargement Potion]]                             | -       | -     |
@@ -91,6 +95,7 @@
 | [[Leather Armor.md\|Leather Armor]]                                       | -       | -     |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]                         | 1 Stack  | -     |
 | [[Light Armour.md\|Light Armour]]                                         | -       | -     |
+| [[Liquid Light.md\|Liquid Light]]                                         | -       | -     |
 | [[Liquid Lightning.md\|Liquid Lightning]]                                 | -       | -     |
 | [[Lock.md\|Lock]]                                                         | -       | -     |
 | [[Longsword.md\|Longsword]]                                               | -       | -     |
@@ -173,6 +178,7 @@
 | [[Vial of Acid.md\|Vial of Acid]]                                         | -       | -     |
 | [[Vial of Antidote.md\|Vial of Antidote]]                                 | -       | -     |
 | [[Vial of Dragonfire.md\|Vial of Dragonfire]]                             | -       | -     |
+| [[Vial of Glue.md\|Vial of Glue]]                                         | -       | -     |
 | [[Vial of Poison.md\|Vial of Poison]]                                     | -       | -     |
 | [[Vitality Potion.md\|Vitality Potion]]                                   | -       | -     |
 | [[War pickaxe.md\|War pickaxe]]                                           | -       | -     |

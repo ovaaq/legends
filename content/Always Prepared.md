@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain 1 additional Haste Point.
+You gain 1 additional [[Haste Point]].
 
 You are immune to the [[Flat-Footed]] condition.
 

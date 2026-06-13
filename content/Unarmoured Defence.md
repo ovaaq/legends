@@ -1,9 +1,11 @@
 **Requirements**::
 **Cost**:: 1 LP
 
-_You have mastered the basics of weaponry. Now, your path to martial excellence begins._
+_Flavour text_
 
-x
+While you are not wearing any [[Armour]], you gain a +1 bonus to your [[Evasion Class]].
+
+This [[Talent]] can be taken 5 times.
 
 **Tree**:: [[Defence Talent Tree]]
 **Group**:: [[Martial Talent]]

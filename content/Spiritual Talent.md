@@ -1,3 +1,5 @@
+Spiritual Talent reflects a character’s connection to the unseen spiritual world. They allow characters to channel spiritual energy, commune with spirits, and wield spiritual forces. There is a [[Spiritual Talent Tree]] for any spiritual practitioner and specialty [[Talent Tree|Talent Trees]] for more unique themes.
+
 | Main Spiritual Talent Tree                                                      |
 | ------------------------------------------------------------------------------- |
 | [[Spiritual Talent Tree.md\|Spiritual Talent Tree]] |

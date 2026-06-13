@@ -19,6 +19,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Adventuring Item.md\|Adventuring Item]]                                 | -       | -     | Weapon   |
 | [[Alchemical Item.md\|Alchemical Item]]                                   | -       | -     | Weapon   |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]                                 | -       | -     | Weapon   |
+| [[Alchemist's Frost.md\|Alchemist's Frost]]                               | -       | -     | Weapon   |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]                         | 1 Stack  | -     | Weapon   |
 | [[Animal Friendship Potion.md\|Animal Friendship Potion]]                 | -       | -     | Weapon   |
 | [[Anti-Potion.md\|Anti-Potion]]                                           | -       | -     | Weapon   |
@@ -48,15 +49,18 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Legends Indexes/Character Creation Guide.md\|Character Creation Guide]] | -       | -     | Weapon   |
 | [[Legends Indexes/Character Information.md\|Character Information]]       | -       | -     | Weapon   |
 | [[Charm Potion.md\|Charm Potion]]                                         | -       | -     | Weapon   |
+| [[Charming Perfume.md\|Charming Perfume]]                                 | -       | -     | Weapon   |
 | [[Chest.md\|Chest]]                                                       | -       | -     | Weapon   |
 | [[Chisel.md\|Chisel]]                                                     | -       | -     | Weapon   |
 | [[Club.md\|Club]]                                                         | -       | -     | Weapon   |
 | [[Compass.md\|Compass]]                                                   | -       | -     | Weapon   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                                             | 1 Stack  | -     | Weapon   |
+| [[Courier's Ink.md\|Courier's Ink]]                                       | -       | -     | Weapon   |
 | [[Crowbar.md\|Crowbar]]                                                   | -       | -     | Weapon   |
 | [[Dagger.md\|Dagger]]                                                     | -       | -     | Weapon   |
 | [[Darkvision Potion.md\|Darkvision Potion]]                               | -       | -     | Weapon   |
 | [[Dart.md\|Dart]]                                                         | -       | -     | Weapon   |
+| [[Disappearing Ink.md\|Disappearing Ink]]                                 | -       | -     | Weapon   |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                                   | -       | -     | Weapon   |
 | [[Dual-Blade.md\|Dual-Blade]]                                             | -       | -     | Weapon   |
 | [[Enlargement Potion.md\|Enlargement Potion]]                             | -       | -     | Weapon   |
@@ -104,6 +108,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Leather Armor.md\|Leather Armor]]                                       | -       | -     | Weapon   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]                         | 1 Stack  | -     | Weapon   |
 | [[Light Armour.md\|Light Armour]]                                         | -       | -     | Weapon   |
+| [[Liquid Light.md\|Liquid Light]]                                         | -       | -     | Weapon   |
 | [[Liquid Lightning.md\|Liquid Lightning]]                                 | -       | -     | Weapon   |
 | [[Lock.md\|Lock]]                                                         | -       | -     | Weapon   |
 | [[Longsword.md\|Longsword]]                                               | -       | -     | Weapon   |
@@ -186,6 +191,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Vial of Acid.md\|Vial of Acid]]                                         | -       | -     | Weapon   |
 | [[Vial of Antidote.md\|Vial of Antidote]]                                 | -       | -     | Weapon   |
 | [[Vial of Dragonfire.md\|Vial of Dragonfire]]                             | -       | -     | Weapon   |
+| [[Vial of Glue.md\|Vial of Glue]]                                         | -       | -     | Weapon   |
 | [[Vial of Poison.md\|Vial of Poison]]                                     | -       | -     | Weapon   |
 | [[Vitality Potion.md\|Vitality Potion]]                                   | -       | -     | Weapon   |
 | [[War pickaxe.md\|War pickaxe]]                                           | -       | -     | Weapon   |

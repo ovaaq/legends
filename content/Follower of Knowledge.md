@@ -5,7 +5,7 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Divine
+**Group**:: [[Divine Talent]]
 **Following**::
 
 ---

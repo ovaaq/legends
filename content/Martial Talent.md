@@ -1,4 +1,6 @@
-| Talent Tree Name                                                                                |
+Martial Talents reflect a character’s combat prowess, from mastering weapons to harnessing inner energy and unleashing devastating attacks. These Talents help warriors excel on the battlefield and adapt to any fight.
+
+| Martial Talent Trees                                                                            |
 | ----------------------------------------------------------------------------------------------- |
 | [[Berserker Talent Tree.md\|Berserker Talent Tree]]                 |
 | [[Defence Talent Tree.md\|Defence Talent Tree]]                     |

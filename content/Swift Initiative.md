@@ -3,7 +3,7 @@
 
 _Flavour._
 
-You gain 1 additional Haste Point.
+You gain 1 additional [[Haste Point]].
 
 You gain a +3 bonus to your [[Initiative]] [[Check]] result.
 

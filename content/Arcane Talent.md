@@ -1,3 +1,5 @@
+Arcane Talents represent a character’s mastery of magic, combining study and arcane discipline. There is a [[Arcane Talent Tree]] for abilities useful to any arcane scholar. Each special study also has its own Talent Tree listed below.
+
 | Main Arcane Talent Tree                                                   |
 | ------------------------------------------------------------------------- |
 | [[Arcane Talent Tree.md\|Arcane Talent Tree]] |

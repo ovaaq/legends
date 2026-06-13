@@ -1,8 +1,10 @@
-| Talent Tree Name                                                          |
+Innate Talents reflect powers that are inherent or arise spontaneously, tied to a character’s nature, heritage, or chaotic magical force. You can begin Innate Talents in [[Innate Talent Tree]] or any Sub Talent Trees.
+
+| Main Innate Talent Tree                                                   |
 | ------------------------------------------------------------------------- |
 | [[Innate Talent Tree.md\|Innate Talent Tree]] |
 
-| Talent Tree Name                                                                  |
+| Sub Talent Trees                                                                  |
 | --------------------------------------------------------------------------------- |
 | [[Vampire Talent Tree.md\|Vampire Talent Tree]]       |
 | [[Wild Magic Talent Tree.md\|Wild Magic Talent Tree]] |

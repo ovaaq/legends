@@ -3,6 +3,8 @@
 
 _Flavour text_.
 
+You gain 2 additional [[Spirit Point|Spirit Points]].
+
 get rid of spirits temporarily
 
 **Group**:: Spiritual

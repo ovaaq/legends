@@ -15,7 +15,6 @@
 | [[Charm Person.md\|Charm Person]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Chromatic Orb.md\|Chromatic Orb]]                 | [[Double Action.md\|Double Action]] | V, S, M\*    | 1    | 20 metres    | Instantaneous                    |
 | [[Command.md\|Command]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | Instantaneous                    |
-| [[Common Poison Formula.md\|Common Poison Formula]] | -                                                              | -          | -   | Touch        | Instant                          |
 | [[Cure Wounds.md\|Cure Wounds]]                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | Touch        | Instantaneous                    |
 | [[Destroy Water.md\|Destroy Water]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Detect Ethereal.md\|Detect Ethereal]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
