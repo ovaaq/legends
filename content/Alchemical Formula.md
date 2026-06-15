@@ -19,9 +19,17 @@
 | [[Ghost Form Potion Formula.md\|Ghost Form Potion Formula]]             |
 | [[Glow Potion Formula.md\|Glow Potion Formula]]                         |
 | [[Glue Formula.md\|Glue Formula]]                                       |
+| [[Greater Growth Potion Formula.md\|Greater Growth Potion Formula]]     |
+| [[Greater Healing Potion Formula.md\|Greater Healing Potion Formula]]   |
+| [[Greater Mana Potion Formula.md\|Greater Mana Potion Formula]]         |
+| [[Greater Shrink Potion Formula.md\|Greater Shrink Potion Formula]]     |
+| [[Greater Speed Potion Formula.md\|Greater Speed Potion Formula]]       |
+| [[Greater Strength Potion Formula.md\|Greater Strength Potion Formula]] |
+| [[Greater Vitality Potion Formula.md\|Greater Vitality Potion Formula]] |
 | [[Growth Potion Formula.md\|Growth Potion Formula]]                     |
 | [[Healing Potion Formula.md\|Healing Potion Formula]]                   |
 | [[Healing Salve Formula.md\|Healing Salve Formula]]                     |
+| [[Immunity Potion Formula.md\|Immunity Potion Formula]]                 |
 | [[Invisible Fire Formula.md\|Invisible Fire Formula]]                   |
 | [[Knockout Drops Formula.md\|Knockout Drops Formula]]                   |
 | [[Liquefy Stone Formula.md\|Liquefy Stone Formula]]                     |

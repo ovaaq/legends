@@ -1,9 +1,9 @@
-**Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Requirements**:: [[Adapting Effect]]
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemy Formula List]] and add them to your [[Alchemy Book]].
+x
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

@@ -1,9 +1,9 @@
-**Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Requirements**:: [[Favourable Exposure]]
+**Cost**:: 3 LP
 
-_Flavour text_.
+_Your body is beginning to get used to all sort of things._
 
-immunity to poison damage and automatically critically succeed in poison saves
+You are [[Immune]] to [[Poison Damage]] and automatically get [[Critical Success]] on any [[Saving Throw|Saving Throws]] against [[Poison]].
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

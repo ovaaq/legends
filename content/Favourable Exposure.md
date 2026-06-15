@@ -1,9 +1,9 @@
 **Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-when you drink potion you gain X temp hp
+Each time you consume a [[Potion]] you gain [[Temporary Hit Point|Temporary Hit Points]] equal to your [[Alchemy]] modifier.
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

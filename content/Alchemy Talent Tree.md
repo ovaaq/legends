@@ -3,7 +3,7 @@
     - [[Alchemical Aptitude]]
       - [[Improved Yield]]
         - [[Alchemical Deconstruction]]
-  - [[Experimental Brew]]
+  - [[Experimental Elixir]]
     - [[Revised Experiment]]
       - [[Catalytic Infusion]]
         - [[Desired Outcome]]
