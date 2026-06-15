@@ -1,3 +1,144 @@
+1. Step base stats
+   **Standard Array**: +3, +2, +2, +1, +1, +0, -1, -2
+   to
+
+|   [[Strength]]   |
+| :--------------: |
+|   [[Agility]]    |
+|  [[Precision]]   |
+| [[Constitution]] |
+|  [[Awareness]]   |
+|   [[Charisma]]   |
+| [[Intelligence]] |
+|   [[Sorcery]]    |
+
+2. Step
+   Select
+   -Core Ancestry:
+   -Additional Ancestry:
+
+those determine Creature Size which alters stats
+
+3. Step
+
+<div style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background-color: var(--light); max-width: 600px;">
+  <h3 style="margin-top: 0; margin-bottom: 15px;">Dynamic Background Selection</h3>
+
+  <div style="margin-bottom: 20px;">
+    <select id="backgroundSelect" style="width: 100%; padding: 8px; border-radius: 4px; background: var(--light); color: var(--dark); border: 1px solid var(--gray); font-size: 1.1em; cursor: pointer; font-weight: bold;">
+      <option>Loading backgrounds from system...</option>
+    </select>
+  </div>
+
+  <div id="backgroundDetails" style="padding: 15px; border-radius: 6px; background-color: rgba(0,0,0,0.03); border: 1px solid var(--lightgray);">
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Ability Scores:</strong> <span id="bg_abilityScores" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Saving Throws:</strong> <span id="bg_savingThrows" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">General Skill Ranks:</strong> <span id="bg_generalSkills" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Expert Skill Ranks:</strong> <span id="bg_expertSkills" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Talents:</strong> <span id="bg_talents" style="color: var(--tertiary); font-weight: bold;">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Equipment:</strong> <span id="bg_equipment" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 0;"><strong style="color: var(--darkgray);">Initial Wealth:</strong> <span id="bg_wealth" style="color: var(--secondary); font-weight: bold;">--</span></p>
+  </div>
+
+  <script>
+    // 1. Regex Slicer: Extracts data blocks based on your exact text line syntax
+    function extractField(text, fieldName) {
+      const targetMap = ["Ability Scores", "Saving Throws", "General Skill Ranks", "Expert Skill Ranks", "Talents", "Equipment", "Initial Wealth"];
+      const index = text.indexOf(fieldName + ":");
+      if (index === -1) return "None";
+
+      let start = index + fieldName.length + 1;
+      let remainder = text.substring(start).trim();
+
+      // Look ahead to find where the next section block kicks off to slice accurately
+      let cutIndex = remainder.length;
+      targetMap.forEach(f => {
+        const nextFieldPos = remainder.indexOf(f + ":");
+        if (nextFieldPos !== -1 && nextFieldPos < cutIndex) {
+          cutIndex = nextFieldPos;
+        }
+      });
+
+      return remainder.substring(0, cutIndex).trim().replace(/[\r\n]+/g, ' ');
+    }
+
+    // 2. UI Painter
+    function updateBackground() {
+      const selected = document.getElementById('backgroundSelect').value;
+      if (!window.allBackgroundData || !window.allBackgroundData[selected]) return;
+      
+      const data = window.allBackgroundData[selected];
+
+      document.getElementById('bg_abilityScores').textContent = data.abilityScores;
+      document.getElementById('bg_savingThrows').textContent = data.savingThrows;
+      document.getElementById('bg_generalSkills').textContent = data.generalSkills;
+      document.getElementById('bg_expertSkills').textContent = data.expertSkills;
+      document.getElementById('bg_talents').textContent = data.talents;
+      document.getElementById('bg_equipment').textContent = data.equipment;
+      document.getElementById('bg_wealth').textContent = data.wealth;
+    }
+
+    // 3. Fetch Quartz's build index
+    const indexPath = window.location.origin + "/static/contentIndex.json";
+
+    fetch(indexPath)
+      .then(res => {
+        if (!res.ok) throw new Error("Index file not found");
+        return res.json();
+      })
+      .then(data => {
+        const selectEl = document.getElementById('backgroundSelect');
+        const backgrounds = {};
+
+        for (const [slug, pageData] of Object.entries(data)) {
+          // Identify files categorized under your #background tag
+          if (pageData.tags && pageData.tags.includes('background') && pageData.content) {
+            const title = pageData.title || slug;
+            
+            // Skip the index/template documents cleanly
+            if (title === "Background Template" || title === "Character Creation Guide") continue;
+
+            const text = pageData.content;
+            backgrounds[title] = {
+              abilityScores: extractField(text, "Ability Scores"),
+              savingThrows: extractField(text, "Saving Throws"),
+              generalSkills: extractField(text, "General Skill Ranks"),
+              expertSkills: extractField(text, "Expert Skill Ranks"),
+              talents: extractField(text, "Talents"),
+              equipment: extractField(text, "Equipment"),
+              wealth: extractField(text, "Initial Wealth")
+            };
+          }
+        }
+
+        const sortedNames = Object.keys(backgrounds).sort();
+
+        if (sortedNames.length === 0) {
+          selectEl.innerHTML = '<option>No files found with the #background tag</option>';
+          return;
+        }
+
+        selectEl.innerHTML = '';
+        sortedNames.forEach(name => {
+          const opt = document.createElement('option');
+          opt.value = name;
+          opt.textContent = name;
+          backgroundSelect.appendChild(opt);
+        });
+
+        window.allBackgroundData = backgrounds;
+        updateBackground();
+      })
+      .catch(err => {
+        console.error("Failed to load backgrounds dynamically from Quartz index:", err);
+        document.getElementById('backgroundSelect').innerHTML = '<option>Error harvesting system data</option>';
+      });
+
+    document.getElementById('backgroundSelect').addEventListener('change', updateBackground);
+  </script>
+
+</div>
+
 <div style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background-color: var(--light); max-width: 450px;">
   <h3 style="margin-top: 0; margin-bottom: 5px;">Character Stats</h3>
   <p style="font-size: 0.9em; color: var(--darkgray); margin-top: 0; margin-bottom: 20px;">
@@ -7,10 +148,10 @@
   <div style="margin-bottom: 20px;">
     <label style="font-weight: bold; margin-right: 10px; color: var(--darkgray);">Creature Size:</label>
     <select id="creatureSize" style="padding: 6px; border-radius: 4px; background: var(--light); color: var(--dark); border: 1px solid var(--gray); font-size: 1em; cursor: pointer;">
-      <option value="Tiny">Tiny (Cat, Fairy)</option>
-      <option value="Small">Small (Halfling, Wolf)</option>
-      <option value="Medium" selected>Medium (Human)</option>
-      <option value="Large">Large (Half-Giant)</option>
+      <option value="Tiny">Tiny</option>
+      <option value="Small">Small</option>
+      <option value="Medium" selected>Medium</option>
+      <option value="Large">Large</option>
     </select>
   </div>
 
@@ -134,6 +275,14 @@
   </script>
 
 </div>
+
+**Ability Scores.** A background lists four [[Ability Score|Ability Scores]]. Increase three of them by 1.
+
+**Saving Throws.** A background lists three [[Saving Throw|Saving Throws]]. Increase two of them by 1 [[Rank]].
+
+**General Skill Ranks.** Distribute 4 [[Rank|Ranks]] among a list of [[General Skill|General Skills]] listed in background.
+
+**Expert Skill Ranks.** Distribute 3 [[Rank|Ranks]] among a list of [[Expert Skill|Expert Skills]] listed in background.
 
 1. Creature Size
 2. Standard Array: **Standard Array**: +3, +2, +2, +1, +1, +0, -1, -2
