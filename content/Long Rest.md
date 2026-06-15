@@ -1,21 +1,20 @@
-```
 <div style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background-color: var(--light); max-width: 350px;">
   <h3 style="margin-top: 0;">Long Rest Recovery</h3>
-  
+
   <div style="margin-bottom: 10px;">
     <label style="display: inline-block; width: 120px; font-weight: bold; color: var(--darkgray);">Max HP:</label>
     <input type="number" id="maxHp" value="50" style="width: 80px; padding: 4px; border: 1px solid var(--gray); border-radius: 4px; background: var(--light); color: var(--dark);">
   </div>
-  
+
   <div style="margin-bottom: 20px;">
     <label style="display: inline-block; width: 120px; font-weight: bold; color: var(--darkgray);">CON Modifier:</label>
     <input type="number" id="conMod" value="2" style="width: 80px; padding: 4px; border: 1px solid var(--gray); border-radius: 4px; background: var(--light); color: var(--dark);">
   </div>
-  
+
   <button onclick="calculateRest()" style="padding: 8px 16px; cursor: pointer; background-color: var(--secondary); color: var(--light); border: none; border-radius: 4px; font-weight: bold;">
     Calculate HP
   </button>
-  
+
   <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid var(--lightgray);">
     <span style="font-weight: bold; color: var(--darkgray);">HP Regenerated: </span>
     <span id="hpResult" style="font-weight: bold; color: var(--tertiary); font-size: 1.2em;">--</span>
@@ -41,8 +40,8 @@
       document.getElementById('hpResult').textContent = regenerated + " HP";
     }
   </script>
+
 </div>
-```
 
 ---
 
