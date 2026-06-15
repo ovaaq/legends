@@ -69,7 +69,7 @@ Potion of Stone Skin
 Potion of Fire Breath
 [[Truth Serum]]
 
-[[Animal Friendship Potion]]
+[[Beast Scent Potion]]
 Vampire sucks blood -> takes damage & resistance to necrotic etc
 gain stamina each round, resistance to exhaustion
 [[Anti-Potion]]

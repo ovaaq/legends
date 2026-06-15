@@ -8,7 +8,7 @@
 | [[Agility Saving Throw.md\|Agility Saving Throw]]               |
 | [[Alchemical Item.md\|Alchemical Item]]                         |
 | [[Alteration Magic.md\|Alteration Magic]]                       |
-| [[Legends Indexes/Ancestry.md\|Ancestry]]                       |
+| [[Ancestry.md\|Ancestry]]                                       |
 | [[Arcana.md\|Arcana]]                                           |
 | [[Armour.md\|Armour]]                                           |
 | [[Armour Class.md\|Armour Class]]                               |
@@ -16,7 +16,7 @@
 | [[Attack.md\|Attack]]                                           |
 | [[Attack Roll.md\|Attack Roll]]                                 |
 | [[Awareness.md\|Awareness]]                                     |
-| [[Legends Indexes/Background.md\|Background]]                   |
+| [[Background.md\|Background]]                                   |
 | [[Bleeding.md\|Bleeding]]                                       |
 | [[Blinded.md\|Blinded]]                                         |
 | [[Bloodied.md\|Bloodied]]                                       |
@@ -26,7 +26,7 @@
 | [[Carrying Capacity.md\|Carrying Capacity]]                     |
 | [[Cast Spell.md\|Cast Spell]]                                   |
 | [[Celestial Ancestry.md\|Celestial Ancestry]]                   |
-| [[Legends Indexes/Character Sheet.md\|Character Sheet]]         |
+| [[Character Sheet.md\|Character Sheet]]                         |
 | [[Charisma.md\|Charisma]]                                       |
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]             |
 | [[Charmed.md\|Charmed]]                                         |
@@ -76,7 +76,7 @@
 | [[Elemental Damage.md\|Elemental Damage]]                       |
 | [[Elven Ancestry.md\|Elven Ancestry]]                           |
 | [[Enchantment Magic.md\|Enchantment Magic]]                     |
-| [[Legends Indexes/Equipment.md\|Equipment]]                     |
+| [[Equipment.md\|Equipment]]                                     |
 | [[01 - Projects/Legends Game Master/Escape.md\|Escape]]                                     |
 | [[Ethereal Damage.md\|Ethereal Damage]]                         |
 | [[Evasion Class.md\|Evasion Class]]                             |
@@ -125,7 +125,7 @@
 | [[Legendary Reagent.md\|Legendary Reagent]]                     |
 | [[Legendary Volatile Reagent.md\|Legendary Volatile Reagent]]   |
 | [[Level.md\|Level]]                                             |
-| [[Level Up.md\|Level Up]]                                       |
+| [[Leveling Up.md\|Leveling Up]]                                 |
 | [[Light.md\|Light]]                                             |
 | [[Lightning Damage.md\|Lightning Damage]]                       |
 | [[Loading.md\|Loading]]                                         |
@@ -135,7 +135,7 @@
 | [[Mana.md\|Mana]]                                               |
 | [[Mana Maximum.md\|Mana Maximum]]                               |
 | [[Martial Save DC.md\|Martial Save DC]]                         |
-| [[Legends Indexes/Martial Technique.md\|Martial Technique]]     |
+| [[Martial Technique.md\|Martial Technique]]                     |
 | [[Medicine.md\|Medicine]]                                       |
 | [[Melee Attack.md\|Melee Attack]]                               |
 | [[Melee Spell Attack.md\|Melee Spell Attack]]                   |
@@ -194,7 +194,7 @@
 | [[Skill.md\|Skill]]                                             |
 | [[Slashing Damage.md\|Slashing Damage]]                         |
 | [[Sorcery.md\|Sorcery]]                                         |
-| [[Legends Indexes/Spell.md\|Spell]]                             |
+| [[Spell.md\|Spell]]                                             |
 | [[Spell Attack.md\|Spell Attack]]                               |
 | [[Spell Save DC.md\|Spell Save DC]]                             |
 | [[Stand Up.md\|Stand Up]]                                       |
@@ -206,7 +206,7 @@
 | [[Stunned.md\|Stunned]]                                         |
 | [[Success.md\|Success]]                                         |
 | [[Summon Magic.md\|Summon Magic]]                               |
-| [[Legends Indexes/Talent.md\|Talent]]                           |
+| [[Talent.md\|Talent]]                                           |
 | [[Talent Tree.md\|Talent Tree]]                                 |
 | [[Temporary Hit Point.md\|Temporary Hit Point]]                 |
 | [[Thrown.md\|Thrown]]                                           |
