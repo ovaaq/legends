@@ -11,11 +11,7 @@
     <input type="number" id="conMod" value="2" style="width: 80px; padding: 4px; border: 1px solid var(--gray); border-radius: 4px; background: var(--light); color: var(--dark);">
   </div>
 
-  <button onclick="calculateRest()" style="padding: 8px 16px; cursor: pointer; background-color: var(--secondary); color: var(--light); border: none; border-radius: 4px; font-weight: bold;">
-    Calculate HP
-  </button>
-
-  <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid var(--lightgray);">
+  <div style="margin-top: 10px; padding-top: 15px; border-top: 1px solid var(--lightgray);">
     <span style="font-weight: bold; color: var(--darkgray);">HP Regenerated: </span>
     <span id="hpResult" style="font-weight: bold; color: var(--tertiary); font-size: 1.2em;">--</span>
   </div>
@@ -24,12 +20,10 @@
     function calculateRest() {
       // 1. Grab the current numbers from the inputs
       const max = parseInt(document.getElementById('maxHp').value) || 0;
-      
       const conInput = document.getElementById('conMod').value;
       const con = conInput === "" ? 0 : parseInt(conInput);
       
-      // 2. THE MATH: Change this formula to match your system rules
-      // Example formula: You regain 50% of your Max HP + your CON Modifier
+      // 2. THE MATH: Regain 50% of Max HP + CON Modifier
       let regenerated = Math.floor(max * 0.5) + con;
       
       // Make sure you don't regenerate below 0 or above Max HP
@@ -39,6 +33,13 @@
       // 3. Update the text on the screen
       document.getElementById('hpResult').textContent = regenerated + " HP";
     }
+
+    // 4. THE TRIGGERS: Automatically calculate when inputs change
+    document.getElementById('maxHp').addEventListener('input', calculateRest);
+    document.getElementById('conMod').addEventListener('input', calculateRest);
+
+    // 5. Run it once immediately so the default values display correctly on page load
+    calculateRest();
   </script>
 
 </div>
