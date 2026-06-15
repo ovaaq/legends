@@ -1,111 +1,8 @@
-<div style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background-color: var(--light); max-width: 800px; font-family: sans-serif;">
-  <h2 style="margin-top: 0; border-bottom: 2px solid var(--tertiary); padding-bottom: 10px;">Legends Character Builder</h2>
-
-  <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
-    <h3 style="margin-top: 0;">1. Standard Array</h3>
-    <p style="font-size: 0.9em; color: var(--darkgray);">Distribute these values into your abilities: <strong>+3, +2, +2, +1, +1, +0, -1, -2</strong></p>
-    <div id="arrayWarning" style="color: red; font-size: 0.85em; font-weight: bold; margin-bottom: 10px;"></div>
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;" id="standardArrayInputs">
-      </div>
-  </div>
-
-  <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
-    <h3 style="margin-top: 0;">2. Select Ancestry</h3>
-    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-      <div style="flex: 1; min-width: 200px;">
-        <label style="font-weight: bold; font-size: 0.9em; color: var(--darkgray);">Core Ancestry</label>
-        <select id="coreAncestrySelect" class="calc-trigger" style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid var(--gray);"></select>
-      </div>
-      <div style="flex: 1; min-width: 200px;">
-        <label style="font-weight: bold; font-size: 0.9em; color: var(--darkgray);">Additional Ancestry</label>
-        <select id="addAncestrySelect" class="calc-trigger" style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid var(--gray);"></select>
-      </div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
-    <h3 style="margin-top: 0;">3. Background</h3>
-    <select id="backgroundSelect" class="calc-trigger" style="width: 100%; padding: 8px; margin-bottom: 15px; border-radius: 4px; font-weight: bold;"></select>
-
-```
-<div id="backgroundDetails" style="font-size: 0.9em; border-left: 3px solid var(--secondary); padding-left: 10px; margin-bottom: 15px;">
-  <p style="margin: 4px 0;"><strong>Talents:</strong> <span id="bg_talents">--</span> | <strong>Wealth:</strong> <span id="bg_wealth">--</span></p>
-  <p style="margin: 4px 0;"><strong>Equipment:</strong> <span id="bg_equipment">--</span></p>
-</div>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
-  <div style="background: var(--light); padding: 10px; border-radius: 6px; border: 1px solid var(--lightgray);">
-    <div style="font-weight: bold; margin-bottom: 8px; font-size: 0.9em;">Ability Scores <span id="abilityCounter" style="color: var(--tertiary); float: right;">0/3</span></div>
-    <div id="choice_abilityScores" style="display: flex; flex-direction: column; gap: 5px;"></div>
-  </div>
-  <div style="background: var(--light); padding: 10px; border-radius: 6px; border: 1px solid var(--lightgray);">
-    <div style="font-weight: bold; margin-bottom: 8px; font-size: 0.9em;">Saving Throws <span id="savingCounter" style="color: var(--tertiary); float: right;">0/2</span></div>
-    <div id="choice_savingThrows" style="display: flex; flex-direction: column; gap: 5px;"></div>
-  </div>
-  <div style="background: var(--light); padding: 10px; border-radius: 6px; border: 1px solid var(--lightgray);">
-    <div style="font-weight: bold; margin-bottom: 8px; font-size: 0.9em;">Gen Skills (Ranks: <span id="genPointsCounter">4</span>)</div>
-    <div id="choice_generalSkills" style="display: flex; flex-direction: column; gap: 5px;"></div>
-  </div>
-  <div style="background: var(--light); padding: 10px; border-radius: 6px; border: 1px solid var(--lightgray);">
-    <div style="font-weight: bold; margin-bottom: 8px; font-size: 0.9em;">Exp Skills (Ranks: <span id="expPointsCounter">3</span>)</div>
-    <div id="choice_expertSkills" style="display: flex; flex-direction: column; gap: 5px;"></div>
-  </div>
-</div>
-```
-
-  </div>
-
-  <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
-    <h3 style="margin-top: 0;">4. Free Skills</h3>
-    <div style="margin-bottom: 10px;">
-      <label><input type="radio" name="freeSkillMode" value="mixed" checked class="calc-trigger"> 1 Expert & 1 General Rank</label>
-      <label style="margin-left: 15px;"><input type="radio" name="freeSkillMode" value="general" class="calc-trigger"> 3 General Ranks</label>
-    </div>
-    <div id="freeSkillContainer" style="display: flex; gap: 10px; flex-wrap: wrap;">
-      </div>
-  </div>
-
-  <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
-    <h3 style="margin-top: 0;">5. Base Talents</h3>
-    <div style="display: flex; gap: 15px;">
-      <label style="font-size: 0.9em;">Inc. Health <input type="number" id="tal_health" value="0" min="0" style="width:50px;" class="calc-trigger"></label>
-      <label style="font-size: 0.9em;">Inc. Mana <input type="number" id="tal_mana" value="0" min="0" style="width:50px;" class="calc-trigger"></label>
-      <label style="font-size: 0.9em;">Inc. Stamina <input type="number" id="tal_stamina" value="0" min="0" style="width:50px;" class="calc-trigger"></label>
-    </div>
-  </div>
-
-  <div style="padding: 15px; border: 2px solid var(--dark); border-radius: 6px; background: var(--light);">
-    <h3 style="margin-top: 0; color: var(--tertiary);">6. Character Summary</h3>
-
-```
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  
-  <div>
-    <h4 style="margin: 0 0 5px 0; border-bottom: 1px solid var(--gray);">Final Ability Scores</h4>
-    <div id="summary_abilities" style="display: grid; grid-template-columns: 1fr 1fr; font-size: 0.9em; margin-bottom: 15px;"></div>
-    
-    <h4 style="margin: 0 0 5px 0; border-bottom: 1px solid var(--gray);">Final Skills & Saves</h4>
-    <div id="summary_skills" style="font-size: 0.85em;"></div>
-  </div>
-
-  <div style="background: rgba(0,0,0,0.03); padding: 10px; border-radius: 6px;">
-    <h4 style="margin: 0 0 10px 0; border-bottom: 1px solid var(--gray);">Combat Statistics</h4>
-    <table style="width: 100%; font-size: 0.85em; border-collapse: collapse;">
-      <tbody id="summary_combat"></tbody>
-    </table>
-  </div>
-
-</div>
-```
-
-  </div>
-
-  <script>
+<script>
     // --- CORE DATA CONFIG ---
     const ABILITIES = ["Strength", "Agility", "Precision", "Constitution", "Awareness", "Charisma", "Intelligence", "Sorcery"];
     const REQUIRED_ARRAY = [3, 2, 2, 1, 1, 0, -1, -2].sort();
     
-    // Global Vault Storage
     window.vaultData = {
       backgrounds: {},
       coreAncestries: [],
@@ -115,8 +12,6 @@
     };
 
     // --- UI GENERATORS & HANDLERS ---
-    
-    // 1. Standard Array Builder
     function initStandardArray() {
       const container = document.getElementById('standardArrayInputs');
       ABILITIES.forEach(stat => {
@@ -127,19 +22,13 @@
       });
     }
 
-    // Array Validation check
     function validateArray() {
       const inputs = Array.from(document.querySelectorAll('.arr-input')).map(i => parseInt(i.value) || 0).sort();
       const isValid = JSON.stringify(inputs) === JSON.stringify(REQUIRED_ARRAY);
       const warning = document.getElementById('arrayWarning');
-      if (!isValid) {
-        warning.textContent = "Warning: Values do not match standard array (+3, +2, +2, +1, +1, +0, -1, -2)";
-      } else {
-        warning.textContent = "";
-      }
+      warning.textContent = isValid ? "" : "Warning: Values do not match standard array (+3, +2, +2, +1, +1, +0, -1, -2)";
     }
 
-    // Free Skills Form Rebuilder
     function updateFreeSkillsUI() {
       const mode = document.querySelector('input[name="freeSkillMode"]:checked').value;
       const container = document.getElementById('freeSkillContainer');
@@ -163,11 +52,10 @@
         container.appendChild(makeSelect('fs_gen2', window.vaultData.generalSkills));
         container.appendChild(makeSelect('fs_gen3', window.vaultData.generalSkills));
       }
-      bindCalcTriggers(); // Rebind new selects to main update loop
+      bindCalcTriggers();
       calculateSummary();
     }
 
-    // Setup Background Fetching Engine (from your previous prompt)
     function parseToArray(str) { return (!str || str === "None" || str === "--") ? [] : str.split(',').map(s => s.trim()).filter(s=>s); }
     
     function extractField(text, fieldName) {
@@ -194,7 +82,6 @@
         container.appendChild(lbl);
       });
       
-      // Enforce Max Checkboxes logic
       container.querySelectorAll('input').forEach(cb => {
         cb.addEventListener('change', (e) => {
           const checked = container.querySelectorAll('input:checked');
@@ -216,7 +103,6 @@
         container.appendChild(div);
       });
 
-      // Enforce Point Pool Logic
       container.querySelectorAll('input').forEach(input => {
         input.addEventListener('input', () => {
           let total = 0;
@@ -248,63 +134,50 @@
       calculateSummary();
     }
 
-    // --- THE MASTER CALCULATOR ---
     function calculateSummary() {
       validateArray();
       
-      // 1. Gather Final Ability Scores
       const finalStats = {};
       ABILITIES.forEach(stat => finalStats[stat] = parseInt(document.getElementById('arr_' + stat).value) || 0);
       
-      // Add Background Boosts
       document.querySelectorAll('#choice_abilityScores input:checked').forEach(cb => {
         if(finalStats[cb.value] !== undefined) finalStats[cb.value] += 1;
       });
 
-      // Render Final Stats
       const statUI = document.getElementById('summary_abilities');
       statUI.innerHTML = '';
       ABILITIES.forEach(stat => {
         statUI.innerHTML += `<div><strong>${stat}:</strong> <span style="float:right; margin-right:20px; color:var(--tertiary); font-weight:bold;">${finalStats[stat] > 0 ? '+'+finalStats[stat] : finalStats[stat]}</span></div>`;
       });
 
-      // 2. Gather Skills & Saves
       const skillMap = {};
       const saves = [];
       
-      // Allocators (Background)
       document.querySelectorAll('.bg-alloc').forEach(inp => {
         const val = parseInt(inp.value) || 0;
         const skill = inp.getAttribute('data-skill');
         if (val > 0) skillMap[skill] = (skillMap[skill] || 0) + val;
       });
 
-      // Free Skills
       ['fs_exp1', 'fs_gen1', 'fs_gen2', 'fs_gen3'].forEach(id => {
         const el = document.getElementById(id);
         if (el && el.value) skillMap[el.value] = (skillMap[el.value] || 0) + 1;
       });
 
-      // Saving Throws
       document.querySelectorAll('#choice_savingThrows input:checked').forEach(cb => saves.push(cb.value));
 
-      // Render Skills
       const skillUI = document.getElementById('summary_skills');
       skillUI.innerHTML = Object.entries(skillMap).map(([sk, val]) => `<span style="background:var(--lightgray); padding:2px 6px; border-radius:10px; margin:0 4px 4px 0; display:inline-block;">${sk} (${val})</span>`).join('') 
         + '<br><br><strong>Saves:</strong> ' + (saves.length > 0 ? saves.join(', ') : 'None');
 
-      // 3. Derived Combat Stats
       const tHealth = parseInt(document.getElementById('tal_health').value) || 0;
       const tMana = parseInt(document.getElementById('tal_mana').value) || 0;
       const tStamina = parseInt(document.getElementById('tal_stamina').value) || 0;
 
-      // Variables for math
       const con = finalStats.Constitution;
       const sorc = finalStats.Sorcery;
       const agi = finalStats.Agility;
       const maxStrPre = Math.max(finalStats.Strength, finalStats.Precision);
-      
-      // Assumption: Rank is 1 for character creation calculation. 
       const rank = 1; 
       const martialSkill = 2 * rank;
       const spellSkill = 2 * rank;
@@ -343,10 +216,31 @@
         el.addEventListener('change', calculateSummary);
         el.addEventListener('input', calculateSummary);
       });
-      // Handle Free Skill Radio swaps specifically
       document.querySelectorAll('input[name="freeSkillMode"]').forEach(radio => {
         radio.addEventListener('change', updateFreeSkillsUI);
       });
+    }
+
+    // --- BULLETPROOF TAG MATCHER ---
+    // This checks tags regardless of uppercase, lowercase, or whether they have a "#" attached.
+    function checkTag(tagsArray, targetTag) {
+      if (!tagsArray) return false;
+      return tagsArray.some(t => t.toLowerCase().replace('#', '') === targetTag.toLowerCase());
+    }
+
+    // --- DIAGNOSTIC UI GENERATOR ---
+    function printDebug(msg, isError = false) {
+      let debugBox = document.getElementById('debug_output');
+      if (!debugBox) {
+        debugBox = document.createElement('div');
+        debugBox.id = 'debug_output';
+        debugBox.style.cssText = "margin-bottom: 20px; padding: 10px; background: #1e1e1e; color: #00ff00; font-family: monospace; font-size: 0.85em; border-radius: 6px; border: 1px solid #444; max-height: 200px; overflow-y: auto;";
+        document.querySelector('h2').insertAdjacentElement('afterend', debugBox);
+      }
+      const line = document.createElement('div');
+      line.style.color = isError ? '#ff5555' : '#00ff00';
+      line.textContent = `> ${msg}`;
+      debugBox.appendChild(line);
     }
 
     // --- INIT & VAULT HARVESTING ---
@@ -354,26 +248,53 @@
     bindCalcTriggers();
     updateFreeSkillsUI();
 
+    // Try a direct absolute path first (most reliable for Quartz root deployments)
+    const absoluteIndexPath = "/static/contentIndex.json";
+    
+    // Fallback relative path just in case
     const slug = document.body.getAttribute('data-slug') || '';
     const depth = (slug.match(/\//g) || []).length;
-    const indexPath = (depth > 0 ? '../'.repeat(depth) : '') + "static/contentIndex.json";
+    const relativeIndexPath = (depth > 0 ? '../'.repeat(depth) : '') + "static/contentIndex.json";
 
-    fetch(indexPath)
-      .then(res => res.ok ? res.json() : {})
+    printDebug(`Starting Data Harvest...`);
+    printDebug(`Attempting to fetch index from: ${absoluteIndexPath}`);
+
+    // Fetch Execution
+    fetch(absoluteIndexPath)
+      .then(res => {
+        if (!res.ok) {
+          printDebug(`Absolute path failed (${res.status}). Trying relative: ${relativeIndexPath}`, true);
+          return fetch(relativeIndexPath);
+        }
+        return res;
+      })
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
+        return res.json();
+      })
       .then(data => {
-        // Parse whole vault
-        for (const [slug, page] of Object.entries(data)) {
+        const pages = Object.entries(data);
+        printDebug(`SUCCESS: Downloaded Quartz Index. Found ${pages.length} total pages in vault.`);
+        
+        let foundAnyBackgrounds = false;
+
+        for (const [pageSlug, page] of pages) {
           const tags = page.tags || [];
-          const title = page.title || slug;
+          const title = page.title || pageSlug;
           
-          if (tags.includes('ancestry')) {
+          if (checkTag(tags, 'ancestry')) {
             window.vaultData.addAncestries.push(title);
-            if (tags.includes('common')) window.vaultData.coreAncestries.push(title);
+            if (checkTag(tags, 'common')) window.vaultData.coreAncestries.push(title);
           }
-          if (tags.includes('expert_skill')) window.vaultData.expertSkills.push(title);
-          if (tags.includes('general_skill')) window.vaultData.generalSkills.push(title);
+          if (checkTag(tags, 'expert_skill')) window.vaultData.expertSkills.push(title);
+          if (checkTag(tags, 'general_skill')) window.vaultData.generalSkills.push(title);
           
-          if (tags.includes('background') && page.content && title !== "Background Template" && title !== "Character Creation Guide") {
+          if (checkTag(tags, 'background') && title !== "Background Template" && title !== "Character Creation Guide") {
+            foundAnyBackgrounds = true;
+            if (!page.content) {
+               printDebug(`WARNING: Found background "${title}", but Quartz did not provide the text content. Check quartz.config.ts`, true);
+               continue;
+            }
             const text = page.content;
             window.vaultData.backgrounds[title] = {
               abilityScores: extractField(text, "Ability Scores"),
@@ -387,6 +308,10 @@
           }
         }
 
+        printDebug(`Harvest Complete: ${window.vaultData.coreAncestries.length} Core Ancestries, ${window.vaultData.addAncestries.length} Add. Ancestries, ${Object.keys(window.vaultData.backgrounds).length} Backgrounds, ${window.vaultData.generalSkills.length} Gen Skills, ${window.vaultData.expertSkills.length} Exp Skills.`);
+
+        if (!foundAnyBackgrounds) printDebug("CRITICAL: Found 0 backgrounds. Ensure your files have the '#background' tag.", true);
+
         // Populate Dropdowns
         const popSelect = (id, arr) => {
           const el = document.getElementById(id);
@@ -398,12 +323,11 @@
         popSelect('backgroundSelect', Object.keys(window.vaultData.backgrounds));
 
         document.getElementById('backgroundSelect').addEventListener('change', updateBackground);
-        
-        // Rebuild free skills dropdowns now that data is loaded
         updateFreeSkillsUI();
       })
-      .catch(e => console.error("Index load failed", e));
+      .catch(e => {
+        printDebug(`FATAL ERROR: Could not load index file. Are you running this via 'npx quartz build --serve'?`, true);
+        printDebug(e.toString(), true);
+      });
 
   </script>
-
-</div>
