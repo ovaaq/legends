@@ -50,6 +50,124 @@ those determine Creature Size which alters stats
       let start = index + fieldName.length + 1;
       let remainder = text.substring(start).trim();
 
+      let cutIndex = remainder.length;
+      targetMap.forEach(f => {
+        const nextFieldPos = remainder.indexOf(f + ":");
+        if (nextFieldPos !== -1 && nextFieldPos < cutIndex) {
+          cutIndex = nextFieldPos;
+        }
+      });
+
+      return remainder.substring(0, cutIndex).trim().replace(/[\r\n]+/g, ' ');
+    }
+
+    // 2. UI Painter
+    function updateBackground() {
+      const selected = document.getElementById('backgroundSelect').value;
+      if (!window.allBackgroundData || !window.allBackgroundData[selected]) return;
+      
+      const data = window.allBackgroundData[selected];
+
+      document.getElementById('bg_abilityScores').textContent = data.abilityScores;
+      document.getElementById('bg_savingThrows').textContent = data.savingThrows;
+      document.getElementById('bg_generalSkills').textContent = data.generalSkills;
+      document.getElementById('bg_expertSkills').textContent = data.expertSkills;
+      document.getElementById('bg_talents').textContent = data.talents;
+      document.getElementById('bg_equipment').textContent = data.equipment;
+      document.getElementById('bg_wealth').textContent = data.wealth;
+    }
+
+    // 3. SMART PATHING: Count the folder depth from the body tag to find contentIndex.json
+    const slug = document.body.getAttribute('data-slug') || '';
+    const depth = (slug.match(/\//g) || []).length;
+    const relativePrefix = depth > 0 ? '../'.repeat(depth) : '';
+    const indexPath = relativePrefix + "static/contentIndex.json";
+
+    // 4. Fetch the system index
+    fetch(indexPath)
+      .then(res => {
+        if (!res.ok) throw new Error("Index file status: " + res.status);
+        return res.json();
+      })
+      .then(data => {
+        const selectEl = document.getElementById('backgroundSelect');
+        const backgrounds = {};
+
+        for (const [slug, pageData] of Object.entries(data)) {
+          if (pageData.tags && pageData.tags.includes('background') && pageData.content) {
+            const title = pageData.title || slug;
+            if (title === "Background Template" || title === "Character Creation Guide") continue;
+
+            const text = pageData.content;
+            backgrounds[title] = {
+              abilityScores: extractField(text, "Ability Scores"),
+              savingThrows: extractField(text, "Saving Throws"),
+              generalSkills: extractField(text, "General Skill Ranks"),
+              expertSkills: extractField(text, "Expert Skill Ranks"),
+              talents: extractField(text, "Talents"),
+              equipment: extractField(text, "Equipment"),
+              wealth: extractField(text, "Initial Wealth")
+            };
+          }
+        }
+
+        const sortedNames = Object.keys(backgrounds).sort();
+
+        if (sortedNames.length === 0) {
+          selectEl.innerHTML = '<option>No files found with the #background tag</option>';
+          return;
+        }
+
+        selectEl.innerHTML = '';
+        sortedNames.forEach(name => {
+          const opt = document.createElement('option');
+          opt.value = name;
+          opt.textContent = name;
+          selectEl.appendChild(opt);
+        });
+
+        window.allBackgroundData = backgrounds;
+        updateBackground();
+      })
+      .catch(err => {
+        console.error("Harvesting failed:", err);
+        document.getElementById('backgroundSelect').innerHTML = '<option>Error harvesting system data</option>';
+      });
+
+    document.getElementById('backgroundSelect').addEventListener('change', updateBackground);
+  </script>
+
+</div>
+
+<div style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background-color: var(--light); max-width: 600px;">
+  <h3 style="margin-top: 0; margin-bottom: 15px;">Dynamic Background Selection</h3>
+
+  <div style="margin-bottom: 20px;">
+    <select id="backgroundSelect" style="width: 100%; padding: 8px; border-radius: 4px; background: var(--light); color: var(--dark); border: 1px solid var(--gray); font-size: 1.1em; cursor: pointer; font-weight: bold;">
+      <option>Loading backgrounds from system...</option>
+    </select>
+  </div>
+
+  <div id="backgroundDetails" style="padding: 15px; border-radius: 6px; background-color: rgba(0,0,0,0.03); border: 1px solid var(--lightgray);">
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Ability Scores:</strong> <span id="bg_abilityScores" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Saving Throws:</strong> <span id="bg_savingThrows" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">General Skill Ranks:</strong> <span id="bg_generalSkills" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Expert Skill Ranks:</strong> <span id="bg_expertSkills" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Talents:</strong> <span id="bg_talents" style="color: var(--tertiary); font-weight: bold;">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 8px;"><strong style="color: var(--darkgray);">Equipment:</strong> <span id="bg_equipment" style="color: var(--dark);">--</span></p>
+    <p style="margin-top: 0; margin-bottom: 0;"><strong style="color: var(--darkgray);">Initial Wealth:</strong> <span id="bg_wealth" style="color: var(--secondary); font-weight: bold;">--</span></p>
+  </div>
+
+  <script>
+    // 1. Regex Slicer: Extracts data blocks based on your exact text line syntax
+    function extractField(text, fieldName) {
+      const targetMap = ["Ability Scores", "Saving Throws", "General Skill Ranks", "Expert Skill Ranks", "Talents", "Equipment", "Initial Wealth"];
+      const index = text.indexOf(fieldName + ":");
+      if (index === -1) return "None";
+
+      let start = index + fieldName.length + 1;
+      let remainder = text.substring(start).trim();
+
       // Look ahead to find where the next section block kicks off to slice accurately
       let cutIndex = remainder.length;
       targetMap.forEach(f => {
