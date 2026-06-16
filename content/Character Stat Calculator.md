@@ -1,163 +1,202 @@
-```dataviewjs
-// 1. DATA SETUP
-const stats = ["Strength", "Agility", "Precision", "Constitution", "Awareness", "Charisma", "Intelligence", "Sorcery"];
+<div id="char-builder-root" style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); max-width: 800px; font-family: sans-serif;">
 
-const coreAncestryPages = Array.from(dv.pages("#ancestry and #common")).sort((a,b) => a.file.name.localeCompare(b.file.name));
-const addAncestryPages = Array.from(dv.pages("#ancestry and (#common or #rare)")).sort((a,b) => a.file.name.localeCompare(b.file.name));
-const bgPages = Array.from(dv.pages("#background")).sort((a,b) => a.file.name.localeCompare(b.file.name));
+  <h3>Obsidian Character Builder</h3>
 
-// 2. HELPER TO BUILD DROPDOWN MENUS
-function buildDropdown(id, label, pages, usePathForValue = false) {
-    let selectHtml = `
-    <div style="margin-bottom: 15px;">
-        <label for="${id}" style="display: block; margin-bottom: 5px; font-weight: bold;">${label}</label>
-        <select id="${id}" name="${id}" style="width: 100%; max-width: 400px; padding: 8px; border-radius: 4px; background: var(--background-primary);">
-            <option value="" disabled selected>-- Choose an option --</option>`;
-    
-    for (let p of pages) { 
-        let val = usePathForValue ? p.file.path : p.file.name;
-        selectHtml += `<option value="${val}">${p.file.name}</option>`; 
-    }
-    return selectHtml + `</select></div>`;
+  <!-- ATTRIBUTES -->
+
+  <div style="margin-bottom: 20px;">
+    <h4>Attributes</h4>
+    <table style="width:100%; max-width:400px;">
+      <tbody id="stat-table"></tbody>
+    </table>
+  </div>
+
+  <!-- ANCESTRY -->
+
+  <div style="margin-bottom: 20px;">
+    <h4>Ancestry</h4>
+
+```
+<select id="core-ancestry" style="width:100%; padding:8px;">
+  <option>Loading...</option>
+</select>
+
+<br><br>
+
+<select id="add-ancestry" style="width:100%; padding:8px;">
+  <option>Loading...</option>
+</select>
+```
+
+  </div>
+
+  <!-- BACKGROUND -->
+
+  <div style="margin-bottom: 20px;">
+    <h4>Background</h4>
+
+```
+<select id="background-select" style="width:100%; padding:8px;">
+  <option>Loading backgrounds...</option>
+</select>
+
+<div id="dynamic-bg-content" style="margin-top:15px; display:none;"></div>
+```
+
+  </div>
+
+</div>
+
+<script>
+/* =========================
+   1. CONFIG
+========================= */
+
+const stats = [
+  "Strength","Agility","Precision","Constitution",
+  "Awareness","Charisma","Intelligence","Sorcery"
+];
+
+/* =========================
+   2. HELPERS
+========================= */
+
+function parseList(text) {
+  if (!text) return [];
+  return text.split(',').map(s =>
+    s.replace(/\[\[|\]\]|\*\*/g,'').trim()
+  ).filter(Boolean);
 }
 
-// 3. CONSTRUCT THE HTML STRING
-let htmlContent = `
-<style>
-    .char-section { margin-bottom: 30px; }
-    .char-section h3 { border-bottom: 1px solid var(--background-modifier-border); padding-bottom: 5px; }
-    .selectable-btn {
-        display: inline-block;
-        border: 2px solid var(--background-modifier-border);
-        background-color: var(--background-secondary);
-        color: var(--text-normal);
-        padding: 8px 12px;
-        margin: 4px;
-        border-radius: 6px;
-        cursor: pointer;
-        transition: all 0.2s ease;
-        user-select: none;
-    }
-    .selectable-btn:hover { background-color: var(--background-modifier-hover); }
-    .selectable-btn.selected { border-color: #e53935 !important; background-color: var(--background-primary-alt); }
-    .selectable-btn input[type="checkbox"] { display: none; }
-    .skill-row { display: flex; justify-content: space-between; align-items: center; max-width: 300px; margin-bottom: 8px; padding: 4px 8px; background: var(--background-secondary); border-radius: 4px; }
-    .skill-row input { width: 60px; text-align: center; }
-</style>
+function extractField(text, field) {
+  const idx = text.indexOf(field + ":");
+  if (idx === -1) return "";
+  let start = idx + field.length + 1;
+  let slice = text.substring(start);
 
-<div class="obsidian-character-builder" id="char-builder-root">
-    <div class="char-section">
-        <h3>Attribute Distribution</h3>
-        <table style="width: 100%; max-width: 300px;">
-            <thead><tr><th style="text-align: left;">Attribute</th><th style="text-align: right;">Score</th></tr></thead>
-            <tbody>
-`;
+  const stopFields = [
+    "Ability Scores","Saving Throws",
+    "General Skill Ranks","Expert Skill Ranks",
+    "Talents","Equipment","Initial Wealth"
+  ];
+
+  let end = slice.length;
+  for (const f of stopFields) {
+    const p = slice.indexOf(f + ":");
+    if (p !== -1 && p < end) end = p;
+  }
+
+  return slice.substring(0,end).trim();
+}
+
+/* =========================
+   3. BUILD STATIC UI
+========================= */
+
+const statTable = document.getElementById("stat-table");
 
 stats.forEach(stat => {
-    htmlContent += `<tr>
-        <td><strong>${stat}</strong></td>
-        <td style="text-align: right;"><input type="number" id="stat-${stat.toLowerCase()}" value="10" style="width: 70px;"></td>
-    </tr>`;
+  const row = document.createElement("tr");
+
+  row.innerHTML = `
+    <td><strong>${stat}</strong></td>
+    <td style="text-align:right;">
+      <input type="number" value="10" style="width:70px;">
+    </td>
+  `;
+
+  statTable.appendChild(row);
 });
 
-htmlContent += `
-            </tbody>
-        </table>
-    </div>
-    
-    <div class="char-section">
-        <h3>Ancestry</h3>
-        ${buildDropdown("core-ancestry", "Select Core Ancestry", coreAncestryPages)}
-        ${buildDropdown("add-ancestry", "Select Additional Ancestry", addAncestryPages)}
-    </div>
-    
-    <div class="char-section">
-        <h3>Background</h3>
-        ${buildDropdown("background-select", "Select Background", bgPages, true)}
-        <div id="dynamic-bg-content" style="margin-top: 20px; padding: 15px; border: 1px solid var(--background-modifier-border); border-radius: 8px; display: none;"></div>
-    </div>
-</div>`;
+/* =========================
+   4. LOAD QUARTZ INDEX
+========================= */
 
-// 4. RENDER TO OBSIDIAN
-dv.container.innerHTML = htmlContent;
+let backgrounds = {};
 
-// 5. INTERACTIVE LOGIC
-setTimeout(() => {
-    const root = dv.container.querySelector("#char-builder-root");
-    if(!root) return;
-    
-    const bgSelect = root.querySelector("#background-select");
-    const dynamicContent = root.querySelector("#dynamic-bg-content");
+fetch("static/contentIndex.json")
+  .then(r => r.json())
+  .then(data => {
 
-    // NEW CLEANUP LOGIC: Strips markdown and repetitive words
-    function extractList(text, key) {
-        const regex = new RegExp(`${key}:\\s*(.*)`, 'i');
-        const match = text.match(regex);
-        if (match && match[1]) {
-            return match[1].split(',').map(s => {
-                // Remove [[, ]], and **
-                let cleaned = s.replace(/\[\[|\]\]|\*\*/g, '');
-                // Remove " Saving Throw" (case-insensitive)
-                cleaned = cleaned.replace(/ saving throw/gi, '');
-                // Trim extra spaces
-                return cleaned.trim();
-            }).filter(s => s.length > 0);
-        }
-        return [];
+    /* build ancestry lists */
+    const core = [];
+    const add = [];
+    const bgList = [];
+
+    for (const [slug, page] of Object.entries(data)) {
+
+      const tags = page.tags || [];
+      const content = page.content || "";
+      const title = page.title || slug;
+
+      // ancestry
+      if (tags.includes("ancestry") && tags.includes("common")) {
+        core.push(title);
+      }
+
+      if (tags.includes("ancestry")) {
+        add.push(title);
+      }
+
+      // background
+      if (tags.includes("background")) {
+        bgList.push(title);
+
+        backgrounds[title] = {
+          abilityScores: extractField(content,"Ability Scores"),
+          savingThrows: extractField(content,"Saving Throws"),
+          generalSkills: extractField(content,"General Skill Ranks"),
+          expertSkills: extractField(content,"Expert Skill Ranks"),
+          talents: extractField(content,"Talents"),
+          equipment: extractField(content,"Equipment"),
+          wealth: extractField(content,"Initial Wealth")
+        };
+      }
     }
 
-    bgSelect.addEventListener("change", async (e) => {
-        const filePath = e.target.value;
-        const bgName = e.target.options[e.target.selectedIndex].text;
-        
-        const content = await dv.io.load(filePath);
-        if(!content) return;
-        
-        const abilities = extractList(content, "Ability Scores");
-        const saves = extractList(content, "Saving Throws");
-        const general = extractList(content, "General Skill Ranks");
-        const expert = extractList(content, "Expert Skill Ranks");
-        
-        dynamicContent.style.display = "block";
-        let contentHtml = `<h4>Options for: ${bgName}</h4>`;
+    populateSelect("core-ancestry", core);
+    populateSelect("add-ancestry", add);
+    populateSelect("background-select", bgList);
 
-        if (abilities.length > 0) {
-            contentHtml += `<p><strong>Ability Scores</strong> (Increase 3 of them by 1):</p><div style="margin-bottom: 15px;">`;
-            abilities.forEach(ab => { contentHtml += `<label class="selectable-btn"><input type="checkbox" value="${ab}"> ${ab}</label>`; });
-            contentHtml += `</div>`;
-        }
+  });
 
-        if (saves.length > 0) {
-            contentHtml += `<p><strong>Saving Throws</strong> (Increase 2 of them by 1 Rank):</p><div style="margin-bottom: 15px;">`;
-            saves.forEach(sv => { contentHtml += `<label class="selectable-btn"><input type="checkbox" value="${sv}"> ${sv}</label>`; });
-            contentHtml += `</div>`;
-        }
+function populateSelect(id, list) {
+  const el = document.getElementById(id);
+  el.innerHTML = "";
 
-        if (general.length > 0) {
-            contentHtml += `<p><strong>General Skill Ranks</strong> (Distribute 4 Ranks):</p><div style="margin-bottom: 15px;">`;
-            general.forEach(sk => { contentHtml += `<div class="skill-row"><span>${sk}</span><input type="number" min="0" max="4" value="0"></div>`; });
-            contentHtml += `</div>`;
-        }
+  list.sort().forEach(item => {
+    const opt = document.createElement("option");
+    opt.value = item;
+    opt.textContent = item;
+    el.appendChild(opt);
+  });
+}
 
-        if (expert.length > 0) {
-            contentHtml += `<p><strong>Expert Skill Ranks</strong> (Distribute 3 Ranks):</p><div>`;
-            expert.forEach(sk => { contentHtml += `<div class="skill-row"><span>${sk}</span><input type="number" min="0" max="3" value="0"></div>`; });
-            contentHtml += `</div>`;
-        }
+/* =========================
+   5. BACKGROUND INTERACTION
+========================= */
 
-        dynamicContent.innerHTML = contentHtml;
+document.getElementById("background-select")
+  .addEventListener("change", e => {
 
-        // Bind clickable toggle for the red borders
-        const checkboxes = dynamicContent.querySelectorAll('.selectable-btn input[type="checkbox"]');
-        checkboxes.forEach(box => {
-            box.addEventListener('change', function() {
-                if(this.checked) {
-                    this.parentElement.classList.add('selected');
-                } else {
-                    this.parentElement.classList.remove('selected');
-                }
-            });
-        });
-    });
-}, 150);
-```
+    const name = e.target.value;
+    const data = backgrounds[name];
+    if (!data) return;
+
+    const box = document.getElementById("dynamic-bg-content");
+    box.style.display = "block";
+
+    box.innerHTML = `
+      <h4>${name}</h4>
+
+      <p><strong>Ability Scores:</strong> ${data.abilityScores}</p>
+      <p><strong>Saving Throws:</strong> ${data.savingThrows}</p>
+      <p><strong>General Skills:</strong> ${data.generalSkills}</p>
+      <p><strong>Expert Skills:</strong> ${data.expertSkills}</p>
+      <p><strong>Talents:</strong> ${data.talents}</p>
+      <p><strong>Equipment:</strong> ${data.equipment}</p>
+      <p><strong>Wealth:</strong> ${data.wealth}</p>
+    `;
+  });
+
+</script>
