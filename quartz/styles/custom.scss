@@ -3,21 +3,20 @@
 
 // put your custom CSS here!
 
-// 1. Hide the right sidebar completely
+/* 1. Hide the right sidebar completely */
 .sidebar.right {
   display: none !important;
 }
 
-// 2. Adjust the layout on desktop screens
-@media all and (min-width: $desktop) {
+/* 2. Adjust the layout for desktop screens */
+/* Using a raw value avoids the "Invalid media query" error */
+@media all and (min-width: 1024px) {
   .page {
-    // Redefine the grid to remove the right column (Left Sidebar + Main Content only)
-    // You can adjust '280px' if your left sidebar width is different
+    /* Adjust this grid template to remove the right slot */
     grid-template-columns: 280px minmax(0, 1fr) !important; 
   }
 
   .center {
-    // Remove the default max-width constraint so the text takes up the new space
     max-width: 100% !important;
   }
 }
