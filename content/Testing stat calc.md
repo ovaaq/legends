@@ -85,5 +85,21 @@
   <option value="dog">Artisan</option>
 
 </select>
+<br>
+
+<div><h4>Background's Ability Score Improvements</h4>  
+<button class="choice" onclick="toggle(this)">Strength</button>  
+<button class="choice" onclick="toggle(this)">Agility</button>  
+<button class="choice" onclick="toggle(this)">Precision</button>  
+<button class="choice" onclick="toggle(this)">Constitution</button>  
+</div>
+<br>
+<div><h4>Background's Saving Throw Improvements</h4>  
+<button class="choice" onclick="toggle(this)">Strength</button>  
+<button class="choice" onclick="toggle(this)">Agility</button>  
+<button class="choice" onclick="toggle(this)">Constitution</button>  
+</div>
 
 </div>
+
+<script>  function toggle(btn) {    const active = document.querySelectorAll(".choice.active");    if (btn.classList.contains("active")) {      btn.classList.remove("active");      return;    }    if (active.length >= 3) return;    btn.classList.add("active");  }</script>
