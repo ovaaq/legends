@@ -3,6 +3,7 @@
   <!-- 1. BASE ABILITY SCORES -->
   <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
     <h3 style="margin-top: 0; margin-bottom: 15px; color: var(--darkgray);">Distribute Ability Scores</h3>
+        <p><strong>Standard Array:</strong> +3, +2, +2, +1, +1, +0, -1, -2</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px;">
       <label style="display:flex; justify-content:space-between; align-items:center; background:var(--light); padding:6px; border:1px solid var(--gray); border-radius:4px;"><span style="font-size:0.9em; font-weight:bold;">Strength</span><input type="number" id="base_attr_Strength" value="0" style="width:45px; text-align:center; border:1px solid var(--gray); border-radius:4px;"></label>
       <label style="display:flex; justify-content:space-between; align-items:center; background:var(--light); padding:6px; border:1px solid var(--gray); border-radius:4px;"><span style="font-size:0.9em; font-weight:bold;">Agility</span><input type="number" id="base_attr_Agility" value="0" style="width:45px; text-align:center; border:1px solid var(--gray); border-radius:4px;"></label>
@@ -102,10 +103,10 @@
       </thead>
       <tbody id="summary_ability_rows"></tbody>
     </table>
-    <h4 style="margin: 15px 0 8px 0; color:var(--darkgray);">General Skills)</h4>
-    <div id="summary_general_skills" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap:10px; margin-bottom:20px;"></div>
+    <h4 style="margin: 15px 0 8px 0; color:var(--darkgray);">General Skills</h4>
+    <div id="summary_general_skills" style="margin-bottom:20px; width:100%; overflow-x:auto;"></div>
     <h4 style="margin: 15px 0 8px 0; color:var(--darkgray);">Expert Skills</h4>
-    <div id="summary_expert_skills" style="display:grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap:10px;"></div>
+    <div id="summary_expert_skills" style="width:100%; overflow-x:auto;"></div>
   </div>
 
   <script>
@@ -213,7 +214,6 @@
       let totalsMap = {};
       let calculatedTableHTML = "";
       
-      // Calculate Ability Score Table
       attributesMasterList.forEach(attr => {
         let baseVal = parseInt(document.getElementById("base_attr_" + attr).value) || 0;
         let ancestryVal = 0;
@@ -250,34 +250,52 @@
       });
       document.getElementById("summary_ability_rows").innerHTML = calculatedTableHTML;
 
-      // Helper to sum inputs assigned to specific components
       const getSkillRank = (containerId, name) => {
         let matchedInput = document.querySelector(`#${containerId} input[data-skill-target="${name}"]`);
         return matchedInput ? (parseInt(matchedInput.value) || 0) : 0;
       };
 
-      // Compile General Skills Setup
-      let genHTML = "";
+      // General Skills Table
+      let genTableStart = `<table style="width:100%; border-collapse:collapse; font-size:0.9em; text-align:left;">
+        <thead>
+          <tr style="background:rgba(0,0,0,0.04); border-bottom:2px solid var(--lightgray);">
+            <th style="padding:8px;">General Skill</th>
+            <th style="padding:8px; text-align:center;">Rank</th>
+            <th style="padding:8px; text-align:center;">Ability Score</th>
+            <th style="padding:8px; text-align:center;">Total Modifier</th>
+          </tr>
+        </thead>
+        <tbody>`;
+      let genRows = "";
       window.charData.generalSkills.forEach(skill => {
         let rBg = getSkillRank("bg_choice_generalSkills", skill);
         let rFree = getSkillRank("free_generalSkills", skill);
         let totalRank = rBg + rFree;
-        
         let linkedAttr = window.charData.skillModifiers[skill] || "Strength";
         let attrScoreValue = totalsMap[linkedAttr] || 0;
         let grandModifier = (2 * totalRank) + attrScoreValue;
 
-        genHTML += `<div style="padding:8px; border:1px solid var(--lightgray); border-radius:4px; background:rgba(0,0,0,0.01); display:flex; flex-direction:column; gap:2px;">
-          <div style="font-weight:bold; color:var(--dark); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${skill}</div>
-          <div style="font-size:0.82em; color:var(--darkgray);">Total Rank: <span style="font-weight:bold; color:var(--dark);">${totalRank}</span> <span style="color:var(--gray);">(${rBg} bg / ${rFree} free)</span></div>
-          <div style="font-size:0.82em; color:var(--darkgray);">Modifier: <span style="font-weight:bold;">${linkedAttr} (${attrScoreValue})</span></div>
-          <div style="margin-top:4px; font-size:0.9em; font-weight:bold; color:var(--secondary);">Total Mod: +${grandModifier}</div>
-        </div>`;
+        genRows += `<tr style="border-bottom:1px solid var(--lightgray);">
+          <td style="padding:6px; font-weight:bold;">${skill}</td>
+          <td style="padding:6px; text-align:center;">${totalRank} <span style="font-size:0.85em; color:var(--gray); font-weight:normal;">(${rBg} bg / ${rFree} free)</span></td>
+          <td style="padding:6px; text-align:center;">${linkedAttr} (${attrScoreValue})</td>
+          <td style="padding:6px; text-align:center; font-weight:bold; color:var(--secondary); font-size:1.05em;">${grandModifier >= 0 ? '+':''}${grandModifier}</td>
+        </tr>`;
       });
-      document.getElementById("summary_general_skills").innerHTML = genHTML || '<span style="color:var(--gray); font-size:0.9em;">No fields discovered.</span>';
+      let genTableEnd = `</tbody></table>`;
+      document.getElementById("summary_general_skills").innerHTML = genRows ? (genTableStart + genRows + genTableEnd) : '<span style="color:var(--gray); font-size:0.9em;">No general skills available.</span>';
 
-      // Compile Expert Skills Setup (Filters for rank > 0)
-      let expHTML = "";
+      // Expert Skills Table
+      let expTableStart = `<table style="width:100%; border-collapse:collapse; font-size:0.9em; text-align:left;">
+        <thead>
+          <tr style="background:rgba(0,0,0,0.04); border-bottom:2px solid var(--lightgray);">
+            <th style="padding:8px;">Expert Skill</th>
+            <th style="padding:8px; text-align:center;">Rank</th>
+            <th style="padding:8px; text-align:center;">Total Modifier</th>
+          </tr>
+        </thead>
+        <tbody>`;
+      let expRows = "";
       window.charData.expertSkills.forEach(skill => {
         let rBg = getSkillRank("bg_choice_expertSkills", skill);
         let rFree = getSkillRank("free_expertSkills", skill);
@@ -285,16 +303,15 @@
 
         if (totalRank > 0) {
           let grandModifier = 2 * totalRank;
-          expHTML += `<div style="padding:8px; border:1px solid var(--lightgray); border-radius:4px; background:rgba(0,0,0,0.01); display:flex; justify-content:space-between; align-items:center;">
-            <div>
-              <div style="font-weight:bold; color:var(--dark);">${skill}</div>
-              <div style="font-size:0.82em; color:var(--darkgray);">Total Rank: ${totalRank} <span style="color:var(--gray);">(${rBg} bg / ${rFree} free)</span></div>
-            </div>
-            <div style="font-size:1.05em; font-weight:bold; color:var(--secondary);">+${grandModifier}</div>
-          </div>`;
+          expRows += `<tr style="border-bottom:1px solid var(--lightgray);">
+            <td style="padding:6px; font-weight:bold;">${skill}</td>
+            <td style="padding:6px; text-align:center;">${totalRank} <span style="font-size:0.85em; color:var(--gray); font-weight:normal;">(${rBg} bg / ${rFree} free)</span></td>
+            <td style="padding:6px; text-align:center; font-weight:bold; color:var(--secondary); font-size:1.05em;">+${grandModifier}</td>
+          </tr>`;
         }
       });
-      document.getElementById("summary_expert_skills").innerHTML = expHTML || '<span style="color:var(--gray); font-size:0.9em;">No expert skills trained yet (Rank > 0 required).</span>';
+      let expTableEnd = `</tbody></table>`;
+      document.getElementById("summary_expert_skills").innerHTML = expRows ? (expTableStart + expRows + expTableEnd) : '<span style="color:var(--gray); font-size:0.9em; padding:8px; display:inline-block;">No expert skills trained yet (Rank > 0 required).</span>';
     }
 
     function updateBackgroundFields() {
@@ -328,7 +345,6 @@
       updateSummaryDashboard();
     }
 
-    // Assign system update triggers
     attributesMasterList.forEach(attr => {
       document.getElementById("base_attr_" + attr).addEventListener("input", updateSummaryDashboard);
     });
@@ -357,6 +373,7 @@
         
         if (checkTag(tags, 'ancestry')) {
           if (checkTag(tags, 'common')) window.charData.coreAncestries.push(title);
+          if (checkTag(tags, 'common')) window.charData.addAncestries.push(title);
           if (checkTag(tags, 'rare')) window.charData.addAncestries.push(title);
         }
         if (checkTag(tags, 'general_skill')) {
