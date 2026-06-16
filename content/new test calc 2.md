@@ -3,6 +3,7 @@
   <!-- 1. BASE ABILITY SCORES -->
   <div style="margin-bottom: 25px; padding: 15px; border: 1px solid var(--lightgray); border-radius: 6px; background: rgba(0,0,0,0.02);">
     <h3 style="margin-top: 0; margin-bottom: 15px; color: var(--darkgray);">Distribute Ability Scores</h3>
+    <p><strong>Standard Array:</strong> +3, +2, +2, +1, +1, +0, -1, -2</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px;">
       <label style="display:flex; justify-content:space-between; align-items:center; background:var(--light); padding:6px; border:1px solid var(--gray); border-radius:4px;"><span style="font-size:0.9em; font-weight:bold;">Strength</span><input type="number" value="0" style="width:45px; text-align:center; border:1px solid var(--gray); border-radius:4px;"></label>
       <label style="display:flex; justify-content:space-between; align-items:center; background:var(--light); padding:6px; border:1px solid var(--gray); border-radius:4px;"><span style="font-size:0.9em; font-weight:bold;">Agility</span><input type="number" value="0" style="width:45px; text-align:center; border:1px solid var(--gray); border-radius:4px;"></label>
@@ -249,6 +250,7 @@
         
         if (checkTag(tags, 'ancestry')) {
           if (checkTag(tags, 'common')) window.charData.coreAncestries.push(title);
+          if (checkTag(tags, 'common')) window.charData.addAncestries.push(title);
           if (checkTag(tags, 'rare')) window.charData.addAncestries.push(title);
         }
         if (checkTag(tags, 'general_skill')) window.charData.generalSkills.push(title);
