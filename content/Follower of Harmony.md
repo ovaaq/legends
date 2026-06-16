@@ -3,6 +3,8 @@
 
 _Flavour text_.
 
+You gain 2 additional [[Faith Point|Faith Points]].
+
 **Divine Gift: Endless Mercy.** Whenever you deal [[Damage]], you can choose it to be [[Non-lethal Damage]].
 
 **Commandments of Harmony.** These are the commandments that every follower of Harmony must follow. Sacrilege leads to loss of powers if you do not confess and atone your disobedience in a way that pleases deity.

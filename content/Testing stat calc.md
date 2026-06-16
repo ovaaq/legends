@@ -100,6 +100,104 @@
 <button class="choice" onclick="toggle(this)">Constitution</button>  
 </div>
 
+<div><h4>Background's General Skill Improvements</h4>  
+<table>
+
+<tr>
+<th>General Skill</th>
+<th>Rank</th>
+</tr>
+
+<tr>
+<td>Insigth</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+
+<tr>
+<td>Persuasion</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+
+<tr>
+<td>Investigation</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+</table>
+</div>
+
+<div><h4>Background's Expert Skill Improvements</h4>  
+<table>
+
+<tr>
+<th>Skill</th>
+<th>Rank</th>
+</tr>
+
+<tr>
+<td>Musicality</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+
+<tr>
+<td>Alchemy</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+</table>
+</div>
+
+<div>
+<h3>Select Free Skills</h3>
+  <input type="radio" id="age1" name="age" value="30">
+  <label for="age1">3 General Skill Ranks</label><br>
+  <input type="radio" id="age2" name="age" value="60">
+  <label for="age2">1 General and 1 Expert Skill Rank</label><br>  
+
+<h4>General Skills</h3>
+<table>
+
+<tr>
+<th>General Skill</th>
+<th>Rank</th>
+</tr>
+
+<tr>
+<td>Insigth</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+
+<tr>
+<td>Persuasion</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+
+<tr>
+<td>Investigation</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+</table>
+all with tag #general_skill 
+
+<h4>Expert Skills</h3>
+all with tag #expert_skill, hidden if selected 1 General and 1 Expert Skill Rank
+<table>
+
+<tr>
+<th>Skill</th>
+<th>Rank</th>
+</tr>
+
+<tr>
+<td>Musicality</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+
+<tr>
+<td>Alchemy</td>
+<td><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></td>
+</tr>
+</table>
+</div>
+
 </div>
 
 <script>  function toggle(btn) {    const active = document.querySelectorAll(".choice.active");    if (btn.classList.contains("active")) {      btn.classList.remove("active");      return;    }    if (active.length >= 3) return;    btn.classList.add("active");  }</script>

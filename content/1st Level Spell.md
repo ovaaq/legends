@@ -49,7 +49,7 @@
 | [[Silent Image.md\|Silent Image]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres    | Concentration, up to 10 minutes  |
 | [[Skywrite.md\|Skywrite]]                           | 10 minutes                                                      | F, S        | 1    | Sight        | 1 day                            |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
-| [[Summon Tiny Animal.md\|Summon Tiny Animal]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
+| [[Summon Tiny Beast.md\|Summon Tiny Beast]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Summon Tiny Construct.md\|Summon Tiny Construct]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Summon Tiny Elemental.md\|Summon Tiny Elemental]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Unseen Servant.md\|Unseen Servant]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                           |
@@ -65,7 +65,7 @@ Fear
 Floating Dsik
 [[Jump]]
 [[Summon Tiny Elemental]]
-[[Summon Tiny Animal]]
+[[Summon Tiny Beast]]
 [[Summon Tiny Construct]]
 [[Summon Lesser Spirit]]
 
