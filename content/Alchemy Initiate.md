@@ -6,7 +6,7 @@ _You're an alchemist._
 You gain following benefits:
 
 - You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]].
-- You select two [[Alchemical Formula|Alchemical Formulas]] from the list below and add them to your [[Alchemy Book]]. Rest of the spells are added to your [[Alchemy Formula List]].
+- You select two [[Alchemical Formula|Alchemical Formulas]] from the list below and add them to your [[Alchemy Book]]. Rest of the spells are added to your [[Alchemical Formula List]].
   - [[Common Poison Formula]]
   - [[Common Antidote Formula]]
   - [[Common Acid Formula]]
@@ -14,7 +14,7 @@ You gain following benefits:
   - [[Alchemist's Fire Formula]]
   - [[Alchemist’s Frost Formula]]
 
-**[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Rank]] × 2 + your [[Intelligence]]
+**[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Modifier]] + [[Intelligence]] [[Modifier]]
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

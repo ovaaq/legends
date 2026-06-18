@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Benefit.
+You can prepare one additional [[Prepared Spiritual Spells]].
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

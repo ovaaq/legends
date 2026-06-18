@@ -18,6 +18,8 @@
           - [[Knowledge Spells V]]
             - [[Knowledge Spells VI]]
 
+**Group**:: [[Divine Talent]]
+
 ---
 
 #talent_tree #divine

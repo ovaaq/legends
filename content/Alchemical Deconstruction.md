@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemy Formula List]] and add them to your [[Alchemy Book]].
+You attempt to break solution reverseengineer into recipe, DC hard but if succes you gain recipe, otherwise potion is wasted, X material cost
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

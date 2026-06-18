@@ -1,9 +1,9 @@
 **Requirements**:: [[Spiritual Spellcasting]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-Benefit.
+Increase [[Rank]] of [[Spiritual Spellcasting Skill]] by 1.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

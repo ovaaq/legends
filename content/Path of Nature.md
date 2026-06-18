@@ -3,6 +3,8 @@
 
 _Flavour text_.
 
+You gain 1 additional [[Spirit Point]].
+
 x
 
 **Group**:: Spiritual

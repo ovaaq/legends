@@ -7,9 +7,11 @@
   - [[Faithful Strike]]
     - [[Divine Smite]]
   - [[Turn Unholy]]
-    - [[Destroy Unholy]]
+    - [[Banish Unholy]]
   - [[Divine Blessing]]
     - [[Holy Ceremony]]
+
+**Group**:: [[Divine Talent]]
 
 ---
 

@@ -3,6 +3,7 @@
 | [[Ability Score.md\|Ability Score]]                             |
 | [[Acid Damage.md\|Acid Damage]]                                 |
 | [[Action.md\|Action]]                                           |
+| [[Advanced Focus.md\|Advanced Focus]]                           |
 | [[Adventuring Item.md\|Adventuring Item]]                       |
 | [[Agility.md\|Agility]]                                         |
 | [[Agility Saving Throw.md\|Agility Saving Throw]]               |
@@ -191,12 +192,14 @@
 | [[Shadow Damage.md\|Shadow Damage]]                             |
 | [[Short Rest.md\|Short Rest]]                                   |
 | [[Shove.md\|Shove]]                                             |
+| [[Simple Focus.md\|Simple Focus]]                               |
 | [[Skill.md\|Skill]]                                             |
 | [[Slashing Damage.md\|Slashing Damage]]                         |
 | [[Sorcery.md\|Sorcery]]                                         |
 | [[Spell.md\|Spell]]                                             |
 | [[Spell Attack.md\|Spell Attack]]                               |
 | [[Spell Save DC.md\|Spell Save DC]]                             |
+| [[Spellcasting Focus.md\|Spellcasting Focus]]                   |
 | [[Stand Up.md\|Stand Up]]                                       |
 | [[Standard Array.md\|Standard Array]]                           |
 | [[Strand of Magic.md\|Strand of Magic]]                         |

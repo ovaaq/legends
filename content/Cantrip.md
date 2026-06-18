@@ -80,85 +80,86 @@ ideas
 [[Shadow Veil]]
 [[Jump]]
 
-| List of Cantrips                                                            |
-| --------------------------------------------------------------------------- |
-| [[Acid Splash.md\|Acid Splash]]                 |
-| [[Animal Call.md\|Animal Call]]                 |
-| [[Animate Paper.md\|Animate Paper]]             |
-| [[Arcane Blast.md\|Arcane Blast]]               |
-| [[Arcane Mark.md\|Arcane Mark]]                 |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
-| [[Blade Ward.md\|Blade Ward]]                   |
-| [[Chaos Burst.md\|Chaos Burst]]                 |
-| [[Charming Smile.md\|Charming Smile]]           |
-| [[Chill Touch.md\|Chill Touch]]                 |
-| [[Close Wounds.md\|Close Wounds]]               |
-| [[Corrosive Shot.md\|Corrosive Shot]]           |
-| [[Crimson Cut.md\|Crimson Cut]]                 |
-| [[Dancing Lights.md\|Dancing Lights]]           |
-| [[Dark Flame.md\|Dark Flame]]                   |
-| [[Deflection.md\|Deflection]]                   |
-| [[Druidcraft.md\|Druidcraft]]                   |
-| [[Eldritch Blast.md\|Eldritch Blast]]           |
-| [[Ethereal Blade.md\|Ethereal Blade]]           |
-| [[Feral Claw.md\|Feral Claw]]                   |
-| [[Fire Bolt.md\|Fire Bolt]]                     |
-| [[Flame Blade.md\|Flame Blade]]                 |
-| [[Flame Burst.md\|Flame Burst]]                 |
-| [[Force Wave.md\|Force Wave]]                   |
-| [[Frostbite.md\|Frostbite]]                     |
-| [[Glow.md\|Glow]]                               |
-| [[Gravity Slam.md\|Gravity Slam]]               |
-| [[Guiding Strike.md\|Guiding Strike]]           |
-| [[Holy Arrow.md\|Holy Arrow]]                   |
-| [[Ignite.md\|Ignite]]                           |
-| [[Infestation.md\|Infestation]]                 |
-| [[Innate Spellcasting.md\|Innate Spellcasting]] |
-| [[Learn Arcane Spell.md\|Learn Arcane Spell]]   |
-| [[Learn Innate Spell.md\|Learn Innate Spell]]   |
-| [[Lightning Lure.md\|Lightning Lure]]           |
-| [[Mage Hand.md\|Mage Hand]]                     |
-| [[Message.md\|Message]]                         |
-| [[Mind Sliver.md\|Mind Sliver]]                 |
-| [[Minor Illusion.md\|Minor Illusion]]           |
-| [[Mocking Taunt.md\|Mocking Taunt]]             |
-| [[Poison Spray.md\|Poison Spray]]               |
-| [[Prestidigitation.md\|Prestidigitation]]       |
-| [[Prismatic Ray.md\|Prismatic Ray]]             |
-| [[Produce Flame.md\|Produce Flame]]             |
-| [[Produce Wind.md\|Produce Wind]]               |
-| [[Psychic Shock.md\|Psychic Shock]]             |
-| [[Ray of Frost.md\|Ray of Frost]]               |
-| [[Sacred Flame.md\|Sacred Flame]]               |
-| [[Sapping Sting.md\|Sapping Sting]]             |
-| [[Shadow Tendril.md\|Shadow Tendril]]           |
-| [[Shape Earth.md\|Shape Earth]]                 |
-| [[Shape Water.md\|Shape Water]]                 |
-| [[Shillelagh.md\|Shillelagh]]                   |
-| [[Shocking Grasp.md\|Shocking Grasp]]           |
-| [[Solar Flare.md\|Solar Flare]]                 |
-| [[Spectral Grasp.md\|Spectral Grasp]]           |
-| [[Spectral Reach.md\|Spectral Reach]]           |
-| [[Spell.md\|Spell]]                             |
-| [[Starry Wisp.md\|Starry Wisp]]                 |
-| [[Static Charge.md\|Static Charge]]             |
-| [[Summon Insect.md\|Summon Insect]]             |
-| [[Sword Burst.md\|Sword Burst]]                 |
-| [[Telekinetic Throw.md\|Telekinetic Throw]]     |
-| [[Thaumaturgy.md\|Thaumaturgy]]                 |
-| [[Thorn Dart.md\|Thorn Dart]]                   |
-| [[Thunderbolt.md\|Thunderbolt]]                 |
-| [[Thunderclap.md\|Thunderclap]]                 |
-| [[Toll the Death.md\|Toll the Death]]           |
-| [[Toxic Torrent.md\|Toxic Torrent]]             |
-| [[Venom Fang.md\|Venom Fang]]                   |
-| [[Vine Lash.md\|Vine Lash]]                     |
-| [[Water Bolt.md\|Water Bolt]]                   |
-| [[Wild Surge.md\|Wild Surge]]                   |
-| [[Wind Slash.md\|Wind Slash]]                   |
-| [[Witchcraft.md\|Witchcraft]]                   |
-| [[Withering Touch.md\|Withering Touch]]         |
-| [[Word of Radiance.md\|Word of Radiance]]       |
+| List of Cantrips                                                                  |
+| --------------------------------------------------------------------------------- |
+| [[Acid Splash.md\|Acid Splash]]                       |
+| [[Animal Call.md\|Animal Call]]                       |
+| [[Animate Paper.md\|Animate Paper]]                   |
+| [[Arcane Blast.md\|Arcane Blast]]                     |
+| [[Arcane Mark.md\|Arcane Mark]]                       |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
+| [[Blade Ward.md\|Blade Ward]]                         |
+| [[Chaos Burst.md\|Chaos Burst]]                       |
+| [[Charming Smile.md\|Charming Smile]]                 |
+| [[Chill Touch.md\|Chill Touch]]                       |
+| [[Close Wounds.md\|Close Wounds]]                     |
+| [[Corrosive Shot.md\|Corrosive Shot]]                 |
+| [[Crimson Cut.md\|Crimson Cut]]                       |
+| [[Dancing Lights.md\|Dancing Lights]]                 |
+| [[Dark Flame.md\|Dark Flame]]                         |
+| [[Deflection.md\|Deflection]]                         |
+| [[Druidcraft.md\|Druidcraft]]                         |
+| [[Eldritch Blast.md\|Eldritch Blast]]                 |
+| [[Ethereal Blade.md\|Ethereal Blade]]                 |
+| [[Feral Claw.md\|Feral Claw]]                         |
+| [[Fire Bolt.md\|Fire Bolt]]                           |
+| [[Flame Blade.md\|Flame Blade]]                       |
+| [[Flame Burst.md\|Flame Burst]]                       |
+| [[Force Wave.md\|Force Wave]]                         |
+| [[Frostbite.md\|Frostbite]]                           |
+| [[Glow.md\|Glow]]                                     |
+| [[Gravity Slam.md\|Gravity Slam]]                     |
+| [[Guiding Strike.md\|Guiding Strike]]                 |
+| [[Holy Arrow.md\|Holy Arrow]]                         |
+| [[Ignite.md\|Ignite]]                                 |
+| [[Infestation.md\|Infestation]]                       |
+| [[Innate Spellcasting.md\|Innate Spellcasting]]       |
+| [[Learn Arcane Spell.md\|Learn Arcane Spell]]         |
+| [[Learn Innate Spell.md\|Learn Innate Spell]]         |
+| [[Lightning Lure.md\|Lightning Lure]]                 |
+| [[Mage Hand.md\|Mage Hand]]                           |
+| [[Message.md\|Message]]                               |
+| [[Mind Sliver.md\|Mind Sliver]]                       |
+| [[Minor Illusion.md\|Minor Illusion]]                 |
+| [[Mocking Taunt.md\|Mocking Taunt]]                   |
+| [[Poison Spray.md\|Poison Spray]]                     |
+| [[Prestidigitation.md\|Prestidigitation]]             |
+| [[Prismatic Ray.md\|Prismatic Ray]]                   |
+| [[Produce Flame.md\|Produce Flame]]                   |
+| [[Produce Wind.md\|Produce Wind]]                     |
+| [[Psychic Shock.md\|Psychic Shock]]                   |
+| [[Ray of Frost.md\|Ray of Frost]]                     |
+| [[Sacred Flame.md\|Sacred Flame]]                     |
+| [[Sapping Sting.md\|Sapping Sting]]                   |
+| [[Shadow Tendril.md\|Shadow Tendril]]                 |
+| [[Shape Earth.md\|Shape Earth]]                       |
+| [[Shape Water.md\|Shape Water]]                       |
+| [[Shillelagh.md\|Shillelagh]]                         |
+| [[Shocking Grasp.md\|Shocking Grasp]]                 |
+| [[Solar Flare.md\|Solar Flare]]                       |
+| [[Spectral Grasp.md\|Spectral Grasp]]                 |
+| [[Spectral Reach.md\|Spectral Reach]]                 |
+| [[Spell.md\|Spell]]                                   |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
+| [[Starry Wisp.md\|Starry Wisp]]                       |
+| [[Static Charge.md\|Static Charge]]                   |
+| [[Summon Insect.md\|Summon Insect]]                   |
+| [[Sword Burst.md\|Sword Burst]]                       |
+| [[Telekinetic Throw.md\|Telekinetic Throw]]           |
+| [[Thaumaturgy.md\|Thaumaturgy]]                       |
+| [[Thorn Dart.md\|Thorn Dart]]                         |
+| [[Thunderbolt.md\|Thunderbolt]]                       |
+| [[Thunderclap.md\|Thunderclap]]                       |
+| [[Toll the Death.md\|Toll the Death]]                 |
+| [[Toxic Torrent.md\|Toxic Torrent]]                   |
+| [[Venom Fang.md\|Venom Fang]]                         |
+| [[Vine Lash.md\|Vine Lash]]                           |
+| [[Water Bolt.md\|Water Bolt]]                         |
+| [[Wild Surge.md\|Wild Surge]]                         |
+| [[Wind Slash.md\|Wind Slash]]                         |
+| [[Witchcraft.md\|Witchcraft]]                         |
+| [[Withering Touch.md\|Withering Touch]]               |
+| [[Word of Radiance.md\|Word of Radiance]]             |
 
 ---
 

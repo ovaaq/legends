@@ -18,6 +18,8 @@
           - [[Afterlife Spells V]]
             - [[Afterlife Spells VI]]
 
+**Group**:: [[Spiritual Talent]]
+
 ---
 
 #talent_tree #spiritual

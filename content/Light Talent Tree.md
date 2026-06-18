@@ -18,6 +18,8 @@
           - [[Light Spells V]]
             - [[Light Spells VI]]
 
+**Group**:: [[Divine Talent]]
+
 ---
 
 #talent_tree #divine

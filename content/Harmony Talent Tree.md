@@ -18,6 +18,8 @@
           - [[Harmony Spells V]]
             - [[Harmony Spells VI]]
 
+**Group**:: [[Divine Talent]]
+
 ---
 
 #talent_tree #divine

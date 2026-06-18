@@ -47,7 +47,6 @@ These spells are added to your [[Arcane Spell List]]:
 - [[Arcane Shield]]
 - [[Burning Hands]]
 - [[Call Object]]
-- [[Call Object]]
 - [[Chromatic Orb]]
 - [[Disguise Self]]
 - [[Fog Cloud]]

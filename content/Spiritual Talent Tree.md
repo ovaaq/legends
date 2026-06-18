@@ -13,6 +13,8 @@ Part of [[Spiritual Talent]]
   - [[Turn Spirits]]
     - [[s5]]
 
+**Group**:: [[Spiritual Talent]]
+
 ---
 
 #talent_tree #spiritual

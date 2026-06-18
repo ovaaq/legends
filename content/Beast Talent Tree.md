@@ -18,6 +18,8 @@
           - [[Beast Spells V]]
             - [[Beast Spells VI]]
 
+**Group**:: [[Spiritual Talent]]
+
 ---
 
 #talent_tree #spiritual

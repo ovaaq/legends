@@ -12,8 +12,7 @@ While in this form:
 - Your [[Walking Speed]] is halved.
 - You gain [[Resistance]] to [[Physical Damage]].
 - You are [[Immune]] to being [[Grappled]], [[Restrained]], or otherwise physically bound.
-- You have [[Disadvantage]] any physical [[Check]] or [[Attack Roll]].
-- You levitate approximately 0.5 meters above the ground and can move without needing solid footing.
+- You have [[Disadvantage]] any [[Check]] or [[Attack Roll]] using [[Strength]], [[Agility]] or [[Precision]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -1,12 +1,15 @@
 **Requirements**:: [[Divine Acolyte]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
+You gain 2 additional [[Faith Point|Faith Points]].
+
 Benefit.
 
-**Group**:: Divine
-**Following**:: [[Destroy Unholy]]
+**Tree**:: [[Divine Talent Tree]]
+**Group**:: [[Divine Talent]]
+**Following**:: [[Banish Unholy]]
 
 ---
 

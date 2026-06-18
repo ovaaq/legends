@@ -1,13 +1,14 @@
 **Requirements**:: [[Cure Sickness]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-You gain 2 additional Faith Points.
+You gain 2 additional [[Faith Point|Faith Points]].
 
-**Healing Prayer.** As a [[Double Action]], you touch a creature and channel divine energy to restore its vitality. For each Faith Point you spend, you restore 5 [[Hit Point|Hit Points]] to the target, up to the maximum amount remaining in your Faith pool.
+**Lay on Hands.** As a [[Double Action]], you touch a [[Creature]] and channel divine energy to restore its vitality. For each [[Faith Point]] you spend, you restore 5 [[Hit Point|Hit Points]] to the target, up to the maximum amount remaining in your [[Faith Point|Faith Points]].
 
-**Group**:: Divine
+**Tree**:: [[Divine Talent Tree]]
+**Group**:: [[Divine Talent]]
 **Following**::
 
 ---

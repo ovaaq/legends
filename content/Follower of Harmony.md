@@ -3,15 +3,15 @@
 
 _Flavour text_.
 
-You gain 2 additional [[Faith Point|Faith Points]].
+You gain 1 additional [[Faith Point]].
 
 **Divine Gift: Endless Mercy.** Whenever you deal [[Damage]], you can choose it to be [[Non-lethal Damage]].
 
 **Commandments of Harmony.** These are the commandments that every follower of Harmony must follow. Sacrilege leads to loss of powers if you do not confess and atone your disobedience in a way that pleases deity.
 
-- You shall strive to banish darkness from this world and replace it with purest light.
-- You shall always shine your light on those who need it.
-- You shall not kill innocent creatures.
+- You shall oppose those who seek domination over others.
+- You shall never strike first unless innocent lives are in immediate danger.
+- You shall not knowingly spread hatred or discord.
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]

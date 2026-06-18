@@ -1,11 +1,14 @@
-**Requirements**::
+**Requirements**:: [[Spiritual Connection]]
 **Cost**:: 1 LP
 
 _Flavour text_.
 
+You gain 1 additional [[Spirit Point]].
+
 Benefit.
 
-**Group**:: Spiritual
+**Tree**:: [[Elemental Talent Tree]]
+**Group**:: [[Spiritual Talent]]
 **Following**::
 
 ---

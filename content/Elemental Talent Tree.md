@@ -18,6 +18,8 @@
           - [[Elemental Spells V]]
             - [[Elemental Spells VI]]
 
+**Group**:: [[Spiritual Talent]]
+
 ---
 
 #talent_tree #spiritual

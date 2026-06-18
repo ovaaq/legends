@@ -1,9 +1,7 @@
 **Requirements**:: [[Divine Acolyte]]
-**Cost**:: 2 LP
+**Cost**:: 4 LP
 
 _Flavour text_.
-
-Increase the [[Rank]] of [[Divine Spellcasting Skill]] by 1.
 
 You learn three cantrips of your choice from this list. They are always included in your [[Prepared Spells]]:
 
@@ -39,7 +37,8 @@ You can cast any spell listed in your [[Prepared Spells]].
 
 You can use a holy symbol as a [[Simple Focus]] for your cleric spells, or a staff decorated with holy ornaments and symbols as an [[Advanced Focus]].
 
-**Group**:: Divine
+**Tree**:: [[Divine Talent Tree]]
+**Group**:: [[Divine Talent]]
 **Following**:: [[Divine Spellcasting Practice]], [[Divine Spell Memory]]
 
 ---

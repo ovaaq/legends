@@ -18,6 +18,8 @@
           - [[Nature Spells V]]
             - [[Nature Spells VI]]
 
+**Group**:: [[Spiritual Talent]]
+
 ---
 
 #talent_tree #spiritual

@@ -1,4 +1,4 @@
-**Requirements**:: [[Divine Blessing]]
+**Requirements**:: [[Turn Unholy]]
 **Cost**:: 2 LP
 
 _Flavour text_.

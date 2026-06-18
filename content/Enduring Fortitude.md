@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-When you complete a [[Short Rest]], you may remove one [[Minor Injury]] or reduce your [[Exhausted]] by one level.
+- When you complete a [[Long Rest]], you may remove one [[Minor Injury]] or reduce your [[Exhausted]] by one level.
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]
