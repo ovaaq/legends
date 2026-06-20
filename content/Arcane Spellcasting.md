@@ -23,17 +23,17 @@ You gain following benefits:
   - [[Find Familiar]]
   - [[Mage Armour]]
 
-When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Arcane Spellcasting Skill]]'s [[Rank]] × 2 + your [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]]. You can prepare spells again after completing a [[Long Rest]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]] or spending 2 hours studying your spellbook. When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Arcane Spellcasting Skill]] [[Modifier]] + [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
-> Number of Prepared Arcane Spells = 2 + [[Arcane Spellcasting]] [[Rank]] × 2 + [[Intelligence]]
+> Number of Prepared Arcane Spells = 2 + [[Arcane Spellcasting]] [[Modifier]] + [[Intelligence]]
 
-You can cast any spell listed in your [[Prepared Arcane Spells]].
+**Casting Spells.** You can cast any spell listed in your [[Prepared Arcane Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Arcane Spellcasting Skill]] [[Rank]] × 2 + your [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Arcane Spellcasting Skill]] [[Rank]] × 2 + your [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Arcane Spellcasting Skill]] [[Modifier]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Arcane Spellcasting Skill]] [[Modifier]] + [[Sorcery]]
 
-You can also cast any spell from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
+**Ritual Casting.** You can also cast any spell from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

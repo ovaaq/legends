@@ -44,7 +44,6 @@ These spells are added to your [[Arcane Spell List]]:
 - [[Absorb Elements]]
 - [[Animate Rope]]
 - [[Arcane Arrow]]
-- [[Arcane Shield]]
 - [[Burning Hands]]
 - [[Call Object]]
 - [[Chromatic Orb]]

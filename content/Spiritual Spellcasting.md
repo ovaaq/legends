@@ -1,52 +1,42 @@
 **Requirements**:: [[Spiritual Connection]]
 **Cost**:: 4 LP
 
-_Flavour text_.
+_Flavour text._
 
 These spells are added to your [[Spiritual Spell List]]:
 
 ##### Cantrips
 
-- [[Animal Call]]
-- [[Arcane Mark]]
 - [[Chill Touch]]
-- [[Close Wounds]]
-- [[Fire Bolt]]
-- [[Holy Arrow]]
-- [[Ignite]]
-- [[Infestation]]
-- [[Glow]]
 - [[Message]]
-- [[Minor Illusion]]
+- [[Mind Sliver]]
+- [[Mocking Taunt]]
 - [[Produce Flame]]
-- [[Sacred Flame]]
-- [[Shape Earth]]
-- [[Shape Water]]
-- [[Shillelagh]]
+- [[Shadow Tendril]]
+- [[Spectral Grasp]]
+- [[Starry Wisp]]
 - [[Thaumaturgy]]
-- [[Thunderbolt]]
-- [[Guiding Strike]]
-- [[Withering Touch]]
 
 ##### 1st Level Spells
 
-- [[Arcane Shield]]
+- [[Guidance]]
+- [[Silent Image]]
+- [[Skywrite]]
+- [[Summon Lesser Spirit]]
+- [[Unseen Servant]]
 - [[Detect Magic]]
-- [[Feather Fall]]
-- [[Find Familiar]]
-- [[Mage Armour]]
 
-When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to your [[Spiritual Spellcasting Skill]] [[Modifier]] + your [[Intelligence]] and add them to your [[Prepared Spiritual Spells]]. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]]. You can prepare spells again after completing a [[Long Rest]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to [[Spiritual Spellcasting Skill]] [[Modifier]] + [[Intelligence]] and add them to your [[Prepared Spiritual Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
 > Number of Prepared Spiritual Spells = [[Spiritual Spellcasting Skill]] [[Modifier]] + [[Intelligence]]
 
-You can cast any spell listed in your [[Prepared Spells]].
+**Casting Spells.** You can cast any spell listed in your [[Prepared Spiritual Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Divine Spellcasting Skill Rank]] × 2 + your [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Divine Spellcasting Skill Rank]] × 2 + your [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Spiritual Spellcasting Skill]] [[Modifier]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Spiritual Spellcasting Skill]] [[Modifier]] + [[Sorcery]]
 
-You can use a holy symbol as a [[Simple Focus]] for your cleric spells, or a staff decorated with holy ornaments and symbols as an [[Advanced Focus]].
+**Ritual Casting.** You can also cast any spell from your [[Spiritual Spell List]] as a ritual. Doing so increases the casting time by 10 minutes.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

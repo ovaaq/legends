@@ -5,6 +5,10 @@ _Flavour text_.
 
 Benefit.
 
+[[Hold Humanoid]]
+[[Augury]]
+[[Zone of Truth]]
+
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
 **Following**:: [[Afterlife Spells III]]
