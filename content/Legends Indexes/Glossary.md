@@ -198,7 +198,10 @@
 | [[Sorcery.md\|Sorcery]]                                         |
 | [[Spell.md\|Spell]]                                             |
 | [[Spell Attack.md\|Spell Attack]]                               |
+| [[Spell List.md\|Spell List]]                                   |
 | [[Spell Save DC.md\|Spell Save DC]]                             |
+| [[Spell Slot.md\|Spell Slot]]                                   |
+| [[Spellcasting.md\|Spellcasting]]                               |
 | [[Spellcasting Focus.md\|Spellcasting Focus]]                   |
 | [[Stand Up.md\|Stand Up]]                                       |
 | [[Standard Array.md\|Standard Array]]                           |

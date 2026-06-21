@@ -1,25 +1,38 @@
-**Requirements**:: one of the following: [[Mark of Bite]], [[Mark of Wild Magic]]
+**Requirements**:: [[Sorcery]] > 0
 **Cost**:: 4 LP
 
 _Magic flows in your blood._
 
-You gain following benefits:
+Increase [[Rank]] of [[Innate Spellcasting Skill]] by 1.
 
-- You learn two [[Cantrip|Cantrips]] from the list below and add them to your [[Learned Spell List]]. Rest of the spells are added to your [[Innate Spell List]].
-  - [[Dancing Lights]]
-  - [[Fire Bolt]]
-  - [[Glow]]
-  - [[Prestidigitation]]
-  - [[Thunderbolt]]
-- You learn one [[1st Level Spell|1st Level Spells]] from the list below and add them to your [[Learned Spell List]]. Rest of the spells are added to your [[Innate Spell List]].
-  - [[Arcane Shield]]
-  - [[Detect Magic]]
-  - [[Mage Armour]]
+These spells are added to your [[Innate Spell List]]:
 
-You can cast any spell listed in your [[Learned Spell List]].
+##### Cantrips
 
-**[[Spell Save DC]]** = 8 + [[Innate Spellcasting Skill]] [[Rank]] × 2 + your [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Innate Spellcasting Skill]] [[Rank]] × 2 + your [[Sorcery]]
+- [[Arcane Blast]]
+- [[Chaos Burst]]
+- [[Dancing Lights]]
+- [[Ignite]]
+- [[Message]]
+- [[Prestidigitation]]
+- [[Shocking Grasp]]
+- [[Thunderbolt]]
+
+##### 1st Level Spells
+
+- [[Absorb Elements]]
+- [[Alter Self]]
+- [[Arcane Shield]]
+- [[Aurora Burst]]
+- [[Detect Magic]]
+- [[Mindward]]
+
+**Innate Ability.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Innate Spell List]] and add them to your [[Learned Innate Spells]] list.
+
+**Casting Spells.** You can cast any spell listed in your [[Learned Innate Spells]] list.
+
+**[[Spell Save DC]]** = 8 + [[Innate Spellcasting Skill]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Innate Spellcasting Skill]] [[Rank]] + [[Sorcery]]
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]

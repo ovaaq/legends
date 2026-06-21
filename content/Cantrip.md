@@ -98,6 +98,7 @@ ideas
 | [[Dancing Lights.md\|Dancing Lights]]                 |
 | [[Dark Flame.md\|Dark Flame]]                         |
 | [[Deflection.md\|Deflection]]                         |
+| [[Divine Spellcasting.md\|Divine Spellcasting]]       |
 | [[Druidcraft.md\|Druidcraft]]                         |
 | [[Eldritch Blast.md\|Eldritch Blast]]                 |
 | [[Ethereal Blade.md\|Ethereal Blade]]                 |
@@ -122,6 +123,7 @@ ideas
 | [[Mind Sliver.md\|Mind Sliver]]                       |
 | [[Minor Illusion.md\|Minor Illusion]]                 |
 | [[Mocking Taunt.md\|Mocking Taunt]]                   |
+| [[Pact Spellcasting.md\|Pact Spellcasting]]           |
 | [[Poison Spray.md\|Poison Spray]]                     |
 | [[Prestidigitation.md\|Prestidigitation]]             |
 | [[Prismatic Ray.md\|Prismatic Ray]]                   |

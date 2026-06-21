@@ -3,9 +3,29 @@
 
 _Flavour text_.
 
-Benefit.
+Increase [[Rank]] of [[Pact Spellcasting Skill]] by 1.
 
-**Group**:: Pact
+These spells are added to your [[Innate Spell List]]:
+
+##### Cantrips
+
+-
+
+##### 1st Level Spells
+
+-
+
+**Given Power.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Pact Spell List]] and add them to your [[Learned Pact Spells]] list.
+
+**Spell Slots.** You use [[Spell Slot|Spell Slots]] instead of [[Mana]]. [[Cantrip|Cantrips]] are free and do not consume slots. To cast a spell, you must expend a [[Spell Slot]] equal to or higher than the [[Spell|Spell's]] level. If you use a higher-level slot, the level difference upcasts the spell, acting exactly like that much extra [[Mana]].
+
+**Casting Spells.** You can cast any spell listed in your [[Learned Pact Spells]] list.
+
+**[[Spell Save DC]]** = 10 + [[Pact Spellcasting Skill]] [[Rank]]
+**[[Spell Attack Modifier]]** = [[Pact Spellcasting Skill]] [[Rank]] + 2
+
+**Tree**:: [[Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**:: [[Pact Spellcasting Practice]], [[Learn Pact Spell]], [[Increase Spell Power]], [[Increase Spell Slots]]
 
 ---

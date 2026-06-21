@@ -3,39 +3,46 @@
 
 _Flavour text_.
 
-You learn three cantrips of your choice from this list. They are always included in your [[Prepared Spells]]:
+Increase [[Rank]] of [[Divine Spellcasting Skill]] by 1.
 
-- [[Animal Call]]
-- [[Arcane Mark]]
-- [[Chill Touch]]
+These spells are added to your [[Divine Spell List]]:
+
+##### Cantrips
+
 - [[Close Wounds]]
-- [[Fire Bolt]]
-- [[Holy Arrow]]
-- [[Ignite]]
-- [[Infestation]]
 - [[Glow]]
-- [[Message]]
-- [[Minor Illusion]]
-- [[Produce Flame]]
+- [[Guiding Strike]]
+- [[Holy Arrow]]
 - [[Sacred Flame]]
-- [[Shape Earth]]
-- [[Shape Water]]
 - [[Shillelagh]]
 - [[Thaumaturgy]]
 - [[Thunderbolt]]
-- [[Guiding Strike]]
 - [[Withering Touch]]
 
-You can unlock spells by adding them to your [[Divine Spell List]] through talents.
+##### 1st Level Spells
 
-When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to your [[Divine Spellcasting Skill Rank]] × 2 + your [[Intelligence]] and add them to your [[Prepared Spells]] list. You can prepare spells again after completing a [[Long Rest]].
+- [[Bless]]
+- [[Command]]
+- [[Cure Wounds]]
+- [[Detect Magic]]
+- [[Guidance]]
+- [[Guiding Bolt]]
+- [[Healing Word]]
+- [[Inflict Wounds]]
+- [[Searing Smite]]
+- [[Sense Undead]]
 
-You can cast any spell listed in your [[Prepared Spells]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Divine Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
-**[[Spell Save DC]]** = 8 + [[Divine Spellcasting Skill Rank]] × 2 + your [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Divine Spellcasting Skill Rank]] × 2 + your [[Sorcery]]
+> [!info] Prepared Spells
+> Number of Prepared Divine Spells = [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]]
 
-You can use a holy symbol as a [[Simple Focus]] for your cleric spells, or a staff decorated with holy ornaments and symbols as an [[Advanced Focus]].
+**Casting Spells.** You can cast any spell listed in your [[Prepared Divine Spells]].
+
+**[[Spell Save DC]]** = 8 + [[Divine Spellcasting Skill]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Divine Spellcasting Skill]] [[Rank]] + [[Sorcery]]
+
+**Holy Symbol.** You can use a one handed [[Holy Symbol]] as a [[Simple Focus]] for your spellcasting, or or two handed [[Staff]] with [[Holy Symbol]] as an [[Advanced Focus]].
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]

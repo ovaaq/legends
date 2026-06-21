@@ -3,7 +3,7 @@
 
 _Your body is beginning to get used to all sort of things._
 
-You are [[Immune]] to [[Poison Damage]] and automatically get [[Critical Success]] on any [[Saving Throw|Saving Throws]] against [[Poison]].
+You have [[Resistance]] to [[Poison Damage]] and automatically get [[Advantage]] on any [[Saving Throw|Saving Throws]] against [[Poison]].
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
@@ -12,4 +12,4 @@ You are [[Immune]] to [[Poison Damage]] and automatically get [[Critical Success
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]] [[Talent]] [[General Talent]]

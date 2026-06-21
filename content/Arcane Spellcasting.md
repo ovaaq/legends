@@ -3,35 +3,46 @@
 
 _You're a wizard._
 
-You gain following benefits:
+Increase [[Rank]] of [[Arcane Spellcasting Skill]] by 1.
 
-- You gain [[Spellbook]], which is used to record your spells.
-- You select three [[Cantrip|Cantrips]] from the list below and add them to your [[Spellbook]]. Rest of the spells are added to your [[Arcane Spell List]].
-  - [[Animate Paper]]
-  - [[Arcane Mark]]
-  - [[Dancing Lights]]
-  - [[Fire Bolt]]
-  - [[Glow]]
-  - [[Mage Hand]]
-  - [[Message]]
-  - [[Prestidigitation]]
-  - [[Thunderbolt]]
-- You select two [[1st Level Spell|1st Level Spells]] from the list below and add them to your [[Spellbook]]. Rest of the spells are added to your [[Arcane Spell List]].
-  - [[Arcane Shield]]
-  - [[Detect Magic]]
-  - [[Feather Fall]]
-  - [[Find Familiar]]
-  - [[Mage Armour]]
+These spells are added to your [[Arcane Spell List]]:
 
-**Preparing Spells.** You can prepare spells after completing a [[Long Rest]] or spending 2 hours studying your spellbook. When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Arcane Spellcasting Skill]] [[Modifier]] + [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
+##### Cantrips
+
+- [[Animate Paper]]
+- [[Arcane Mark]]
+- [[Dancing Lights]]
+- [[Fire Bolt]]
+- [[Frostbite]]
+- [[Force Wave]]
+- [[Glow]]
+- [[Mage Hand]]
+- [[Message]]
+- [[Prestidigitation]]
+- [[Thunderbolt]]
+
+##### 1st Level Spells
+
+- [[Arcane Shield]]
+- [[Burning Hands]]
+- [[Detect Magic]]
+- [[Feather Fall]]
+- [[Find Familiar]]
+- [[Mage Armour]]
+- [[Repair]]
+- [[Unseen Servant]]
+
+**Spellbook.** You gain [[Spellbook]], which is used to record your spells. Select three [[Cantrip|Cantrips]] and two [[1st Level Spell|1st Level Spells]] from your [[Arcane Spell List]] and add them to your [[Spellbook]].
+
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]] or spending 2 hours studying your spellbook. When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Arcane Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
-> Number of Prepared Arcane Spells = 2 + [[Arcane Spellcasting]] [[Modifier]] + [[Intelligence]]
+> Number of Prepared Arcane Spells = 2 + [[Arcane Spellcasting Skill]] [[Rank]] + [[Intelligence]]
 
 **Casting Spells.** You can cast any spell listed in your [[Prepared Arcane Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Arcane Spellcasting Skill]] [[Modifier]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Arcane Spellcasting Skill]] [[Modifier]] + [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Arcane Spellcasting Skill]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Arcane Spellcasting Skill]] [[Rank]] + [[Sorcery]]
 
 **Ritual Casting.** You can also cast any spell from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
 

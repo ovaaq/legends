@@ -1,5 +1,5 @@
 **Requirements**:: [[Veil Walker]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
