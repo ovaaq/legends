@@ -13,6 +13,7 @@
 | [[Drowsy.md\|Drowsy]]               |
 | [[Dying.md\|Dying]]                 |
 | [[Exhausted.md\|Exhausted]]         |
+| [[Feeble.md\|Feeble]]               |
 | [[Flat-Footed.md\|Flat-Footed]]     |
 | [[Frightened.md\|Frightened]]       |
 | [[Grappled.md\|Grappled]]           |

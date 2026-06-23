@@ -85,6 +85,7 @@
 | [[Exhausted.md\|Exhausted]]                                     |
 | [[Expert Skill.md\|Expert Skill]]                               |
 | [[Failure.md\|Failure]]                                         |
+| [[Feeble.md\|Feeble]]                                           |
 | [[Finesse.md\|Finesse]]                                         |
 | [[Fire Damage.md\|Fire Damage]]                                 |
 | [[First Aid.md\|First Aid]]                                     |

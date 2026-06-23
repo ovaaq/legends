@@ -27,3 +27,4 @@ Quickened Spell\
 Slow Release\
 Echo Casting\
 Retroactive Casting
+Emphatetic (other instead of Self)

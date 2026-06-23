@@ -24,10 +24,10 @@
       const con = conInput === "" ? 0 : parseInt(conInput);
       
       // 2. THE MATH: Regain 50% of Max HP + CON Modifier
-      let regenerated = Math.floor(max * 0.5) + con;
+      let regenerated = Math.floor(max * 0.33) + con;
       
       // Make sure you don't regenerate below 0 or above Max HP
-      if (regenerated < 0) regenerated = 0;
+      if (regenerated < 0) regenerated = 2;
       if (regenerated > max) regenerated = max;
       
       // 3. Update the text on the screen
