@@ -1,7 +1,9 @@
-**Requirements**:: [[Alchemy]] [[Rank]] > 0
+**Requirements**:: [[Intelligence]] > 0
 **Cost**:: 2 LP
 
 _You're an alchemist._
+
+Increase [[Rank]] of [[Alchemy]] by 1.
 
 You gain following benefits:
 
@@ -14,7 +16,7 @@ You gain following benefits:
   - [[Alchemist's Fire Formula]]
   - [[Alchemist’s Frost Formula]]
 
-**[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Modifier]] + [[Intelligence]] [[Modifier]]
+**[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Rank]] + [[Intelligence]]
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

@@ -14,6 +14,8 @@ https://www.gmbinder.com/share/-MK0g94rlPq9A0KprEKC
 
 #### Hide the Camp
 
+#### Increase Comfort
+
 #### Fortify / Trap
 
 #### Scout the Landscape

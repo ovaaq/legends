@@ -13,7 +13,7 @@ These spells are added to your [[Arcane Spell List]]:
 - [[Chaos Burst]]
 - [[Chill Touch]]
 - [[Corrosive Shot]]
-- [[Deflection]]
+- [[Deflect]]
 - [[Ethereal Blade]]
 - [[Flame Blade]]
 - [[Flame Burst]]

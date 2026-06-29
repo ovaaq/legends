@@ -3,7 +3,7 @@
 
 _Lore._
 
-You ignore the [[Untrained Armour Penalty]] when wearing [[Medium Armour]].
+Wearing [[Medium Armour]] will not impose [[Untrained Armour Penalty]].
 
 **Tree**:: [[Defence Talent Tree]]
 **Group**:: [[Martial Talent]]

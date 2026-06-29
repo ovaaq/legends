@@ -22,9 +22,9 @@ These spells are added to your [[Innate Spell List]]:
 
 - [[Absorb Elements]]
 - [[Alter Self]]
-- [[Arcane Shield]]
 - [[Aurora Burst]]
 - [[Detect Magic]]
+- [[Deflect]]
 - [[Mindward]]
 
 **Innate Ability.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Innate Spell List]] and add them to your [[Learned Innate Spells]] list.

@@ -3,7 +3,7 @@
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._
 
-You ignore the [[Untrained Armour Penalty]] when wielding a [[Shield]].
+Using [[Shield]] will not impose [[Untrained Armour Penalty]].
 
 **Tree**:: [[Defence Talent Tree]]
 **Group**:: [[Martial Talent]]

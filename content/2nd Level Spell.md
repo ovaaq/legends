@@ -5,11 +5,12 @@
 | [[Alter Size.md\|Alter Size]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Animal Messenger.md\|Animal Messenger]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Arcane Anchor.md\|Arcane Anchor]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
+| [[Arcane Shield.md\|Arcane Shield]]               | [[Reaction]]\*                                                   | F, V, S, M\* | 2    | 20 metres | Instantaneous                 |
 | [[Augury.md\|Augury]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Barkskin.md\|Barkskin]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Barrier.md\|Barrier]]                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Beast Sense.md\|Beast Sense]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
-| [[Blink.md\|Blink]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
+| [[Blink.md\|Blink]]                               | [[Reaction]]\*                                                   | F, V, S, M\* | 2    | 20 metres | Instantaneous                 |
 | [[Blur.md\|Blur]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Calm Emotions.md\|Calm Emotions]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Comprehend Languages.md\|Comprehend Languages]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
@@ -40,9 +41,10 @@
 | [[Magic Weapon.md\|Magic Weapon]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Mind Spike.md\|Mind Spike]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Mirror Image.md\|Mirror Image]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
-| [[Misty Step.md\|Misty Step]]                     | [[Action.md\|Action]]               | S           | 2    | Self      | Instantaneous                 |
+| [[Misty Step.md\|Misty Step]]                     | [[Action.md\|Action]]               | S           | 1    | Self      | Instantaneous                 |
 | [[Moonbeam.md\|Moonbeam]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Obscure Senses.md\|Obscure Senses]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
+| [[One Shot Shield Gate.md\|One Shot Shield Gate]] | [[Reaction]]\*                                                   | F, V, S, M\* | 2    | 20 metres | Instantaneous                 |
 | [[Pass Without Trace.md\|Pass Without Trace]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Phantasmal Force.md\|Phantasmal Force]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Pocket Vault.md\|Pocket Vault]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |

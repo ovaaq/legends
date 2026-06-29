@@ -13,7 +13,6 @@
 | [[Crimson Cut.md\|Crimson Cut]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres              | Instantaneous                   |
 | [[Dancing Lights.md\|Dancing Lights]]       | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres              | Concentration, up to 1 minute   |
 | [[Dark Flame.md\|Dark Flame]]               | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres              | Instantaneous                   |
-| [[Deflection.md\|Deflection]]               | [[Reaction]]\*                                                   | V, S        | 0    | Self                   | Instantaneous                   |
 | [[Druidcraft.md\|Druidcraft]]               | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres               | Up to 1 hour                    |
 | [[Eldritch Blast.md\|Eldritch Blast]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres              | Instantaneous                   |
 | [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self                   | 10 minutes                      |
@@ -97,7 +96,6 @@ ideas
 | [[Crimson Cut.md\|Crimson Cut]]                       |
 | [[Dancing Lights.md\|Dancing Lights]]                 |
 | [[Dark Flame.md\|Dark Flame]]                         |
-| [[Deflection.md\|Deflection]]                         |
 | [[Divine Spellcasting.md\|Divine Spellcasting]]       |
 | [[Druidcraft.md\|Druidcraft]]                         |
 | [[Eldritch Blast.md\|Eldritch Blast]]                 |

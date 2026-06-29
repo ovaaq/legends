@@ -30,6 +30,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Pact Talent Tree.md\|Pact Talent Tree]]                           |
 | [[Poison Talent Tree.md\|Poison Talent Tree]]                       |
 | [[Resistance Talent Tree.md\|Resistance Talent Tree]]               |
+| [[Runecraft Talent Tree.md\|Runecraft Talent Tree]]                 |
 | [[Spellblade Talent Tree.md\|Spellblade Talent Tree]]               |
 | [[Spellcasting Talent Tree.md\|Spellcasting Talent Tree]]           |
 | [[Spiritual Talent Tree.md\|Spiritual Talent Tree]]                 |

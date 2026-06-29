@@ -23,8 +23,8 @@ These spells are added to your [[Arcane Spell List]]:
 
 ##### 1st Level Spells
 
-- [[Arcane Shield]]
 - [[Burning Hands]]
+- [[Deflect]]
 - [[Detect Magic]]
 - [[Feather Fall]]
 - [[Find Familiar]]

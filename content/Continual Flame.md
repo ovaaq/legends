@@ -1,4 +1,4 @@
-_[[2nd Level Spell]]_
+_[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*

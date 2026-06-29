@@ -6,7 +6,6 @@
 | [[Alter Sky.md\|Alter Sky]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Animal Friendship.md\|Animal Friendship]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                            |
 | [[Animate Rope.md\|Animate Rope]]                   | [[Double Action.md\|Double Action]] | F, V, S, M\* | 1    | 10 metres    | Concentration, up to 10 minutes  |
-| [[Arcane Shield.md\|Arcane Shield]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Aurora Burst.md\|Aurora Burst]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Bane.md\|Bane]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Concentration, up to 1 minute    |
 | [[Bless.md\|Bless]]                                 | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres    | Concentration, up to 1 minute    |
@@ -16,6 +15,7 @@
 | [[Chromatic Orb.md\|Chromatic Orb]]                 | [[Double Action.md\|Double Action]] | V, S, M\*    | 1    | 20 metres    | Instantaneous                    |
 | [[Command.md\|Command]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | Instantaneous                    |
 | [[Cure Wounds.md\|Cure Wounds]]                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | Touch        | Instantaneous                    |
+| [[Deflect.md\|Deflect]]                             | [[Reaction]]\*                                                   | V, S        | 1    | Self         | Instantaneous                    |
 | [[Destroy Water.md\|Destroy Water]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Detect Ethereal.md\|Detect Ethereal]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Detect Magic.md\|Detect Magic]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | Concentration, up to 10 minutes  |

@@ -1,8 +1,8 @@
-_[[2nd Level Spell]]_
+_[[1st Level Spell]]_
 
 **Casting**:: [[Action]]
 **Components**:: S
-**Mana**:: 2
+**Mana**:: 1
 
 **Range**:: Self
 **Duration**:: Instantaneous

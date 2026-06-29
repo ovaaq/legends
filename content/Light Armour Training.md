@@ -3,7 +3,7 @@
 
 _Lore._
 
-You ignore the [[Untrained Armour Penalty]] when wearing [[Light Armour]].
+Wearing [[Light Armour]] will not impose [[Untrained Armour Penalty]].
 
 **Tree**:: [[Defence Talent Tree]]
 **Group**:: [[Martial Talent]]

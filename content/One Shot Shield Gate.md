@@ -9,7 +9,7 @@ _[[2nd Level Spell]]_
 
 _\*Which you take when you are hit by an [[Attack]] or [[Area of Effect]] that causes damage_
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Effect**:: blocks next incoming attacks
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 

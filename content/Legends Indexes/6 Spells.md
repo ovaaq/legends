@@ -39,6 +39,6 @@ Arcane Spellcasting is when you have practised, memorised and learned the arcane
 | :-------: | :--------: | :----------------: | :----------: | :-----------------------: |
 |  Arcane   |    Mana    | Learned & Prepared |  Spellbook   |     Learn new spells.     |
 |  Divine   |    Mana    |      Prepared      |      No      |             -             |
-|  Inborn   |    Mana    |      Learned       |      No      |             -             |
+|  Innate   |    Mana    |      Learned       |      No      |             -             |
 | Spiritual |    Mana    |      Prepared      |  Spell list  | Strongest ritual casting. |
 |   Pact    | Spell slot |      Learned       |      No      |       Spell slots.        |

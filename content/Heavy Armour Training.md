@@ -1,7 +1,9 @@
 **Requirements**:: [[Medium Armour Training]]
 **Cost**:: 1 LP
 
-You ignore the [[Untrained Armour Penalty]] when wearing [[Heavy Armour]].
+_lore_
+
+Wearing [[Heavy Armour]] will not impose [[Untrained Armour Penalty]].
 
 **Tree**:: [[Defence Talent Tree]]
 **Group**:: [[Martial Talent]]

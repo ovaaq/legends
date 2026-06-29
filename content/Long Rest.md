@@ -1,3 +1,20 @@
+While resting 8 hours, which 2 hours can be spent doing [[Camp Actions]]. Rest of it must be sleeping.
+
+While doing this you gain benefits:
+
+- You gain MAX HP / 3 + [[Constitution]] amount of [[Hit Point]]
+- You gain half of your [[Hit Die|Hit Dice]]
+- Many Talent Resources regain
+
+If you sleep in Good Condition
+
+- Your [[Exhausted]] level degreases by one
+
+if you sleep in Bad Condition
+
+- You do not regain [[Hit Die]]
+- Each Talent Resource you gain is halved eg (Mana, Stamina, Spirit Point, Faith Point, etc.)
+
 <div style="padding: 1.5rem; border: 1px solid var(--lightgray); border-radius: 8px; background-color: var(--light); max-width: 350px;">
   <h3 style="margin-top: 0;">Long Rest Recovery</h3>
 
