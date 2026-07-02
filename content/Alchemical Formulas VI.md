@@ -1,5 +1,5 @@
-**Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Requirements**:: [[Alchemical Formulas V]]
+**Cost**:: 2 LP
 
 _Flavour text_.
 

@@ -1,5 +1,5 @@
-**Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Requirements**:: [[Alchemical Formulas IV]]
+**Cost**:: 2 LP
 
 _Flavour text_.
 
@@ -7,7 +7,7 @@ Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Form
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[Alchemical Formulas VI]]
 
 ---
 
