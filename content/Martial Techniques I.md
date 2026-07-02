@@ -15,6 +15,7 @@ _Flavour text_.
 | [[Brute Strike.md\|Brute Strike]]                 |
 | [[Commander’s Strike.md\|Commander’s Strike]]     |
 | [[Crushing Grip.md\|Crushing Grip]]               |
+| [[Desperate Stand.md\|Desperate Stand]]           |
 | [[Dirty Hit.md\|Dirty Hit]]                       |
 | [[Disarming Attack.md\|Disarming Attack]]         |
 | [[Distracting Strike.md\|Distracting Strike]]     |
