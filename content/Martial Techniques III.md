@@ -14,7 +14,8 @@ learn 1 from the list.
 | [[Misdirection.md\|Misdirection]]             |
 | [[Vorpal Strike.md\|Vorpal Strike]]           |
 
-**Group**:: Martial
+**Tree**:: [[Martial Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**::
 
 ---

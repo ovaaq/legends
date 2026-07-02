@@ -5,7 +5,8 @@ _With great work you hone your skills in martial weaponry. Finding way to total 
 
 Increase the [[Rank]] of [[Martial Skill]] by 1.
 
-**Group**:: Martial
+**Tree**:: [[Martial Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**::
 
 ---

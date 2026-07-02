@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You have learned to regain some of your magical energy by studying your [[Spellbook]]. Once per day when you finish a [[Short Rest]], you can recover [[Intelligence]] + 1 amount of [[Mana Point]].
+You have learned to regain some of your magical energy by studying your [[Spellbook]]. Once per day when you finish a [[Short Rest]], you can recover [[Intelligence]] + 1 amount of [[Mana Point|Mana Points]].
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

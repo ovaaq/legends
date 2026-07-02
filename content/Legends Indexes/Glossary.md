@@ -128,7 +128,7 @@
 | [[Investigation.md\|Investigation]]                               |
 | [[Invisible.md\|Invisible]]                                       |
 | [[Known Spell.md\|Known Spell]]                                   |
-| [[00 - Inbox/Learned Martial Techniques.md\|Learned Martial Techniques]]                      |
+| [[Learned Martial Techniques.md\|Learned Martial Techniques]]     |
 | [[Legend Point.md\|Legend Point]]                                 |
 | [[Legendary Curative Reagent.md\|Legendary Curative Reagent]]     |
 | [[Legendary Essence.md\|Legendary Essence]]                       |
@@ -198,7 +198,7 @@
 | [[Reagent.md\|Reagent]]                                           |
 | [[Religion.md\|Religion]]                                         |
 | [[Removal Magic.md\|Removal Magic]]                               |
-| [[00 - Inbox/Resource.md\|Resource]]                                                          |
+| [[Resource.md\|Resource]]                                         |
 | [[Resting.md\|Resting]]                                           |
 | [[Restoration Magic.md\|Restoration Magic]]                       |
 | [[Restrained.md\|Restrained]]                                     |
@@ -262,5 +262,5 @@
 | [[Warding Magic.md\|Warding Magic]]                               |
 | [[Weapon.md\|Weapon]]                                             |
 | [[Weapon Attack.md\|Weapon Attack]]                               |
-| [[00 - Inbox/Weapon Attack Modifier.md\|Weapon Attack Modifier]]                              |
+| [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]             |
 | [[Weapon Property.md\|Weapon Property]]                           |

@@ -3,7 +3,7 @@
 
 _Your body grows stronger and more responsive to blood, empowering your attacks with stolen vitality._
 
-**Empowerment.** Your Blood Dice become D8 instead of D6.
+**Empowerment.** Your Blood Dice become d8 instead of d6.
 
 **Bloody Strike**. When you hit with a [[Melee Attack]], you may add 1 Blood Die to the damage roll.
 

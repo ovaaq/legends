@@ -1,5 +1,5 @@
 **Requirements**:: [[Simple Weapon Training]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
@@ -14,7 +14,8 @@ Benefit.
 | [[Power Stance.md\|Power Stance]]           |
 | [[Steady Stance.md\|Steady Stance]]         |
 
-**Group**:: Martial
+**Tree**:: [[Martial Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**:: [[Advanced Fighting Stance]]
 
 ---

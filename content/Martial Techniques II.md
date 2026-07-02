@@ -23,7 +23,8 @@ learn 1 from the list.
 | [[Warding Strike.md\|Warding Strike]]     |
 | [[Wounding Strike.md\|Wounding Strike]]   |
 
-**Group**:: Martial
+**Tree**:: [[Martial Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**:: [[Martial Techniques III]]
 
 ---
