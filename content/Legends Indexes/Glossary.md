@@ -219,6 +219,7 @@
 | [[Spell List.md\|Spell List]]                                     |
 | [[Spell Save DC.md\|Spell Save DC]]                               |
 | [[Spell Slot.md\|Spell Slot]]                                     |
+| [[Spellbook.md\|Spellbook]]                                       |
 | [[Spellcasting.md\|Spellcasting]]                                 |
 | [[Spellcasting Focus.md\|Spellcasting Focus]]                     |
 | [[Spirit Point.md\|Spirit Point]]                                 |

@@ -8,7 +8,7 @@ Increase [[Rank]] of [[Alchemy]] by 1.
 You gain following benefits:
 
 - You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]].
-- You select two [[Alchemical Formula|Alchemical Formulas]] from the list below and add them to your [[Alchemy Book]]. Rest of the spells are added to your [[Alchemical Formula List]].
+- You select two [[Alchemical Formula|Alchemical Formulas]] from the list below and add them to your [[Alchemy Book]]. Rest of the [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]].
   - [[Common Poison Formula]]
   - [[Common Antidote Formula]]
   - [[Common Acid Formula]]
