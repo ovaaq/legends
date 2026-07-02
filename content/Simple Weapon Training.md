@@ -3,11 +3,18 @@
 
 _You have practised the basics of weaponry. Now, your path to martial excellence begins._
 
-You ignore the [[Untrained Weapon Penalty]] for attacks with [[Simple Weapon]].
+Increase [[Rank]] of [[Martial Skill]] by 1.
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+Using [[Simple Weapon|Simple Weapons]] will not impose [[Untrained Weapon Penalty]].
+
+**[[Martial Save DC]]** = 8 + [[Martial Skill]] [[Rank]] + [[Strength]] or [[Precision]]
+**[[Weapon Attack Modifier]]** = [[Martial Skill]] [[Rank]] + [[Strength]] or [[Precision]]
+
+This [[Talent]] can be taken once.
+
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Advanced Weapon Training]]
+**Following**:: [[Advanced Weapon Training]], [[Martial Practice]], [[Fighting Stance]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
 
 ---
 

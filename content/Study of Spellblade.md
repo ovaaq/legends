@@ -3,7 +3,7 @@
 
 _Your inspiration from martial weaponry has lead to study of spellblade, branch of arcane study where magic is wield in hands of powerful casters. As the mana you spend become extension of your arms. You are a tough match to any martial fighter in the perfect combination magic and might_.
 
-As an [[Action]], you conjure weapons made of pure magical energy. These weapons last for 1 hour or until you dismiss them as a [[Free Action]].
+**Spellblades.** As an [[Action]], you conjure weapons made of pure magical energy. These weapons last for 1 hour or until you dismiss them as a [[Free Action]].
 
 The weapons have the [[Light]] property to you, cannot be disarmed, and appear as solid material of glowing arcane force. For you, they count as a [[Simple Focus]], and you can perform [[Somatic Spell Part]] while holding them. When you make a [[Weapon Attack]] with them, you can use your [[Melee Spell Attack]] modifier instead of [[Weapon Attack]] modifier. These attacks still count as [[Weapon Attack|Weapon Attacks]].
 

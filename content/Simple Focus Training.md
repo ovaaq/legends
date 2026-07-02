@@ -1,9 +1,9 @@
 **Requirements**::
 **Cost**:: 1 LP
 
-_You have practised the basics of weaponry. Now, your path to martial excellence begins._
+_You have learned to use spellcasting focus required for spells._
 
-You ignore the [[Untrained Weapon Penalty]] for attacks with [[Simple Focus]].
+Using [[Simple Focus]] will not impose [[Untrained Weapon Penalty]].
 
 **Tree**:: [[Spellcasting Talent Tree]]
 **Group**:: [[Spellcasting Talent]]

@@ -7,7 +7,7 @@
 
 - While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

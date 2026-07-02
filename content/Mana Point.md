@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases:
-  - SP
+  - MP
 ---
 
 [[Resource]]

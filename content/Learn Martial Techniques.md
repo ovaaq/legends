@@ -1,9 +1,9 @@
-**Requirements**::
+**Requirements**:: [[Simple Weapon Training]]
 **Cost**:: 1 LP
 
 _Flavour text_.
 
-Learn 2 Martial Techniques that you have unlocked.
+Learn 3 Martial Techniques that you have unlocked.
 
 **Group**:: Martial
 **Following**::

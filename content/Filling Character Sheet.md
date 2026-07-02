@@ -70,7 +70,7 @@ After assigning Saving Throw Ranks, calculate the [[Saving Throw Modifier]] for 
 
 1. Light / Medium / Heavy Armour Training – _Colour this if you have received training from the [[Defence Talent Tree]]_
 2. Shield Training – _Colour this if you have received training from the [[Defence Talent Tree]]_
-3. Simple / Advanced Weapon Training – _Colour this if you have received training from the [[Weapon Mastery Talent Tree]]_
+3. Simple / Advanced Weapon Training – _Colour this if you have received training from the [[Weapon Master Talent Tree]]_
 4. Martial Skill Ranks – _Recorded in the same way as [[Expert Skill]]_
 
 ### Spellcasting Training
@@ -96,9 +96,9 @@ After assigning Saving Throw Ranks, calculate the [[Saving Throw Modifier]] for 
    3. Current HP – _Equals your starting [[Hit Point|HP]]_
 
 5. **Mana Points**
-   1. Max MP – _Starting [[Mana|MP]]= [[Sorcery]]_
-   2. Temp MP – _Temporary [[Mana|MP]] granted by [[Talent|Talents]], [[Spell|Spells]], or similar_
-   3. Current MP – _Equals your starting [[Mana|MP]]_
+   1. Max MP – _Starting [[Mana Point|MP]]= [[Sorcery]]_
+   2. Temp MP – _Temporary [[Mana Point|MP]] granted by [[Talent|Talents]], [[Spell|Spells]], or similar_
+   3. Current MP – _Equals your starting [[Mana Point|MP]]_
 
 6. **Hour Rest**
    1. HP – _[[Constitution]]_

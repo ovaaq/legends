@@ -9,7 +9,7 @@
 
 - When you use the Attack action and attack with a one handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

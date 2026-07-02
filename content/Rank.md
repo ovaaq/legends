@@ -1,12 +1,16 @@
-Ranks represent a character’s level of training and practical experience in a specific [[Skill]] or [[Saving Throw]]. Each Rank grants a +2 bonus to all [[Check|Checks]] made using that [[Skill]] or [[Saving Throw]]. Ranks range from 0, representing no formal training or experience, to 4, representing mastery of the skill.
+Ranks reflect a character’s training and experience in a specific [[Skill]] or [[Saving Throw]]. Each Rank provides a +1 bonus to all related [[Check|Checks]]. Ranks range from 0 to 8.
 
-|  Rank | Modifier | Description |
-| :---: | :------: | :---------: |
-|   0   |    +0    |  Untrained  |
-|   1   |    +2    |   Learned   |
-|   2   |    +4    |  Practiced  |
-|   3   |    +6    |   Expert    |
-|   4   |    +8    |   Master    |
+| Rank | Modifier |                         Description                          |
+| :--: | :------: | :----------------------------------------------------------: |
+|  0   |    +0    | **Untrained.** You have no additional knowledge or training. |
+|  1   |    +1    |                                                              |
+|  2   |    +2    |                                                              |
+|  3   |    +3    |                                                              |
+|  4   |    +4    |                    etc something between                     |
+|  5   |    +5    |                                                              |
+|  6   |    +6    |                                                              |
+|  7   |    +7    |                                                              |
+|  8   |    +8    | **Master.** You are one of the best with strongest training. |
 
 ---
 

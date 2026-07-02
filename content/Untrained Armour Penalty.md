@@ -1,4 +1,4 @@
-Disadvantage attacks rolls and cannot cast spells
+-5 to attacks rolls and cannot cast spells
 
 ---
 

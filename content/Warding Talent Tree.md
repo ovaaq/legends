@@ -1,5 +1,5 @@
 - [[Study of Warding]]
-  - [[Rune Armour]]
+  - [[Wardens Protection]]
     - [[Expanded Shield]]
       - [[Improved Warding]]
         - [[Spell Resistance]]

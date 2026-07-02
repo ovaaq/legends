@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You can cast [[Call Lightning]] without spending [[Mana]]. Once used, this talent cannot be used again for three days.
+You can cast [[Call Lightning]] without spending [[Mana Point]]. Once used, this talent cannot be used again for three days.
 
 **Group**:: [[Ancestry Talent]]
 **Following**::

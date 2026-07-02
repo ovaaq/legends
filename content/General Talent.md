@@ -1,4 +1,4 @@
-General [[Talent|Talents]] are common and miscellaneous improvements for your character, such as increased [[Hit Point|Hit Points]], [[Mana]], and other basic enhancements. They also include a few Talent Trees that don’t fit into any specific category.
+General [[Talent|Talents]] are common and miscellaneous improvements for your character, such as increased [[Hit Point|Hit Points]], [[Mana Point]], and other basic enhancements. They also include a few Talent Trees that don’t fit into any specific category.
 
 Mental, Poison & Alchemy trees are not priority atm.
 

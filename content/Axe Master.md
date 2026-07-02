@@ -11,7 +11,7 @@ In your hands axes are more lethal.
 1d10 becomes 1d12
 1d12 becomes 3d4
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

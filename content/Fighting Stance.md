@@ -1,4 +1,4 @@
-**Requirements**:: [[Advanced Weapon Training]]
+**Requirements**:: [[Simple Weapon Training]]
 **Cost**:: 1 LP
 
 _Flavour text_.

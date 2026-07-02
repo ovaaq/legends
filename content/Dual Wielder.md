@@ -8,7 +8,7 @@ You master fighting with two weapons, gaining the following benefits:
 - You can dual wield one light and one non light weapon.
 - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Twinblade Master]]
 

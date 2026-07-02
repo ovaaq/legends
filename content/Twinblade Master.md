@@ -5,7 +5,7 @@
 
 you can wield two non light weapons
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

@@ -1,15 +1,15 @@
-**Requirements**::
-**Cost**:: 1 LP
+**Requirements**:: [[Simple Weapon Training]]
+**Cost**:: 3 LP
 
-_With great work you hone your skills in martial weaponry. Finding way to total mastery._
+_You have practised the basics of weaponry. Now, your path to martial excellence begins._
 
-hit +1
+benefit
 
-**Group**:: Martial
-**Following**::
+**Tree**:: [[Weapon Master Talent Tree]]
+**Group**:: [[Martial Talent]]
+**Following**:: [[Extra Extra Attack]]
 
 ---
 
-#talent #martial
-
-[[Talent]]
+#talent #martial #weapon
+[[Talent]][[Martial Talent]]

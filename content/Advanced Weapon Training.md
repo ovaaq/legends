@@ -3,9 +3,9 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons.
 
-You ignore the [[Untrained Weapon Penalty]] for attacks with [[Advanced Weapon]].
+Using [[Advanced Weapon|Advanced Weapons]] will not impose [[Untrained Weapon Penalty]].
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Polearmist]], [[Arbalist]], [[Axeman]], [[Swordman]], [[Hammerer]], [[Archer]], [[Dual Wielder]]
 

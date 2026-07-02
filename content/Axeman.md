@@ -5,7 +5,7 @@
 
 Once per turn you can reroll weapon damage, you must use the new roll.
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Axe Master]]
 

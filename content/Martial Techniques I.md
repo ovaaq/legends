@@ -1,17 +1,15 @@
-**Requirements**::
+**Requirements**:: [[Simple Weapon Training]]
 **Cost**:: 3 LP
 
 _Flavour text_.
 
-New resource Stamina
+**Stamina.** You use [[Stamina Point|Stamina Points]] to power your techniques. Your [[Stamina Point Maximum]] equals your [[Constitution]] score. You regain all expended [[Stamina Point|Stamina Points]] after a [[Long Rest]].
 
-[[Stamina Point Maximum]] = [[Constitution]]
+**Martial Techniques.** Select four [[1st Level Martial technique|1st Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below:
 
-Regain all back if you gain benefits of 1 hour rest. [[Martial Technique|Martial Techniques]]
+**Perform Technique.** You can do any [[Martial Technique]] listed in your [[Learned Martial Techniques]] list.
 
-Benefit. Learn from list two. Each technique requires X stamina and uses it.
-
-| Martial Techniques                                                            |
+| 1st Level Martial Techniques                                                  |
 | ----------------------------------------------------------------------------- |
 | [[Bait and Switch.md\|Bait and Switch]]           |
 | [[Brute Strike.md\|Brute Strike]]                 |
@@ -38,8 +36,9 @@ Benefit. Learn from list two. Each technique requires X stamina and uses it.
 | [[Trip Attack.md\|Trip Attack]]                   |
 | [[Withdrawing Strike.md\|Withdrawing Strike]]     |
 
-**Group**:: Martial
-**Following**:: [[Martial Techniques II]]
+**Tree**:: [[Martial Talent Tree]]
+**Group**:: [[Martial Talent]]
+**Following**:: [[Martial Techniques II]], [[Increased Stamina]], [[Learn Martial Techniques]]
 
 ---
 

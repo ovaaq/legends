@@ -5,7 +5,7 @@
 
 x
 
-**Tree**:: [[Weapon Mastery Talent Tree]]
+**Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Crossbow Master]]
 

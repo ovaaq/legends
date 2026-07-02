@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You can cast [[Misty Step]] once per [[Long Rest]] without spending [[Mana]]. You can also cast it additional times by spending [[Mana]] as normal.
+You can cast [[Misty Step]] once per [[Long Rest]] without spending [[Mana Point]]. You can also cast it additional times by spending [[Mana Point]] as normal.
 
 **Group**:: [[Ancestry Talent]]
 **Following**::
