@@ -1,6 +1,6 @@
 - [[Alchemy Initiate]]
   - [[Learn Alchemical Formulas]]
-    - [[Alchemical Aptitude]]
+    - [[Safety Measures]]
       - [[Improved Yield]]
         - [[Alchemical Deconstruction]]
   - [[Experimental Elixir]]

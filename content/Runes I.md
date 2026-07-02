@@ -5,6 +5,8 @@ _Flavour text_.
 
 Benefit.
 
+[[1st Level Rune]]
+
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[General Talent]]
 **Following**:: [[Runes II]]

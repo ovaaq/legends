@@ -3,7 +3,9 @@
 
 _Flavour text_.
 
-Gain 2 [[Rank|Ranks]] in [[Survival]].
+Increase [[Survival]] [[Rank]] by 3.
+
+This [[Talent]] can be taken once.
 
 **Group**:: [[Ancestry Talent]]
 **Following Talents**::

@@ -4,6 +4,7 @@
 _Flavour text_.
 
 Benefit.
+[[4th Level Rune]]
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[General Talent]]

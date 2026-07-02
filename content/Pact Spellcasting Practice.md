@@ -1,9 +1,9 @@
 **Requirements**:: [[Pact Spellcasting]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-Benefit.
+Increase [[Rank]] of [[Pact Spellcasting Skill]] by 1.
 
 **Group**:: Pact
 **Following**::

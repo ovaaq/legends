@@ -22,6 +22,7 @@
 | [[Masonry.md\|Masonry]]               |
 | [[Military.md\|Military]]             |
 | [[Musicality.md\|Musicality]]         |
+| [[Runecraft.md\|Runecraft]]           |
 | [[Sailing.md\|Sailing]]               |
 | [[Smithing.md\|Smithing]]             |
 

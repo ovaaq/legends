@@ -1,9 +1,9 @@
 **Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
++1 product on succesfull check
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

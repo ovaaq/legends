@@ -11,6 +11,7 @@
 | Str | Agi | Pre | Con | Awa | Cha | Int | Sor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | +1  | +2  | +2  | +1  | +1  | -3  | -4  | -3  |
+
 **Construct**: Immunity to mind-affecting effects, disease, poison, paralysis, sleep effects, stunning, death effects, and necromancy effects.
 
 **Ropy**. [[Vulnerability]] to [[Slashing Damage]].

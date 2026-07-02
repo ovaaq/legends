@@ -3,7 +3,11 @@
 
 _Flavour text_.
 
-Increase the [[Rank]] of three different [[General Skill|General Skills]] by 1, or increase the [[Rank]] of one [[Expert Skill]] by 1 and one [[General Skill]].
+Choose one of the following:
+
+- Increase [[Rank]] of one [[General Skill]] by 2.
+- Increase [[Rank]] of three different [[General Skill|General Skills]] by 1.
+- Increase [[Rank]] of one [[General Skill]] and one [[Expert Skill]] by 1.
 
 **Tree**:: [[Capability Talent Tree]]
 **Group**:: [[General Talent]]

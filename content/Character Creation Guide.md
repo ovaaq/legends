@@ -404,6 +404,7 @@ Using an [[Expert Skill|Expert Skill]] differs slightly from using a [[General S
 | [[Masonry.md\|Masonry]]               |
 | [[Military.md\|Military]]             |
 | [[Musicality.md\|Musicality]]         |
+| [[Runecraft.md\|Runecraft]]           |
 | [[Sailing.md\|Sailing]]               |
 | [[Smithing.md\|Smithing]]             |
 

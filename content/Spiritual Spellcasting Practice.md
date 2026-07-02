@@ -1,5 +1,5 @@
 **Requirements**:: [[Spiritual Spellcasting]]
-**Cost**:: 3 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 

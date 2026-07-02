@@ -20,7 +20,7 @@ You gain following benefits:
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**:: [[Learn Alchemical Formulas]],  [[Alchemical Aptitude]], [[Experimental Elixir]], [[Combat Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]]
+**Following**:: [[Learn Alchemical Formulas]],  [[Safety Measures]], [[Experimental Elixir]], [[Combat Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]]
 
 ---
 

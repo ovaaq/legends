@@ -4,6 +4,7 @@
 _Flavour text_.
 
 Benefit.
+[[1st Level Ki Technique]]
 
 **Group**:: Martial
 **Following**:: [[Learn Ki Technique]], [[Ki Techniques II]]

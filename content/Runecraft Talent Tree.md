@@ -1,6 +1,5 @@
 - [[Runecraft Initiate]]
   - [[Learn Runes]]
-  - [[Runecraft Practice]]
   - [[More Active Runes]]
   - [[Runic Shield]]
     - [[temporarily bolster]]

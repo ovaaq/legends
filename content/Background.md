@@ -6,9 +6,9 @@ A background includes the following:
 
 **Ability Scores.** A background lists four [[Ability Score|Ability Scores]]. Increase three of them by 1.
 
-**Saving Throws.** A background lists three [[Saving Throw|Saving Throws]]. Increase two of them by 1 [[Rank]].
+**Saving Throws.** Distribute 4 [[Rank|Ranks]] among a list of [[Saving Throw|Saving Throws]] listed in background.
 
-**General Skill Ranks.** Distribute 4 [[Rank|Ranks]] among a list of [[General Skill|General Skills]] listed in background.
+**General Skill Ranks.** Distribute 8 [[Rank|Ranks]] among a list of [[General Skill|General Skills]] listed in background.
 
 **Expert Skill Ranks.** Distribute 3 [[Rank|Ranks]] among a list of [[Expert Skill|Expert Skills]] listed in background.
 

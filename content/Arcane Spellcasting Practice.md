@@ -1,5 +1,5 @@
 **Requirements**:: [[Arcane Spellcasting]]
-**Cost**:: 3 LP
+**Cost**:: 2 LP
 
 _Flavour._
 

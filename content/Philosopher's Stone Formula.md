@@ -12,7 +12,7 @@ _[[6th Level Alchemical Formula]]_
 **Critical Success:** You create 2 [[Vial of Poison|Vials of Poison]] instead of 1.
 **Success:** You create 1 [[Vial of Poison]].
 **Failure:** Time is wasted, but ingredients are saved.
-**Critical Failure:** Ingredients are lost. Roll 1d12 on the [[Alchemical Hazard Table]].
+**Critical Failure:** Ingredients are lost. Roll 1d12 on the [[Alchemy Hazard Table]].
 
 ---
 

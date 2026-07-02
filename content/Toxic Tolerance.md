@@ -1,5 +1,5 @@
 **Requirements**:: [[Favourable Exposure]]
-**Cost**:: 3 LP
+**Cost**:: 2 LP
 
 _Your body is beginning to get used to all sort of things._
 

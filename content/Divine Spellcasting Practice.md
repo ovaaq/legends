@@ -1,9 +1,9 @@
 **Requirements**:: [[Divine Spellcasting]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-Benefit.
+Increase [[Rank]] of [[Divine Spellcasting Skill]] by 1.
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]
