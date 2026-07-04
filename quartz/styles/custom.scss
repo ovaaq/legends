@@ -3,6 +3,11 @@
 
 // put your custom CSS here!
 
+body {
+  --file-line-width: 1000px;
+}
+
+
 /* 1. Hide the right sidebar completely */
 .sidebar.right {
   display: none !important;
