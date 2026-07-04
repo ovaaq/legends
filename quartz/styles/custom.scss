@@ -3,24 +3,23 @@
 
 // put your custom CSS here!
 
-
-/* 1. Hide the right sidebar completely */
-.sidebar.right {
-  display: none !important;
-}
-
-/* Balance layout and remove the empty right column on desktop */
 @media all and (min-width: 1200px) {
+  /* 1. Force the master container to be wider */
   .page {
-    /* 1. Increase the overall site width limit so your wider center actually fits */
-    max-width: 1600px !important; 
+    max-width: 1500px !important; 
     
-    /* 2. Force a 2-column layout (Left Sidebar + Main Content) to kill the right-side gap */
-    /* You can adjust the 300px if you want the left sidebar to be wider/narrower */
-    grid-template-columns: 300px minmax(0, 1000px) !important;
-    
-    /* 3. Perfectly center this new layout block on your screen */
-    justify-content: center !important;
-    margin: 0 auto !important;
+    /* 2. Redefine grid to TWO columns: Left Sidebar (280px) + Fluid Center (1fr) */
+    grid-template-columns: 280px 1fr !important; 
+  }
+
+  /* 3. Completely hide the empty right container so it stops taking up space */
+  .page .right {
+    display: none !important;
+  }
+
+  /* 4. Remove reading-width limits so the text expands into the new space */
+  .page .center,
+  .page .center article {
+    max-width: 100% !important;
   }
 }
