@@ -9,18 +9,18 @@
   display: none !important;
 }
 
-/* 2. Force full width for the page and content */
-@media all and (min-width: 1024px) {
+/* Balance layout and remove the empty right column on desktop */
+@media all and (min-width: 1200px) {
   .page {
-    /* Adjust grid: Left Sidebar + Remaining space */
-    grid-template-columns: 280px minmax(0, 1fr) !important; 
-  }
-
-  /* Target the center column and the article content to remove max-width constraints */
-  .center, 
-  .page .center .content {
-    max-width: 100% !important;
-    padding-left: 2rem; /* Optional: adds a little breathing room on the left */
-    padding-right: 2rem; /* Optional: adds a little breathing room on the right */
+    /* 1. Increase the overall site width limit so your wider center actually fits */
+    max-width: 1600px !important; 
+    
+    /* 2. Force a 2-column layout (Left Sidebar + Main Content) to kill the right-side gap */
+    /* You can adjust the 300px if you want the left sidebar to be wider/narrower */
+    grid-template-columns: 300px minmax(0, 1000px) !important;
+    
+    /* 3. Perfectly center this new layout block on your screen */
+    justify-content: center !important;
+    margin: 0 auto !important;
   }
 }
