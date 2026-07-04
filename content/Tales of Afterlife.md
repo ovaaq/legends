@@ -1,4 +1,4 @@
-**Requirements**:: [[Spectral Gaze]]
+**Requirements**:: [[Soul Conduit]]
 **Cost**:: 1 LP
 
 _Flavour text_.

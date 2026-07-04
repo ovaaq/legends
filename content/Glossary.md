@@ -118,6 +118,7 @@
 | [[Identify Spell.md\|Identify Spell]]                             |
 | [[Immobilized.md\|Immobilized]]                                   |
 | [[Incapacitated.md\|Incapacitated]]                               |
+| [[00 - Inbox/Incorporeal.md\|Incorporeal]]                                                    |
 | [[Infernal Ancestry.md\|Infernal Ancestry]]                       |
 | [[Initiative.md\|Initiative]]                                     |
 | [[Initiative Order.md\|Initiative Order]]                         |

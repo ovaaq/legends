@@ -1,15 +1,15 @@
 **Requirements**:: [[Path of Afterlife]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-Benefit.
+Your aura carries the distinct scent of the grave. The living feel a slight shiver when you walk past. You gain a +1d6 bonus to [[Intimidation]] [[Check|Checks]] and gain [[Resistance]] to [[Necrotic Damage]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Spectral Gaze]]
+**Following**:: [[Soul Conduit]]
 
 ---
 
-#talent
+#talent #spiritual #afterlife
 [[Talent]]

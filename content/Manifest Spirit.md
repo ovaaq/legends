@@ -1,4 +1,4 @@
-**Requirements**:: [[Spirit Vessel]]
+**Requirements**:: [[Tales from Beyond]]
 **Cost**:: 1 LP
 
 _Flavour text_.
