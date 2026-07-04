@@ -2,22 +2,3 @@
 @use "./syncer";
 
 // put your custom CSS here!
-
-/* 1. Force the page to use only 2 columns instead of 3 */
-.page {
-  display: grid !important;
-  /* Adjust the '1800px' if you want the left sidebar to be a different size */
-  grid-template-columns: 1800px minmax(0, 1fr) !important;
-}
-
-/* 2. Hide the right-hand column entirely so it stops pushing content */
-.page .right {
-  display: none !important;
-}
-
-/* 3. Remove the max-width restriction on the main text content */
-.page .center {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding: 0 40px !important; /* Adjust padding to your liking */
-}
