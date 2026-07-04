@@ -74,7 +74,7 @@
 | :--------------------------------: | :---------------------------------------------------------------------------------------: |
 | Unused [[Legend Point\|Hero Points]] |                                             -                                             |
 |       [[Hit Point Maximum]]        |                                   10 + [[Constitution]]                                   |
-|          [[Mana Maximum]]          |                                        [[Sorcery]]                                         |
+|          [[Mana Point Maximum]]          |                                        [[Sorcery]]                                         |
 |          [[Armour Class]]          |                                             8                                             |
 |         [[Evasion Class]]          |                                     10 + [[Agility]]                                      |
 |      [[Initiative Modifier]]       |                                        [[Agility]]                                        |

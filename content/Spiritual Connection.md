@@ -9,7 +9,7 @@ _Flavour text_.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Spiritual Spellcasting]], [[Spirit Guide]], [[Ethereal Sight]], [[Draw Energy]], [[Turn Spirits]], [[Path of Beast]], [[Path of Nature]], [[Path of Afterlife]], [[Path of Elements]]
+**Following**:: [[Spiritual Spellcasting]], [[Spirit Guide]], [[Ethereal Sight]], [[Essence Flow]], [[Turn Spirits]], [[Path of Beast]], [[Path of Nature]], [[Path of Afterlife]], [[Path of Elements]]
 
 ---
 

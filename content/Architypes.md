@@ -15,3 +15,16 @@ https://www.reddit.com/r/RPGdesign/comments/1t12w94/conceptually\_what\_makes\_a
 - [Martial Artists](https://www.reddit.com/r/RPGdesign/comments/1swi41p/why_do_you_like_playing_a_martial_artist/)
 
 ![[99 - Files/Pasted image 20250912184236.png]]
+
+| Fantasy                | D\&D Support | Legends Potential |
+| ---------------------- | ----------- | ----------------- |
+| Monster Hunter         | ★★☆☆☆       | ★★★★★             |
+| Master Blacksmith      | ★☆☆☆☆       | ★★★★★             |
+| Rune Programmer        | ☆☆☆☆☆       | ★★★★★             |
+| Spirit Medium          | ★★☆☆☆       | ★★★★★             |
+| Arcane Engineer        | ★★☆☆☆       | ★★★★★             |
+| Beast Evolver          | ★★☆☆☆       | ★★★★★             |
+| Relic Collector        | ★☆☆☆☆       | ★★★★★             |
+| Vampire Hunter         | ★★☆☆☆       | ★★★★★             |
+| Treasure Archaeologist | ★★☆☆☆       | ★★★★★             |
+| Magical Merchant       | ☆☆☆☆☆       | ★★★★★             |

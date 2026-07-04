@@ -23,7 +23,7 @@ Hello there! You have found Legends TTRPG wiki. This website host current and ev
 
 #### Playing Legends
 
-[[1 Playing Legends]]
+[[1 Core Rules]]
 [[Encounter Actions]]
 [[Resting]]
 [[Injury]]

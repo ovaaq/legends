@@ -127,7 +127,7 @@ When creating a character, you assign values to eight [[Ability Score|Ability Sc
 
 - **Combat:** Add Sorcery to [[Spell Attack|Spell Attacks]]
 - **Combat:** [[Spell Save DC]] equals 8 + [[Spellcasting Skill]] + [[Sorcery]]
-- **Mana:** Starting [[Mana Maximum]] equals [[Sorcery]]
+- **Mana:** Starting [[Mana Point Maximum]] equals [[Sorcery]]
 
 ### Using Standard Array
 

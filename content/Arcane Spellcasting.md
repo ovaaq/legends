@@ -39,6 +39,8 @@ These spells are added to your [[Arcane Spell List]]:
 > [!info] Prepared Spells
 > Number of Prepared Arcane Spells = 2 + [[Arcane Spellcasting Skill]] [[Rank]] + [[Intelligence]]
 
+**Mana.** You use [[Mana Point|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana Point|Mana Points]] after a [[Long Rest]].
+
 **Casting Spells.** You can cast any spell listed in your [[Prepared Arcane Spells]].
 
 **[[Spell Save DC]]** = 8 + [[Arcane Spellcasting Skill]] [[Rank]] + [[Sorcery]]

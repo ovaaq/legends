@@ -29,6 +29,8 @@ These spells are added to your [[Innate Spell List]]:
 
 **Innate Ability.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Innate Spell List]] and add them to your [[Learned Innate Spells]] list.
 
+**Mana.** You use [[Mana Point|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana Point|Mana Points]] after a [[Long Rest]].
+
 **Casting Spells.** You can cast any spell listed in your [[Learned Innate Spells]] list.
 
 **[[Spell Save DC]]** = 8 + [[Innate Spellcasting Skill]] [[Rank]] + [[Sorcery]]
