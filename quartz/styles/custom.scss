@@ -3,14 +3,6 @@
 
 // put your custom CSS here!
 
-:root {
-  /* The default Quartz page width is 800px. Increase this to your preference. */
-  --page-width: 1000px; 
-}
-
-.center {
-  max-width: 1000px !important;
-}
 
 /* 1. Hide the right sidebar completely */
 .sidebar.right {
@@ -32,3 +24,6 @@
     padding-right: 2rem; /* Optional: adds a little breathing room on the right */
   }
 }
+
+$pageWidth: 1000px;
+
