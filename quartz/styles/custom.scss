@@ -3,23 +3,21 @@
 
 // put your custom CSS here!
 
-@media all and (min-width: 1200px) {
-  /* 1. Force the master container to be wider */
-  .page {
-    max-width: 1500px !important; 
-    
-    /* 2. Redefine grid to TWO columns: Left Sidebar (280px) + Fluid Center (1fr) */
-    grid-template-columns: 280px 1fr !important; 
-  }
+/* 1. Force the page to use only 2 columns instead of 3 */
+.page {
+  display: grid !important;
+  /* Adjust the '280px' if you want the left sidebar to be a different size */
+  grid-template-columns: 280px minmax(0, 1fr) !important;
+}
 
-  /* 3. Completely hide the empty right container so it stops taking up space */
-  .page .right {
-    display: none !important;
-  }
+/* 2. Hide the right-hand column entirely so it stops pushing content */
+.page .right {
+  display: none !important;
+}
 
-  /* 4. Remove reading-width limits so the text expands into the new space */
-  .page .center,
-  .page .center article {
-    max-width: 100% !important;
-  }
+/* 3. Remove the max-width restriction on the main text content */
+.page .center {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 40px !important; /* Adjust padding to your liking */
 }
