@@ -3,7 +3,16 @@
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Divine Spell List]].
+
+##### Cantrips
+
+- [[Acid Splash]]
+
+##### 1st Level Spells
+
+- [[Absorb Elements]]
+-
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]

@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-These spells are added to your [[Arcane Spell List]]:
+These spells are added to your [[Arcane Spell List]]. Additionally, choose either three [[Cantrip|Cantrips]] or two [[Spell|Spells]] from this list and add them to your [[Spellbook]].
 
 ##### Cantrips
 

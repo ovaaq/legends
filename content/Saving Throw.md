@@ -1,10 +1,13 @@
-Saving throws are dice rolls representing a creature's attempt to “save” themselves from harm.
+Saving throws are dice rolls representing a creature's attempt to “save” themselves from harm. There are 5 types of Saving Throws:
 
-[[Agility Saving Throw]]
-[[Charisma Saving Throw]]
-[[Strength Saving Throw]]
-[[Constitution Saving Throw]]
-[[Intelligence Saving Throw]]
+| Saving Throw                  | What is it for                 |
+| ----------------------------- | ------------------------------ |
+| [[Agility Saving Throw]]      | avoid incoming danger          |
+| [[Charisma Saving Throw]]     | resist being controlled        |
+| [[Strength Saving Throw]]     | resist being physically binded |
+| [[Constitution Saving Throw]] | resist harmful effects         |
+| [[Intelligence Saving Throw]] | resist mental challenges       |
+When you have a Saving Throw [[Game Master]] will compare it against the [[Saving Throw Difficulty Class]]:
 
 **Critical Success:** You achieve a critical success if your roll exceeds the Difficulty Class (DC) by 10 or more, or if you roll a natural 20 and the check succeeds.
 

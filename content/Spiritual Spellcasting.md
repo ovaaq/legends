@@ -12,9 +12,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Chill Touch]]
 - [[Message]]
 - [[Mind Sliver]]
-- [[Mocking Taunt]]
 - [[Produce Flame]]
-- [[Shadow Tendril]]
 - [[Spectral Grasp]]
 - [[Starry Wisp]]
 - [[Thaumaturgy]]
@@ -23,7 +21,6 @@ These spells are added to your [[Spiritual Spell List]]:
 
 - [[Guidance]]
 - [[Silent Image]]
-- [[Skywrite]]
 - [[Summon Lesser Spirit]]
 - [[Unseen Servant]]
 - [[Detect Magic]]

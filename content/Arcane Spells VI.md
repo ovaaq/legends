@@ -3,7 +3,11 @@
 
 _Flavour text_.
 
-## These spells are added to your [[Arcane Spell List]]:
+These spells are added to your [[Arcane Spell List]]. Additionally, choose two [[Spell|Spells]] from this list and add them to your [[Spellbook]].
+
+##### 6th Level Spells
+
+-
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

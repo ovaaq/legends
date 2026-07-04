@@ -12,12 +12,8 @@ These spells are added to your [[Divine Spell List]]:
 - [[Close Wounds]]
 - [[Glow]]
 - [[Guiding Strike]]
-- [[Holy Arrow]]
 - [[Sacred Flame]]
-- [[Shillelagh]]
 - [[Thaumaturgy]]
-- [[Thunderbolt]]
-- [[Withering Touch]]
 
 ##### 1st Level Spells
 

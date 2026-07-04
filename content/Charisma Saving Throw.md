@@ -1,4 +1,4 @@
-[[Saving Throw]]
+[[Saving Throw]] to resist being controlled.
 
 ---
 

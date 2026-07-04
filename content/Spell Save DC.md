@@ -1,4 +1,4 @@
-[[Save DC]]
+[[Saving Throw Difficulty Class]]
 
 ---
 
