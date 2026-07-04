@@ -6,8 +6,8 @@
 /* 1. Force the page to use only 2 columns instead of 3 */
 .page {
   display: grid !important;
-  /* Adjust the '1280px' if you want the left sidebar to be a different size */
-  grid-template-columns: 1280px minmax(0, 1fr) !important;
+  /* Adjust the '1800px' if you want the left sidebar to be a different size */
+  grid-template-columns: 1800px minmax(0, 1fr) !important;
 }
 
 /* 2. Hide the right-hand column entirely so it stops pushing content */
