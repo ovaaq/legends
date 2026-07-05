@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Soul Bond]]
 **Cost**:: 1 LP
 
 _Flavour text_.

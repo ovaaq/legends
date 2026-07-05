@@ -7,7 +7,8 @@ _Flavour text_.
 
 **Master’s Will.** Yes yes master by servant.
 
-**Group**:: Pact
+**Tree**:: [[Celestial Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**::
 
 ---

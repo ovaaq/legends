@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Elusive]]
 **Cost**:: 1 LP
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._

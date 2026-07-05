@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Servant of Dragon]]
 **Cost**:: 1 LP
 
 _Flavour text_.

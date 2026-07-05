@@ -1,5 +1,5 @@
 - [[Increased Ability]]
-- [[Skilled]]
+- [[Increased Skill]]
   - [[Reliable Talent]]
   - [[Jack of All Trades]]
 

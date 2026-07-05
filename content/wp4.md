@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Unstable Aura]]
 **Cost**:: 1 LP
 
 _Flavour text_.

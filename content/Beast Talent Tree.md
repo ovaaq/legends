@@ -1,6 +1,6 @@
 - [[Path of Beast]]
   - [[Wild Shape]]
-    - [[Enduring Form]]
+    - [[Aquatic Form]]
       - [[Wings of the Wild]]
         - [[King of Beasts]]
   - [[Animal Companion]]

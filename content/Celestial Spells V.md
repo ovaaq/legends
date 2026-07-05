@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Celestial Spells IV]]
 **Cost**:: 1 LP
 
 _Flavour text_.

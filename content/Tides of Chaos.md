@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Wild Magic Surge]]
 **Cost**:: 1 LP
 
 _Flavour text_.

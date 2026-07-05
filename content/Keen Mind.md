@@ -5,7 +5,7 @@ _Flavour text_.
 
 x
 
-**Group**:: General
+**Group**:: [[General Talent]]
 **Following**::
 
 ---

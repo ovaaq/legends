@@ -5,11 +5,12 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: General
-**Following Talents**::
+**Tree**:: [[Narrative Talent List]]
+**Group**:: [[Narrative Talent]]
+**Following**::
 
 ---
 
-#talent
+#talent #narrative
 
 [[Talent]] [[Elven Ancestry]] [[Ancestry Talent]]

@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Twisted Body]]
 **Cost**:: 1 LP
 
 _Flavour text_.

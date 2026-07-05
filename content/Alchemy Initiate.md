@@ -1,4 +1,4 @@
-**Requirements**:: [[Intelligence]] > 0
+**Requirements**::
 **Cost**:: 2 LP
 
 _You're an alchemist._

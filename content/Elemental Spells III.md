@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Elemental Spells II]]
 **Cost**:: 1 LP
 
 _Flavour text_.

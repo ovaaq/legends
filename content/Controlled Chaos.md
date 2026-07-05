@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Bend Luck]]
 **Cost**:: 1 LP
 
 _Flavour text_.

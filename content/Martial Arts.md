@@ -5,7 +5,8 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Martial
+**Tree**:: [[Ki Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**:: [[Ki Unlocked]]
 
 ---

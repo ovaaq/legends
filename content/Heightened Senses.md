@@ -1,4 +1,4 @@
-**Requirement**:: [[Mark of Bite]]
+**Requirements**:: [[Mark of Bite]]
 **Cost**:: 1 LP
 
 _Flavour text_.

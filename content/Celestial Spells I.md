@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Servant of Celestial]]
 **Cost**:: 1 LP
 
 _Flavour text_.

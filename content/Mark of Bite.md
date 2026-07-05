@@ -14,7 +14,8 @@ If you go longer than 7 days without feeding, your predatory instincts begin to 
 **Failure:** You must start to hunt a living creature that you can see within 100 meters.
 **Critical Failure:** You immediately attack the nearest living creature.
 
-**Group**:: Innate
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following**:: [[Vampiric Bite]], [[Innate Spellcasting]], [[Heightened Senses]], [[Vampiric Shapeshift]]
 
 ---

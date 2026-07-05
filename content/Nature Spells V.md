@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Nature Spells IV]]
 **Cost**:: 1 LP
 
 _Flavour text_.

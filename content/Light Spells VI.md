@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Light Spells V]]
 **Cost**:: 1 LP
 
 _Flavour text_.

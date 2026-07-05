@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Mark of Wild Magic]]
 **Cost**:: 1 LP
 
 _Flavour text_.

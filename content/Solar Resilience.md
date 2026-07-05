@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Inner Glow]]
 **Cost**:: 1 LP
 
 _Flavour text_.

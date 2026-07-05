@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Bestial Fury]]
 **Cost**:: 1 LP
 
 _Flavour text_.

@@ -3,50 +3,20 @@
 
 _Flavour text_.
 
-These spells are added to your [[Arcane Spell List]]. Additionally, choose either three [[Cantrip|Cantrips]] or two [[Spell|Spells]] from this list and add them to your [[Spellbook]].
-
-##### Cantrips
-
-- [[Acid Splash]]
-- [[Animal Call]]
-- [[Arcane Blast]]
-- [[Chaos Burst]]
-- [[Chill Touch]]
-- [[Corrosive Shot]]
-- [[Deflect]]
-- [[Ethereal Blade]]
-- [[Flame Blade]]
-- [[Flame Burst]]
-- [[Force Wave]]
-- [[Frostbite]]
-- [[Gravity Slam]]
-- [[Ignite]]
-- [[Infestation]]
-- [[Lightning Lure]]
-- [[Mind Sliver]]
-- [[Minor Illusion]]
-- [[Poison Spray]]
-- [[Prismatic Ray]]
-- [[Psychic Shock]]
-- [[Ray of Frost]]
-- [[Sapping Sting]]
-- [[Shocking Grasp]]
-- [[Solar Flare]]
-- [[Telekinetic Throw]]
-- [[Thorn Dart]]
-- [[Thunderclap]]
-- [[Toxic Torrent]]
-- [[Water Bolt]]
-- [[Wind Slash]]
+These spells are added to your [[Arcane Spell List]]. Additionally, choose two [[Spell|Spells]] from this list and add them to your [[Spellbook]].
 
 ##### 1st Level Spells
 
 - [[Absorb Elements]]
+- [[Alarm]]
 - [[Animate Rope]]
 - [[Arcane Arrow]]
-- [[Burning Hands]]
+- [[Arcane Shield]]
 - [[Call Object]]
+- [[Charm Person]]
 - [[Chromatic Orb]]
+- [[Colour Spray]]
+- [[Comprehend Languages]]
 - [[Disguise Self]]
 - [[Fog Cloud]]
 - [[Frost Armour]]
@@ -54,11 +24,15 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose eithe
 - [[Hold Beast]]
 - [[Hold Humanoid]]
 - [[Ice Knife]]
+- [[Identify]]
+- [[Illusory Script]]
 - [[Jump]]
 - [[Long Strider]]
+- [[Silent Image]]
+- [[Sleep]]
 - [[Summon Weapon]]
+- [[Floating Disk]]
 - [[Thunderwave]]
-- [[Unseen Servant]]
 - [[Witch Bolt]]
 
 **Tree**:: [[Arcane Talent Tree]]

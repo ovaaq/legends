@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Martial Techniques I]]
 **Cost**:: 3 LP
 
 _Flavour text_.

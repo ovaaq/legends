@@ -87,7 +87,6 @@ ideas
 | [[Arcane Blast.md\|Arcane Blast]]                     |
 | [[Arcane Mark.md\|Arcane Mark]]                       |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
-| [[Arcane Spells I.md\|Arcane Spells I]]               |
 | [[Blade Ward.md\|Blade Ward]]                         |
 | [[Chaos Burst.md\|Chaos Burst]]                       |
 | [[Charming Smile.md\|Charming Smile]]                 |

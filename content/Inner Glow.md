@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Follower of Light]]
 **Cost**:: 1 LP
 
 _Flavour text_.

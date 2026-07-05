@@ -16,7 +16,6 @@ These spells are added to your [[Spiritual Spell List]]:
 ##### 1st Level Spells
 
 - [[Bane]]
-- [[Bless]]
 - [[Cause Fear]]
 - [[Detect Undead]]
 - [[Dissonant Whispers]]

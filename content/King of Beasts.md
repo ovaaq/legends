@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Wings of the Wild]]
 **Cost**:: 1 LP
 
 _Flavour text_.

@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[ea3]]
 **Cost**:: 1 LP
 
 _Flavour text_.

@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Solar Resilience]]
 **Cost**:: 1 LP
 
 _Flavour text_.

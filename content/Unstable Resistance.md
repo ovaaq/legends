@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Mana Burst]]
 **Cost**:: 1 LP
 
 _Flavour text_.

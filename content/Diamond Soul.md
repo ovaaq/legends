@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Stillness of Mind]]
 **Cost**:: 1 LP
 
 _Flavour text_.

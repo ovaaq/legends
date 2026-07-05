@@ -1,4 +1,4 @@
-**Requirements**:: [[Intelligence]] > 0
+**Requirements**::
 **Cost**:: 4 LP
 
 _You're a wizard._
@@ -9,17 +9,38 @@ These spells are added to your [[Arcane Spell List]]:
 
 ##### Cantrips
 
+- [[Acid Splash]]
 - [[Animate Paper]]
+- [[Arcane Blast]]
 - [[Arcane Mark]]
+- [[Chaos Burst]]
+- [[Chill Touch]]
+- [[Corrosive Shot]]
 - [[Dancing Lights]]
+- [[Ethereal Blade]]
 - [[Fire Bolt]]
-- [[Frostbite]]
+- [[Flame Burst]]
 - [[Force Wave]]
+- [[Frostbite]]
 - [[Glow]]
+- [[Gravity Slam]]
+- [[Ignite]]
+- [[Lightning Lure]]
 - [[Mage Hand]]
 - [[Message]]
+- [[Mind Sliver]]
+- [[Minor Illusion]]
 - [[Prestidigitation]]
+- [[Prismatic Ray]]
+- [[Psychic Shock]]
+- [[Ray of Frost]]
+- [[Shocking Grasp]]
+- [[Spectral Grasp]]
+- [[Telekinetic Throw]]
 - [[Thunderbolt]]
+- [[Thunderclap]]
+- [[Water Bolt]]
+- [[Wind Slash]]
 
 ##### 1st Level Spells
 
@@ -32,7 +53,7 @@ These spells are added to your [[Arcane Spell List]]:
 - [[Repair]]
 - [[Unseen Servant]]
 
-**Spellbook.** You gain [[Spellbook]], which is used to record your spells. Select three [[Cantrip|Cantrips]] and two [[1st Level Spell|1st Level Spells]] from your [[Arcane Spell List]] and add them to your [[Spellbook]].
+**Spellbook.** You gain [[Spellbook]], which is used to record your spells. Select four [[Cantrip|Cantrips]] and two [[1st Level Spell|1st Level Spells]] from your [[Arcane Spell List]] and add them to your [[Spellbook]].
 
 **Preparing Spells.** You can prepare spells after completing a [[Long Rest]] or spending 2 hours studying your spellbook. When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Arcane Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 

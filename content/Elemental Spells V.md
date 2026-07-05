@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Elemental Spells IV]]
 **Cost**:: 1 LP
 
 _Flavour text_.

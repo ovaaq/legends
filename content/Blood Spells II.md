@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Blood Spells I]]
 **Cost**:: 1 LP
 
 _Flavour text_.

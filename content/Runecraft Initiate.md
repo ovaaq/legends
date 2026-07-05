@@ -1,4 +1,4 @@
-**Requirements**:: [[Precision]] > 0
+**Requirements**::
 **Cost**:: 2 LP
 
 _Flavour text_.

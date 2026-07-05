@@ -1,4 +1,4 @@
-**Requirement**:: [[Heightened Senses]]
+**Requirements**:: [[Heightened Senses]]
 **Cost**:: 1 LP
 
 _Time bends around you, each second stretched by unnatural swiftness. The world slows, but you surge forward, a shadow that no one can hope to outrun._

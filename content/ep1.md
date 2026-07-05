@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Path of Elements]]
 **Cost**:: 1 LP
 
 _Flavour text_.
