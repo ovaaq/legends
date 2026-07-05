@@ -28,7 +28,7 @@ we select nice backgronud to boost those attributes
 select [[Taunting Strike]] & [[Parry]] to be more defensive and attracting enemies to figth you
 (10/15) to add something to do in combat
 
-[[Fighting Stance]]
+[[Fighting Stance Training]]
 select [[Defensive Stance]] & [[Aggressive Stance]]
 (12/15) to add few options to play either defensive or aggressive depending on the situation
 

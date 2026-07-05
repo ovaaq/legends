@@ -9,7 +9,7 @@ _Flavour text_.
 
 **Tree**:: [[Celestial Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**::
+**Following**:: [[cr1]], [[ca1]], [[cp1]], [[Celestial Spells I]], [[Pact Spellcasting]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
 
 ---
 

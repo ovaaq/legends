@@ -1,4 +1,4 @@
-As an [[Action]], you give yourself [[Advantage]] on your next [[Attack Roll]] on the current turn. You can use this [[Action]] only if you haven't moved during this turn, and after you use the [[Action]], your [[Speed]] is 0 until the end of the current turn.
+As an [[Action]], you gain [[Advantage]] on your next [[Attack Roll]] this turn. You can only use this [[Action]] if you have not yet moved during this turn. After using it, your [[Walking Speed]] becomes 0 metres until the end of the current [[Turn]].
 
 ---
 

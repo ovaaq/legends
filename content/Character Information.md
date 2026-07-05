@@ -129,7 +129,7 @@ List of [[Known Spell]]
 \* Weapon determines which [[Ability Score]] is used
 
 List of [[Martial Technique|Martial Techniques]]
-List of [[Fighting Stance|Fighting Stances]]
+List of [[Fighting Stance Training|Fighting Stances]]
 
 ### Equipment
 

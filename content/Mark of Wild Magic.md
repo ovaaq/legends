@@ -7,7 +7,7 @@ Benefit.
 
 **Tree**:: [[Wild Magic Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**::
+**Following**:: [[Wild Magic Surge]], [[wa1]], [[Twisted Body]], [[Wild Magic Spells I]]
 
 ---
 
@@ -23,6 +23,6 @@ _The wild currents of magic swirl within you, restless and unpredictable. Each s
 
 ---
 
-Following Abilities: [[Wild Magic Surge]], [[wa1]], [[Twisted Body]], [[Wild Magic Spellcasting]]
+Following Abilities: [[Wild Magic Surge]], [[wa1]], [[Twisted Body]], [[Wild Magic Spells I]]
 
 Part of [[Wild Magic Talent Tree]]

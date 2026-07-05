@@ -9,7 +9,7 @@ _Flavour text_.
 
 **Tree**:: [[Draconic Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**::
+**Following**:: [[dr1]], [[da1]], [[dp1]], [[Draconic Spells I]], [[Pact Spellcasting]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
 
 ---
 

@@ -4,7 +4,7 @@ _You were trained and forced into the arena, where survival meant entertaining b
 **Saving Throws:** [[Agility Saving Throw]], [[Constitution Saving Throw]], [[Charisma Saving Throw]]
 **General Skill Ranks**: [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Medicine]], [[Performance]], [[Persuasion]], [[Streetwise]]
 **Expert Skill Ranks:** [[Arts]], [[Disguise]], [[Gaming]], [[Musicality]]
-**Talents:** [[Fighting Stance]]
+**Talents:** [[Fighting Stance Training]]
 **Equipment:** 2 [[Weapon|Weapons]] of your choice
 **Initial Wealth:** 150gp
 
