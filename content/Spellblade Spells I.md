@@ -3,7 +3,58 @@
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Arcane Spell List]]. Additionally, choose two [[Spell|Spells]] from this list and add them to your [[Spellbook]].
+
+#### Cantrips
+
+- [[Chill Touch]]
+- [[Crimson Cut]]
+- [[Ethereal Blade]]
+- [[Feral Claw]]
+- [[Flame Blade]]
+- [[Flame Burst]]
+- [[Guiding Strike]]
+- [[Lightning Lure]]
+- [[Shocking Grasp]]
+- [[Solar Flare]]
+- [[Venom Fang]]
+- [[Withering Touch]]
+
+#### 1st Level Spells
+
+- [[Searing Smite]]
+- [[Wrathful Smite]]
+- [[Thunderous Smite]]
+- [[Freezing Smite]]
+- [[Absorb Elements]]
+- [[Arcane Arrow]]
+- [[Arcane Shield]]
+- [[Cause Fear]]
+- [[Colour Spray]]
+- [[Compelled Duel]]
+- [[Earth Tremor]]
+- [[Expeditious Retreat]]
+- [[False Life]]
+- [[Fog Cloud]]
+- [[Frost Armour]]
+- [[Grease]]
+- [[Ice Knife]]
+- [[Jump]]
+- [[Long Strider]]
+- [[Magic Weapon]]
+- [[Protection from Evil and Good]]
+- [[Searing Blade]]
+- [[Shadow Blade]]
+- [[Shield]]
+- [[Snare]]
+- [[Summon Weapon]]
+- [[Thunderous Smite]]
+- [[Witch Bolt]]
+- [[Tailwind Strike]]
+- [[Thunderwave]]
+- [[Grease]]
+- [[Magic Missile]]
+- [[Resistance spell]]
 
 **Tree**:: [[Spellblade Talent Tree]]
 **Group**:: [[Arcane Talent]]

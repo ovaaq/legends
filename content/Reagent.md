@@ -30,6 +30,14 @@ Curative
 Volatile
 Inert
 
+| Reagent Type | Common | Uncommon | Rare | Legendary |
+| :----------- | :----: | :------: | :--: | :-------: |
+| Curative     |        |          |      |           |
+| Inert        |        |          |      |           |
+| Poisonous    |        |          |      |           |
+| Reactive     |        |          |      |           |
+| Volatile     |        |          |      |           |
+
 [[Common Reagent]]
 [[Uncommon Reagent]]
 [[Rare Reagent]]
