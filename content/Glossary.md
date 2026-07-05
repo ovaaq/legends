@@ -4,6 +4,7 @@
 | [[Ability Score.md\|Ability Score]]                                 |
 | [[Acid Damage.md\|Acid Damage]]                                     |
 | [[Action.md\|Action]]                                               |
+| [[Advanced Fighting Stance.md\|Advanced Fighting Stance]]           |
 | [[Advanced Focus.md\|Advanced Focus]]                               |
 | [[Adventuring Item.md\|Adventuring Item]]                           |
 | [[Agility.md\|Agility]]                                             |

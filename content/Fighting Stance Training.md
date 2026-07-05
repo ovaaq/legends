@@ -11,7 +11,7 @@ _Flavour text_.
 | ----------------------------------------------------------------------- |
 | [[Aggressive Stance.md\|Aggressive Stance]] |
 | [[Defensive Stance.md\|Defensive Stance]]   |
-| [[00 - Inbox/Protector Stance.md\|Protector Stance]]                    |
+| [[Protector Stance.md\|Protector Stance]]   |
 | [[Steady Stance.md\|Steady Stance]]         |
 | [[Sturdy Stance.md\|Sturdy Stance]]         |
 
