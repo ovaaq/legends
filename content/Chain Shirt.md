@@ -1,3 +1,5 @@
+![[99 - Files/Pasted image 20260706215627.png|250]]
+
 _[[Medium Armour]], [[Equipment]]_
 
 _Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._

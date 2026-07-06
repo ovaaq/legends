@@ -36,6 +36,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Boomerang.md\|Boomerang]]                                 | -       | -      | Weapon   |
 | [[Breastplate.md\|Breastplate]]                             | 1 Stack  | 2 gp    | Weapon   |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -      | Weapon   |
+| [[00 - Inbox/Brigandine.md\|Brigandine]]                                                | 1 Stack  | 2 gp    | Weapon   |
 | [[Bucket.md\|Bucket]]                                       | -       | -      | Weapon   |
 | [[Buckler.md\|Buckler]]                                     | -       | -      | Weapon   |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                   | -       | -      | Weapon   |
@@ -64,8 +65,8 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -      | Weapon   |
 | [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp    | Weapon   |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -      | Weapon   |
+| [[Dragon Scale Armour.md\|Dragon Scale Armour]]             | 1 Stack  | 1000 gp | Weapon   |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -      | Weapon   |
-| [[Dragonscale Armour.md\|Dragonscale Armour]]               | 1 Stack  | 1000 gp | Weapon   |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -      | Weapon   |
 | [[Enlargement Potion.md\|Enlargement Potion]]               | -       | -      | Weapon   |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]                 | 1 Stack  | -      | Weapon   |
@@ -149,7 +150,6 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Morningstar.md\|Morningstar]]                             | -       | -      | Weapon   |
 | [[Nourishment Potion.md\|Nourishment Potion]]               | -       | -      | Weapon   |
 | [[Oil Flask.md\|Oil Flask]]                                 | -       | -      | Weapon   |
-| [[Padded Gambeson.md\|Padded Gambeson]]                     | 1 Stack  | 2 gp    | Weapon   |
 | [[Padded Leather Armour.md\|Padded Leather Armour]]         | 1 Stack  | 2 gp    | Weapon   |
 | [[Parchment Sheet.md\|Parchment Sheet]]                     | -       | -      | Weapon   |
 | [[Pickaxe.md\|Pickaxe]]                                     | -       | -      | Weapon   |

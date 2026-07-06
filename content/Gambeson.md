@@ -1,3 +1,5 @@
+![[99 - Files/Gemini_Generated_Image_23zmri23zmri23zm.png|250]]
+
 _[[Light Armour]], [[Equipment]]_
 
 _Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
