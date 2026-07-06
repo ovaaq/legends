@@ -16,6 +16,7 @@ There is also [[Premade Packs]] for quick grabs.
 | Equipment                                                                               | Weight   | Cost   | Category |
 | --------------------------------------------------------------------------------------- | -------- | ------ | -------- |
 | [[Acid Vial.md\|Acid Vial]]                                 | -       | -     | Weapon   |
+| [[Advanced Weapon Template.md\|Advanced Weapon Template]]   | 1 Stack  | 2 gp   | Weapon   |
 | [[Adventuring Item.md\|Adventuring Item]]                   | -       | -     | Weapon   |
 | [[Alchemical Item.md\|Alchemical Item]]                     | -       | -     | Weapon   |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]                   | -       | -     | Weapon   |
@@ -32,6 +33,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Beast Scent Potion.md\|Beast Scent Potion]]               | -       | -     | Weapon   |
 | [[Bedroll.md\|Bedroll]]                                     | -       | -     | Weapon   |
 | [[Bell.md\|Bell]]                                           | --       | 1 Gold | Weapon   |
+| [[Bolas.md\|Bolas]]                                         | 1 Stack  | 2 gp   | Weapon   |
 | [[Boomerang.md\|Boomerang]]                                 | -       | -     | Weapon   |
 | [[Breastplate.md\|Breastplate]]                             | -       | -     | Weapon   |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -     | Weapon   |
@@ -52,12 +54,11 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Charming Perfume.md\|Charming Perfume]]                   | -       | -     | Weapon   |
 | [[Chest.md\|Chest]]                                         | -       | -     | Weapon   |
 | [[Chisel.md\|Chisel]]                                       | -       | -     | Weapon   |
-| [[Club.md\|Club]]                                           | -       | -     | Weapon   |
 | [[Compass.md\|Compass]]                                     | -       | -     | Weapon   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                               | 1 Stack  | -     | Weapon   |
 | [[Courier's Ink.md\|Courier's Ink]]                         | -       | -     | Weapon   |
 | [[Crowbar.md\|Crowbar]]                                     | -       | -     | Weapon   |
-| [[Dagger.md\|Dagger]]                                       | -       | -     | Weapon   |
+| [[Dagger.md\|Dagger]]                                       | 1 Stack  | 2 gp   | Weapon   |
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -     | Weapon   |
 | [[Dart.md\|Dart]]                                           | -       | -     | Weapon   |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -     | Weapon   |
@@ -95,7 +96,6 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Greatsword.md\|Greatsword]]                               | -       | -     | Weapon   |
 | [[Growth Potion.md\|Growth Potion]]                         | -       | -     | Weapon   |
 | [[Halberd.md\|Halberd]]                                     | -       | -     | Weapon   |
-| [[Hammer.md\|Hammer]]                                       | -       | -     | Weapon   |
 | [[Handaxe.md\|Handaxe]]                                     | -       | -     | Weapon   |
 | [[Healer's Kit.md\|Healer's Kit]]                           | -       | -     | Weapon   |
 | [[Healing Potion.md\|Healing Potion]]                       | -       | -     | Weapon   |
@@ -170,8 +170,10 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Shrink Potion.md\|Shrink Potion]]                         | -       | -     | Weapon   |
 | [[Sickle.md\|Sickle]]                                       | -       | -     | Weapon   |
 | [[Silver Tongue Potion.md\|Silver Tongue Potion]]           | -       | -     | Weapon   |
+| [[98 - Meta/Templates/Simple Weapon Template.md\|Simple Weapon Template]]               | 1 Stack  | 2 gp   | Weapon   |
 | [[Skyflare.md\|Skyflare]]                                   | -       | -     | Weapon   |
 | [[Sleep Potion.md\|Sleep Potion]]                           | -       | -     | Weapon   |
+| [[Smithing Hammer.md\|Smithing Hammer]]                     | -       | -     | Weapon   |
 | [[Smithing Tools.md\|Smithing Tools]]                       | 1 Stack  | -     | Weapon   |
 | [[Smoke Bomb.md\|Smoke Bomb]]                               | -       | -     | Weapon   |
 | [[Solvent Vial.md\|Solvent Vial]]                           | -       | -     | Weapon   |
@@ -211,7 +213,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Weakness Potion.md\|Weakness Potion]]                     | -       | -     | Weapon   |
 | [[Weapon.md\|Weapon]]                                       | -       | -     | Weapon   |
 | [[Weightlessness Potion.md\|Weightlessness Potion]]         | -       | -     | Weapon   |
-| [[Whip.md\|Whip]]                                           | -       | -     | Weapon   |
+| [[Whip.md\|Whip]]                                           | 1 Stack  | 2 gp   | Weapon   |
 | [[Whistle.md\|Whistle]]                                     | -       | -     | Weapon   |
 | [[Wooden Box.md\|Wooden Box]]                               | -       | -     | Weapon   |
 
@@ -224,7 +226,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Crowbar]]        |       |             |
 | [[Tinderbox]]      |       |             |
 | [[Grappling Hook]] |       |             |
-| [[Hammer]]         |       |             |
+| [[Smithing Hammer]]         |       |             |
 | [[Rope]] (15m)     |       |             |
 | [[Lantern]]        |       |             |
 | Ration             |       |             |

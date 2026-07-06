@@ -3,7 +3,7 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-In your hands axes are more lethal.
+When dealing damage with [[Axe]]. Once In your hands axes are more lethal.
 
 1d4 becomes 1d6
 1d6 becomes 1d8

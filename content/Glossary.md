@@ -12,6 +12,7 @@
 | [[Alchemical Item.md\|Alchemical Item]]                             |
 | [[Alchemy Save DC.md\|Alchemy Save DC]]                             |
 | [[Alteration Magic.md\|Alteration Magic]]                           |
+| [[Ammunition.md\|Ammunition]]                                       |
 | [[Ancestry.md\|Ancestry]]                                           |
 | [[Arcana.md\|Arcana]]                                               |
 | [[Arcane Spell List.md\|Arcane Spell List]]                         |
@@ -22,11 +23,13 @@
 | [[Attack.md\|Attack]]                                               |
 | [[Attack Roll.md\|Attack Roll]]                                     |
 | [[Awareness.md\|Awareness]]                                         |
+| [[Axe.md\|Axe]]                                                     |
 | [[Background.md\|Background]]                                       |
 | [[Bleeding.md\|Bleeding]]                                           |
 | [[Blinded.md\|Blinded]]                                             |
 | [[Bloodied.md\|Bloodied]]                                           |
 | [[Bludgeoning Damage.md\|Bludgeoning Damage]]                       |
+| [[Bow.md\|Bow]]                                                     |
 | [[Burning.md\|Burning]]                                             |
 | [[Cantrip.md\|Cantrip]]                                             |
 | [[Carrying Capacity.md\|Carrying Capacity]]                         |
@@ -56,6 +59,7 @@
 | [[Critical Failure.md\|Critical Failure]]                           |
 | [[Critical Hit.md\|Critical Hit]]                                   |
 | [[Critical Success.md\|Critical Success]]                           |
+| [[Crossbow.md\|Crossbow]]                                           |
 | [[Damage Roll.md\|Damage Roll]]                                     |
 | [[Damage Type.md\|Damage Type]]                                     |
 | [[Dash.md\|Dash]]                                                   |
@@ -108,6 +112,7 @@
 | [[Grapple.md\|Grapple]]                                             |
 | [[Grappled.md\|Grappled]]                                           |
 | [[Halfling Ancestry.md\|Halfling Ancestry]]                         |
+| [[Hammer.md\|Hammer]]                                               |
 | [[Heavy.md\|Heavy]]                                                 |
 | [[Hide.md\|Hide]]                                                   |
 | [[History.md\|History]]                                             |
@@ -175,6 +180,7 @@
 | [[Pinned.md\|Pinned]]                                               |
 | [[Poison Damage.md\|Poison Damage]]                                 |
 | [[Poisoned.md\|Poisoned]]                                           |
+| [[Polearm.md\|Polearm]]                                             |
 | [[Potion.md\|Potion]]                                               |
 | [[Precision.md\|Precision]]                                         |
 | [[Prepared Spell.md\|Prepared Spell]]                               |
@@ -215,7 +221,9 @@
 | [[Simple Focus.md\|Simple Focus]]                                   |
 | [[Skill.md\|Skill]]                                                 |
 | [[Slashing Damage.md\|Slashing Damage]]                             |
+| [[Snare.md\|Snare]]                                                 |
 | [[Sorcery.md\|Sorcery]]                                             |
+| [[Special.md\|Special]]                                             |
 | [[Special Skill.md\|Special Skill]]                                 |
 | [[Spell.md\|Spell]]                                                 |
 | [[Spell Attack.md\|Spell Attack]]                                   |
@@ -239,6 +247,7 @@
 | [[Stunned.md\|Stunned]]                                             |
 | [[Success.md\|Success]]                                             |
 | [[Summon Magic.md\|Summon Magic]]                                   |
+| [[Sword.md\|Sword]]                                                 |
 | [[Talent.md\|Talent]]                                               |
 | [[Talent Tree.md\|Talent Tree]]                                     |
 | [[Temporary Hit Point.md\|Temporary Hit Point]]                     |

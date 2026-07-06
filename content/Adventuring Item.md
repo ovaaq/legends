@@ -3,6 +3,7 @@
 | Item                                                                                    | Weight   | Cost   |
 | --------------------------------------------------------------------------------------- | -------- | ------ |
 | [[Acid Vial.md\|Acid Vial]]                                 | -       | -     |
+| [[Advanced Weapon Template.md\|Advanced Weapon Template]]   | 1 Stack  | 2 gp   |
 | [[Adventuring Item.md\|Adventuring Item]]                   | -       | -     |
 | [[Alchemical Item.md\|Alchemical Item]]                     | -       | -     |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]                   | -       | -     |
@@ -19,6 +20,7 @@
 | [[Beast Scent Potion.md\|Beast Scent Potion]]               | -       | -     |
 | [[Bedroll.md\|Bedroll]]                                     | -       | -     |
 | [[Bell.md\|Bell]]                                           | --       | 1 Gold |
+| [[Bolas.md\|Bolas]]                                         | 1 Stack  | 2 gp   |
 | [[Boomerang.md\|Boomerang]]                                 | -       | -     |
 | [[Breastplate.md\|Breastplate]]                             | -       | -     |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -     |
@@ -39,12 +41,11 @@
 | [[Charming Perfume.md\|Charming Perfume]]                   | -       | -     |
 | [[Chest.md\|Chest]]                                         | -       | -     |
 | [[Chisel.md\|Chisel]]                                       | -       | -     |
-| [[Club.md\|Club]]                                           | -       | -     |
 | [[Compass.md\|Compass]]                                     | -       | -     |
 | [[Cook’s Kit.md\|Cook’s Kit]]                               | 1 Stack  | -     |
 | [[Courier's Ink.md\|Courier's Ink]]                         | -       | -     |
 | [[Crowbar.md\|Crowbar]]                                     | -       | -     |
-| [[Dagger.md\|Dagger]]                                       | -       | -     |
+| [[Dagger.md\|Dagger]]                                       | 1 Stack  | 2 gp   |
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -     |
 | [[Dart.md\|Dart]]                                           | -       | -     |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -     |
@@ -82,7 +83,6 @@
 | [[Greatsword.md\|Greatsword]]                               | -       | -     |
 | [[Growth Potion.md\|Growth Potion]]                         | -       | -     |
 | [[Halberd.md\|Halberd]]                                     | -       | -     |
-| [[Hammer.md\|Hammer]]                                       | -       | -     |
 | [[Handaxe.md\|Handaxe]]                                     | -       | -     |
 | [[Healer's Kit.md\|Healer's Kit]]                           | -       | -     |
 | [[Healing Potion.md\|Healing Potion]]                       | -       | -     |
@@ -157,8 +157,10 @@
 | [[Shrink Potion.md\|Shrink Potion]]                         | -       | -     |
 | [[Sickle.md\|Sickle]]                                       | -       | -     |
 | [[Silver Tongue Potion.md\|Silver Tongue Potion]]           | -       | -     |
+| [[98 - Meta/Templates/Simple Weapon Template.md\|Simple Weapon Template]]               | 1 Stack  | 2 gp   |
 | [[Skyflare.md\|Skyflare]]                                   | -       | -     |
 | [[Sleep Potion.md\|Sleep Potion]]                           | -       | -     |
+| [[Smithing Hammer.md\|Smithing Hammer]]                     | -       | -     |
 | [[Smithing Tools.md\|Smithing Tools]]                       | 1 Stack  | -     |
 | [[Smoke Bomb.md\|Smoke Bomb]]                               | -       | -     |
 | [[Solvent Vial.md\|Solvent Vial]]                           | -       | -     |
@@ -198,7 +200,7 @@
 | [[Weakness Potion.md\|Weakness Potion]]                     | -       | -     |
 | [[Weapon.md\|Weapon]]                                       | -       | -     |
 | [[Weightlessness Potion.md\|Weightlessness Potion]]         | -       | -     |
-| [[Whip.md\|Whip]]                                           | -       | -     |
+| [[Whip.md\|Whip]]                                           | 1 Stack  | 2 gp   |
 | [[Whistle.md\|Whistle]]                                     | -       | -     |
 | [[Wooden Box.md\|Wooden Box]]                               | -       | -     |
 
@@ -233,7 +235,6 @@
 | [[Glass Vial.md\|Glass Vial]]                             | -     | -   |
 | [[Gold Panning.md\|Gold Panning]]                         | -     | -   |
 | [[Grappling Hook.md\|Grappling Hook]]                     | -     | -   |
-| [[Hammer.md\|Hammer]]                                     | -     | -   |
 | [[Healer's Kit.md\|Healer's Kit]]                         | -     | -   |
 | [[Herbalism Kit.md\|Herbalism Kit]]                       | -     | -   |
 | [[Hooded Lantern.md\|Hooded Lantern]]                     | -     | -   |
@@ -260,6 +261,7 @@
 | [[Scribe’s Supplies.md\|Scribe’s Supplies]]               | -     | -   |
 | [[Scroll Case.md\|Scroll Case]]                           | -     | -   |
 | [[Shovel.md\|Shovel]]                                     | -     | -   |
+| [[Smithing Hammer.md\|Smithing Hammer]]                   | -     | -   |
 | [[Smithing Tools.md\|Smithing Tools]]                     | -     | -   |
 | [[Spyglass.md\|Spyglass]]                                 | -     | -   |
 | [[Tent.md\|Tent]]                                         | -     | -   |
@@ -305,7 +307,6 @@
 | [[Glass Vial.md\|Glass Vial]]                             |
 | [[Gold Panning.md\|Gold Panning]]                         |
 | [[Grappling Hook.md\|Grappling Hook]]                     |
-| [[Hammer.md\|Hammer]]                                     |
 | [[Healer's Kit.md\|Healer's Kit]]                         |
 | [[Herbalism Kit.md\|Herbalism Kit]]                       |
 | [[Hooded Lantern.md\|Hooded Lantern]]                     |
@@ -332,6 +333,7 @@
 | [[Scribe’s Supplies.md\|Scribe’s Supplies]]               |
 | [[Scroll Case.md\|Scroll Case]]                           |
 | [[Shovel.md\|Shovel]]                                     |
+| [[Smithing Hammer.md\|Smithing Hammer]]                   |
 | [[Smithing Tools.md\|Smithing Tools]]                     |
 | [[Spyglass.md\|Spyglass]]                                 |
 | [[Tent.md\|Tent]]                                         |
@@ -365,7 +367,7 @@
 | [[Flint and Steel]]   | Negligible | 5 sp   | Used to start fires                                    |
 | [[Glass Vial]]        | Negligible | 1 gp   | Small glass container                                  |
 | [[Grappling Hook]]    | 1 Stack    | 2 gp   | Iron hook for climbing                                 |
-| [[Hammer]]            | 1 Stack    | 1 gp   | Light hammer for tools or pitons                       |
+| [[Smithing Hammer]]            | 1 Stack    | 1 gp   | Light hammer for tools or pitons                       |
 | [[Hooded Lantern]]    | 2 Stacks   | 5 gp   | Lantern with adjustable shutter                        |
 | [[Lock]]              | Negligible | 10 gp  | Average-quality mechanical lock                        |
 | [[Magnifying Glass]]  | Negligible | 100 gp | Precision lens for inspection                          |

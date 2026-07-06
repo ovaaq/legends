@@ -1,3 +1,17 @@
+_Some times you need to hurt someone, real bad..._
+
+| Simple Weapon                                     | Type                                              | Properties                                    | Range | Damage                                         |
+| ------------------------------------------------- | ------------------------------------------------- | --------------------------------------------- | ----- | ---------------------------------------------- |
+| [[Club.md\|Club]]     | [[Hammer.md\|Hammer]] | -                                            | Melee | 1d6 [[Bludgeoning Damage]]                     |
+| [[Dagger.md\|Dagger]] | -                                                | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m) | -    | 1d4 [[Slashing Damage]] or [[Piercing Damage]] |
+
+| Advanced Weapon                                 | Category                                        | Damage                  | Properties                                                              |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
+| [[Bolas.md\|Bolas]] | [[Snare.md\|Snare]] | -                      | [[Light]]. [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m) |
+| [[Whip.md\|Whip]]   | [[Snare.md\|Snare]] | 1d4 [[Slashing Damage]] | [[Light]], [[Finesse]], [[Reach]] (2m), [[Special]]                     |
+
+[[Weapon Category]]
+
 [[Equipment]]
 
 [[Club]]

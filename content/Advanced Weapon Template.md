@@ -5,9 +5,9 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Weight**:: 1 Stack
 **Cost**:: 2 gp
 
-**Category**:: [[Snare]]
-**Properties**:: [[Light]], [[Finesse]], [[Reach]] (2m), [[Special]]
-**Damage**:: 1d4 [[Slashing Damage]]
+**Category**:: [[Weapon Category]]
+**Properties**:: [[Weapon Property]]
+**Damage**::
 
 ---
 

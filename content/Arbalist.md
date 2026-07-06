@@ -3,7 +3,7 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-x
+[[Crossbow]] loading etc
 
 **Tree**:: [[Weapon Master Talent Tree]]
 **Group**:: [[Martial Talent]]

@@ -8,7 +8,7 @@ This kit contains:
 - [[Pickaxe]]
 - [[Shovel]]
 - [[Gold Panning]]
-- [[Hammer]]
+- [[Smithing Hammer]]
 - [[Chisel]]
 
 ---
