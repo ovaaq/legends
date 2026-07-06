@@ -5,7 +5,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Weight**:: 1 Stack
 **Cost**:: 2 gp
 
-**Armour**:: 10
+**Armour**:: 12
 **Properties**::
 
 ---

@@ -115,6 +115,7 @@
 | [[Halfling Ancestry.md\|Halfling Ancestry]]                         |
 | [[Hammer.md\|Hammer]]                                               |
 | [[Heavy.md\|Heavy]]                                                 |
+| [[Heavy Armour.md\|Heavy Armour]]                                   |
 | [[Hide.md\|Hide]]                                                   |
 | [[History.md\|History]]                                             |
 | [[Hit Die.md\|Hit Die]]                                             |
@@ -148,6 +149,7 @@
 | [[Level.md\|Level]]                                                 |
 | [[Leveling Up.md\|Leveling Up]]                                     |
 | [[Light.md\|Light]]                                                 |
+| [[Light Armour.md\|Light Armour]]                                   |
 | [[Lightning Damage.md\|Lightning Damage]]                           |
 | [[Loading.md\|Loading]]                                             |
 | [[Long Rest.md\|Long Rest]]                                         |
@@ -161,6 +163,7 @@
 | [[Martial Talent.md\|Martial Talent]]                               |
 | [[Martial Technique.md\|Martial Technique]]                         |
 | [[Medicine.md\|Medicine]]                                           |
+| [[Medium Armour.md\|Medium Armour]]                                 |
 | [[Melee Attack.md\|Melee Attack]]                                   |
 | [[Melee Spell Attack.md\|Melee Spell Attack]]                       |
 | [[Melee Weapon Attack.md\|Melee Weapon Attack]]                     |
@@ -222,6 +225,7 @@
 | [[Saving Throw Difficulty Class.md\|Saving Throw Difficulty Class]] |
 | [[Seek.md\|Seek]]                                                   |
 | [[Shadow Damage.md\|Shadow Damage]]                                 |
+| [[Shield.md\|Shield]]                                               |
 | [[Short Rest.md\|Short Rest]]                                       |
 | [[Shove.md\|Shove]]                                                 |
 | [[Simple Focus.md\|Simple Focus]]                                   |

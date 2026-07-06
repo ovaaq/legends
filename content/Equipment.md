@@ -25,7 +25,6 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Anti-Potion.md\|Anti-Potion]]                             | -       | -      | Weapon   |
 | [[Antidote Vial.md\|Antidote Vial]]                         | -       | -      | Weapon   |
 | [[Appraisal Tools.md\|Appraisal Tools]]                     | 1 Stack  | -      | Weapon   |
-| [[Armour.md\|Armour]]                                       | -       | -      | Weapon   |
 | [[Background.md\|Background]]                               | -       | -      | Weapon   |
 | [[Backpack.md\|Backpack]]                                   | 1 Stack  | 2 GP    | Weapon   |
 | [[Ball Bearings.md\|Ball Bearings]]                         | --       | 1 Gold  | Weapon   |
@@ -35,18 +34,20 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Bell.md\|Bell]]                                           | --       | 1 Gold  | Weapon   |
 | [[Bolas.md\|Bolas]]                                         | 1 Stack  | 2 gp    | Weapon   |
 | [[Boomerang.md\|Boomerang]]                                 | -       | -      | Weapon   |
-| [[Breastplate.md\|Breastplate]]                             | -       | -      | Weapon   |
+| [[Breastplate.md\|Breastplate]]                             | 1 Stack  | 2 gp    | Weapon   |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -      | Weapon   |
 | [[Bucket.md\|Bucket]]                                       | -       | -      | Weapon   |
 | [[Buckler.md\|Buckler]]                                     | -       | -      | Weapon   |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                   | -       | -      | Weapon   |
 | [[Caltrops.md\|Caltrops]]                                   | -       | -      | Weapon   |
 | [[Candle.md\|Candle]]                                       | -       | -      | Weapon   |
+| [[Carapace Armour.md\|Carapace Armour]]                     | 1 Stack  | 2 gp    | Weapon   |
 | [[Carpenter’s Tools.md\|Carpenter’s Tools]]                 | 1 Stack  | -      | Weapon   |
 | [[Cartographer’s Kit.md\|Cartographer’s Kit]]               | 1 Stack  | -      | Weapon   |
 | [[Chain.md\|Chain]]                                         | -       | -      | Weapon   |
 | [[Chain Armor.md\|Chain Armor]]                             | -       | -      | Weapon   |
-| [[Chain shirt.md\|Chain shirt]]                             | -       | -      | Weapon   |
+| [[Chain Mail.md\|Chain Mail]]                               | 1 Stack  | 1000 gp | Weapon   |
+| [[Chain Shirt.md\|Chain Shirt]]                             | 1 Stack  | 2 gp    | Weapon   |
 | [[Chalk.md\|Chalk]]                                         | -       | -      | Weapon   |
 | [[Character Creation Guide.md\|Character Creation Guide]]   | -       | -      | Weapon   |
 | [[Character Information.md\|Character Information]]         | -       | -      | Weapon   |
@@ -64,6 +65,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp    | Weapon   |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -      | Weapon   |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -      | Weapon   |
+| [[Dragonscale Armour.md\|Dragonscale Armour]]               | 1 Stack  | 1000 gp | Weapon   |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -      | Weapon   |
 | [[Enlargement Potion.md\|Enlargement Potion]]               | -       | -      | Weapon   |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]                 | 1 Stack  | -      | Weapon   |
@@ -98,6 +100,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Greatsword.md\|Greatsword]]                               | -       | -      | Weapon   |
 | [[Growth Potion.md\|Growth Potion]]                         | -       | -      | Weapon   |
 | [[Halberd.md\|Halberd]]                                     | -       | -      | Weapon   |
+| [[Halfplate.md\|Halfplate]]                                 | 1 Stack  | 2 gp    | Weapon   |
 | [[Handaxe.md\|Handaxe]]                                     | 1 Stack  | 2 gp    | Weapon   |
 | [[Healer's Kit.md\|Healer's Kit]]                           | -       | -      | Weapon   |
 | [[Healing Potion.md\|Healing Potion]]                       | -       | -      | Weapon   |
@@ -105,6 +108,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Heavy Armour.md\|Heavy Armour]]                           | -       | -      | Weapon   |
 | [[98 - Meta/Templates/Heavy Armour Template.md\|Heavy Armour Template]]                 | 1 Stack  | 2 gp    | Weapon   |
 | [[Herbalism Kit.md\|Herbalism Kit]]                         | 1 Stack  | -      | Weapon   |
+| [[Hide Armour.md\|Hide Armour]]                             | 1 Stack  | 2 gp    | Weapon   |
 | [[Hooded Lantern.md\|Hooded Lantern]]                       | -       | -      | Weapon   |
 | [[Hook Sword.md\|Hook Sword]]                               | -       | -      | Weapon   |
 | [[Hunting Trap.md\|Hunting Trap]]                           | -       | -      | Weapon   |
@@ -116,7 +120,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Javelin.md\|Javelin]]                                     | 1 Stack  | 2 gp    | Weapon   |
 | [[Lance.md\|Lance]]                                         | -       | -      | Weapon   |
 | [[Lantern Shield.md\|Lantern Shield]]                       | -       | -      | Weapon   |
-| [[Leather Armor.md\|Leather Armor]]                         | -       | -      | Weapon   |
+| [[Leather Armour.md\|Leather Armour]]                       | 1 Stack  | 2 gp    | Weapon   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]           | 1 Stack  | -      | Weapon   |
 | [[Light Armour.md\|Light Armour]]                           | -       | -      | Weapon   |
 | [[98 - Meta/Templates/Light Armour Template.md\|Light Armour Template]]                 | 1 Stack  | 2 gp    | Weapon   |
@@ -136,6 +140,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Manacles.md\|Manacles]]                                   | -       | -      | Weapon   |
 | [[Masonry Kit.md\|Masonry Kit]]                             | 1 Stack  | -      | Weapon   |
 | [[Maul.md\|Maul]]                                           | -       | -      | Weapon   |
+| [[Medium Armour.md\|Medium Armour]]                         | -       | -      | Weapon   |
 | [[98 - Meta/Templates/Medium Armour Template.md\|Medium Armour Template]]               | 1 Stack  | 2 gp    | Weapon   |
 | [[Mess Kit.md\|Mess Kit]]                                   | -       | -      | Weapon   |
 | [[Metal Spoon.md\|Metal Spoon]]                             | -       | -      | Weapon   |
@@ -145,11 +150,12 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Nourishment Potion.md\|Nourishment Potion]]               | -       | -      | Weapon   |
 | [[Oil Flask.md\|Oil Flask]]                                 | -       | -      | Weapon   |
 | [[Padded Gambeson.md\|Padded Gambeson]]                     | 1 Stack  | 2 gp    | Weapon   |
+| [[Padded Leather Armour.md\|Padded Leather Armour]]         | 1 Stack  | 2 gp    | Weapon   |
 | [[Parchment Sheet.md\|Parchment Sheet]]                     | -       | -      | Weapon   |
 | [[Pickaxe.md\|Pickaxe]]                                     | -       | -      | Weapon   |
 | [[Pike.md\|Pike]]                                           | -       | -      | Weapon   |
 | [[Pitons.md\|Pitons]]                                       | -       | -      | Weapon   |
-| [[Plate Armor.md\|Plate Armor]]                             | 1 Stack  | 1000 gp | Weapon   |
+| [[Plate Armour.md\|Plate Armour]]                           | 1 Stack  | 1000 gp | Weapon   |
 | [[Poison Vial.md\|Poison Vial]]                             | -       | -      | Weapon   |
 | [[Portable Ram.md\|Portable Ram]]                           | -       | -      | Weapon   |
 | [[Potion.md\|Potion]]                                       | -       | -      | Weapon   |
@@ -157,12 +163,14 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Pouch.md\|Pouch]]                                         | -       | -      | Weapon   |
 | [[Quarterstaff.md\|Quarterstaff]]                           | 1 Stack  | 2 gp    | Weapon   |
 | [[Quill.md\|Quill]]                                         | -       | -      | Weapon   |
+| [[Quilted Plate Armour.md\|Quilted Plate Armour]]           | 1 Stack  | 1000 gp | Weapon   |
 | [[Rapier.md\|Rapier]]                                       | -       | -      | Weapon   |
 | [[Rations.md\|Rations]]                                     | -       | -      | Weapon   |
 | [[Recovery Potion.md\|Recovery Potion]]                     | -       | -      | Weapon   |
 | [[Regeneration Potion.md\|Regeneration Potion]]             | -       | -      | Weapon   |
 | [[Resistance Potion.md\|Resistance Potion]]                 | -       | -      | Weapon   |
 | [[Ring Blade.md\|Ring Blade]]                               | -       | -      | Weapon   |
+| [[Ring Mail.md\|Ring Mail]]                                 | 1 Stack  | 1000 gp | Weapon   |
 | [[Rope.md\|Rope]]                                           | -       | -      | Weapon   |
 | [[Scale Armor.md\|Scale Armor]]                             | -       | -      | Weapon   |
 | [[Scale Mail.md\|Scale Mail]]                               | 1 Stack  | 2 gp    | Weapon   |
@@ -189,10 +197,13 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Solvent Vial.md\|Solvent Vial]]                           | -       | -      | Weapon   |
 | [[Spear.md\|Spear]]                                         | 1 Stack  | 2 gp    | Weapon   |
 | [[Speed Potion.md\|Speed Potion]]                           | -       | -      | Weapon   |
+| [[Spiked Armour.md\|Spiked Armour]]                         | 1 Stack  | 2 gp    | Weapon   |
+| [[Splint Armour.md\|Splint Armour]]                         | 1 Stack  | 1000 gp | Weapon   |
 | [[Spyglass.md\|Spyglass]]                                   | -       | -      | Weapon   |
 | [[Stamina Potion.md\|Stamina Potion]]                       | -       | -      | Weapon   |
 | [[Stone Skin Potion.md\|Stone Skin Potion]]                 | -       | -      | Weapon   |
 | [[Strength Potion.md\|Strength Potion]]                     | -       | -      | Weapon   |
+| [[Studded Leather Armour.md\|Studded Leather Armour]]       | 1 Stack  | 2 gp    | Weapon   |
 | [[Tent.md\|Tent]]                                           | -       | -      | Weapon   |
 | [[Thieves' Tools.md\|Thieves' Tools]]                       | 1 Stack  | -      | Weapon   |
 | [[Throwing Knife.md\|Throwing Knife]]                       | -       | -      | Weapon   |

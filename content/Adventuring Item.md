@@ -12,7 +12,6 @@
 | [[Anti-Potion.md\|Anti-Potion]]                             | -       | -      |
 | [[Antidote Vial.md\|Antidote Vial]]                         | -       | -      |
 | [[Appraisal Tools.md\|Appraisal Tools]]                     | 1 Stack  | -      |
-| [[Armour.md\|Armour]]                                       | -       | -      |
 | [[Background.md\|Background]]                               | -       | -      |
 | [[Backpack.md\|Backpack]]                                   | 1 Stack  | 2 GP    |
 | [[Ball Bearings.md\|Ball Bearings]]                         | --       | 1 Gold  |
@@ -22,18 +21,20 @@
 | [[Bell.md\|Bell]]                                           | --       | 1 Gold  |
 | [[Bolas.md\|Bolas]]                                         | 1 Stack  | 2 gp    |
 | [[Boomerang.md\|Boomerang]]                                 | -       | -      |
-| [[Breastplate.md\|Breastplate]]                             | -       | -      |
+| [[Breastplate.md\|Breastplate]]                             | 1 Stack  | 2 gp    |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -      |
 | [[Bucket.md\|Bucket]]                                       | -       | -      |
 | [[Buckler.md\|Buckler]]                                     | -       | -      |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                   | -       | -      |
 | [[Caltrops.md\|Caltrops]]                                   | -       | -      |
 | [[Candle.md\|Candle]]                                       | -       | -      |
+| [[Carapace Armour.md\|Carapace Armour]]                     | 1 Stack  | 2 gp    |
 | [[Carpenter’s Tools.md\|Carpenter’s Tools]]                 | 1 Stack  | -      |
 | [[Cartographer’s Kit.md\|Cartographer’s Kit]]               | 1 Stack  | -      |
 | [[Chain.md\|Chain]]                                         | -       | -      |
 | [[Chain Armor.md\|Chain Armor]]                             | -       | -      |
-| [[Chain shirt.md\|Chain shirt]]                             | -       | -      |
+| [[Chain Mail.md\|Chain Mail]]                               | 1 Stack  | 1000 gp |
+| [[Chain Shirt.md\|Chain Shirt]]                             | 1 Stack  | 2 gp    |
 | [[Chalk.md\|Chalk]]                                         | -       | -      |
 | [[Character Creation Guide.md\|Character Creation Guide]]   | -       | -      |
 | [[Character Information.md\|Character Information]]         | -       | -      |
@@ -51,6 +52,7 @@
 | [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp    |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -      |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -      |
+| [[Dragonscale Armour.md\|Dragonscale Armour]]               | 1 Stack  | 1000 gp |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -      |
 | [[Enlargement Potion.md\|Enlargement Potion]]               | -       | -      |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]                 | 1 Stack  | -      |
@@ -85,6 +87,7 @@
 | [[Greatsword.md\|Greatsword]]                               | -       | -      |
 | [[Growth Potion.md\|Growth Potion]]                         | -       | -      |
 | [[Halberd.md\|Halberd]]                                     | -       | -      |
+| [[Halfplate.md\|Halfplate]]                                 | 1 Stack  | 2 gp    |
 | [[Handaxe.md\|Handaxe]]                                     | 1 Stack  | 2 gp    |
 | [[Healer's Kit.md\|Healer's Kit]]                           | -       | -      |
 | [[Healing Potion.md\|Healing Potion]]                       | -       | -      |
@@ -92,6 +95,7 @@
 | [[Heavy Armour.md\|Heavy Armour]]                           | -       | -      |
 | [[98 - Meta/Templates/Heavy Armour Template.md\|Heavy Armour Template]]                 | 1 Stack  | 2 gp    |
 | [[Herbalism Kit.md\|Herbalism Kit]]                         | 1 Stack  | -      |
+| [[Hide Armour.md\|Hide Armour]]                             | 1 Stack  | 2 gp    |
 | [[Hooded Lantern.md\|Hooded Lantern]]                       | -       | -      |
 | [[Hook Sword.md\|Hook Sword]]                               | -       | -      |
 | [[Hunting Trap.md\|Hunting Trap]]                           | -       | -      |
@@ -103,7 +107,7 @@
 | [[Javelin.md\|Javelin]]                                     | 1 Stack  | 2 gp    |
 | [[Lance.md\|Lance]]                                         | -       | -      |
 | [[Lantern Shield.md\|Lantern Shield]]                       | -       | -      |
-| [[Leather Armor.md\|Leather Armor]]                         | -       | -      |
+| [[Leather Armour.md\|Leather Armour]]                       | 1 Stack  | 2 gp    |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]           | 1 Stack  | -      |
 | [[Light Armour.md\|Light Armour]]                           | -       | -      |
 | [[98 - Meta/Templates/Light Armour Template.md\|Light Armour Template]]                 | 1 Stack  | 2 gp    |
@@ -123,6 +127,7 @@
 | [[Manacles.md\|Manacles]]                                   | -       | -      |
 | [[Masonry Kit.md\|Masonry Kit]]                             | 1 Stack  | -      |
 | [[Maul.md\|Maul]]                                           | -       | -      |
+| [[Medium Armour.md\|Medium Armour]]                         | -       | -      |
 | [[98 - Meta/Templates/Medium Armour Template.md\|Medium Armour Template]]               | 1 Stack  | 2 gp    |
 | [[Mess Kit.md\|Mess Kit]]                                   | -       | -      |
 | [[Metal Spoon.md\|Metal Spoon]]                             | -       | -      |
@@ -132,11 +137,12 @@
 | [[Nourishment Potion.md\|Nourishment Potion]]               | -       | -      |
 | [[Oil Flask.md\|Oil Flask]]                                 | -       | -      |
 | [[Padded Gambeson.md\|Padded Gambeson]]                     | 1 Stack  | 2 gp    |
+| [[Padded Leather Armour.md\|Padded Leather Armour]]         | 1 Stack  | 2 gp    |
 | [[Parchment Sheet.md\|Parchment Sheet]]                     | -       | -      |
 | [[Pickaxe.md\|Pickaxe]]                                     | -       | -      |
 | [[Pike.md\|Pike]]                                           | -       | -      |
 | [[Pitons.md\|Pitons]]                                       | -       | -      |
-| [[Plate Armor.md\|Plate Armor]]                             | 1 Stack  | 1000 gp |
+| [[Plate Armour.md\|Plate Armour]]                           | 1 Stack  | 1000 gp |
 | [[Poison Vial.md\|Poison Vial]]                             | -       | -      |
 | [[Portable Ram.md\|Portable Ram]]                           | -       | -      |
 | [[Potion.md\|Potion]]                                       | -       | -      |
@@ -144,12 +150,14 @@
 | [[Pouch.md\|Pouch]]                                         | -       | -      |
 | [[Quarterstaff.md\|Quarterstaff]]                           | 1 Stack  | 2 gp    |
 | [[Quill.md\|Quill]]                                         | -       | -      |
+| [[Quilted Plate Armour.md\|Quilted Plate Armour]]           | 1 Stack  | 1000 gp |
 | [[Rapier.md\|Rapier]]                                       | -       | -      |
 | [[Rations.md\|Rations]]                                     | -       | -      |
 | [[Recovery Potion.md\|Recovery Potion]]                     | -       | -      |
 | [[Regeneration Potion.md\|Regeneration Potion]]             | -       | -      |
 | [[Resistance Potion.md\|Resistance Potion]]                 | -       | -      |
 | [[Ring Blade.md\|Ring Blade]]                               | -       | -      |
+| [[Ring Mail.md\|Ring Mail]]                                 | 1 Stack  | 1000 gp |
 | [[Rope.md\|Rope]]                                           | -       | -      |
 | [[Scale Armor.md\|Scale Armor]]                             | -       | -      |
 | [[Scale Mail.md\|Scale Mail]]                               | 1 Stack  | 2 gp    |
@@ -176,10 +184,13 @@
 | [[Solvent Vial.md\|Solvent Vial]]                           | -       | -      |
 | [[Spear.md\|Spear]]                                         | 1 Stack  | 2 gp    |
 | [[Speed Potion.md\|Speed Potion]]                           | -       | -      |
+| [[Spiked Armour.md\|Spiked Armour]]                         | 1 Stack  | 2 gp    |
+| [[Splint Armour.md\|Splint Armour]]                         | 1 Stack  | 1000 gp |
 | [[Spyglass.md\|Spyglass]]                                   | -       | -      |
 | [[Stamina Potion.md\|Stamina Potion]]                       | -       | -      |
 | [[Stone Skin Potion.md\|Stone Skin Potion]]                 | -       | -      |
 | [[Strength Potion.md\|Strength Potion]]                     | -       | -      |
+| [[Studded Leather Armour.md\|Studded Leather Armour]]       | 1 Stack  | 2 gp    |
 | [[Tent.md\|Tent]]                                           | -       | -      |
 | [[Thieves' Tools.md\|Thieves' Tools]]                       | 1 Stack  | -      |
 | [[Throwing Knife.md\|Throwing Knife]]                       | -       | -      |

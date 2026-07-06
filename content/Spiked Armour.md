@@ -5,8 +5,8 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Weight**:: 1 Stack
 **Cost**:: 2 gp
 
-**Armour**:: 16
-**Properties**:: [[Heavy]] (1), [[Restricting]] (1), [[Protective]] (1)
+**Armour**:: 15
+**Properties**:: [[Heavy]] (2), [[Restricting]] (2), [[Protective]] (2), [[Loud]]
 
 ---
 
