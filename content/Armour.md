@@ -1,3 +1,8 @@
+| Light Armour                                                        | Armour | Properties                              |
+| ------------------------------------------------------------------- | ------ | --------------------------------------- |
+| [[Gambeson.md\|Gambeson]]               | 12     | -                                      |
+| [[Padded Gambeson.md\|Padded Gambeson]] | 12     | [[Restricting]] (1), [[Protective]] (1) |
+
 [[Equipment]]
 
 creates your [[Armour Class]]

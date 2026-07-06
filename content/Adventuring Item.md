@@ -41,13 +41,14 @@
 | [[Charming Perfume.md\|Charming Perfume]]                   | -       | -     |
 | [[Chest.md\|Chest]]                                         | -       | -     |
 | [[Chisel.md\|Chisel]]                                       | -       | -     |
+| [[Club.md\|Club]]                                           | 1 Stack  | 2 gp   |
 | [[Compass.md\|Compass]]                                     | -       | -     |
 | [[Cook’s Kit.md\|Cook’s Kit]]                               | 1 Stack  | -     |
 | [[Courier's Ink.md\|Courier's Ink]]                         | -       | -     |
 | [[Crowbar.md\|Crowbar]]                                     | -       | -     |
 | [[Dagger.md\|Dagger]]                                       | 1 Stack  | 2 gp   |
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -     |
-| [[Dart.md\|Dart]]                                           | -       | -     |
+| [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp   |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -     |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -     |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -     |
@@ -60,7 +61,7 @@
 | [[Flint and Steel.md\|Flint and Steel]]                     | -       | -     |
 | [[Flying Potion.md\|Flying Potion]]                         | -       | -     |
 | [[Forgery Kit.md\|Forgery Kit]]                             | 1 Stack  | -     |
-| [[Gambeson.md\|Gambeson]]                                   | -       | -     |
+| [[Gambeson.md\|Gambeson]]                                   | 1 Stack  | 2 gp   |
 | [[Gauntlet.md\|Gauntlet]]                                   | -       | -     |
 | [[Ghost Form Potion.md\|Ghost Form Potion]]                 | -       | -     |
 | [[Glaive.md\|Glaive]]                                       | -       | -     |
@@ -70,6 +71,7 @@
 | [[Gold Panning.md\|Gold Panning]]                           | -       | -     |
 | [[Grappling Hook.md\|Grappling Hook]]                       | -       | -     |
 | [[Greataxe.md\|Greataxe]]                                   | -       | -     |
+| [[Greatclub.md\|Greatclub]]                                 | 1 Stack  | 2 gp   |
 | [[Greater Growth Potion.md\|Greater Growth Potion]]         | -       | -     |
 | [[Greater Healing Potion.md\|Greater Healing Potion]]       | -       | -     |
 | [[Greater Healing Potion 1.md\|Greater Healing Potion 1]]   | -       | -     |
@@ -83,11 +85,12 @@
 | [[Greatsword.md\|Greatsword]]                               | -       | -     |
 | [[Growth Potion.md\|Growth Potion]]                         | -       | -     |
 | [[Halberd.md\|Halberd]]                                     | -       | -     |
-| [[Handaxe.md\|Handaxe]]                                     | -       | -     |
+| [[Handaxe.md\|Handaxe]]                                     | 1 Stack  | 2 gp   |
 | [[Healer's Kit.md\|Healer's Kit]]                           | -       | -     |
 | [[Healing Potion.md\|Healing Potion]]                       | -       | -     |
 | [[Healing Salve.md\|Healing Salve]]                         | -       | -     |
 | [[Heavy Armour.md\|Heavy Armour]]                           | -       | -     |
+| [[98 - Meta/Templates/Heavy Armour Template.md\|Heavy Armour Template]]                 | 1 Stack  | 2 gp   |
 | [[Herbalism Kit.md\|Herbalism Kit]]                         | 1 Stack  | -     |
 | [[Hooded Lantern.md\|Hooded Lantern]]                       | -       | -     |
 | [[Hook Sword.md\|Hook Sword]]                               | -       | -     |
@@ -97,19 +100,22 @@
 | [[index.md\|index]]                                         | -       | -     |
 | [[Ink Bottle.md\|Ink Bottle]]                               | -       | -     |
 | [[Invisibility Potion.md\|Invisibility Potion]]             | -       | -     |
-| [[Javelin.md\|Javelin]]                                     | -       | -     |
+| [[Javelin.md\|Javelin]]                                     | 1 Stack  | 2 gp   |
 | [[Lance.md\|Lance]]                                         | -       | -     |
 | [[Lantern Shield.md\|Lantern Shield]]                       | -       | -     |
 | [[Leather Armor.md\|Leather Armor]]                         | -       | -     |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]           | 1 Stack  | -     |
 | [[Light Armour.md\|Light Armour]]                           | -       | -     |
+| [[98 - Meta/Templates/Light Armour Template.md\|Light Armour Template]]                 | 1 Stack  | 2 gp   |
+| [[Light Crossbow.md\|Light Crossbow]]                       | 1 Stack  | 2 gp   |
+| [[Light hammer.md\|Light hammer]]                           | 1 Stack  | 2 gp   |
 | [[Liquid Light.md\|Liquid Light]]                           | -       | -     |
 | [[Liquid Lightning.md\|Liquid Lightning]]                   | -       | -     |
 | [[Lock.md\|Lock]]                                           | -       | -     |
 | [[Longsword.md\|Longsword]]                                 | -       | -     |
 | [[Love Potion.md\|Love Potion]]                             | -       | -     |
 | [[Luck Potion.md\|Luck Potion]]                             | -       | -     |
-| [[Mace.md\|Mace]]                                           | -       | -     |
+| [[Mace.md\|Mace]]                                           | 1 Stack  | 2 gp   |
 | [[01 - Projects/Legends Game Master/Magic Item.md\|Magic Item]]                         | -       | -     |
 | [[Magical Ink.md\|Magical Ink]]                             | -       | -     |
 | [[Magnifying Glass.md\|Magnifying Glass]]                   | -       | -     |
@@ -117,6 +123,7 @@
 | [[Manacles.md\|Manacles]]                                   | -       | -     |
 | [[Masonry Kit.md\|Masonry Kit]]                             | 1 Stack  | -     |
 | [[Maul.md\|Maul]]                                           | -       | -     |
+| [[98 - Meta/Templates/Medium Armour Template.md\|Medium Armour Template]]               | 1 Stack  | 2 gp   |
 | [[Mess Kit.md\|Mess Kit]]                                   | -       | -     |
 | [[Metal Spoon.md\|Metal Spoon]]                             | -       | -     |
 | [[Mining Tools.md\|Mining Tools]]                           | 1 Stack  | -     |
@@ -124,7 +131,7 @@
 | [[Morningstar.md\|Morningstar]]                             | -       | -     |
 | [[Nourishment Potion.md\|Nourishment Potion]]               | -       | -     |
 | [[Oil Flask.md\|Oil Flask]]                                 | -       | -     |
-| [[Padded Gambeson.md\|Padded Gambeson]]                     | -       | -     |
+| [[Padded Gambeson.md\|Padded Gambeson]]                     | 1 Stack  | 2 gp   |
 | [[Parchment Sheet.md\|Parchment Sheet]]                     | -       | -     |
 | [[Pickaxe.md\|Pickaxe]]                                     | -       | -     |
 | [[Pike.md\|Pike]]                                           | -       | -     |
@@ -135,7 +142,7 @@
 | [[Potion.md\|Potion]]                                       | -       | -     |
 | [[01 - Projects/Legends Game Master/Potion Template.md\|Potion Template]]               | -       | -     |
 | [[Pouch.md\|Pouch]]                                         | -       | -     |
-| [[Quarterstaff.md\|Quarterstaff]]                           | -       | -     |
+| [[Quarterstaff.md\|Quarterstaff]]                           | 1 Stack  | 2 gp   |
 | [[Quill.md\|Quill]]                                         | -       | -     |
 | [[Rapier.md\|Rapier]]                                       | -       | -     |
 | [[Rations.md\|Rations]]                                     | -       | -     |
@@ -152,19 +159,21 @@
 | [[Scroll Case.md\|Scroll Case]]                             | -       | -     |
 | [[Shapechanging Potion.md\|Shapechanging Potion]]           | -       | -     |
 | [[Shield.md\|Shield]]                                       | -       | -     |
+| [[Shortbow.md\|Shortbow]]                                   | 1 Stack  | 2 gp   |
 | [[Shortsword.md\|Shortsword]]                               | -       | -     |
 | [[Shovel.md\|Shovel]]                                       | -       | -     |
 | [[Shrink Potion.md\|Shrink Potion]]                         | -       | -     |
-| [[Sickle.md\|Sickle]]                                       | -       | -     |
+| [[Sickle.md\|Sickle]]                                       | 1 Stack  | 2 gp   |
 | [[Silver Tongue Potion.md\|Silver Tongue Potion]]           | -       | -     |
 | [[98 - Meta/Templates/Simple Weapon Template.md\|Simple Weapon Template]]               | 1 Stack  | 2 gp   |
 | [[Skyflare.md\|Skyflare]]                                   | -       | -     |
 | [[Sleep Potion.md\|Sleep Potion]]                           | -       | -     |
+| [[Sling.md\|Sling]]                                         | 1 Stack  | 2 gp   |
 | [[Smithing Hammer.md\|Smithing Hammer]]                     | -       | -     |
 | [[Smithing Tools.md\|Smithing Tools]]                       | 1 Stack  | -     |
 | [[Smoke Bomb.md\|Smoke Bomb]]                               | -       | -     |
 | [[Solvent Vial.md\|Solvent Vial]]                           | -       | -     |
-| [[Spear.md\|Spear]]                                         | -       | -     |
+| [[Spear.md\|Spear]]                                         | 1 Stack  | 2 gp   |
 | [[Speed Potion.md\|Speed Potion]]                           | -       | -     |
 | [[Spyglass.md\|Spyglass]]                                   | -       | -     |
 | [[Stamina Potion.md\|Stamina Potion]]                       | -       | -     |

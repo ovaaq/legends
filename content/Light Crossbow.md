@@ -5,9 +5,9 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Weight**:: 1 Stack
 **Cost**:: 2 gp
 
-**Category**:: [[Polearm]]
-**Properties**:: [[Reach]] (2m), [[Versatile]] (1d10)
-**Damage**:: 1d8 [[Bludgeoning Damage]]
+**Category**:: [[Crossbow]]
+**Properties**:: [[Ammunition]], [[Loading]], [[Ranged]] (1m / 2m), [[Two‑Handed]]
+**Damage**::
 
 ---
 

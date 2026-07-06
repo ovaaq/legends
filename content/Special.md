@@ -1,5 +1,5 @@
 ---
 
-#weapon #property #keyword
+#armour #weapon #property #keyword
 
 [[Weapon Property]]

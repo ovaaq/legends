@@ -1,16 +1,15 @@
-_[[Simple Weapon]]_
+_[[Simple Weapon]], [[Equipment]]_
 
-_Description_
+_Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
 
 **Weight**:: 1 Stack
-**Type**:: [[Hammer]]
-**Properties**::
+**Cost**:: 2 gp
 
-**Range**:: Melee
+**Category**:: [[Hammer]]
+**Properties**::
 **Damage**:: 1d6 [[Bludgeoning Damage]]
-**Effect**::
 
 ---
 
-#weapon #simple #hammer
+#simple #weapon #equipment
 [[Weapon]]

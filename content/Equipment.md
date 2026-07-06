@@ -54,13 +54,14 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Charming Perfume.md\|Charming Perfume]]                   | -       | -     | Weapon   |
 | [[Chest.md\|Chest]]                                         | -       | -     | Weapon   |
 | [[Chisel.md\|Chisel]]                                       | -       | -     | Weapon   |
+| [[Club.md\|Club]]                                           | 1 Stack  | 2 gp   | Weapon   |
 | [[Compass.md\|Compass]]                                     | -       | -     | Weapon   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                               | 1 Stack  | -     | Weapon   |
 | [[Courier's Ink.md\|Courier's Ink]]                         | -       | -     | Weapon   |
 | [[Crowbar.md\|Crowbar]]                                     | -       | -     | Weapon   |
 | [[Dagger.md\|Dagger]]                                       | 1 Stack  | 2 gp   | Weapon   |
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -     | Weapon   |
-| [[Dart.md\|Dart]]                                           | -       | -     | Weapon   |
+| [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp   | Weapon   |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -     | Weapon   |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -     | Weapon   |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -     | Weapon   |
@@ -73,7 +74,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Flint and Steel.md\|Flint and Steel]]                     | -       | -     | Weapon   |
 | [[Flying Potion.md\|Flying Potion]]                         | -       | -     | Weapon   |
 | [[Forgery Kit.md\|Forgery Kit]]                             | 1 Stack  | -     | Weapon   |
-| [[Gambeson.md\|Gambeson]]                                   | -       | -     | Weapon   |
+| [[Gambeson.md\|Gambeson]]                                   | 1 Stack  | 2 gp   | Weapon   |
 | [[Gauntlet.md\|Gauntlet]]                                   | -       | -     | Weapon   |
 | [[Ghost Form Potion.md\|Ghost Form Potion]]                 | -       | -     | Weapon   |
 | [[Glaive.md\|Glaive]]                                       | -       | -     | Weapon   |
@@ -83,6 +84,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Gold Panning.md\|Gold Panning]]                           | -       | -     | Weapon   |
 | [[Grappling Hook.md\|Grappling Hook]]                       | -       | -     | Weapon   |
 | [[Greataxe.md\|Greataxe]]                                   | -       | -     | Weapon   |
+| [[Greatclub.md\|Greatclub]]                                 | 1 Stack  | 2 gp   | Weapon   |
 | [[Greater Growth Potion.md\|Greater Growth Potion]]         | -       | -     | Weapon   |
 | [[Greater Healing Potion.md\|Greater Healing Potion]]       | -       | -     | Weapon   |
 | [[Greater Healing Potion 1.md\|Greater Healing Potion 1]]   | -       | -     | Weapon   |
@@ -96,11 +98,12 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Greatsword.md\|Greatsword]]                               | -       | -     | Weapon   |
 | [[Growth Potion.md\|Growth Potion]]                         | -       | -     | Weapon   |
 | [[Halberd.md\|Halberd]]                                     | -       | -     | Weapon   |
-| [[Handaxe.md\|Handaxe]]                                     | -       | -     | Weapon   |
+| [[Handaxe.md\|Handaxe]]                                     | 1 Stack  | 2 gp   | Weapon   |
 | [[Healer's Kit.md\|Healer's Kit]]                           | -       | -     | Weapon   |
 | [[Healing Potion.md\|Healing Potion]]                       | -       | -     | Weapon   |
 | [[Healing Salve.md\|Healing Salve]]                         | -       | -     | Weapon   |
 | [[Heavy Armour.md\|Heavy Armour]]                           | -       | -     | Weapon   |
+| [[98 - Meta/Templates/Heavy Armour Template.md\|Heavy Armour Template]]                 | 1 Stack  | 2 gp   | Weapon   |
 | [[Herbalism Kit.md\|Herbalism Kit]]                         | 1 Stack  | -     | Weapon   |
 | [[Hooded Lantern.md\|Hooded Lantern]]                       | -       | -     | Weapon   |
 | [[Hook Sword.md\|Hook Sword]]                               | -       | -     | Weapon   |
@@ -110,19 +113,22 @@ There is also [[Premade Packs]] for quick grabs.
 | [[index.md\|index]]                                         | -       | -     | Weapon   |
 | [[Ink Bottle.md\|Ink Bottle]]                               | -       | -     | Weapon   |
 | [[Invisibility Potion.md\|Invisibility Potion]]             | -       | -     | Weapon   |
-| [[Javelin.md\|Javelin]]                                     | -       | -     | Weapon   |
+| [[Javelin.md\|Javelin]]                                     | 1 Stack  | 2 gp   | Weapon   |
 | [[Lance.md\|Lance]]                                         | -       | -     | Weapon   |
 | [[Lantern Shield.md\|Lantern Shield]]                       | -       | -     | Weapon   |
 | [[Leather Armor.md\|Leather Armor]]                         | -       | -     | Weapon   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]           | 1 Stack  | -     | Weapon   |
 | [[Light Armour.md\|Light Armour]]                           | -       | -     | Weapon   |
+| [[98 - Meta/Templates/Light Armour Template.md\|Light Armour Template]]                 | 1 Stack  | 2 gp   | Weapon   |
+| [[Light Crossbow.md\|Light Crossbow]]                       | 1 Stack  | 2 gp   | Weapon   |
+| [[Light hammer.md\|Light hammer]]                           | 1 Stack  | 2 gp   | Weapon   |
 | [[Liquid Light.md\|Liquid Light]]                           | -       | -     | Weapon   |
 | [[Liquid Lightning.md\|Liquid Lightning]]                   | -       | -     | Weapon   |
 | [[Lock.md\|Lock]]                                           | -       | -     | Weapon   |
 | [[Longsword.md\|Longsword]]                                 | -       | -     | Weapon   |
 | [[Love Potion.md\|Love Potion]]                             | -       | -     | Weapon   |
 | [[Luck Potion.md\|Luck Potion]]                             | -       | -     | Weapon   |
-| [[Mace.md\|Mace]]                                           | -       | -     | Weapon   |
+| [[Mace.md\|Mace]]                                           | 1 Stack  | 2 gp   | Weapon   |
 | [[01 - Projects/Legends Game Master/Magic Item.md\|Magic Item]]                         | -       | -     | Weapon   |
 | [[Magical Ink.md\|Magical Ink]]                             | -       | -     | Weapon   |
 | [[Magnifying Glass.md\|Magnifying Glass]]                   | -       | -     | Weapon   |
@@ -130,6 +136,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Manacles.md\|Manacles]]                                   | -       | -     | Weapon   |
 | [[Masonry Kit.md\|Masonry Kit]]                             | 1 Stack  | -     | Weapon   |
 | [[Maul.md\|Maul]]                                           | -       | -     | Weapon   |
+| [[98 - Meta/Templates/Medium Armour Template.md\|Medium Armour Template]]               | 1 Stack  | 2 gp   | Weapon   |
 | [[Mess Kit.md\|Mess Kit]]                                   | -       | -     | Weapon   |
 | [[Metal Spoon.md\|Metal Spoon]]                             | -       | -     | Weapon   |
 | [[Mining Tools.md\|Mining Tools]]                           | 1 Stack  | -     | Weapon   |
@@ -137,7 +144,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Morningstar.md\|Morningstar]]                             | -       | -     | Weapon   |
 | [[Nourishment Potion.md\|Nourishment Potion]]               | -       | -     | Weapon   |
 | [[Oil Flask.md\|Oil Flask]]                                 | -       | -     | Weapon   |
-| [[Padded Gambeson.md\|Padded Gambeson]]                     | -       | -     | Weapon   |
+| [[Padded Gambeson.md\|Padded Gambeson]]                     | 1 Stack  | 2 gp   | Weapon   |
 | [[Parchment Sheet.md\|Parchment Sheet]]                     | -       | -     | Weapon   |
 | [[Pickaxe.md\|Pickaxe]]                                     | -       | -     | Weapon   |
 | [[Pike.md\|Pike]]                                           | -       | -     | Weapon   |
@@ -148,7 +155,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Potion.md\|Potion]]                                       | -       | -     | Weapon   |
 | [[01 - Projects/Legends Game Master/Potion Template.md\|Potion Template]]               | -       | -     | Weapon   |
 | [[Pouch.md\|Pouch]]                                         | -       | -     | Weapon   |
-| [[Quarterstaff.md\|Quarterstaff]]                           | -       | -     | Weapon   |
+| [[Quarterstaff.md\|Quarterstaff]]                           | 1 Stack  | 2 gp   | Weapon   |
 | [[Quill.md\|Quill]]                                         | -       | -     | Weapon   |
 | [[Rapier.md\|Rapier]]                                       | -       | -     | Weapon   |
 | [[Rations.md\|Rations]]                                     | -       | -     | Weapon   |
@@ -165,19 +172,21 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Scroll Case.md\|Scroll Case]]                             | -       | -     | Weapon   |
 | [[Shapechanging Potion.md\|Shapechanging Potion]]           | -       | -     | Weapon   |
 | [[Shield.md\|Shield]]                                       | -       | -     | Weapon   |
+| [[Shortbow.md\|Shortbow]]                                   | 1 Stack  | 2 gp   | Weapon   |
 | [[Shortsword.md\|Shortsword]]                               | -       | -     | Weapon   |
 | [[Shovel.md\|Shovel]]                                       | -       | -     | Weapon   |
 | [[Shrink Potion.md\|Shrink Potion]]                         | -       | -     | Weapon   |
-| [[Sickle.md\|Sickle]]                                       | -       | -     | Weapon   |
+| [[Sickle.md\|Sickle]]                                       | 1 Stack  | 2 gp   | Weapon   |
 | [[Silver Tongue Potion.md\|Silver Tongue Potion]]           | -       | -     | Weapon   |
 | [[98 - Meta/Templates/Simple Weapon Template.md\|Simple Weapon Template]]               | 1 Stack  | 2 gp   | Weapon   |
 | [[Skyflare.md\|Skyflare]]                                   | -       | -     | Weapon   |
 | [[Sleep Potion.md\|Sleep Potion]]                           | -       | -     | Weapon   |
+| [[Sling.md\|Sling]]                                         | 1 Stack  | 2 gp   | Weapon   |
 | [[Smithing Hammer.md\|Smithing Hammer]]                     | -       | -     | Weapon   |
 | [[Smithing Tools.md\|Smithing Tools]]                       | 1 Stack  | -     | Weapon   |
 | [[Smoke Bomb.md\|Smoke Bomb]]                               | -       | -     | Weapon   |
 | [[Solvent Vial.md\|Solvent Vial]]                           | -       | -     | Weapon   |
-| [[Spear.md\|Spear]]                                         | -       | -     | Weapon   |
+| [[Spear.md\|Spear]]                                         | 1 Stack  | 2 gp   | Weapon   |
 | [[Speed Potion.md\|Speed Potion]]                           | -       | -     | Weapon   |
 | [[Spyglass.md\|Spyglass]]                                   | -       | -     | Weapon   |
 | [[Stamina Potion.md\|Stamina Potion]]                       | -       | -     | Weapon   |

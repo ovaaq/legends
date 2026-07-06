@@ -5,3 +5,4 @@
 [[Crossbow]]
 [[Polearm]]
 [[Snare]]
+[[Projectile]]

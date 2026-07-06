@@ -19,6 +19,7 @@
 | [[Arcane Spellcasting Skill.md\|Arcane Spellcasting Skill]]         |
 | [[Armour.md\|Armour]]                                               |
 | [[Armour Class.md\|Armour Class]]                                   |
+| [[Armour Property.md\|Armour Property]]                             |
 | [[Asleep.md\|Asleep]]                                               |
 | [[Attack.md\|Attack]]                                               |
 | [[Attack Roll.md\|Attack Roll]]                                     |
@@ -150,6 +151,7 @@
 | [[Lightning Damage.md\|Lightning Damage]]                           |
 | [[Loading.md\|Loading]]                                             |
 | [[Long Rest.md\|Long Rest]]                                         |
+| [[Loud.md\|Loud]]                                                   |
 | [[01 - Projects/Legends Game Master/Magical Essence.md\|Magical Essence]]                       |
 | [[Magical Material.md\|Magical Material]]                           |
 | [[Mana Point.md\|Mana Point]]                                       |
@@ -162,6 +164,7 @@
 | [[Melee Attack.md\|Melee Attack]]                                   |
 | [[Melee Spell Attack.md\|Melee Spell Attack]]                       |
 | [[Melee Weapon Attack.md\|Melee Weapon Attack]]                     |
+| [[Metallic.md\|Metallic]]                                           |
 | [[Muted.md\|Muted]]                                                 |
 | [[Natural 1.md\|Natural 1]]                                         |
 | [[Natural 20.md\|Natural 20]]                                       |
@@ -185,8 +188,10 @@
 | [[Precision.md\|Precision]]                                         |
 | [[Prepared Spell.md\|Prepared Spell]]                               |
 | [[Preservation Magic.md\|Preservation Magic]]                       |
+| [[Projectile.md\|Projectile]]                                       |
 | [[Projection Magic.md\|Projection Magic]]                           |
 | [[Prone.md\|Prone]]                                                 |
+| [[Protective.md\|Protective]]                                       |
 | [[Psychic Damage.md\|Psychic Damage]]                               |
 | [[Radiant Damage.md\|Radiant Damage]]                               |
 | [[Raise A Shield.md\|Raise A Shield]]                               |
@@ -211,6 +216,7 @@
 | [[Resting.md\|Resting]]                                             |
 | [[Restoration Magic.md\|Restoration Magic]]                         |
 | [[Restrained.md\|Restrained]]                                       |
+| [[Restricting.md\|Restricting]]                                     |
 | [[Revelation Magic.md\|Revelation Magic]]                           |
 | [[Saving Throw.md\|Saving Throw]]                                   |
 | [[Saving Throw Difficulty Class.md\|Saving Throw Difficulty Class]] |
@@ -233,6 +239,7 @@
 | [[Spellbook.md\|Spellbook]]                                         |
 | [[Spellcasting.md\|Spellcasting]]                                   |
 | [[Spellcasting Focus.md\|Spellcasting Focus]]                       |
+| [[Spiked.md\|Spiked]]                                               |
 | [[Spirit Point.md\|Spirit Point]]                                   |
 | [[Spiritual Spell List.md\|Spiritual Spell List]]                   |
 | [[Spiritual Spellcasting Skill.md\|Spiritual Spellcasting Skill]]   |
@@ -252,6 +259,7 @@
 | [[Talent Tree.md\|Talent Tree]]                                     |
 | [[Temporary Hit Point.md\|Temporary Hit Point]]                     |
 | [[Thrown.md\|Thrown]]                                               |
+| [[Too Heavy Penalty.md\|Too Heavy Penalty]]                         |
 | [[Touch Attack.md\|Touch Attack]]                                   |
 | [[Touch Spell Attack.md\|Touch Spell Attack]]                       |
 | [[Touch Weapon Attack.md\|Touch Weapon Attack]]                     |
