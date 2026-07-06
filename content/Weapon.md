@@ -22,6 +22,10 @@ _Some times you need to hurt someone, real bad..._
 | [[Bolas.md\|Bolas]] | [[Snare.md\|Snare]] | -                      | [[Light]]. [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m) |
 | [[Whip.md\|Whip]]   | [[Snare.md\|Snare]] | 1d4 [[Slashing Damage]] | [[Light]], [[Finesse]], [[Reach]] (2m), [[Special]]                     |
 
+[[Parrying Dagger]]
+[[Shortsword]]
+Buckler
+
 [[Sling]]
 [[Dart]]
 [[Shortbow]]

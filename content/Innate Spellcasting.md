@@ -38,7 +38,7 @@ These spells are added to your [[Innate Spell List]]:
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[Innate Spellcasting Practice]], [[Learn Innate Spell]], [[Innate Spells I]]
+**Following**:: [[Innate Spellcasting Practice]], [[Learn Innate Spell]], [[Innate Spells I]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
 
 ---
 

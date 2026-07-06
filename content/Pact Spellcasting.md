@@ -26,7 +26,7 @@ These spells are added to your [[Innate Spell List]]:
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[Pact Spellcasting Practice]], [[Learn Pact Spell]], [[Increase Spell Power]], [[Increase Spell Slots]]
+**Following**:: [[Pact Spellcasting Practice]], [[Learn Pact Spell]], [[Increase Spell Power]], [[Increase Spell Slots]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
 
 ---
 
