@@ -12,7 +12,7 @@ Using [[Simple Weapon|Simple Weapons]] will not impose [[Untrained Weapon Penalt
 
 This [[Talent]] can be taken once.
 
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Advanced Weapon Training]], [[Martial Practice]], [[Fighting Stance Training]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
 

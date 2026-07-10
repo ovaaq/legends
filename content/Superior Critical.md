@@ -5,7 +5,7 @@ _You have practised the basics of weaponry. Now, your path to martial excellence
 
 Your [[Weapon Attack|Weapon Attacks]] score a [[Critical Hit]] on a roll of 18 and 20.
 
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Extra Extra Attack]]
 

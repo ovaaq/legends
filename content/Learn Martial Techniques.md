@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Learn 3 Martial Techniques that you have unlocked.
+Learn 3 [[Martial Technique|Martial Techniques]] that you have unlocked.
 
 **Group**:: Martial
 **Following**::

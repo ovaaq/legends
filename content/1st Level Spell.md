@@ -42,7 +42,6 @@
 | [[Hold Beast.md\|Hold Beast]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Concentration, up to 1 minute    |
 | [[Inflict Wounds.md\|Inflict Wounds]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Influence Emotion.md\|Influence Emotion]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
-| [[Jump.md\|Jump]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Lullaby.md\|Lullaby]]                             | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 20 metres    | Instantaneous                    |
 | [[Mage Armour.md\|Mage Armour]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch        | 8 hours                          |
 | [[Magic Missile.md\|Magic Missile]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 40 metres    | Instantaneous                    |
@@ -66,6 +65,7 @@
 | [[Tailwind Strike.md\|Tailwind Strike]]             | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                          |
 | [[Trace.md\|Trace]]                                 | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                          |
 | [[Unseen Servant.md\|Unseen Servant]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                           |
+| [[Wind Step.md\|Wind Step]]                         | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 
 [[Animate Rope]]
 
@@ -76,7 +76,7 @@
 Create Water
 Fear
 Floating Dsik
-[[Jump]]
+[[Wind Step]]
 [[Summon Tiny Elemental]]
 [[Summon Tiny Beast]]
 [[Summon Tiny Construct]]

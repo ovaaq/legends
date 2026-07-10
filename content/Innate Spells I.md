@@ -47,7 +47,7 @@ These spells are added to your [[Innate Spell List]]:
 - [[Frost Armour]]
 - [[Hold Beast]]
 - [[Ice Knife]]
-- [[Jump]]
+- [[Wind Step]]
 - [[Long Strider]]
 - [[Thunderwave]]
 - [[Witch Bolt]]

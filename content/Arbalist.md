@@ -5,7 +5,7 @@
 
 [[Crossbow]] loading etc
 
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Crossbow Master]]
 

@@ -23,7 +23,7 @@
 | [[Boomerang.md\|Boomerang]]                                 | -       | -      |
 | [[Breastplate.md\|Breastplate]]                             | 1 Stack  | 2 gp    |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -      |
-| [[00 - Inbox/Brigandine.md\|Brigandine]]                                                | 1 Stack  | 2 gp    |
+| [[Brigandine.md\|Brigandine]]                               | 1 Stack  | 2 gp    |
 | [[Bucket.md\|Bucket]]                                       | -       | -      |
 | [[Buckler.md\|Buckler]]                                     | -       | -      |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                   | -       | -      |
@@ -52,7 +52,7 @@
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -      |
 | [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp    |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -      |
-| [[Dragon Scale Armour.md\|Dragon Scale Armour]]             | 1 Stack  | 1000 gp |
+| [[Dragon Scale Mail.md\|Dragon Scale Mail]]                 | 1 Stack  | 1000 gp |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -      |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -      |
 | [[Enlargement Potion.md\|Enlargement Potion]]               | -       | -      |

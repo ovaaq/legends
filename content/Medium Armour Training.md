@@ -5,7 +5,7 @@ _Lore._
 
 Wearing [[Medium Armour]] will not impose [[Untrained Armour Penalty]].
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Heavy Armour Training]], [[Medium Armour Master]]
 

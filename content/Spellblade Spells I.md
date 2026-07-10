@@ -39,7 +39,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Frost Armour]]
 - [[Grease]]
 - [[Ice Knife]]
-- [[Jump]]
+- [[Wind Step]]
 - [[Long Strider]]
 - [[Magic Weapon]]
 - [[Protection from Evil and Good]]

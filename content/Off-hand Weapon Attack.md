@@ -1,3 +1,11 @@
+_[[Offensive Actions]]_
+
+**Description**::
+**Action**:: [[Action]]
+**Target**::
+
+Explanation.
+
 ---
 
-#keyword #action
+#keyword #action #encounter #offensive

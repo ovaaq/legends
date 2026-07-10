@@ -36,7 +36,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Boomerang.md\|Boomerang]]                                 | -       | -      | Weapon   |
 | [[Breastplate.md\|Breastplate]]                             | 1 Stack  | 2 gp    | Weapon   |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                           | 1 Stack  | -      | Weapon   |
-| [[00 - Inbox/Brigandine.md\|Brigandine]]                                                | 1 Stack  | 2 gp    | Weapon   |
+| [[Brigandine.md\|Brigandine]]                               | 1 Stack  | 2 gp    | Weapon   |
 | [[Bucket.md\|Bucket]]                                       | -       | -      | Weapon   |
 | [[Buckler.md\|Buckler]]                                     | -       | -      | Weapon   |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                   | -       | -      | Weapon   |
@@ -65,7 +65,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Darkvision Potion.md\|Darkvision Potion]]                 | -       | -      | Weapon   |
 | [[Dart.md\|Dart]]                                           | 1 Stack  | 2 gp    | Weapon   |
 | [[Disappearing Ink.md\|Disappearing Ink]]                   | -       | -      | Weapon   |
-| [[Dragon Scale Armour.md\|Dragon Scale Armour]]             | 1 Stack  | 1000 gp | Weapon   |
+| [[Dragon Scale Mail.md\|Dragon Scale Mail]]                 | 1 Stack  | 1000 gp | Weapon   |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]                     | -       | -      | Weapon   |
 | [[Dual-Blade.md\|Dual-Blade]]                               | -       | -      | Weapon   |
 | [[Enlargement Potion.md\|Enlargement Potion]]               | -       | -      | Weapon   |

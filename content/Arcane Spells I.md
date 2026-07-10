@@ -26,7 +26,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Ice Knife]]
 - [[Identify]]
 - [[Illusory Script]]
-- [[Jump]]
+- [[Wind Step]]
 - [[Long Strider]]
 - [[Silent Image]]
 - [[Sleep]]

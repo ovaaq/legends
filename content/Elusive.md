@@ -5,7 +5,7 @@ _You have mastered the basics of weaponry. Now, your path to martial excellence 
 
 x
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Untouchable]]
 

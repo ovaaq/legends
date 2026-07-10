@@ -11,7 +11,7 @@ You use shields not just for protection but also for offense. You gain the follo
 
 - If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

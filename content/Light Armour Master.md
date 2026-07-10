@@ -3,9 +3,9 @@
 
 _Lore._
 
-You ignore all [[Evasion Class]] penalties caused by wearing [[Light Armour]].
+While wearing [[Light Armour]], you ignore the armour's [[Restricting]] property.
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Uncanny Dodge]], [[Escape Artist]]
 

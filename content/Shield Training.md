@@ -5,7 +5,7 @@ _You have mastered the basics of weaponry. Now, your path to martial excellence 
 
 Using [[Shield]] will not impose [[Untrained Armour Penalty]].
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Shield Master]]
 

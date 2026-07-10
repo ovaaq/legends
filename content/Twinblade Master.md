@@ -3,9 +3,9 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-you can wield two non light weapons
+You can wield two [[Weapon|Weapons]] even if neither has the [[Light]] property.
 
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

@@ -3,12 +3,9 @@
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._
 
-You have practiced moving in medium armor to gain the following benefits:
+While wearing [[Medium Armour]], the armour's [[Restricting]] value is degreased by 1 and ignore the [[Loud]] property.
 
-- Wearing medium armor doesn't impose disadvantage on your Agility (Stealth) checks.
-- When you wear medium armor, substract 1 from the [[Evasion Class]] penaltu that armor gives.
-
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

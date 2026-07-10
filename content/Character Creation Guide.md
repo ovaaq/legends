@@ -460,10 +460,10 @@ Talents are grouped by relevance to make them easier to find. Some Talents are o
 
 [[Martial Talent]] reflect a character’s combat prowess, from mastering weapons to harnessing inner energy and unleashing devastating attacks. These Talents help warriors excel on the battlefield and adapt to any fight.
 
-- [[Weapon Master Talent Tree]]
-- [[Defence Talent Tree]]
+- [[Weapon Talent Tree]]
+- [[Armour Talent Tree]]
 - [[Ki Talent Tree]]
-- [[Berserker Talent Tree]]
+- [[Rage Talent Tree]]
 
 ### Arcane Talents
 

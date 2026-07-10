@@ -68,9 +68,9 @@ After assigning Saving Throw Ranks, calculate the [[Saving Throw Modifier]] for 
 
 ### Martial Training
 
-1. Light / Medium / Heavy Armour Training – _Colour this if you have received training from the [[Defence Talent Tree]]_
-2. Shield Training – _Colour this if you have received training from the [[Defence Talent Tree]]_
-3. Simple / Advanced Weapon Training – _Colour this if you have received training from the [[Weapon Master Talent Tree]]_
+1. Light / Medium / Heavy Armour Training – _Colour this if you have received training from the [[Armour Talent Tree]]_
+2. Shield Training – _Colour this if you have received training from the [[Armour Talent Tree]]_
+3. Simple / Advanced Weapon Training – _Colour this if you have received training from the [[Weapon Talent Tree]]_
 4. Martial Skill Ranks – _Recorded in the same way as [[Expert Skill]]_
 
 ### Spellcasting Training

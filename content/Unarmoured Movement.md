@@ -1,4 +1,4 @@
-**Requirements**:: [[Unarmoured Defence]]
+**Requirements**:: [[Increased Evasion]]
 **Cost**:: 1 LP
 
 _Lore_
@@ -7,7 +7,7 @@ While you are not wearing any [[Armour]], you [[Walking Speed]] is increased by 
 
 This [[Talent]] can be taken once.
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Uncanny Dodge]], [[Escape Artist]]
 

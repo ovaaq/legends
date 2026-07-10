@@ -5,7 +5,7 @@
 
 Using [[Advanced Weapon|Advanced Weapons]] will not impose [[Untrained Weapon Penalty]].
 
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Polearmist]], [[Arbalist]], [[Axeman]], [[Swordman]], [[Hammerer]], [[Archer]], [[Dual Wielder]]
 

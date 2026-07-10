@@ -77,7 +77,7 @@ Summon Insect
 ideas
 
 [[Shadow Veil]]
-[[Jump]]
+[[Wind Step]]
 
 | List of Cantrips                                                                  |
 | --------------------------------------------------------------------------------- |

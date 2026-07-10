@@ -3,9 +3,9 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-When dealing damage with [[Axe]]. Once per turn you can reroll weapon damage, you must use the new roll.
+Once per turn, when you deal damage with an [[Axe]], you can reroll the weapon's damage dice. You must use the new roll.
 
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Axe Master]]
 

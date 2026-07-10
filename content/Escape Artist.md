@@ -5,7 +5,7 @@ _Lore_
 
 You have [[Advantage]] on all [[Saving Throw|Saving Throws]] and [[Check|Ability Checks]] made to resist or escape being [[Grappled]] or [[Restrained]].
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Evasion]]
 

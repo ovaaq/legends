@@ -5,14 +5,14 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Afterlife Talent Tree.md\|Afterlife Talent Tree]]           |
 | [[Alchemy Talent Tree.md\|Alchemy Talent Tree]]               |
 | [[Arcane Talent Tree.md\|Arcane Talent Tree]]                 |
+| [[Armour Talent Tree.md\|Armour Talent Tree]]                 |
 | [[Beast Talent Tree.md\|Beast Talent Tree]]                   |
-| [[Berserker Talent Tree.md\|Berserker Talent Tree]]           |
 | [[Capability Talent Tree.md\|Capability Talent Tree]]         |
 | [[Celestial Pact Talent Tree.md\|Celestial Pact Talent Tree]] |
-| [[Defence Talent Tree.md\|Defence Talent Tree]]               |
 | [[Divine Talent Tree.md\|Divine Talent Tree]]                 |
 | [[Draconic Pact Talent Tree.md\|Draconic Pact Talent Tree]]   |
 | [[Elemental Talent Tree.md\|Elemental Talent Tree]]           |
+| [[Evasion Talent Tree.md\|Evasion Talent Tree]]               |
 | [[Harmony Talent Tree.md\|Harmony Talent Tree]]               |
 | [[Haste Talent Tree.md\|Haste Talent Tree]]                   |
 | [[Healer Talent Tree.md\|Healer Talent Tree]]                 |
@@ -28,6 +28,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Nature Talent Tree.md\|Nature Talent Tree]]                 |
 | [[Pact Talent Tree.md\|Pact Talent Tree]]                     |
 | [[Poison Talent Tree.md\|Poison Talent Tree]]                 |
+| [[Rage Talent Tree.md\|Rage Talent Tree]]                     |
 | [[Resistance Talent Tree.md\|Resistance Talent Tree]]         |
 | [[Runecraft Talent Tree.md\|Runecraft Talent Tree]]           |
 | [[Spellblade Talent Tree.md\|Spellblade Talent Tree]]         |
@@ -36,7 +37,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Vampire Talent Tree.md\|Vampire Talent Tree]]               |
 | [[Vitality Talent Tree.md\|Vitality Talent Tree]]             |
 | [[Warding Talent Tree.md\|Warding Talent Tree]]               |
-| [[Weapon Master Talent Tree.md\|Weapon Master Talent Tree]]   |
+| [[Weapon Talent Tree.md\|Weapon Talent Tree]]                 |
 | [[Wild Magic Talent Tree.md\|Wild Magic Talent Tree]]         |
 
 ---

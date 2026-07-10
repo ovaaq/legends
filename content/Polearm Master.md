@@ -3,11 +3,9 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-- When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgeoning damage.
+When you take the [[Attack]] action and attack with a [[Polearm]], you can use an [[Action]] to make an additional [[Attack]] with the opposite end of the weapon. This attack uses the same modifier as the primary attack. This attack deals 1d4 + [[Strength]] [[Bludgeoning Damage]].
 
-- While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
-
-**Tree**:: [[Weapon Master Talent Tree]]
+**Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

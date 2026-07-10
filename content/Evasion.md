@@ -9,7 +9,7 @@ You can nimbly dodge out of the way of certain area effects, such as a red drago
 - A [[Failure]] becomes a [[Success]]
 - A [[Success]] becomes a [[Critical Success]]
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[d1]]
 

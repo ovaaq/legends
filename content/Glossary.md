@@ -33,6 +33,7 @@
 | [[Bow.md\|Bow]]                                                     |
 | [[Burning.md\|Burning]]                                             |
 | [[Cantrip.md\|Cantrip]]                                             |
+| [[Carry.md\|Carry]]                                                 |
 | [[Carrying Capacity.md\|Carrying Capacity]]                         |
 | [[Cast Spell.md\|Cast Spell]]                                       |
 | [[Celestial Ancestry.md\|Celestial Ancestry]]                       |
@@ -41,6 +42,7 @@
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]                 |
 | [[Charmed.md\|Charmed]]                                             |
 | [[Check.md\|Check]]                                                 |
+| [[Climb.md\|Climb]]                                                 |
 | [[Cold Damage.md\|Cold Damage]]                                     |
 | [[Common Curative Reagent.md\|Common Curative Reagent]]             |
 | [[Common Essence.md\|Common Essence]]                               |
@@ -55,6 +57,7 @@
 | [[Constitution.md\|Constitution]]                                   |
 | [[Constitution Saving Throw.md\|Constitution Saving Throw]]         |
 | [[Crafting.md\|Crafting]]                                           |
+| [[Crawl.md\|Crawl]]                                                 |
 | [[Creation Magic.md\|Creation Magic]]                               |
 | [[Creature Size.md\|Creature Size]]                                 |
 | [[Critical Failure.md\|Critical Failure]]                           |
@@ -68,7 +71,9 @@
 | [[Dead.md\|Dead]]                                                   |
 | [[Deafened.md\|Deafened]]                                           |
 | [[Decay Magic.md\|Decay Magic]]                                     |
+| [[Defensive Actions.md\|Defensive Actions]]                         |
 | [[Deliver Potion.md\|Deliver Potion]]                               |
+| [[Demoralize.md\|Demoralize]]                                       |
 | [[Destruction Magic.md\|Destruction Magic]]                         |
 | [[Difficult Class.md\|Difficult Class]]                             |
 | [[Difficult Terrain.md\|Difficult Terrain]]                         |
@@ -81,6 +86,7 @@
 | [[Dodge.md\|Dodge]]                                                 |
 | [[Double Action.md\|Double Action]]                                 |
 | [[Drink Potion.md\|Drink Potion]]                                   |
+| [[Drop Item.md\|Drop Item]]                                         |
 | [[Drop Prone.md\|Drop Prone]]                                       |
 | [[Drowsy.md\|Drowsy]]                                               |
 | [[01 - Projects/Legends Game Master/Dwarf.md\|Dwarf]]                                           |
@@ -89,6 +95,10 @@
 | [[Elemental Damage.md\|Elemental Damage]]                           |
 | [[Elven Ancestry.md\|Elven Ancestry]]                               |
 | [[Enchantment Magic.md\|Enchantment Magic]]                         |
+| [[01 - Projects/Legends Game Master/Encounter.md\|Encounter]]                                   |
+| [[Encounter Action.md\|Encounter Action]]                           |
+| [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                 |
+| [[Encounter Turn.md\|Encounter Turn]]                               |
 | [[Equipment.md\|Equipment]]                                         |
 | [[01 - Projects/Legends Game Master/Escape.md\|Escape]]                                         |
 | [[Ethereal Damage.md\|Ethereal Damage]]                             |
@@ -123,7 +133,8 @@
 | [[Hit Point Maximum.md\|Hit Point Maximum]]                         |
 | [[Hostile.md\|Hostile]]                                             |
 | [[Human Ancestry.md\|Human Ancestry]]                               |
-| [[Identify Spell.md\|Identify Spell]]                               |
+| [[Identify Magical Effect.md\|Identify Magical Effect]]             |
+| [[Ignite Object.md\|Ignite Object]]                                 |
 | [[Immobilized.md\|Immobilized]]                                     |
 | [[Incapacitated.md\|Incapacitated]]                                 |
 | [[Incorporeal.md\|Incorporeal]]                                     |
@@ -136,6 +147,7 @@
 | [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]         |
 | [[Investigation.md\|Investigation]]                                 |
 | [[Invisible.md\|Invisible]]                                         |
+| [[Jump.md\|Jump]]                                                   |
 | [[Known Spell.md\|Known Spell]]                                     |
 | [[Learned Martial Techniques.md\|Learned Martial Techniques]]       |
 | [[Legend Point.md\|Legend Point]]                                   |
@@ -153,7 +165,9 @@
 | [[Lightning Damage.md\|Lightning Damage]]                           |
 | [[Loading.md\|Loading]]                                             |
 | [[Long Rest.md\|Long Rest]]                                         |
+| [[Look Around.md\|Look Around]]                                     |
 | [[Loud.md\|Loud]]                                                   |
+| [[Magical Actions.md\|Magical Actions]]                             |
 | [[01 - Projects/Legends Game Master/Magical Essence.md\|Magical Essence]]                       |
 | [[Magical Material.md\|Magical Material]]                           |
 | [[Mana Point.md\|Mana Point]]                                       |
@@ -168,6 +182,7 @@
 | [[Melee Spell Attack.md\|Melee Spell Attack]]                       |
 | [[Melee Weapon Attack.md\|Melee Weapon Attack]]                     |
 | [[Metallic.md\|Metallic]]                                           |
+| [[Movement Actions.md\|Movement Actions]]                           |
 | [[Muted.md\|Muted]]                                                 |
 | [[Natural 1.md\|Natural 1]]                                         |
 | [[Natural 20.md\|Natural 20]]                                       |
@@ -175,6 +190,7 @@
 | [[Necrotic Damage.md\|Necrotic Damage]]                             |
 | [[Neutral.md\|Neutral]]                                             |
 | [[Off-hand Weapon Attack.md\|Off-hand Weapon Attack]]               |
+| [[Offensive Actions.md\|Offensive Actions]]                         |
 | [[Pact Spell List.md\|Pact Spell List]]                             |
 | [[Pact Spellcasting Skill.md\|Pact Spellcasting Skill]]             |
 | [[Paralyzed.md\|Paralyzed]]                                         |
@@ -197,7 +213,7 @@
 | [[Protective.md\|Protective]]                                       |
 | [[Psychic Damage.md\|Psychic Damage]]                               |
 | [[Radiant Damage.md\|Radiant Damage]]                               |
-| [[Raise A Shield.md\|Raise A Shield]]                               |
+| [[Raise Shield.md\|Raise Shield]]                                   |
 | [[Ranged.md\|Ranged]]                                               |
 | [[Ranged Attack.md\|Ranged Attack]]                                 |
 | [[Ranged Spell Attack.md\|Ranged Spell Attack]]                     |
@@ -212,7 +228,9 @@
 | [[Rare Volatile Reagent.md\|Rare Volatile Reagent]]                 |
 | [[Reach.md\|Reach]]                                                 |
 | [[Reaction.md\|Reaction]]                                           |
+| [[Ready Action.md\|Ready Action]]                                   |
 | [[Reagent.md\|Reagent]]                                             |
+| [[Recall Knowledge.md\|Recall Knowledge]]                           |
 | [[Religion.md\|Religion]]                                           |
 | [[Removal Magic.md\|Removal Magic]]                                 |
 | [[Resource.md\|Resource]]                                           |
@@ -223,7 +241,6 @@
 | [[Revelation Magic.md\|Revelation Magic]]                           |
 | [[Saving Throw.md\|Saving Throw]]                                   |
 | [[Saving Throw Difficulty Class.md\|Saving Throw Difficulty Class]] |
-| [[Seek.md\|Seek]]                                                   |
 | [[Shadow Damage.md\|Shadow Damage]]                                 |
 | [[Shield.md\|Shield]]                                               |
 | [[Short Rest.md\|Short Rest]]                                       |
@@ -258,7 +275,9 @@
 | [[Stunned.md\|Stunned]]                                             |
 | [[Success.md\|Success]]                                             |
 | [[Summon Magic.md\|Summon Magic]]                                   |
+| [[Swim.md\|Swim]]                                                   |
 | [[Sword.md\|Sword]]                                                 |
+| [[Take Cover.md\|Take Cover]]                                       |
 | [[Talent.md\|Talent]]                                               |
 | [[Talent Tree.md\|Talent Tree]]                                     |
 | [[Temporary Hit Point.md\|Temporary Hit Point]]                     |
@@ -282,7 +301,9 @@
 | [[Unconscious.md\|Unconscious]]                                     |
 | [[Untrained Armour Penalty.md\|Untrained Armour Penalty]]           |
 | [[Untrained Weapon Penalty.md\|Untrained Weapon Penalty]]           |
+| [[Use Magic Item.md\|Use Magic Item]]                               |
 | [[Use Object.md\|Use Object]]                                       |
+| [[Utility Actions.md\|Utility Actions]]                             |
 | [[Versatile.md\|Versatile]]                                         |
 | [[Vulnerability.md\|Vulnerability]]                                 |
 | [[Warding Magic.md\|Warding Magic]]                                 |

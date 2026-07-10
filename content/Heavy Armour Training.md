@@ -5,7 +5,7 @@ _lore_
 
 Wearing [[Heavy Armour]] will not impose [[Untrained Armour Penalty]].
 
-**Tree**:: [[Defence Talent Tree]]
+**Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Heavy Armour Master]]
 
