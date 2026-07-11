@@ -98,7 +98,6 @@
 | [[01 - Projects/Legends Game Master/Encounter.md\|Encounter]]                                   |
 | [[Encounter Action.md\|Encounter Action]]                           |
 | [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                 |
-| [[Encounter Turn.md\|Encounter Turn]]                               |
 | [[Equipment.md\|Equipment]]                                         |
 | [[01 - Projects/Legends Game Master/Escape.md\|Escape]]                                         |
 | [[Ethereal Damage.md\|Ethereal Damage]]                             |
@@ -289,6 +288,7 @@
 | [[Transformation Magic.md\|Transformation Magic]]                   |
 | [[Trip.md\|Trip]]                                                   |
 | [[Triple Action.md\|Triple Action]]                                 |
+| [[Turn.md\|Turn]]                                                   |
 | [[Two‑Handed.md\|Two‑Handed]]                                       |
 | [[Unarmed Strike.md\|Unarmed Strike]]                               |
 | [[Uncommon Curative Reagent.md\|Uncommon Curative Reagent]]         |
@@ -310,4 +310,5 @@
 | [[Weapon.md\|Weapon]]                                               |
 | [[Weapon Attack.md\|Weapon Attack]]                                 |
 | [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]               |
+| [[Weapon Category.md\|Weapon Category]]                             |
 | [[Weapon Property.md\|Weapon Property]]                             |

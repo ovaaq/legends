@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Benefit.
+[[Bindin Smite]].
 
 **Tree**:: [[Warding Talent Tree]]
 **Group**:: [[Arcane Talent]]

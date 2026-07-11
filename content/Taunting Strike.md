@@ -1,8 +1,16 @@
-**Cost::** 1 Stamina Point
+_[[1st Level Martial technique]]_
 
-When you hit a creature within 3 meters with a [[Weapon Attack]], you may expend 1 Stamina Point to taunt it. The creature has [[Disadvantage]] on attacks against targets other than you until the start of its next turn.
+**Execution**:: [[Free Action]]\*
+**Stamina**:: 1
+**Range::** 4 metres
+**Weapon**:: Any
+**Duration::** Instant
+
+_\*When you hit a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
+
+**Effect**:: The [[Creature]] has [[Disadvantage]] on [[Attack|Attacks]] against targets other than you until the end it's next [[Turn]].
 
 ---
 
-#martial_technique #1st
+#martial_technique #1st\
 [[Martial Technique]]

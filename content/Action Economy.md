@@ -10,7 +10,7 @@ Natural 1:
 
 ## Action Economy
 
-In one [[Encounter Turn]] you have
+In one [[Turn]] you have
 
 - 3 Actions
 - Movement

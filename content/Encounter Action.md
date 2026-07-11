@@ -1,10 +1,10 @@
 ### Encounter Turn Structure
 
-On your [[Encounter Turn]], you have access to the following resources:
+On your [[Turn]], you have access to the following resources:
 
 - **3 Actions:** Spent to perform activities. An activity can require a [[Action]], [[Double Action]], or [[Triple Action]].
 - **Movement:** Spent to travel up to your [[Walking Speed]].
-- **1 Reaction:** Used once per [[Encounter Round]] in response to a specific trigger, even outside your turn. You regain your [[Reaction]] at the start of your next [[Encounter Turn]].
+- **1 Reaction:** Used once per [[Round]] in response to a specific trigger, even outside your turn. You regain your [[Reaction]] at the start of your next [[Turn]].
 - **Free Actions:** Minor activities that cost no actions or resources.
 
 ### Encounter Action Types

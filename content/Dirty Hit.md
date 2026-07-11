@@ -1,17 +1,19 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: [[Free Action]]
+**Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range::** Melee
-**Weapon**:: -
+**Weapon**:: Any
 **Duration::** Instant
 
-**Effect**:: When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]], you can expend 1 Stamina Point to strike at a vulnerable point to force it to make a [[Constitution Saving Throw]]:
+_\*When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]]._
 
-**Critical Success:** No effect.\
-**Success:** Target's [[Walking Speed]] is halved until the end of your turn.
-**Failure:** Target falls [[Prone]], and cannot take [[Reaction|Reactions]] until the end of its turn.
-**Critical Failure:** Target falls [[Prone]], and is [[Muted]], [[Walking Speed]] is 0 and cannot take [[Reaction|Reactions]] until the end of its turn.
+**Effect**:: You strike at a vulnerable point and force the target to make a [[Constitution Saving Throw]]:
+
+**Critical Success:** No effect.
+**Success:** Target's [[Walking Speed]] is halved until the end it's next [[Turn]].
+**Failure:** Target falls [[Prone]], and cannot take [[Reaction|Reactions]] until the end it's next [[Turn]].
+**Critical Failure:** Target falls [[Prone]], and is [[Muted]], [[Walking Speed]] is 0 and cannot take [[Reaction|Reactions]] until the end it's next [[Turn]].
 
 ---
 
