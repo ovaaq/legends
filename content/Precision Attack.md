@@ -1,6 +1,16 @@
-When you miss with an attack roll, you can expend one Superiority Die, roll that die, and add it to the attack roll, potentially causing the attack to hit.
+_[[1st Level Martial technique]]_
+
+**Execution**:: [[Free Action]]\*
+**Stamina**:: 1
+**Range**:: Any
+**Weapon**:: Any
+**Duration**:: Instant
+
+_\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
+
+**Effect**:: Add your [[Martial Skill]] [[Rank]] to your [[Attack Roll]].
 
 ---
 
-#martial_technique #1st
+#martial_technique #1st\
 [[Martial Technique]]

@@ -13,7 +13,7 @@ Attacks with this weapon target only the [[Creature|Creature's]] [[Evasion Class
 
 **Escape.** A [[Restrained]] [[Creature]] can attempt an [[Athletics]] or [[Sleight of Hand]] [[Check]] DC 10 to escape.
 
-**Destroy.** The weapon can be targeted directly to free the trapped creature. It has [[Armour Class]] 10 and [[Vulnerability]] to [[Slashing Damage]]. It is destroyed if it takes more than 5 [[Damage]].
+**Destroy.** The weapon can be targeted directly to free the trapped creature. It has [[Armour Class]] 10 and [[Vulnerable]] to [[Slashing Damage]]. It is destroyed if it takes more than 5 [[Damage]].
 
 ---
 

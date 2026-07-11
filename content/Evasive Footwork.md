@@ -2,9 +2,9 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Action]]
 **Stamina**:: 1
-**Range::** Self
+**Range**:: Self
 **Weapon**:: Any
-**Duration::** Instant
+**Duration**:: Instant
 
 **Effect**:: Increase your [[Evasion Class]] by your [[Martial Skill]] [[Rank]] until the start of your next [[Turn]].
 

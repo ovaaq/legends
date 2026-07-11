@@ -34,12 +34,12 @@ Actions are categorized by their function during combat:
 | [[Raise Shield.md\|Raise Shield]] | [[Action.md\|Action]]               | -                                                       |
 | [[Take Cover.md\|Take Cover]]     | [[Free Action.md\|Free Action]]     | Find cover behind [[Object]], [[Creature]] or buildings. |
 
-| Magical Action                                                                      | Action Cost                                                 | Description                                               |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
-| [[Cast Spell.md\|Cast Spell]]                           | Multiple                                                    | Cast a [[Spell]] you are able to cast.                    |
-| [[Dismiss Spell.md\|Dismiss Spell]]                     | [[Free Action.md\|Free Action]] | -                                                        |
-| [[Identify Magical Effect.md\|Identify Magical Effect]] | [[Action.md\|Action]]           | Make a [[Arcana]] [[Check]] to understand magical effect. |
-| [[Use Magic Item.md\|Use Magic Item]]                   | Multiple                                                    | Use [[Magic Item]].                                       |
+| Magical Action                                                                      | Action Cost                                                 | Description                                                |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
+| [[Cast Spell.md\|Cast Spell]]                           | Multiple                                                    | Cast a [[Spell]] you are able to cast.                     |
+| [[Dismiss Spell.md\|Dismiss Spell]]                     | [[Free Action.md\|Free Action]] | Stop concentration on a spell or end ongoing spell effect. |
+| [[Identify Magical Effect.md\|Identify Magical Effect]] | [[Action.md\|Action]]           | Make a [[Arcana]] [[Check]] to understand magical effect.  |
+| [[Use Magic Item.md\|Use Magic Item]]                   | Multiple                                                    | Use [[Magic Item]].                                        |
 
 | Movement Action                                           | Action Cost                                                     | Description                                        |
 | --------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------- |
@@ -63,6 +63,7 @@ Actions are categorized by their function during combat:
 | [[Drop Item.md\|Drop Item]]               | [[Free Action.md\|Free Action]]     | Drop a held [[Object]].                                                                   |
 | [[First Aid.md\|First Aid]]               | [[Double Action.md\|Double Action]] | Make a [[Medicine]] [[Check]] to help a [[Dying]] creature.                               |
 | [[Ignite Object.md\|Ignite Object]]       | [[Action.md\|Action]]               | Ignite [[Object]].                                                                        |
+| [[Inspect.md\|Inspect]]                   | [[Double Action.md\|Double Action]] | Analyse [[Creature]] or [[Object]], determine illusions etc.                              |
 | [[Look Around.md\|Look Around]]           | [[Action.md\|Action]]               | Make a [[Perception]] [[Check]] to seek around.                                           |
 | [[Pick Lock.md\|Pick Lock]]               | [[Triple Action.md\|Triple Action]] | Make a [[Lockpicking]] [[Sleight of Hand]] [[Check]] to help a disarm a trap.             |
 | [[Ready Action.md\|Ready Action]]         | [[Reaction]] + 1-3 [[Action\|Actions]]                          | Prepare to do something when trigger event happens.                                       |

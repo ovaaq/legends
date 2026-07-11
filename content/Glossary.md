@@ -64,6 +64,7 @@
 | [[Critical Hit.md\|Critical Hit]]                                   |
 | [[Critical Success.md\|Critical Success]]                           |
 | [[Crossbow.md\|Crossbow]]                                           |
+| [[Damage Modifiers.md\|Damage Modifiers]]                           |
 | [[Damage Roll.md\|Damage Roll]]                                     |
 | [[Damage Type.md\|Damage Type]]                                     |
 | [[Dash.md\|Dash]]                                                   |
@@ -111,6 +112,7 @@
 | [[Finesse.md\|Finesse]]                                             |
 | [[Fire Damage.md\|Fire Damage]]                                     |
 | [[First Aid.md\|First Aid]]                                         |
+| [[Flammable.md\|Flammable]]                                         |
 | [[Flat-Footed.md\|Flat-Footed]]                                     |
 | [[Free Action.md\|Free Action]]                                     |
 | [[Friendly.md\|Friendly]]                                           |
@@ -135,6 +137,7 @@
 | [[Identify Magical Effect.md\|Identify Magical Effect]]             |
 | [[Ignite Object.md\|Ignite Object]]                                 |
 | [[Immobilized.md\|Immobilized]]                                     |
+| [[Immune.md\|Immune]]                                               |
 | [[Incapacitated.md\|Incapacitated]]                                 |
 | [[Incorporeal.md\|Incorporeal]]                                     |
 | [[Infernal Ancestry.md\|Infernal Ancestry]]                         |
@@ -142,10 +145,12 @@
 | [[Initiative Order.md\|Initiative Order]]                           |
 | [[Innate Spell List.md\|Innate Spell List]]                         |
 | [[Innate Spellcasting Skill.md\|Innate Spellcasting Skill]]         |
+| [[Inspect.md\|Inspect]]                                             |
 | [[Intelligence.md\|Intelligence]]                                   |
 | [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]         |
 | [[Investigation.md\|Investigation]]                                 |
 | [[Invisible.md\|Invisible]]                                         |
+| [[Invisible 1.md\|Invisible 1]]                                     |
 | [[Jump.md\|Jump]]                                                   |
 | [[Known Spell.md\|Known Spell]]                                     |
 | [[Learned Martial Techniques.md\|Learned Martial Techniques]]       |
@@ -188,6 +193,8 @@
 | [[Nature.md\|Nature]]                                               |
 | [[Necrotic Damage.md\|Necrotic Damage]]                             |
 | [[Neutral.md\|Neutral]]                                             |
+| [[Non-magical.md\|Non-magical]]                                     |
+| [[Object Property.md\|Object Property]]                             |
 | [[Off-hand Weapon Attack.md\|Off-hand Weapon Attack]]               |
 | [[Offensive Actions.md\|Offensive Actions]]                         |
 | [[Pact Spell List.md\|Pact Spell List]]                             |
@@ -232,6 +239,7 @@
 | [[Recall Knowledge.md\|Recall Knowledge]]                           |
 | [[Religion.md\|Religion]]                                           |
 | [[Removal Magic.md\|Removal Magic]]                                 |
+| [[Resistance.md\|Resistance]]                                       |
 | [[Resource.md\|Resource]]                                           |
 | [[Resting.md\|Resting]]                                             |
 | [[Restoration Magic.md\|Restoration Magic]]                         |
@@ -248,6 +256,7 @@
 | [[Skill.md\|Skill]]                                                 |
 | [[Slashing Damage.md\|Slashing Damage]]                             |
 | [[Snare.md\|Snare]]                                                 |
+| [[Solid.md\|Solid]]                                                 |
 | [[Sorcery.md\|Sorcery]]                                             |
 | [[Special.md\|Special]]                                             |
 | [[Special Skill.md\|Special Skill]]                                 |
@@ -270,7 +279,6 @@
 | [[Strand of Magic.md\|Strand of Magic]]                             |
 | [[Strength.md\|Strength]]                                           |
 | [[Strength Saving Throw.md\|Strength Saving Throw]]                 |
-| [[Study Action.md\|Study Action]]                                   |
 | [[Stunned.md\|Stunned]]                                             |
 | [[Success.md\|Success]]                                             |
 | [[Summon Magic.md\|Summon Magic]]                                   |
@@ -305,8 +313,10 @@
 | [[Use Object.md\|Use Object]]                                       |
 | [[Utility Actions.md\|Utility Actions]]                             |
 | [[Versatile.md\|Versatile]]                                         |
-| [[Vulnerability.md\|Vulnerability]]                                 |
+| [[Visible.md\|Visible]]                                             |
+| [[Vulnerable.md\|Vulnerable]]                                       |
 | [[Warding Magic.md\|Warding Magic]]                                 |
+| [[Weakness.md\|Weakness]]                                           |
 | [[Weapon.md\|Weapon]]                                               |
 | [[Weapon Attack.md\|Weapon Attack]]                                 |
 | [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]               |

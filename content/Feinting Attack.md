@@ -2,9 +2,9 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: **▶▶▶⚡〇**
 **Stamina**:: 0
-**Range::** Melee
+**Range**:: Melee
 **Weapon**:: Bludgeoning
-**Duration::** Instant
+**Duration**:: Instant
 
 _\*Reaction / etc_
 

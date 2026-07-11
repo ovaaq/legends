@@ -2,9 +2,9 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: **▶▶▶⚡〇**
 **Stamina**:: 0
-**Range::** Melee
+**Range**:: Melee
 **Weapon**:: Bludgeoning
-**Duration::** Instant
+**Duration**:: Instant
 
 _\*Reaction / etc_
 
@@ -15,7 +15,7 @@ _\*Reaction / etc_
 #martial_technique #1st\
 [[Martial Technique]]
 
-**Cost::** 2 Stamina Points
+**Cost**:: 2 Stamina Points
 
 When you are within 1 meter of a creature on your turn, you may expend 2 Stamina Points and at least 1 meter of movement to switch places with that creature. The creature must be willing and not have the [[Incapacitated]] condition. This movement does not provoke [[Opportunity Attack|Opportunity Attacks]].
 

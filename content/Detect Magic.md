@@ -7,7 +7,7 @@ _[[1st Level Spell]]_
 **Range**:: Self
 **Duration**:: Concentration, up to 10 minutes
 
-**Effect**:: For the duration, you sense the presence of mana and magical effects within 6 meters of yourself. If you sense such effects, you can take the [[Action]] to see a faint aura around any visible [[Creature]] or [[Object]] in the area that has mana or bears the magic, and if an effect was created by a spell, you learn the spell's [[Strand of Magic]]. You also sense roughly amount of mana each [[Creature]] currently has.
+**Effect**:: For the duration, you sense the presence of mana and magical effects within 6 meters of yourself. You can spend [[Action]] to see a faint aura around any [[Visible]] [[Creature]] or [[Object]] in the area that contains mana or is affected by magic. If the effect was created by a [[Spell]], you learn its [[Strand of Magic]] (Creation, Preservation, Transformation, or Destruction). Additionally, you perceive the approximate amount of mana each [[Creature]] currently possesses.
 
 The spell is blocked by 30 centimetres of stone, dirt, or wood; 2 centimetres of metal; or a thin sheet of lead.
 

@@ -2,9 +2,9 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Free Action]]
 **Stamina**:: 1
-**Range::** Melee
+**Range**:: Melee
 **Weapon**:: -
-**Duration::** Instant
+**Duration**:: Instant
 
 **Effect**:: When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]], you can expend 1 Stamina Point to drive the target back. Target must make a [[Strength Saving Throw]]:
 

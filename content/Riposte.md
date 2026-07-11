@@ -2,9 +2,9 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Reaction]]\*
 **Stamina**:: 2
-**Range::** Melee
+**Range**:: Melee
 **Weapon**:: -
-**Duration::** Instant
+**Duration**:: Instant
 
 _\*When you miss a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]]_
 

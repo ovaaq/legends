@@ -2,9 +2,9 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Reaction]]\*
 **Stamina**:: 1
-**Range::** Melee
+**Range**:: Melee
 **Weapon**:: Any
-**Duration::** Instant
+**Duration**:: Instant
 
 _\*When a [[Creature]] uses its movement to leave your [[Melee Range]]._
 

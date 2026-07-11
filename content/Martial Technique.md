@@ -1,5 +1,6 @@
 | Martial Techniques                                                                |
 | --------------------------------------------------------------------------------- |
+| [[Apply Poison.md\|Apply Poison]]                     |
 | [[Bait and Switch.md\|Bait and Switch]]               |
 | [[Brute Strike.md\|Brute Strike]]                     |
 | [[Commander’s Strike.md\|Commander’s Strike]]         |
@@ -16,7 +17,6 @@
 | [[98 - Meta/Templates/Martial Technique Template.md\|Martial Technique Template]] |
 | [[Opportunity Attack.md\|Opportunity Attack]]         |
 | [[Parry.md\|Parry]]                                   |
-| [[Poison Attack.md\|Poison Attack]]                   |
 | [[Precision Attack.md\|Precision Attack]]             |
 | [[Pushing Attack.md\|Pushing Attack]]                 |
 | [[Rally.md\|Rally]]                                   |

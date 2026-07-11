@@ -11,7 +11,6 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Alarm]]
 - [[Animate Rope]]
 - [[Arcane Arrow]]
-- [[Arcane Shield]]
 - [[Call Object]]
 - [[Charm Person]]
 - [[Chromatic Orb]]

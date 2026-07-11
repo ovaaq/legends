@@ -13,7 +13,6 @@
 | [[Blink.md\|Blink]]                                                       | [[Reaction]]\*                                                   | F, V, S, M\* | 2    | 20 metres | Instantaneous                 |
 | [[Blur.md\|Blur]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Calm Emotions.md\|Calm Emotions]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
-| [[Comprehend Languages.md\|Comprehend Languages]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Conceal Magic.md\|Conceal Magic]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Continual Flame.md\|Continual Flame]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Darkness.md\|Darkness]]                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |

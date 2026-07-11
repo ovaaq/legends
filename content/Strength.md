@@ -2,11 +2,11 @@ Represents raw muscular power. Key for characters relying on brute strength, suc
 
 Characters with high Strength gain the following benefits:
 
-- **Skills:** Add Strength to [[Athletics]] checks
+- **Skills:** Add Strength to [[Athletics]] [[Check|Checks]]
 - **Saving Throws:** Add Strength to [[Strength Saving Throw]]
-- **Equipment Use:** Determines your ability to wield heavy weapons and wear heavy armour
+- **Equipment Use:** Determines your ability to wield [[Heavy]] [[Weapon|Weapons]] and wear [[Heavy]] [[Armour]]
 - **Melee Combat:** Add Strength to [[Melee Weapon Attack]] and [[Damage Roll]]
-- **Martial Techniques:** Your [[Martial Save DC]] equals 8 + [[Martial Skill]] + Strength
+- **Martial Techniques:** Your [[Martial Save DC]] equals 8 + [[Martial Skill]] [[Rank]] + Strength
 - **Carrying Capacity:** Your total [[Carrying Capacity]] equals  10 + 2 × Strength
 
 ---

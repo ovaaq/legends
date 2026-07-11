@@ -11,7 +11,7 @@ _[[1st Level Spell]]_
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
 
-To discern that you are disguised, a creature must take the [[Study Action]] to inspect your appearance and succeed on an [[Investigation]] [[Check]] against your [[Spell Save DC]].
+To discern that you are disguised, a creature must take the [[Inspect]] action to study your appearance and succeed on an [[Investigation]] [[Check]] against your [[Spell Save DC]].
 
 **Upcasting**:: For each additional mana spent, the [[Spell Save DC]] increases by 1. You can upcast the spell with a maximum of 3 extra mana.
 

@@ -18,6 +18,7 @@
 | [[Chromatic Orb.md\|Chromatic Orb]]                 | [[Double Action.md\|Double Action]] | V, S, M\*    | 1    | 20 metres    | Instantaneous                    |
 | [[Colour Spray.md\|Colour Spray]]                   | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                          |
 | [[Command.md\|Command]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | Instantaneous                    |
+| [[Comprehend Languages.md\|Comprehend Languages]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 hour                           |
 | [[Cure Wounds.md\|Cure Wounds]]                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | Touch        | Instantaneous                    |
 | [[Deflect.md\|Deflect]]                             | [[Reaction]]\*                                                   | V, S        | 1    | Self         | Instantaneous                    |
 | [[Destroy Water.md\|Destroy Water]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |

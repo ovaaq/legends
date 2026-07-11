@@ -2,13 +2,13 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Reaction]]\*
 **Stamina**:: 1
-**Range::** Melee
+**Range**:: Melee
 **Weapon**:: Any
-**Duration::** Instant
+**Duration**:: Instant
 
-_\*When someone makes a [[Melee Attack]] towards you_
+_\*When someone makes a [[Melee Attack]] towards you._
 
-**Effect**:: You can expend 1 Stamina Point to reduce [[Attack Roll]] value by your [[Martial Skill]] [[Rank]].
+**Effect**:: Reduce the incoming [[Attack Roll]] by your [[Martial Skill]] [[Rank]].
 
 ---
 

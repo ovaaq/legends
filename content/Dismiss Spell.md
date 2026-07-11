@@ -1,6 +1,6 @@
 _[[Magical Actions]]_
 
-**Description**::
+**Description**:: Stop concentration on a spell or end ongoing spell effect.
 **Action**:: [[Free Action]]
 **Target**::
 
