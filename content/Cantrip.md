@@ -2,20 +2,20 @@
 | ----------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---- | ---------------------- | ------------------------------- |
 | [[Acid Splash.md\|Acid Splash]]             | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres              | Instantaneous                   |
 | [[Animal Call.md\|Animal Call]]             | [[Triple Action.md\|Triple Action]] | F, V        | 0    | Self (50-metre radius) | Concentration, up to 10 minutes |
-| [[Animate Paper.md\|Animate Paper]]         | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch                  | 10 minutes                      |
-| [[Arcane Blast.md\|Arcane Blast]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres              | Instantaneous                   |
+| [[Animate Paper.md\|Animate Paper]]         | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch                  | Concentration, 10 minutes       |
+| [[Arcane Blast.md\|Arcane Blast]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
 | [[Arcane Mark.md\|Arcane Mark]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch                  | 1 week                          |
 | [[Chaos Burst.md\|Chaos Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
 | [[Charming Smile.md\|Charming Smile]]       | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres               | Concentration, up to 1 minute   |
-| [[Chill Touch.md\|Chill Touch]]             | [[Double Action.md\|Double Action]] | V, S        | 0    | Melee                  | Instantaneous                   |
+| [[Chill Touch.md\|Chill Touch]]             | [[Double Action.md\|Double Action]] | V, S        | 0    | Touch                  | Instantaneous                   |
 | [[Close Wounds.md\|Close Wounds]]           | [[Double Action.md\|Double Action]] | F, V, S, M  | 0    | 40 metres              | Instantaneous                   |
 | [[Corrosive Shot.md\|Corrosive Shot]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres              | Instantaneous                   |
 | [[Crimson Cut.md\|Crimson Cut]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres              | Instantaneous                   |
-| [[Dancing Lights.md\|Dancing Lights]]       | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres              | Concentration, up to 1 minute   |
+| [[Dancing Lights.md\|Dancing Lights]]       | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres              | Concentration, up to 10 minutes |
 | [[Dark Flame.md\|Dark Flame]]               | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres              | Instantaneous                   |
 | [[Druidcraft.md\|Druidcraft]]               | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres               | Up to 1 hour                    |
 | [[Eldritch Blast.md\|Eldritch Blast]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres              | Instantaneous                   |
-| [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self                   | 10 minutes                      |
+| [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self                   | 1 hour                          |
 | [[Feral Claw.md\|Feral Claw]]               | [[Double Action.md\|Double Action]] | S           | 0    | Melee                  | Instantaneous                   |
 | [[Fire Bolt.md\|Fire Bolt]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instant                         |
 | [[Flame Blade.md\|Flame Blade]]             | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch                  | 1 minute                        |

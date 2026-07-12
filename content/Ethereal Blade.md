@@ -5,16 +5,11 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: Self
-**Duration**:: 10 minutes
+**Duration**:: 1 hour
 
-**Effect**:: You summon a spectral blade of shimmering energy. For you, it functions as a [[Simple Weapon]] with the following traits:
+**Effect**:: You summon a spectral blade of shimmering energy. The blade functions as a [[Simple Weapon]] for you, dealing 1d8 [[Slashing damage]] and possessing the [[Finesse]] and [[Thrown]] (4/10) properties. The blade automatically dissipates if you cast this spell again, or if it ends its turn more than 10 metres away from you.
 
-- Damage: 1d8 [[Slashing Damage]]
-- Traits: [[Finesse]], [[Thrown]] (4/20)
-
-You can dismiss the blade as an [[Action]]. If the blade ends a turn more than 2 metres away from you, it dissipates automatically.
-
-**Upcasting**:: For each additional mana spent, the weapon's damage die increases by 2 (e.g., 1d10, 1d12). You can upcast the spell with a maximum of 2 extra mana.
+**Upcasting**:: For each additional mana spent, the weapon's damage die increases by 2 (1d10, 1d12). You can upcast the spell with a maximum of 2 extra mana.
 
 ---
 

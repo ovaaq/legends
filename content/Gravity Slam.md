@@ -7,7 +7,7 @@ _[[Cantrip]]_
 **Range**:: 40 metres
 **Duration**:: Instantaneous
 
-**Effect**:: You manipulate gravity against your enemy. Choose one target you can see within range. Each target makes [[Strength Saving Throw]]:
+**Effect**:: You manipulate gravity against your enemy. Choose one [[Creature]] you can see within range. Target makes [[Strength Saving Throw]]:
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d8 [[Bludgeoning Damage]].
