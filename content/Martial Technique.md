@@ -6,7 +6,6 @@
 | [[Charging Strike.md\|Charging Strike]]               |
 | [[Commander’s Strike.md\|Commander’s Strike]]         |
 | [[Crushing Grip.md\|Crushing Grip]]                   |
-| [[Desperate Stand.md\|Desperate Stand]]               |
 | [[Dirty Hit.md\|Dirty Hit]]                           |
 | [[Disarming Attack.md\|Disarming Attack]]             |
 | [[Distracting Strike.md\|Distracting Strike]]         |
@@ -18,6 +17,7 @@
 | [[Opportunity Attack.md\|Opportunity Attack]]         |
 | [[Parry.md\|Parry]]                                   |
 | [[Precision Attack.md\|Precision Attack]]             |
+| [[Push the Limit.md\|Push the Limit]]                 |
 | [[Pushing Attack.md\|Pushing Attack]]                 |
 | [[Rally.md\|Rally]]                                   |
 | [[Riposte.md\|Riposte]]                               |

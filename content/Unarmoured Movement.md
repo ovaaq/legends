@@ -7,11 +7,11 @@ While you are not wearing any [[Armour]], you [[Walking Speed]] is increased by 
 
 This [[Talent]] can be taken once.
 
-**Tree**:: [[Armour Talent Tree]]
+**Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Uncanny Dodge]], [[Escape Artist]]
 
 ---
 
-#talent #martial #defence
+#talent #martial #evasion
 [[Talent]][[Martial Talent]]

@@ -103,6 +103,7 @@
 | [[Dazed.md\|Dazed]]                                                 |
 | [[Dead.md\|Dead]]                                                   |
 | [[Deafened.md\|Deafened]]                                           |
+| [[Death Saving Throw.md\|Death Saving Throw]]                       |
 | [[Decay Magic.md\|Decay Magic]]                                     |
 | [[Defensive Actions.md\|Defensive Actions]]                         |
 | [[Deliver Potion.md\|Deliver Potion]]                               |
@@ -234,7 +235,7 @@
 | [[Non-magical.md\|Non-magical]]                                     |
 | [[Object.md\|Object]]                                               |
 | [[Object Property.md\|Object Property]]                             |
-| [[Off-hand Weapon Attack.md\|Off-hand Weapon Attack]]               |
+| [[Off-Hand Attack.md\|Off-Hand Attack]]                             |
 | [[Offensive Actions.md\|Offensive Actions]]                         |
 | [[Pack.md\|Pack]]                                                   |
 | [[Pact Spell List.md\|Pact Spell List]]                             |
@@ -371,3 +372,4 @@
 | [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]               |
 | [[Weapon Category.md\|Weapon Category]]                             |
 | [[Weapon Property.md\|Weapon Property]]                             |
+| [[Willing.md\|Willing]]                                             |

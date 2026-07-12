@@ -8,7 +8,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Cost**:: 2 gp
 
 **Armour**:: 14
-**Properties**:: [[Heavy]] (1), [[Restricting]] (1), [[Protective]] (2)
+**Properties**:: [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (1)
 
 ---
 

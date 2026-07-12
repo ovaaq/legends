@@ -7,11 +7,11 @@ Gain a +1 bonus to your [[Evasion Class]].
 
 This [[Talent]] can be taken 5 times.
 
-**Tree**:: [[Armour Talent Tree]]
+**Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Unarmoured Movement]]
 
 ---
 
-#talent #martial #defence
+#talent #martial #evasion
 [[Talent]][[Martial Talent]]

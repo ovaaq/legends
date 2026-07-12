@@ -5,11 +5,11 @@ _You have mastered the basics of weaponry. Now, your path to martial excellence 
 
 x
 
-**Tree**:: [[Armour Talent Tree]]
+**Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 
 ---
 
-#talent #martial #defence
+#talent #martial #evasion
 [[Talent]][[Martial Talent]]

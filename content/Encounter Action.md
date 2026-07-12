@@ -19,14 +19,14 @@ Actions are categorized by their function during combat:
 
 ### Action Lists by Type
 
-| Offensive Action                                                                  | Action Cost                                                     | Description                                     |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------- |
-| [[Attack.md\|Attack]]                                 | [[Double Action.md\|Double Action]] | Make an attack with a weapon or unarmed strike. |
-| [[Disarm.md\|Disarm]]                                 | [[Double Action.md\|Double Action]] | -                                              |
-| [[Grapple.md\|Grapple]]                               | [[Double Action.md\|Double Action]] | -                                              |
-| [[Off-hand Weapon Attack.md\|Off-hand Weapon Attack]] | [[Action.md\|Action]]               | -                                              |
-| [[Shove.md\|Shove]]                                   | [[Double Action.md\|Double Action]] | -                                              |
-| [[Trip.md\|Trip]]                                     | [[Double Action.md\|Double Action]] | -                                              |
+| Offensive Action                                                    | Action Cost                                                     | Description                                                        |
+| ------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [[Attack.md\|Attack]]                   | [[Double Action.md\|Double Action]] | Make an attack with a weapon or unarmed strike.                    |
+| [[Disarm.md\|Disarm]]                   | [[Double Action.md\|Double Action]] | -                                                                 |
+| [[Grapple.md\|Grapple]]                 | [[Double Action.md\|Double Action]] | -                                                                 |
+| [[Off-Hand Attack.md\|Off-Hand Attack]] | [[Action.md\|Action]]               | Follow-up  [[Weapon]] or [[Unarmed Strike]] after main [[Attack]]. |
+| [[Shove.md\|Shove]]                     | [[Double Action.md\|Double Action]] | -                                                                 |
+| [[Trip.md\|Trip]]                       | [[Double Action.md\|Double Action]] | -                                                                 |
 
 | Defensive Action                                              | Action Cost                                                     | Description                                              |
 | ------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------- |

@@ -1,15 +1,15 @@
-When your Hit Points drop to 0, you fall [[Unconscious]] and enter the Dying condition.
+When your [[Hit Point|Hit Points]] drop to 0, you fall [[Unconscious]] and gain the Dying condition.
 
-At the start of each of your turns, you must roll a DC 18 [[Death Saving Throw]] (1d20 + [[Constitution]]):
+At the start of each of your turns, you must make a DC 17 [[Death Saving Throw]] (1d20 + [[Constitution]]):
 
-**Critical Success:** You instantly regain 1 [[Hit Point]] and wake up. You are no longer dying.
-**Success:** You stabilize. You are no longer dying. [[Feeble]] condition.
-**Failure:** Add 1 to your Death Failure level.
-**Critical Failure:** Add 2 to your Death Failure level.
+**Critical Success:** You instantly regain 1 [[Hit Point]], wake up, and lose the Dying condition.
+**Success:** You stabilize. You lose the Dying condition and instead gain the [[Feeble]] condition.
+**Failure:** Your Dying level increases by 1.
+**Critical Failure:** Your Dying level increases by 2.
 
-If you take damage you automatically gain 1 Death Failure.
+**Taking Damage.** If you take damage while Dying, your Dying level automatically increases by 1.
 
-At any point if you have more than 3 Death Failures, your character dies. [[Dead]] condition begins.
+**Death.** If your Dying level ever reaches 4, you die and gain the [[Dead]] condition.
 
 ---
 

@@ -3,7 +3,7 @@
   - [[Fighting Stance Training]]
     - [[Advanced Fighting Stance Training]]
   - [[Extra Attack]]
-    - [[Extra Extra Attack]]
+    - [[Triple Attack]]
   - [[Improved Critical]]
     - [[Superior Critical]]
   - [[Martial Techniques I]]

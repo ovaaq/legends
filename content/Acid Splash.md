@@ -7,7 +7,7 @@ _[[Cantrip]]_
 **Range**:: 10 metres
 **Duration**:: Instantaneous
 
-**Effect**:: You hurl a bubble of acid. Choose one target you can see within range, or choose two targets you can see within range that are within 1 metre of each other. Each target makes [[Agility Saving Throw]]:
+**Effect**:: You hurl a bubble of acid. Target one [[Creature]] you can see within range, or target two [[Creature|Creatures]] you can see within range that are within 1 metre of each other. Each target makes [[Agility Saving Throw]]:
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d6 [[Acid Damage]].

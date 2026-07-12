@@ -5,11 +5,11 @@ _You have mastered the basics of weaponry. Now, your path to martial excellence 
 
 When an attacker that you can see hits you with an [[Attack]], you can use your [[Reaction]] to halve the attack's damage against you.
 
-**Tree**:: [[Armour Talent Tree]]
+**Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Elusive]]
 
 ---
 
-#talent #martial #defence
+#talent #martial #evasion
 [[Talent]][[Martial Talent]]

@@ -17,7 +17,7 @@
 | [[Eldritch Blast.md\|Eldritch Blast]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres              | Instantaneous                   |
 | [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self                   | 10 minutes                      |
 | [[Feral Claw.md\|Feral Claw]]               | [[Double Action.md\|Double Action]] | S           | 0    | Melee                  | Instantaneous                   |
-| [[Fire Bolt.md\|Fire Bolt]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres              | Instant                         |
+| [[Fire Bolt.md\|Fire Bolt]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instant                         |
 | [[Flame Blade.md\|Flame Blade]]             | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch                  | 1 minute                        |
 | [[Flame Burst.md\|Flame Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Self (1-metre radius)  | Instantaneous                   |
 | [[Force Wave.md\|Force Wave]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
