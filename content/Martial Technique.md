@@ -3,6 +3,7 @@
 | [[Apply Poison.md\|Apply Poison]]                     |
 | [[Bait and Switch.md\|Bait and Switch]]               |
 | [[Brute Strike.md\|Brute Strike]]                     |
+| [[Charging Strike.md\|Charging Strike]]               |
 | [[Commander’s Strike.md\|Commander’s Strike]]         |
 | [[Crushing Grip.md\|Crushing Grip]]                   |
 | [[Desperate Stand.md\|Desperate Stand]]               |
@@ -13,7 +14,6 @@
 | [[Feinting Attack.md\|Feinting Attack]]               |
 | [[Glancing Blow.md\|Glancing Blow]]                   |
 | [[Intimidating Command.md\|Intimidating Command]]     |
-| [[Lunge.md\|Lunge]]                                   |
 | [[98 - Meta/Templates/Martial Technique Template.md\|Martial Technique Template]] |
 | [[Opportunity Attack.md\|Opportunity Attack]]         |
 | [[Parry.md\|Parry]]                                   |

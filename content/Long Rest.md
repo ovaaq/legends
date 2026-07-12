@@ -1,4 +1,4 @@
-While resting 8 hours, which 2 hours can be spent doing [[Camp Actions]]. Rest of it must be sleeping.
+While resting 8 hours, which 2 hours can be spent doing [[Camp Action]]. Rest of it must be sleeping.
 
 While doing this you gain benefits:
 

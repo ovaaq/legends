@@ -1,5 +1,7 @@
 _In case you need some protection..._
 
+**Description**:: Protective gear that reduces damage and increases survivability in combat.
+
 | Light Armour                                                                      | Armour Class | Properties                                                           |
 | --------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------- |
 | [[Gambeson.md\|Gambeson]]                             | 12           | [[Protective]] (1)                                                   |
@@ -31,4 +33,4 @@ _In case you need some protection..._
 
 ---
 
-#keyword
+#keyword #equipment #group

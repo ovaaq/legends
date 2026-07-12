@@ -1,23 +1,16 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: **▶▶▶⚡〇**
-**Stamina**:: 0
-**Range**:: Melee
-**Weapon**:: Bludgeoning
+**Execution**:: [[Free Action]]\*
+**Stamina**:: 1
+**Range**:: Any
+**Weapon**:: Any
 **Duration**:: Instant
 
-_\*Reaction / etc_
+_\*When you hit a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
 
-**Effect**:: When someone hits you you can react to hit back
+**Effect**:: The next [[Attack Roll]] against the target by an attacker other than you has [[Advantage]] if the [[Attack]] is made before the start of your next [[Turn]].
 
 ---
 
 #martial_technique #1st\
-[[Martial Technique]]
-
-When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack’s damage roll. The next attack roll against the target by an attacker other than you has Advantage if the attack is made before the start of your next turn.
-
----
-
-#martial_technique #1st
 [[Martial Technique]]

@@ -4,3 +4,7 @@
 | [[Greater Restoration.md\|Greater Restoration]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
 | [[Reflect Magic.md\|Reflect Magic]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
 | [[Time Skip Spell.md\|Time Skip Spell]]         | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres | Instant       |
+
+---
+
+#keyword

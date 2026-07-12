@@ -1,5 +1,6 @@
 _common adventuring gear_
 
+**Description**:: common gear
 **Price**:: 1gp
 **Weight**:: 1 Stack
 

@@ -2,4 +2,4 @@
 
 ---
 
-#keyword
+#keyword #object #property

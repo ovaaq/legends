@@ -1,14 +1,14 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: [[Reaction]]\*
+**Execution**:: [[Free Action]]\*
 **Stamina**:: 2
 **Range**:: Melee
-**Weapon**:: -
+**Weapon**:: Any
 **Duration**:: Instant
 
-_\*When you miss a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]]_
+_\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
 
-**Effect**:: You can expend 2 Stamina Points to aim a again. Make a new [[Attack Roll]] against the target.
+**Effect**:: Make a new [[Attack Roll]] against the target.
 
 ---
 

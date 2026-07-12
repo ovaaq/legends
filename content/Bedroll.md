@@ -1,8 +1,12 @@
-**Cost**: 1 Gold
-**Weight**: 1 Stack
+_[[Adventuring Item]], [[Equipment]]_
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on [[Constitution Saving Throw]] against extreme cold.
+_Lore._
+
+**Weight**:: 1 Stack
+**Cost**:: 2 gp
+
+A Bedroll sleeps one [[Small]] or [[Medium]] creature. While resting in a bedroll, you treat your result on [[Constitution Saving Throw]] against cold as one tier higher.
 
 ---
 
-[[Equipment]], [[Adventuring Item]]
+#adventuring_item  #equipment

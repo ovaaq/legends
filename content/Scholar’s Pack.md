@@ -1,5 +1,6 @@
 _Lore_
 
+**Description**:: common gear
 **Price**:: 1gp
 **Weight**:: 1 Stack
 

@@ -1,3 +1,5 @@
+**Description**:: Potions, elixirs, and other substances with magical or practical effects.
+
 [[Equipment]]
 
 | Alchemical Items                                                        |
@@ -15,8 +17,6 @@
 | [[Smoke Bomb.md\|Smoke Bomb]]               |
 | [[Solvent Vial.md\|Solvent Vial]]           |
 | [[Thunderboom Stick.md\|Thunderboom Stick]] |
-
-**Description**:: Brewing potions and chemical compounds.
 
 **Use on others**
 [[Antidote Vial]]
@@ -83,4 +83,4 @@ Glue
 
 ---
 
-#keyword
+#keyword #equipment #group

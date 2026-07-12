@@ -66,3 +66,7 @@
 | [[Warding Wind.md\|Warding Wind]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Web.md\|Web]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Zone of Truth.md\|Zone of Truth]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
+
+---
+
+#keyword

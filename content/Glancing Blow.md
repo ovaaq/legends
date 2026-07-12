@@ -1,24 +1,16 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: **▶▶▶⚡〇**
+**Execution**:: [[Free Action]]\*
 **Stamina**:: 0
 **Range**:: Melee
-**Weapon**:: Bludgeoning
+**Weapon**:: Any
 **Duration**:: Instant
 
-_\*Reaction / etc_
+_\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
 
-**Effect**:: When someone hits you you can react to hit back
+**Effect**:: Immediately repeat your [[Attack]] against another target within the reach of your [[Melee Weapon]].
 
 ---
 
 #martial_technique #1st\
-[[Martial Technique]]
-
-_Prerequisites: 5th-level_\
-When you make a melee weapon attack and miss, you can expend an Exploit Die to immediately repeat your attack against another target within the reach of your weapon. On hit, add your Exploit Die to the damage roll of that attack.
-
----
-
-#martial_technique #1st
 [[Martial Technique]]

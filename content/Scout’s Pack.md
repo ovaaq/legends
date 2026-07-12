@@ -1,9 +1,12 @@
-_Lore_
+_[[Pack]], [[Equipment]]_
 
-**Price**:: 1gp
+_Lore._
+
+**Description**:: common gear
 **Weight**:: 1 Stack
+**Cost**:: 2 gp
 
-Explorer's Pack includes:
+Scout's Pack includes:
 
 - [[Backpack]]
 - [[Bedroll]]
@@ -16,7 +19,4 @@ Explorer's Pack includes:
 
 ---
 
-#equipment #pack
-
-[[Equipment]]
-[[Pack]]
+#pack  #equipment

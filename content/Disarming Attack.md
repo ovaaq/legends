@@ -3,7 +3,7 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Free Action]]
 **Stamina**:: 1
 **Range**:: Melee
-**Weapon**:: -
+**Weapon**:: Any
 **Duration**:: Instant
 
 **Effect**:: When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]], you can expend 1 Stamina Point to strike at an item the target is holding, forcing it to make a [[Strength Saving Throw]].

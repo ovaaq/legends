@@ -1,4 +1,4 @@
 ---
 
-#keyword #condition
+#keyword #condition #object #property
 [[Condition]]

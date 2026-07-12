@@ -3,7 +3,7 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Free Action]]
 **Stamina**:: 2
 **Range**:: Melee
-**Weapon**:: -
+**Weapon**:: None
 **Duration**:: Maintained, up to 1 minute
 
 **Effect**:: When you successfully [[Grapple]] a target, you may expend 2 Stamina Points to enhance your grip. The target takes 2d6 + [[Strength]] [[Bludgeoning Damage]], and the [[Grappled]] creature has [[Disadvantage]] on attempts to escape your hold.
