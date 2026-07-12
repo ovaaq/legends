@@ -7,7 +7,8 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 
 **Category**:: [[Hammer]]
 **Properties**::
-**Damage**:: 1d6 [[Bludgeoning Damage]]
+**Damage**:: 1d6 + [[Strength]]
+**Type**:: [[Bludgeoning Damage]]
 
 ---
 

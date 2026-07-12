@@ -5,10 +5,11 @@ _Flavour text_.
 
 x
 
+**Tree**:: [[Mental Talent Tree]]
 **Group**:: [[General Talent]]
 **Following**::
 
 ---
 
-#talent #general
-[[Talent]][[General Talent]]
+#talent #mental
+[[Talent]] [[General Talent]]

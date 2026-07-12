@@ -8,6 +8,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Category**:: [[Weapon Category]]
 **Properties**:: [[Weapon Property]]
 **Damage**::
+**Type**::
 
 ---
 
