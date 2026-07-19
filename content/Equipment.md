@@ -104,7 +104,7 @@ There is also [[Premade Packs]] for quick grabs.
 | [[Flask of Oil]]         |       | A flask containing oil.                     |
 | [[Healing Salve]]        |       | Accelerates natural healing.                |
 | [[Skyflare]]             |       |                                             |
-| [[Smoke Bomb]]           |       | Smoke bomb.                                 |
+| [[Smoke Powder]]           |       | Smoke bomb.                                 |
 | [[Thunderboom Stick]]    |       | A small explosive.                          |
 | [[Tonic of Endurance]]   |       | Temporal boost to endurance and strength.   |
 | [[Tonic of Wakefulness]] |       | Temporal boost to cognitive function.       |

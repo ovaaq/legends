@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Choose either three [[Cantrip|Cantrips]] or two [[Spell|Spells]] from the [[Arcane Spell List]] and add them to your [[Spellbook]].
+Choose either four [[Cantrip|Cantrips]] or two [[Spell|Spells]] from the [[Arcane Spell List]] and add them to your [[Spellbook]].
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

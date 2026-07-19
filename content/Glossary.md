@@ -204,6 +204,7 @@
 | [[Light.md\|Light]]                                                 |
 | [[Light Armour.md\|Light Armour]]                                   |
 | [[Lightning Damage.md\|Lightning Damage]]                           |
+| [[00 - Inbox/Liquid.md\|Liquid]]                                                                |
 | [[Loading.md\|Loading]]                                             |
 | [[Long Rest.md\|Long Rest]]                                         |
 | [[Look Around.md\|Look Around]]                                     |

@@ -1,8 +1,12 @@
-**Cost**: 1 Gold
-**Weight**: --
+_[[Adventuring Item]], [[Equipment]]_
 
-x
+_Lore._
+
+**Weight**:: 1 Stack
+**Cost**:: 2 gp
+
+Description.
 
 ---
 
-[[Equipment]], [[Adventuring Item]]
+#adventuring_item  #equipment

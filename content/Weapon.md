@@ -91,7 +91,7 @@ Buckler
 [[Pike]]
 [[Lance]]
 [[Trident]]
-[[War pickaxe]]
+[[War Pickaxe]]
 [[Shield]]
 [[Buckler]]
 [[Tower Shield]]

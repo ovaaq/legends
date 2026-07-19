@@ -5,10 +5,9 @@ _Sometimes you get hurt._
 **Weight**:: 1 Stack
 **Cost**:: 2 gp
 
-This kit has 10 uses. You can expend 1 use of this kit to boost the following actions:
+This kit has 10 uses.
 
-- [[First Aid]] (Encounter Action)
-- [[Treat Wounds]] (Camp Action)
+When you perform a [[First Aid]] or [[Treat Wounds]] action, you can expend 1 use of this kit to treat your result as one tier higher.
 
 ---
 

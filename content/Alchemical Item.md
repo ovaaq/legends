@@ -2,6 +2,9 @@
 
 [[Equipment]]
 
+[[Potion]]
+[[Poison]]
+
 | Alchemical Items                                                        |
 | ----------------------------------------------------------------------- |
 | [[Acid Vial.md\|Acid Vial]]                 |
@@ -14,7 +17,7 @@
 | [[Oil Flask.md\|Oil Flask]]                 |
 | [[Poison Vial.md\|Poison Vial]]             |
 | [[Skyflare.md\|Skyflare]]                   |
-| [[Smoke Bomb.md\|Smoke Bomb]]               |
+| [[Smoke Powder.md\|Smoke Powder]]           |
 | [[Solvent Vial.md\|Solvent Vial]]           |
 | [[Thunderboom Stick.md\|Thunderboom Stick]] |
 
@@ -24,7 +27,7 @@
 
 [[Alchemist's Fire]]
 [[Dragonfire Vial]]
-[[Smoke Bomb]]
+[[Smoke Powder]]
 [[Thunderboom Stick]]
 [[Skyflare]]
 [[Acid Vial]]

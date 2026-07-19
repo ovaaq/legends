@@ -3,7 +3,11 @@
 
 _Flavour text_.
 
-Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
+These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]]. Additionally, choose one [[Alchemical Formula]] from this list and add it to your [[Alchemy Book]].
+
+##### 2nd Level Alchemical Formulas
+
+-
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

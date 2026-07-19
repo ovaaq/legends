@@ -24,18 +24,23 @@
 | [[Chain.md\|Chain]]                                       | -     | -   |
 | [[Chalk.md\|Chalk]]                                       | -     | -   |
 | [[Character Creation Guide.md\|Character Creation Guide]] | -     | -   |
+| [[Charcoal Stick.md\|Charcoal Stick]]                     | -     | -   |
 | [[Chest.md\|Chest]]                                       | -     | -   |
 | [[Chisel.md\|Chisel]]                                     | -     | -   |
+| [[00 - Inbox/Common Antidote.md\|Common Antidote]]                                    | -     | -   |
 | [[Compass.md\|Compass]]                                   | -     | -   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                             | -     | -   |
 | [[Crowbar.md\|Crowbar]]                                   | -     | -   |
+| [[00 - Inbox/Dreamdust.md\|Dreamdust]]                                                | -     | -   |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]               | -     | -   |
 | [[Fishing Tools.md\|Fishing Tools]]                       | -     | -   |
 | [[Flint and Steel.md\|Flint and Steel]]                   | -     | -   |
+| [[Flour Sack.md\|Flour Sack]]                             | -     | -   |
 | [[Forgery Kit.md\|Forgery Kit]]                           | -     | -   |
 | [[Glass Vial.md\|Glass Vial]]                             | -     | -   |
 | [[Gold Panning.md\|Gold Panning]]                         | -     | -   |
 | [[Grappling Hook.md\|Grappling Hook]]                     | -     | -   |
+| [[Grease Jar.md\|Grease Jar]]                             | -     | -   |
 | [[Healer's Kit.md\|Healer's Kit]]                         | -     | -   |
 | [[Herbalism Kit.md\|Herbalism Kit]]                       | -     | -   |
 | [[Hooded Lantern.md\|Hooded Lantern]]                     | -     | -   |
@@ -62,6 +67,8 @@
 | [[Scribe’s Supplies.md\|Scribe’s Supplies]]               | -     | -   |
 | [[Scroll Case.md\|Scroll Case]]                           | -     | -   |
 | [[Shovel.md\|Shovel]]                                     | -     | -   |
+| [[00 - Inbox/Sightbane.md\|Sightbane]]                                                | -     | -   |
+| [[Small Mirror.md\|Small Mirror]]                         | -     | -   |
 | [[Smithing Hammer.md\|Smithing Hammer]]                   | -     | -   |
 | [[Smithing Tools.md\|Smithing Tools]]                     | -     | -   |
 | [[Spyglass.md\|Spyglass]]                                 | -     | -   |
@@ -70,11 +77,15 @@
 | [[Tinderbox.md\|Tinderbox]]                               | -     | -   |
 | [[Tome.md\|Tome]]                                         | -     | -   |
 | [[Torch.md\|Torch]]                                       | -     | -   |
+| [[Trapwire.md\|Trapwire]]                                 | -     | -   |
 | [[Tripwire.md\|Tripwire]]                                 | -     | -   |
+| [[00 - Inbox/Venomous Oil.md\|Venomous Oil]]                                          | -     | -   |
 | [[Waterskin.md\|Waterskin]]                               | -     | -   |
 | [[Wax Beads.md\|Wax Beads]]                               | -     | -   |
 | [[Wax Seal Stamp.md\|Wax Seal Stamp]]                     | -     | -   |
+| [[Whetstone.md\|Whetstone]]                               | -     | -   |
 | [[Whistle.md\|Whistle]]                                   | -     | -   |
+| [[00 - Inbox/White Arsenic.md\|White Arsenic]]                                        | -     | -   |
 | [[Wooden Box.md\|Wooden Box]]                             | -     | -   |
 
 | List of People                                                                        |
@@ -96,18 +107,23 @@
 | [[Chain.md\|Chain]]                                       |
 | [[Chalk.md\|Chalk]]                                       |
 | [[Character Creation Guide.md\|Character Creation Guide]] |
+| [[Charcoal Stick.md\|Charcoal Stick]]                     |
 | [[Chest.md\|Chest]]                                       |
 | [[Chisel.md\|Chisel]]                                     |
+| [[00 - Inbox/Common Antidote.md\|Common Antidote]]                                    |
 | [[Compass.md\|Compass]]                                   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                             |
 | [[Crowbar.md\|Crowbar]]                                   |
+| [[00 - Inbox/Dreamdust.md\|Dreamdust]]                                                |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]               |
 | [[Fishing Tools.md\|Fishing Tools]]                       |
 | [[Flint and Steel.md\|Flint and Steel]]                   |
+| [[Flour Sack.md\|Flour Sack]]                             |
 | [[Forgery Kit.md\|Forgery Kit]]                           |
 | [[Glass Vial.md\|Glass Vial]]                             |
 | [[Gold Panning.md\|Gold Panning]]                         |
 | [[Grappling Hook.md\|Grappling Hook]]                     |
+| [[Grease Jar.md\|Grease Jar]]                             |
 | [[Healer's Kit.md\|Healer's Kit]]                         |
 | [[Herbalism Kit.md\|Herbalism Kit]]                       |
 | [[Hooded Lantern.md\|Hooded Lantern]]                     |
@@ -134,6 +150,8 @@
 | [[Scribe’s Supplies.md\|Scribe’s Supplies]]               |
 | [[Scroll Case.md\|Scroll Case]]                           |
 | [[Shovel.md\|Shovel]]                                     |
+| [[00 - Inbox/Sightbane.md\|Sightbane]]                                                |
+| [[Small Mirror.md\|Small Mirror]]                         |
 | [[Smithing Hammer.md\|Smithing Hammer]]                   |
 | [[Smithing Tools.md\|Smithing Tools]]                     |
 | [[Spyglass.md\|Spyglass]]                                 |
@@ -142,11 +160,15 @@
 | [[Tinderbox.md\|Tinderbox]]                               |
 | [[Tome.md\|Tome]]                                         |
 | [[Torch.md\|Torch]]                                       |
+| [[Trapwire.md\|Trapwire]]                                 |
 | [[Tripwire.md\|Tripwire]]                                 |
+| [[00 - Inbox/Venomous Oil.md\|Venomous Oil]]                                          |
 | [[Waterskin.md\|Waterskin]]                               |
 | [[Wax Beads.md\|Wax Beads]]                               |
 | [[Wax Seal Stamp.md\|Wax Seal Stamp]]                     |
+| [[Whetstone.md\|Whetstone]]                               |
 | [[Whistle.md\|Whistle]]                                   |
+| [[00 - Inbox/White Arsenic.md\|White Arsenic]]                                        |
 | [[Wooden Box.md\|Wooden Box]]                             |
 
 | Name                  | Weight     | Price  | Description                                            |

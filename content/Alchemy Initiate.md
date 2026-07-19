@@ -5,16 +5,21 @@ _You're an alchemist._
 
 Increase [[Rank]] of [[Alchemy]] by 1.
 
-You gain following benefits:
+These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]]:
 
-- You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]].
-- You select two [[Alchemical Formula|Alchemical Formulas]] from the list below and add them to your [[Alchemy Book]]. Rest of the [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]].
-  - [[Common Poison Formula]]
-  - [[Common Antidote Formula]]
-  - [[Common Acid Formula]]
-  - [[Smoke Bomb Formula]]
-  - [[Alchemist's Fire Formula]]
-  - [[Alchemist’s Frost Formula]]
+##### 1st Level Alchemical Formulas
+
+- [[Alchemist's Fire Formula]]
+- [[Alchemist’s Frost Formula]]
+- [[Common Acid Formula]]
+- [[Common Antidote Formula]]
+- [[Dreamdust Formula]]
+- [[Sightbane Formula]]
+- [[Smoke Powder Formula]]
+- [[Venom Oil Formula]]
+- [[White Arsenic Formula]]
+
+**Research Journal.** You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]]. Select four [[1st Level Alchemical Formula|1st Level Alchemical Formulas]] from your [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
 
 **[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Rank]] + [[Intelligence]]
 

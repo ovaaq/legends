@@ -4,7 +4,7 @@ _You were born into privilege, surrounded by wealth, influence, and the expectat
 **Saving Throws:** [[Agility Saving Throw]], [[Charisma Saving Throw]], [[Intelligence Saving Throw]]
 **General Skill Ranks**: [[Acrobatics]], [[Crafting]], [[Deception]], [[History]], [[Insight]], [[Intimidation]], [[Investigation]], [[Nature]], [[Performance]], [[Persuasion]], [[Religion]]
 **Expert Skill Ranks:** [[Arts]], [[Cartography]], [[Jewellery]], [[Linguistic]], [[Military]], [[Musicality]]
-**Talents:** [[Read Emotions]]
+**Talents:** [[Observant]]
 **Equipment:** [[Signet Ring]], [[Fine Clothes]], family heirloom, heraldic cloak of the house
 **Initial Wealth:** 250gp
 
