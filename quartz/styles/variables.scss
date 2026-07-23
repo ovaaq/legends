@@ -1,5 +1,3 @@
-@use "sass:map";
-
 /**
  * Layout breakpoints
  * $mobile: screen width below this value will use mobile styles
@@ -8,54 +6,51 @@
  * assuming mobile < desktop
  */
 $breakpoints: (
-  mobile: 640px,
-  desktop: 1200px, 
+  mobile: 800px,
+  desktop: 1200px,
 );
 
-// Standardize the media queries so they catch everything below desktop
-$mobile: "(max-width: #{map.get($breakpoints, mobile)})";
-$tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
-$desktop: "(min-width: #{map.get($breakpoints, desktop)})";
+$mobile: "(max-width: #{map-get($breakpoints, mobile)})";
+$tablet: "(min-width: #{map-get($breakpoints, mobile)}) and (max-width: #{map-get($breakpoints, desktop)})";
+$desktop: "(min-width: #{map-get($breakpoints, desktop)})";
 
-// Decouple pageWidth from the mobile breakpoint for a better desktop reading experience
-$pageWidth: 750px; 
-$sidePanelWidth: 320px;
-$topSpacing: 3rem;
+$pageWidth: #{map-get($breakpoints, mobile)};
+$sidePanelWidth: 320px; //380px;
+$topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
 
 $mobileGrid: (
-  templateRows: "auto auto auto auto", 
+  templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
     '"grid-sidebar-left"\
-     "grid-header"\
-     "grid-center"\
-     "grid-footer"', 
+      "grid-header"\
+      "grid-center"\
+      "grid-sidebar-right"\
+      "grid-footer"',
 );
-
 $tabletGrid: (
-  templateRows: "auto auto auto auto", 
-  templateColumns: "auto", // Changed from #{$sidePanelWidth} auto to single column
-  rowGap: "5px",
-  columnGap: "5px",
-  templateAreas:
-    '"grid-sidebar-left"\
-     "grid-header"\
-     "grid-center"\
-     "grid-footer"', // Stacked vertically to match mobile
-);
-
-$desktopGrid: (
-  templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto", 
+  templateRows: "auto auto auto auto",
+  templateColumns: "#{$sidePanelWidth} auto",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
     '"grid-sidebar-left grid-header"\
       "grid-sidebar-left grid-center"\
-      "grid-sidebar-left grid-footer"', 
+      "grid-sidebar-left grid-sidebar-right"\
+      "grid-sidebar-left grid-footer"',
+);
+$desktopGrid: (
+  templateRows: "auto auto auto",
+  templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
+  rowGap: "5px",
+  columnGap: "5px",
+  templateAreas:
+    '"grid-sidebar-left grid-header grid-sidebar-right"\
+      "grid-sidebar-left grid-center grid-sidebar-right"\
+      "grid-sidebar-left grid-footer grid-sidebar-right"',
 );
