@@ -8,31 +8,31 @@
  * assuming mobile < desktop
  */
 $breakpoints: (
-  mobile: 640px,
-  desktop: 1200px,
+  desktop: 1200px, // Only one breakpoint is needed for the standard Quartz grid
 );
 
-$mobile: "(max-width: #{map.get($breakpoints, mobile)})";
-$tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
+// Standardize the media queries so they catch everything below desktop
+$mobile: "(max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
-$pageWidth: #{map.get($breakpoints, mobile)};
-$sidePanelWidth: 320px; //380px;
+// Decouple pageWidth from the mobile breakpoint for a better desktop reading experience
+$pageWidth: 750px; 
+$sidePanelWidth: 320px;
 $topSpacing: 3rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
 
 $mobileGrid: (
-  templateRows: "auto auto auto auto", // Reduced to 4 rows
+  templateRows: "auto auto auto auto", 
   templateColumns: "auto",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
     '"grid-sidebar-left"\
-      "grid-header"\
-      "grid-center"\
-      "grid-footer"', // Removed grid-sidebar-right
+     "grid-header"\
+     "grid-center"\
+     "grid-footer"', 
 );
 
 $tabletGrid: (
