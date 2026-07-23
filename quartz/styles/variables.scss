@@ -8,11 +8,13 @@
  * assuming mobile < desktop
  */
 $breakpoints: (
+  mobile: 640px,
   desktop: 1200px, // Only one breakpoint is needed for the standard Quartz grid
 );
 
 // Standardize the media queries so they catch everything below desktop
 $mobile: "(max-width: #{map.get($breakpoints, desktop)})";
+$tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
 // Decouple pageWidth from the mobile breakpoint for a better desktop reading experience
