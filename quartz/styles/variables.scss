@@ -12,11 +12,12 @@ $breakpoints: (
   desktop: 1200px, 
 );
 
-// Standardized the media queries so they trigger at the correct bounds
-$mobile: "(max-width: #{map.get($breakpoints, mobile)})";
+// Standardize the media queries so they catch everything below desktop
+$mobile: "(max-width: #{map.get($breakpoints, desktop)})";
 $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
+// Decouple pageWidth from the mobile breakpoint for a better desktop reading experience
 $pageWidth: 750px; 
 $sidePanelWidth: 320px;
 $topSpacing: 3rem;
@@ -37,15 +38,15 @@ $mobileGrid: (
 );
 
 $tabletGrid: (
-  templateRows: "auto auto auto auto", // Adjusted to 4 rows to stack elements
-  templateColumns: "auto", // Removed the forced 320px side panel column
+  templateRows: "auto auto auto auto", 
+  templateColumns: "auto", // Changed from #{$sidePanelWidth} auto to single column
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
     '"grid-sidebar-left"\
      "grid-header"\
      "grid-center"\
-     "grid-footer"', // Stacked vertically to span the full width of the screen
+     "grid-footer"', // Stacked vertically to match mobile
 );
 
 $desktopGrid: (
