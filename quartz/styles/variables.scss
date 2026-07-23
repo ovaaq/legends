@@ -13,7 +13,7 @@ $breakpoints: (
 );
 
 // Standardize the media queries so they catch everything below desktop
-$mobile: "(max-width: #{map.get($breakpoints, desktop)})";
+$mobile: "(max-width: #{map.get($breakpoints, mobile)})";
 $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
