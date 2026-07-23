@@ -9,15 +9,14 @@
  */
 $breakpoints: (
   mobile: 640px,
-  desktop: 1200px, // Only one breakpoint is needed for the standard Quartz grid
+  desktop: 1200px, 
 );
 
-// Standardize the media queries so they catch everything below desktop
-$mobile: "(max-width: #{map.get($breakpoints, desktop)})";
+// Standardized the media queries so they trigger at the correct bounds
+$mobile: "(max-width: #{map.get($breakpoints, mobile)})";
 $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
-// Decouple pageWidth from the mobile breakpoint for a better desktop reading experience
 $pageWidth: 750px; 
 $sidePanelWidth: 320px;
 $topSpacing: 3rem;
@@ -38,23 +37,24 @@ $mobileGrid: (
 );
 
 $tabletGrid: (
-  templateRows: "auto auto auto", // Reduced to 3 rows
-  templateColumns: "#{$sidePanelWidth} auto",
+  templateRows: "auto auto auto auto", // Adjusted to 4 rows to stack elements
+  templateColumns: "auto", // Removed the forced 320px side panel column
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
-    '"grid-sidebar-left grid-header"\
-      "grid-sidebar-left grid-center"\
-      "grid-sidebar-left grid-footer"', // Removed the row containing grid-sidebar-right
+    '"grid-sidebar-left"\
+     "grid-header"\
+     "grid-center"\
+     "grid-footer"', // Stacked vertically to span the full width of the screen
 );
 
 $desktopGrid: (
   templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto", // Removed the third column (#{$sidePanelWidth})
+  templateColumns: "#{$sidePanelWidth} auto", 
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
     '"grid-sidebar-left grid-header"\
       "grid-sidebar-left grid-center"\
-      "grid-sidebar-left grid-footer"', // Removed grid-sidebar-right from the end of each row
+      "grid-sidebar-left grid-footer"', 
 );
