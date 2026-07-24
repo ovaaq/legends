@@ -13,7 +13,7 @@
 | [[Rest.md\|Rest]]                               | 6 hours  | Sleep to fulfil your need for [[Long Rest]].                                                   |
 | [[Scout the Perimeter.md\|Scout the Perimeter]] | 1 hour   | Search the immediate area for hidden tracks, environmental hazards, or nearby enemies.         |
 | [[Set Traps.md\|Set Traps]]                     | 1 hour   | Deploy hidden hazards or alarms around camp entries to intercept intruders.                    |
-| [[Treat Wounds.md\|Treat Wounds]]               | 1 hour   | Tend to injuries and accelerate natural healing.                                               |
+| [[Treat Wounds.md\|Treat Wounds]]               | 2 hours  | Tend to injuries and accelerate natural healing.                                               |
 
 ---
 

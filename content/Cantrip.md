@@ -19,7 +19,7 @@
 | [[Feral Claw.md\|Feral Claw]]               | [[Double Action.md\|Double Action]] | S           | 0    | Melee                  | Instantaneous                   |
 | [[Fire Bolt.md\|Fire Bolt]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instant                         |
 | [[Flame Blade.md\|Flame Blade]]             | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch                  | 1 minute                        |
-| [[Flame Burst.md\|Flame Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Self (1-metre radius)  | Instantaneous                   |
+| [[Flame Burst.md\|Flame Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Self (1-metre radius)  | Instant                         |
 | [[Force Wave.md\|Force Wave]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
 | [[Frostbite.md\|Frostbite]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
 | [[Glow.md\|Glow]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch                  | 1 hour                          |
@@ -27,7 +27,7 @@
 | [[Guiding Strike.md\|Guiding Strike]]       | [[Action.md\|Action]]               | V, S, M\*    | 0    | 4 metres               | 1 minute                        |
 | [[Ignite.md\|Ignite]]                       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres              | Instantaneous                   |
 | [[Infestation.md\|Infestation]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
-| [[Lightning Lure.md\|Lightning Lure]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres              | Instantaneous                   |
+| [[Lightning Lure.md\|Lightning Lure]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres              | Instant                         |
 | [[Mage Hand.md\|Mage Hand]]                 | [[Double Action.md\|Double Action]] | V, S        | 0    | 10 metres              | 1 minute                        |
 | [[Message.md\|Message]]                     | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 40 meters              | 1 round                         |
 | [[Mind Sliver.md\|Mind Sliver]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres              | Instantaneous                   |
@@ -44,7 +44,7 @@
 | [[Shillelagh.md\|Shillelagh]]               | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch                  | 1 minute                        |
 | [[Shocking Grasp.md\|Shocking Grasp]]       | [[Double Action.md\|Double Action]] | V, S,       | 0    | Touch                  | Instantaneous                   |
 | [[Solar Flare.md\|Solar Flare]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | Self (4-metre cone)    | Instantaneous                   |
-| [[Spectral Grasp.md\|Spectral Grasp]]       | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres              | Instantaneous                   |
+| [[Spectral Grasp.md\|Spectral Grasp]]       | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres              | Instantdeca                     |
 | [[Starry Wisp.md\|Starry Wisp]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres              | Instantaneous                   |
 | [[Telekinetic Throw.md\|Telekinetic Throw]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 10 metres              | Instantaneous                   |
 | [[Thorn Dart.md\|Thorn Dart]]               | [[Triple Action.md\|Triple Action]] | F, S, M\*    | 0    | 10 metres              | Instantaneous                   |

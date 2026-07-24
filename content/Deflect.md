@@ -5,13 +5,13 @@ _[[1st Level Spell]]_
 **Mana**:: 1
 
 **Range**:: Self
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
-_\*Which you take when you are hit by an [[Attack]]_
+_\*When someone makes an [[Attack]] towards you._
 
-**Effect**:: An invisible barrier of magical force surrounds you, protecting you from harm. Reduce the incoming by an amount equal to your [[Sorcery]] Score.
+**Effect**:: An invisible barrier of magical force surrounds you, protecting you from harm. Reduce the incoming [[Attack Roll]] by an amount equal to your [[Sorcery]] Score.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the [[Attack Roll]] reduction increases by 1. You can upcast the spell with a maximum of 3 extra mana.
 
 ---
 

@@ -13,7 +13,7 @@
 | [[Darkvision Potion Formula.md\|Darkvision Potion Formula]]             |
 | [[Disappearing Ink Formula.md\|Disappearing Ink Formula]]               |
 | [[Dragonfire Vial Formula.md\|Dragonfire Vial Formula]]                 |
-| [[00 - Inbox/Dreamdust Formula.md\|Dreamdust Formula]]                                              |
+| [[Dreamdust Formula.md\|Dreamdust Formula]]                             |
 | [[Fire Breath Potion Formula.md\|Fire Breath Potion Formula]]           |
 | [[Flying Potion Formula.md\|Flying Potion Formula]]                     |
 | [[Freeze Powder Formula.md\|Freeze Powder Formula]]                     |
@@ -49,7 +49,7 @@
 | [[Resistance Potion Formula.md\|Resistance Potion Formula]]             |
 | [[Shapechanging Potion Formula.md\|Shapechanging Potion Formula]]       |
 | [[Shrink Potion Formula.md\|Shrink Potion Formula]]                     |
-| [[00 - Inbox/Sightbane Formula.md\|Sightbane Formula]]                                              |
+| [[Sightbane Formula.md\|Sightbane Formula]]                             |
 | [[Skyflare Formula.md\|Skyflare Formula]]                               |
 | [[Sleep Gas Formula.md\|Sleep Gas Formula]]                             |
 | [[Smoke Powder Formula.md\|Smoke Powder Formula]]                       |
@@ -61,7 +61,7 @@
 | [[Thunderstone Formula.md\|Thunderstone Formula]]                       |
 | [[Transmuter's Stone Formula.md\|Transmuter's Stone Formula]]           |
 | [[Truth Potion Formula.md\|Truth Potion Formula]]                       |
-| [[00 - Inbox/Venom Oil Formula.md\|Venom Oil Formula]]                                              |
+| [[Venomous Oil Formula.md\|Venomous Oil Formula]]                       |
 | [[Vitality Potion Formula.md\|Vitality Potion Formula]]                 |
 | [[Water Breathing Potion Formula.md\|Water Breathing Potion Formula]]   |
-| [[00 - Inbox/White Arsenic Formula.md\|White Arsenic Formula]]                                      |
+| [[White Arsenic Formula.md\|White Arsenic Formula]]                     |

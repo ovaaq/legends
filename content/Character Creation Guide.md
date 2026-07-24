@@ -30,7 +30,7 @@ You generate these scores using the [[Standard Array]], rolling dice, or the [[P
 
 Your character’s [[Ancestry]] defines their general physical traits and ancestral heritage. You must select one [[Ancestry|Common Ancestry]] from [[Human Ancestry]], [[Dwarven Ancestry]], [[Elven Ancestry]], or [[Halfling Ancestry]]. This choice influences your character’s lifespan, appearance, [[Creature Size]] and [[Speed]]. Ancestry also unlocks [[Ancestry Talent|Ancestral Talents]].
 
-You may also choose an additional ancestry to represent mixed heritage. This choice is entirely optional. An additional ancestry can be selected from the [[Ancestry|Common Ancestries]] listed above or from the [[Ancestry|Rare Ancestries]], which currently include [[Giant Ancestry]], [[Celestial Ancestry]], and [[Infernal Ancestry]]. This option finally allows _half-dwarf_ characters.
+You may also choose an additional ancestry to represent mixed heritage. This choice is entirely optional. An additional ancestry can be selected from the [[Ancestry|Common Ancestries]] listed above or from the [[Ancestry|Rare Ancestries]], which currently include [[Giant Ancestry]], [[Celestial Ancestry]], and [[Fiendish Ancestry]]. This option finally allows _half-dwarf_ characters.
 
 After choosing your [[Ancestry]], you spend 5 [[Legend Point|Legend Points]] to acquire [[Ancestry Talent|Ancestral Talents]].
 
@@ -141,7 +141,7 @@ Check with your local [[Game Master]] for guidance on dice rolls and [[Point Buy
 
 Your character’s [[Ancestry]] defines general physical traits and ancestral heritage. You must select one [[Ancestry|Common Ancestry]] from [[Human Ancestry]], [[Dwarven Ancestry]], [[Elven Ancestry]], or [[Halfling Ancestry]]. This choice influences your character’s lifespan, appearance, [[Creature Size]] and [[Speed]]. Ancestry also unlocks [[Ancestry Talent|Ancestral Talents]].
 
-You may optionally choose an additional ancestry to represent mixed heritage. This choice can be made from the [[Ancestry|Common Ancestries]] listed above or from the [[Ancestry|Rare Ancestries]], which currently include [[Giant Ancestry]], [[Celestial Ancestry]], and [[Infernal Ancestry]].
+You may optionally choose an additional ancestry to represent mixed heritage. This choice can be made from the [[Ancestry|Common Ancestries]] listed above or from the [[Ancestry|Rare Ancestries]], which currently include [[Giant Ancestry]], [[Celestial Ancestry]], and [[Fiendish Ancestry]].
 
 After selecting your [[Ancestry|Common Ancestry]] and any additional ancestry, you spend 5 Legend Points to [[Ancestry|Ancestry Talents]] based on the options your ancestry provides. Below, we detail the Common Ancestries and how they begin shaping your character.
 
@@ -202,7 +202,7 @@ If you select an [[Ancestry|Rare Ancestry]] as your Additional Ancestry, it modi
 >
 > **Radiant Presence.** You emit a faint divine aura, your eyes glimmer subtly, and your voice carries an unnatural clarity.
 
-> [!info] **[[Infernal Ancestry]]**\
+> [!info] **[[Fiendish Ancestry]]**\
 > _The corruption has warped your bloodline with unnatural power. Vein-like patterns creep across your skin, and your eyes glow with a faint purple hue. This infernal taint grants unsettling advantages while driving you toward chaos and eroding your inner discipline. It also shortens your lifespan, slowly consuming you from within._
 >
 > **Chaotic Influence.** Your [[Awareness]] increases by 1, and your [[Intelligence]] decreases by 1.
@@ -230,8 +230,8 @@ You must spend 5 [[Legend Point|LP]] to acquire Talents exclusively from [[Ances
 | Rare Ancestries                                                           |
 | ------------------------------------------------------------------------- |
 | [[Celestial Ancestry.md\|Celestial Ancestry]] |
+| [[Fiendish Ancestry.md\|Fiendish Ancestry]]   |
 | [[Giant Ancestry.md\|Giant Ancestry]]         |
-| [[Infernal Ancestry.md\|Infernal Ancestry]]   |
 
 ## Select Background
 

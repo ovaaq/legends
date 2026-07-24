@@ -16,7 +16,7 @@ These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical 
 - [[Dreamdust Formula]]
 - [[Sightbane Formula]]
 - [[Smoke Powder Formula]]
-- [[Venom Oil Formula]]
+- [[Venomous Oil Formula]]
 - [[White Arsenic Formula]]
 
 **Research Journal.** You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]]. Select four [[1st Level Alchemical Formula|1st Level Alchemical Formulas]] from your [[Alchemical Formula List]] and add them to your [[Alchemy Book]].

@@ -20,7 +20,7 @@
 | [[Command.md\|Command]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | Instantaneous                    |
 | [[Comprehend Languages.md\|Comprehend Languages]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 hour                           |
 | [[Cure Wounds.md\|Cure Wounds]]                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | Touch        | Instantaneous                    |
-| [[Deflect.md\|Deflect]]                             | [[Reaction]]\*                                                   | V, S        | 1    | Self         | Instantaneous                    |
+| [[Deflect.md\|Deflect]]                             | [[Reaction]]\*                                                   | V, S        | 1    | Self         | Instant                          |
 | [[Destroy Water.md\|Destroy Water]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Detect Ethereal.md\|Detect Ethereal]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                    |
 | [[Detect Magic.md\|Detect Magic]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | Concentration, up to 10 minutes  |

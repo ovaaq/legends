@@ -1,4 +1,4 @@
-_Categories of magic recognized by scholars._
+_eCategories of magic recognized by scholars._
 
 - [[Creation Magic]]
   - [[Conjuration Magic]]

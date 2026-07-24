@@ -1,4 +1,4 @@
-**Requirements**:: [[Infernal Ancestry]]
+**Requirements**:: [[Fiendish Ancestry]]
 **Cost**:: 2 LP
 
 _Flavour text_.

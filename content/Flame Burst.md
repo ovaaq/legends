@@ -5,12 +5,14 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: Self (1-metre radius)
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You burst flames in every direction. Every target within range make [[Agility Saving Throw]]:
 
 **Success:** Target takes no damage.
-**Failure:** Target takes 2d4 [[Fire Damage]]. A [[Flammable]] [[Object]] hit by this spell ignites if it isn’t being worn or carried.
+**Failure:** Target takes 2d4 [[Fire Damage]].
+
+A [[Flammable]] [[Object]] hit by this spell ignites if it isn’t being worn or carried.
 
 **Upcasting**:: For each additional two mana spent, the damage increases by 1d4. You can upcast the spell with a maximum of 3 extra mana.
 

@@ -10,7 +10,6 @@ These spells are added to your [[Spiritual Spell List]]:
 ##### Cantrips
 
 - [[Chill Touch]]
-- [[Message]]
 - [[Mind Sliver]]
 - [[Produce Flame]]
 - [[Spectral Grasp]]

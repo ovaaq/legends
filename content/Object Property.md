@@ -6,7 +6,7 @@ A [[Object]] can have multiple properties that influence how it is used and what
 | [[Explosive.md\|Explosive]]     |
 | [[Flammable.md\|Flammable]]     |
 | [[Invisible.md\|Invisible]]     |
-| [[00 - Inbox/Liquid.md\|Liquid]]                            |
+| [[Liquid.md\|Liquid]]           |
 | [[Magical.md\|Magical]]         |
 | [[Non-magical.md\|Non-magical]] |
 | [[Solid.md\|Solid]]             |

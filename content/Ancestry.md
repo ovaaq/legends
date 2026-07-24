@@ -14,8 +14,8 @@ Rare Ancestries are rare, and characters can be at most half derived from them. 
 | Rare Ancestries                                                           |
 | ------------------------------------------------------------------------- |
 | [[Celestial Ancestry.md\|Celestial Ancestry]] |
+| [[Fiendish Ancestry.md\|Fiendish Ancestry]]   |
 | [[Giant Ancestry.md\|Giant Ancestry]]         |
-| [[Infernal Ancestry.md\|Infernal Ancestry]]   |
 
 ---
 
