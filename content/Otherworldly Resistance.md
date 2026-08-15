@@ -1,4 +1,4 @@
-**Requirements**:: [[Celestial Ancestry]] or [[Fiendish Ancestry]]
+**Requirements**:: [[Celestial Ancestry]] or [[Fiend Ancestry]]
 **Cost**:: 2 LP
 
 _Flavour text_.

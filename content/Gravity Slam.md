@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You manipulate gravity against your enemy. Choose one [[Creature]] you can see within range. Target makes [[Strength Saving Throw]]:
 

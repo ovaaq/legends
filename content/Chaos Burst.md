@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You release a burst of chaotic energy at a target within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d12 damage. If you roll a 12 on the damage die, roll an additional 1d12 and add it to the damage.
 

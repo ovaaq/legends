@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You try insert mind psychic spike to mind of targe. Choose one target you can see within range. Each target makes [[Charisma Saving Throw]]:
 

@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You conjure shadowy tendril that attacks a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d10 [[Shadow Damage]].
 

@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You conjure a swarm of biting insects that leap at a target within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d10 [[Piercing Damage]]. If you score a [[Critical Hit]] the target has [[Disadvantage]] on [[Attack Roll|Attack Rolls]] until your next turn.
 

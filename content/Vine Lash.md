@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 4 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You conjure a living thorny vine at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Piercing Damage]]. If you score a [[Critical Hit]] the target is [[Grappled]] until the start of your next turn.
 

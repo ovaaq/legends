@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 2 metres
-**Duration**:: Up to 1 hour
+**Duration**:: 1 hour
 
 **Effect**:: Whispering to the spirits of nature, you create one of the following effects within range:
 

@@ -12,6 +12,12 @@ Having a human ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]]
 
 | Talents                                                                       | Cost |
 | ----------------------------------------------------------------------------- | ---- |
+| [[Human Spells I.md\|Human Spells I]]             | 1 LP |
+| [[Human Spells II.md\|Human Spells II]]           | 1 LP |
+| [[Human Spells III.md\|Human Spells III]]         | 1 LP |
+| [[Human Spells IV.md\|Human Spells IV]]           | 1 LP |
+| [[Human Spells V.md\|Human Spells V]]             | 1 LP |
+| [[Human Spells VI.md\|Human Spells VI]]           | 1 LP |
 | [[Long Stride.md\|Long Stride]]                   | 1 LP |
 | [[Moment of Glory.md\|Moment of Glory]]           | 2 LP |
 | [[Relentless Endurance.md\|Relentless Endurance]] | 2 LP |

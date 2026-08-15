@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You conjure a slashing wind at a [[Creature]] within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 2d4 [[Slashing Damage]].
 

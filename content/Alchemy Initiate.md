@@ -5,7 +5,7 @@ _You're an alchemist._
 
 Increase [[Rank]] of [[Alchemy]] by 1.
 
-These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]]:
+Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formula List]]:
 
 ##### 1st Level Alchemical Formulas
 

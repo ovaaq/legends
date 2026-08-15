@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 4 metres
-**Duration**:: Concentration, up to 1 minute
+**Duration**:: Concentration, 1 minute
 
 **Effect**:: You attempt to influence the mind of a [[Humanoid]] within range that can see and understand you. The target must make a [[Charisma Saving Throw]]:
 

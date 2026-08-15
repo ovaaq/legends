@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: A ray of shifting colour streaks from your hand toward a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d10 damage of your choice: [[Lightning Damage]], [[Fire Damage]], [[Cold Damage]], [[Acid Damage]], or [[Poison Damage]].
 

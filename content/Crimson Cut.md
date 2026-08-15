@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 10 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You summon a wound in your enemy. Choose one target you can see within range. Target makes [[Constitution Saving Throw]]:
 

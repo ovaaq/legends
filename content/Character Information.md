@@ -26,7 +26,7 @@
 |                  Character Statistics                  |                                                                            Options                                                                            |
 | :----------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |       [[Ancestry#Core Ancestry\|Core Ancestry]]        |                                    [[Dwarven Ancestry]] / [[Elven Ancestry]] / [[Human Ancestry]] / [[Halfling Ancestry]]                                    |
-| [[Ancestry#Additional Ancestry\|Additional Ancestry]]\* | [[Dwarven Ancestry]] / [[Elven Ancestry]] / [[Human Ancestry]] / [[Halfling Ancestry]] / [[Giant Ancestry]] / [[Celestial Ancestry]] / [[Fiendish Ancestry]] |
+| [[Ancestry#Additional Ancestry\|Additional Ancestry]]\* | [[Dwarven Ancestry]] / [[Elven Ancestry]] / [[Human Ancestry]] / [[Halfling Ancestry]] / [[Giant Ancestry]] / [[Celestial Ancestry]] / [[Fiend Ancestry]] |
 |                  [[Creature Size]]\*\*                   |                                                              [[Small]] / [[Medium]] / [[Large]]                                                               |
 \* Character may not have [[Ancestry#Additional Ancestry|Additional Ancestry]]
 \*\* [[Creature Size]] depends on [[Ancestry#Core Ancestry|Core Ancestry]] and [[Ancestry#Additional Ancestry|Additional Ancestry]]

@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 2 metres
-**Duration**:: Up to 1 hour
+**Duration**:: 1 hour
 
 **Effect**:: This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range.
 

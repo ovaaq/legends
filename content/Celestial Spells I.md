@@ -1,14 +1,23 @@
-**Requirements**:: [[Servant of Celestial]]
+**Requirements**:: [[Celestial Ancestry]]
 **Cost**:: 1 LP
 
 _Flavour text_.
 
-x
+These spells are added to your [[Innate Spell List]]:
 
-**Group**:: Pact
-**Following**::
+##### Cantrips
+
+-
+
+##### 1st Level Spells
+
+-
+
+**Tree**:: [[Celestial Ancestry]]
+**Group**:: [[Ancestry Talent]]
+**Following**:: [[Celestial Spells II]]
 
 ---
 
-#talent #pact #celestial
-[[Talent]] [[Pact Talent]]
+#talent #celestial #ancestry [[Talent]]
+[[Talent]][[Ancestry Talent]]

@@ -3,11 +3,10 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 2
-
 **Range**:: 20 metres
 **Duration**:: 1 turn
 
-**Effect**:: You intensify gravity at a point you can see within range. Each creature in a 3-metre radius sphere centred on that point must make a [[Strength Saving Throw]].
+**Effect**:: You intensify gravity at a point you can see within range. Each [[Creature]] in a 3-metre radius sphere centred on that point must make a [[Strength Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** A target takes half damage.

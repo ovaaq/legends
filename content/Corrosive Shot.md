@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 10 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You shoot a bolt of acid at a target within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 2d6 [[Acid Damage]]. An [[Object]] hit by this starts to dissolve if it isn’t being worn or carried.
 

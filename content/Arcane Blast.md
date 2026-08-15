@@ -4,8 +4,8 @@ _[[Cantrip]]_
 **Components**:: F, V, S
 **Mana**:: 0
 
-**Range**:: 20 metres
-**Duration**:: Instantaneous
+**Range**:: 20 m
+**Duration**:: Instant
 
 **Effect**:: You hurl a bolt of pure arcane energy at a [[Creature]] within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d4 + [[Sorcery]] [[Piercing Damage]].
 

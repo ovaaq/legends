@@ -19,6 +19,12 @@ area table
 10 m around you
 20 m around you
 
+[[Aura]]: x meters from you
+[[Sphere]]: centre point, radius
+[[Cone]]: tip of the cone, cone's width
+[[Line]]: start point, length
+[[Cylinder]]: centre point, height, radius
+
 | Duration   | Explanation          |
 | ---------- | -------------------- |
 | Instant    | Occurs immediately   |

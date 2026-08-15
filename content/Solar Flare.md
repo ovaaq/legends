@@ -4,8 +4,8 @@ _[[Cantrip]]_
 **Components**:: V, S
 **Mana**:: 0
 
-**Range**:: Self (4-metre cone)
-**Duration**:: Instantaneous
+**Range**:: 4 metres
+**Duration**:: Instant
 
 **Effect**:: As you hold your hand, a blinding light shoots forth from your palm. Each creature in a 4-metre cone must make a [[Constitution Saving Throw]]:
 

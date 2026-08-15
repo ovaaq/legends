@@ -3,12 +3,17 @@
 
 _Flavour text_.
 
-x
+These spells are added to your [[Innate Spell List]]:
 
-**Group**:: Pact
+##### 6th Level Spells
+
+-
+
+**Tree**:: [[Celestial Ancestry]]
+**Group**:: [[Ancestry Talent]]
 **Following**::
 
 ---
 
-#talent #pact #celestial
-[[Talent]] [[Pact Talent]]
+#talent #celestial #ancestry [[Talent]]
+[[Talent]][[Ancestry Talent]]

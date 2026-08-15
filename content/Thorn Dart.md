@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 10 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You hurl conjured thorns at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 3d4 [[Piercing Damage]].
 

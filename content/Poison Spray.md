@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 4 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You conjure spray of poison towards creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d12 [[Poison Damage]]. If you score a [[Critical Hit]] the target is [[Poisoned]] until the start your next turn.
 

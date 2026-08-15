@@ -42,7 +42,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Wind Step]]
 - [[Long Strider]]
 - [[Magic Weapon]]
-- [[Protection from Evil and Good]]
+- [[Protection from Spirits]]
 - [[Searing Blade]]
 - [[Shadow Blade]]
 - [[Shield]]

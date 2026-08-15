@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: A beam of crackling energy streaks toward a target within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d10 [[Shadow Damage]].
 

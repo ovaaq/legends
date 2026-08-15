@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You form ice beam and aim it towards your enemy. Choose one target you can see within range. Target makes [[Agility Saving Throw]]:
 

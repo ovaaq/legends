@@ -1,12 +1,21 @@
-**CAST TIME**: ▶▶▶
-**MANA**: 0
-**RANGE**: 20 meters
-**SPELL PARTS**: F, V, S, M\*
-**LEVEL**: [[Cantrip]]
-**DURATION**: Instantaneous
+_[[Cantrip]]_
 
-**EFFECT**: You unleash a bolt of pure arcane energy at a target within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 piercing damage plus your Arcana modifier.
+**Casting**:: [[Double Action]]
+**Components**:: V
+**Mana**:: 0
+**Range**:: 10 metres
+**Duration**:: 1 minute
 
-**UPCASTING**: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Effect**:: You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 
-_[[Alteration Magic]]_
+- **Alter Self.** You can alter the volume of your voice or the colour of your eyes for 1 minute.
+- **Alter Flames.** Cause a flame to flicker, brighten, dim, or change colour for 1 minute.
+- **Sensory Effect.** Cause harmless tremors, a gust of wind, or ominous sounds.
+
+If you cast this [[Spell]] multiple times, you can have up to three of its effects active at a time.
+
+**Type**:: [[Alteration Magic]]
+
+---
+
+#spell #cantrip [[Spell]]

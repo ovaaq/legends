@@ -5,7 +5,7 @@ _[[1st Level Spell]]_
 **Mana**:: 1
 
 **Range**:: 10 metres
-**Duration**:: Concentration, up to 10 minutes
+**Duration**:: [[Concentration]], 10 minutes
 
 _\*[[Rope]]._
 

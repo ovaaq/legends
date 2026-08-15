@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: Melee
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You make your bite magically venomous. Make a [[Melee Spell Attack]] against the target. On a hit, the target takes 2d6 [[Poison Damage]].
 

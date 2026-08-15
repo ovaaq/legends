@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You freeze the air around your enemy. Choose one [[Creature]] you can see within range. Target makes [[Constitution Saving Throw]]:
 

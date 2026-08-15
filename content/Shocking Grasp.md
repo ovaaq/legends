@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: Touch
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You channel magic, causing electricity to gather in your palm, crackling. Make a [[Touch Spell Attack]] against a [[Creature]] within reach. You have [[Advantage]] on [[Attack Roll]] if the target wears [[Metallic]] [[Armour]]. On a hit, the target takes 1d10 [[Lightning Damage]]. If you score a [[Critical Hit]], the target can't have [[Reaction|Reactions]] until the start of your next [[Turn]].
 

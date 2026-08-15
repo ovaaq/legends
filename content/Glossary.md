@@ -144,7 +144,7 @@
 | [[Faith Point.md\|Faith Point]]                                     |
 | [[Falling Damage.md\|Falling Damage]]                               |
 | [[Feeble.md\|Feeble]]                                               |
-| [[Fiendish Ancestry.md\|Fiendish Ancestry]]                         |
+| [[Fiend Ancestry.md\|Fiend Ancestry]]                               |
 | [[Finesse.md\|Finesse]]                                             |
 | [[Fire Damage.md\|Fire Damage]]                                     |
 | [[First Aid.md\|First Aid]]                                         |

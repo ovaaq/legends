@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 10 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*Small Object_
 

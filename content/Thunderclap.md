@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You create a burst of thunderous sound, which can be heard 40 metres away. Each creature other than you within 1 metre of you must make a [[Constitution Saving Throw]]:
 

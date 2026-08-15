@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Concentration, up to 10 minutes
+**Duration**:: Concentration, 10 minutes
 
 **Effect**:: You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of [[Medium]] size. Whichever form you choose, each light sheds [[Dim Light]] in a 4-metre radius.
 

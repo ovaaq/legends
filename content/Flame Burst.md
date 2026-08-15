@@ -4,10 +4,10 @@ _[[Cantrip]]_
 **Components**:: F, V, S
 **Mana**:: 0
 
-**Range**:: Self (1-metre radius)
+**Range**:: 1 metre
 **Duration**:: Instant
 
-**Effect**:: You burst flames in every direction. Every target within range make [[Agility Saving Throw]]:
+**Effect**:: You burst flames in every direction. Every target within range must make [[Agility Saving Throw]]:
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 2d4 [[Fire Damage]].

@@ -5,7 +5,7 @@ _[[Cantrip]]_
 **Mana**:: 0
 
 **Range**:: 4 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You conjure toxic substance towards your enemy. Choose one target you can see within range. Target makes [[Constitution Saving Throw]]:
 

@@ -10,12 +10,20 @@ _Humans are a versatile and ambitious people, known for their adaptability and d
 
 Having a infernal ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your character is. These [[Talent|Talent]] are:
 
-| Talents                                                           | Cost |
-| ----------------------------------------------------------------- | ---- |
-| [[Granite Skin.md\|Granite Skin]]     | 2 LP |
-| [[Powerful Build.md\|Powerful Build]] | 1 LP |
-| [[Stormcaller.md\|Stormcaller]]       | 2 LP |
-| [[Warmblood.md\|Warmblood]]           | 2 LP |
+[[Giant Spells I]]
+
+| Talents                                                               | Cost |
+| --------------------------------------------------------------------- | ---- |
+| [[Giant Spells I.md\|Giant Spells I]]     | 1 LP |
+| [[Giant Spells II.md\|Giant Spells II]]   | 1 LP |
+| [[Giant Spells III.md\|Giant Spells III]] | 1 LP |
+| [[Giant Spells IV.md\|Giant Spells IV]]   | 1 LP |
+| [[Giant Spells V.md\|Giant Spells V]]     | 1 LP |
+| [[Giant Spells VI.md\|Giant Spells VI]]   | 1 LP |
+| [[Granite Skin.md\|Granite Skin]]         | 2 LP |
+| [[Powerful Build.md\|Powerful Build]]     | 1 LP |
+| [[Stormcaller.md\|Stormcaller]]           | 2 LP |
+| [[Warmblood.md\|Warmblood]]               | 2 LP |
 
 ---
 
