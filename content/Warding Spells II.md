@@ -5,6 +5,8 @@ _Flavour text_.
 
 Benefit.
 
+- [[Arcane Shield]]
+
 **Tree**:: [[Warding Talent Tree]]
 **Group**:: [[Arcane Talent]]
 **Following**:: [[Warding Spells III]]
