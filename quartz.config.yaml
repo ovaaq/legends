@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Legends 1e
-  pageTitleSuffix: " | Legends 1e"
+  pageTitle: Legends TTRPG
+  pageTitleSuffix: " | Legends TTRPG"
   enableSPA: true
   enablePopovers: true
   analytics:
