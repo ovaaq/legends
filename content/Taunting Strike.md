@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When you hit a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
 
-**Effect**:: The [[Creature]] has [[Disadvantage]] on [[Attack|Attacks]] against targets other than you until the end of it's next [[Turn]].
+**Effect**:: The [[Creature]] has [[Disadvantage]] on [[Main Hand Attack|Attacks]] against targets other than you until the end of it's next [[Turn]].
 
 ---
 

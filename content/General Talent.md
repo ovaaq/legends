@@ -1,36 +1,15 @@
 General [[Talent|Talents]] are common and miscellaneous improvements for your character, such as increased [[Hit Point|Hit Points]], [[Mana Point]], and other basic enhancements. They also include a few Talent Trees that don’t fit into any specific category.
 
-Mental, Poison & Alchemy trees are not priority atm.
-
-adventuring tree
-Forager
-Trailblazer
-Pathfinder
-Deep Delver
-Relic Sniffer
-Endurance March
-
-these will be added
-[[Inspiring Leader]] <- inspiration tree
-[[Read Emotions]]
-[[Smooth Talker]]
-[[Actor]]
-[[Diplomat]]
-[[Analyse Person]]
-[[Empathic]]
-
 | Talent Tree Name                                                                  |
 | --------------------------------------------------------------------------------- |
-| [[Alchemy Talent Tree.md\|Alchemy Talent Tree]]       |
 | [[Capability Talent Tree.md\|Capability Talent Tree]] |
 | [[Haste Talent Tree.md\|Haste Talent Tree]]           |
 | [[Healer Talent Tree.md\|Healer Talent Tree]]         |
+| [[Inspirer Talent Tree.md\|Inspirer Talent Tree]]     |
 | [[Luck Talent Tree.md\|Luck Talent Tree]]             |
 | [[Mental Talent Tree.md\|Mental Talent Tree]]         |
 | [[Mobility Talent Tree.md\|Mobility Talent Tree]]     |
-| [[Poison Talent Tree.md\|Poison Talent Tree]]         |
 | [[Resistance Talent Tree.md\|Resistance Talent Tree]] |
-| [[Runecraft Talent Tree.md\|Runecraft Talent Tree]]   |
 | [[Vitality Talent Tree.md\|Vitality Talent Tree]]     |
 
 | Talent Name                                                                             | Group                                                             | Cost | Requirements                                                                        | Following Talents                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -119,3 +98,22 @@ these will be added
 | [[Toxic Tolerance.md\|Toxic Tolerance]]                     | [[General Talent.md\|General Talent]] | 2 LP | [[Favourable Exposure.md\|Favourable Exposure]]         | [[Adapting Effect.md\|Adapting Effect]]                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [[Unyielding.md\|Unyielding]]                               | [[General Talent.md\|General Talent]] | 3 LP | [[Defensive Brace.md\|Defensive Brace]]                 | [[Indomitable.md\|Indomitable]]                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [[Wall Runner.md\|Wall Runner]]                             | [[General Talent.md\|General Talent]] | 1 LP | [[Fancy Footwork.md\|Fancy Footwork]]                   | [[Slow Fall.md\|Slow Fall]]                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+random shit:
+
+adventuring tree
+Forager
+Trailblazer
+Pathfinder
+Deep Delver
+Relic Sniffer
+Endurance March
+
+these will be added
+
+[[Read Emotions]]
+[[Smooth Talker]]
+[[Actor]]
+[[Diplomat]]
+[[Analyse Person]]
+[[Empathic]]

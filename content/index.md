@@ -5,6 +5,8 @@ title: Homepage
 
 Hello there! You have found Legends TTRPG wiki. This website host current and evolving rules of Legends.
 
+You can join Discord -channel where I will answer all questions related to this game [join here](https://discord.gg/6bhbdrWeA7).
+
 #### Introduction
 
 [[Introduction to Legends TTRPG]]

@@ -33,7 +33,7 @@ For example:
 
 ### Making Attacks
 
-[[Attack]]
+[[Main Hand Attack]]
 
 - [[Spell Attack]]
   - [[Touch Spell Attack]]

@@ -20,5 +20,5 @@
 
 ---
 
-#talent_tree #general
+#talent_tree #crafting
 [[Talent Tree]]

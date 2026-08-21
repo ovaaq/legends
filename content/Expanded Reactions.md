@@ -5,7 +5,7 @@ _Flavour text_.
 
 You gain 1 additional [[Haste Point]].
 
-You gain an additional [[Reaction]] each turn.
+You gain an additional [[Reaction]] each [[Turn]].
 
 **Tree**:: [[Haste Talent Tree]]
 **Group**:: [[General Talent]]

@@ -1,7 +1,7 @@
 _[[Defensive Actions]]_
 
 **Description**:: Find cover behind [[Object]], [[Creature]] or buildings.
-**Action**:: [[Free Action]]
+**Action**:: [[Action]]
 **Target**:: Self
 
 Explanation.

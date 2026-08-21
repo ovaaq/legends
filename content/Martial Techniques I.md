@@ -7,7 +7,7 @@ _Flavour text_.
 
 **Martial Techniques.** Select four [[1st Level Martial technique|1st Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below:
 
-**Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Attack]].
+**Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Main Hand Attack]].
 
 | 1st Level Martial Techniques                                                  | Execution                                                   | Stamina | Range     | Weapon                                              |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------- | ------- | --------- | --------------------------------------------------- |

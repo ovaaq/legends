@@ -1,4 +1,4 @@
-Have not yet acted in encounter. You can't use [[Reaction]]
+Have not yet acted in encounter. You can't use [[Reaction]].
 
 ---
 

@@ -19,20 +19,20 @@ Actions are categorized by their function during combat:
 
 ### Action Lists by Type
 
-| Offensive Action                                                    | Action Cost                                                     | Description                                                        |
-| ------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [[Attack.md\|Attack]]                   | [[Double Action.md\|Double Action]] | Make an attack with a weapon or unarmed strike.                    |
-| [[Disarm.md\|Disarm]]                   | [[Double Action.md\|Double Action]] | -                                                                 |
-| [[Grapple.md\|Grapple]]                 | [[Double Action.md\|Double Action]] | -                                                                 |
-| [[Off-Hand Attack.md\|Off-Hand Attack]] | [[Action.md\|Action]]               | Follow-up  [[Weapon]] or [[Unarmed Strike]] after main [[Attack]]. |
-| [[Shove.md\|Shove]]                     | [[Double Action.md\|Double Action]] | -                                                                 |
-| [[Trip.md\|Trip]]                       | [[Double Action.md\|Double Action]] | -                                                                 |
+| Offensive Action                                                      | Action Cost                                                     | Description                                                                  |
+| --------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [[Disarm.md\|Disarm]]                     | [[Double Action.md\|Double Action]] | -                                                                           |
+| [[Grapple.md\|Grapple]]                   | [[Double Action.md\|Double Action]] | -                                                                           |
+| [[Main Hand Attack.md\|Main Hand Attack]] | [[Double Action.md\|Double Action]] | Make an attack with a weapon or unarmed strike.                              |
+| [[Off-Hand Attack.md\|Off-Hand Attack]]   | [[Action.md\|Action]]               | Follow-up  [[Weapon]] or [[Unarmed Strike]] after main [[Main Hand Attack]]. |
+| [[Shove.md\|Shove]]                       | [[Double Action.md\|Double Action]] | -                                                                           |
+| [[Trip.md\|Trip]]                         | [[Double Action.md\|Double Action]] | -                                                                           |
 
 | Defensive Action                                              | Action Cost                                                     | Description                                              |
 | ------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------- |
 | [[Dodge.md\|Dodge]]               | [[Double Action.md\|Double Action]] | -                                                       |
 | [[Raise Shield.md\|Raise Shield]] | [[Action.md\|Action]]               | -                                                       |
-| [[Take Cover.md\|Take Cover]]     | [[Free Action.md\|Free Action]]     | Find cover behind [[Object]], [[Creature]] or buildings. |
+| [[Take Cover.md\|Take Cover]]     | [[Action.md\|Action]]               | Find cover behind [[Object]], [[Creature]] or buildings. |
 
 | Magical Action                                                                      | Action Cost                                                 | Description                                                |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |

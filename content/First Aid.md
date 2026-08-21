@@ -6,8 +6,8 @@ _[[Utility Actions]]_
 
 You attempt to stabilize a [[Dying]] [[Creature]]. Make a [[Medicine]] [[Check]] DC 10:
 
-**Critical Success:** Target regains 1 [[Hit Point|HP]].
-**Success:** Target's [[Dying]] condition  ends and gains [[Feeble]] condition.
+**Critical Success:** Target regains 1 [[Hit Point]].
+**Success:** Target's [[Dying]] condition is replaced with [[Feeble]] condition.
 **Failure:** No effect.
 **Critical Failure:** Target’s [[Dying]] condition increases by 1.
 

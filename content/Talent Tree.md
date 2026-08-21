@@ -17,6 +17,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Haste Talent Tree.md\|Haste Talent Tree]]                 |
 | [[Healer Talent Tree.md\|Healer Talent Tree]]               |
 | [[Innate Talent Tree.md\|Innate Talent Tree]]               |
+| [[Inspirer Talent Tree.md\|Inspirer Talent Tree]]           |
 | [[Ki Talent Tree.md\|Ki Talent Tree]]                       |
 | [[Knowledge Talent Tree.md\|Knowledge Talent Tree]]         |
 | [[Light Talent Tree.md\|Light Talent Tree]]                 |
@@ -27,7 +28,6 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Mobility Talent Tree.md\|Mobility Talent Tree]]           |
 | [[Nature Talent Tree.md\|Nature Talent Tree]]               |
 | [[Pact Talent Tree.md\|Pact Talent Tree]]                   |
-| [[Poison Talent Tree.md\|Poison Talent Tree]]               |
 | [[Rage Talent Tree.md\|Rage Talent Tree]]                   |
 | [[Resistance Talent Tree.md\|Resistance Talent Tree]]       |
 | [[Runecraft Talent Tree.md\|Runecraft Talent Tree]]         |

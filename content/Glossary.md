@@ -46,8 +46,8 @@
 | [[Armour.md\|Armour]]                                               |
 | [[Armour Class.md\|Armour Class]]                                   |
 | [[Armour Property.md\|Armour Property]]                             |
+| [[Arrow.md\|Arrow]]                                                 |
 | [[Asleep.md\|Asleep]]                                               |
-| [[Attack.md\|Attack]]                                               |
 | [[Attack Roll.md\|Attack Roll]]                                     |
 | [[Awareness.md\|Awareness]]                                         |
 | [[Axe.md\|Axe]]                                                     |
@@ -56,6 +56,7 @@
 | [[Blinded.md\|Blinded]]                                             |
 | [[Bloodied.md\|Bloodied]]                                           |
 | [[Bludgeoning Damage.md\|Bludgeoning Damage]]                       |
+| [[Bolt.md\|Bolt]]                                                   |
 | [[Bow.md\|Bow]]                                                     |
 | [[Burning.md\|Burning]]                                             |
 | [[Camp Action.md\|Camp Action]]                                     |
@@ -155,12 +156,14 @@
 | [[Free Action.md\|Free Action]]                                     |
 | [[Friendly.md\|Friendly]]                                           |
 | [[Frightened.md\|Frightened]]                                       |
+| [[01 - Projects/Legends Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                 |
 | [[General Skill.md\|General Skill]]                                 |
 | [[General Skill Modifier.md\|General Skill Modifier]]               |
 | [[Giant Ancestry.md\|Giant Ancestry]]                               |
 | [[Good Rest.md\|Good Rest]]                                         |
 | [[Grapple.md\|Grapple]]                                             |
 | [[Grappled.md\|Grappled]]                                           |
+| [[Greater Resistance.md\|Greater Resistance]]                       |
 | [[Halfling Ancestry.md\|Halfling Ancestry]]                         |
 | [[Hammer.md\|Hammer]]                                               |
 | [[Heavy.md\|Heavy]]                                                 |
@@ -214,6 +217,7 @@
 | [[Magical Actions.md\|Magical Actions]]                             |
 | [[01 - Projects/Legends Game Master/Magical Essence.md\|Magical Essence]]                       |
 | [[Magical Material.md\|Magical Material]]                           |
+| [[Main Hand Attack.md\|Main Hand Attack]]                           |
 | [[Mana Point.md\|Mana Point]]                                       |
 | [[Mana Point Maximum.md\|Mana Point Maximum]]                       |
 | [[Martial Save DC.md\|Martial Save DC]]                             |

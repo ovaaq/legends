@@ -13,6 +13,7 @@ A complete list of Talent Groups can be found in the table below.
 | :---------------------: | ----------------------------------------------------------------- |
 |   [[Ancestry Talent]]   | Traits inherited from your ancestral bloodline.                   |
 |   [[General Talent]]    | Core improvements.                                                |
+|   [[Crafting Talent]]   | Create something.                                                 |
 |   [[Martial Talent]]    | Mastery of weapons, armor, combat styles, and martial techniques. |
 |    [[Arcane Talent]]    | Scholarly magic drawn from study.                                 |
 |    [[Divine Talent]]    | Powers granted through faith.                                     |

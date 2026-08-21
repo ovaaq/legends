@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
 
-**Effect**:: Immediately repeat your [[Attack]] against another target within the reach of your [[Melee Weapon]].
+**Effect**:: Immediately repeat your [[Main Hand Attack]] against another target within the reach of your [[Melee Weapon]].
 
 ---
 

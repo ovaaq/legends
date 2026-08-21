@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]]._
 
-**Effect**:: Immediately after the [[Attack]], you move up to half your [[Walking Speed]].
+**Effect**:: Immediately after the [[Main Hand Attack]], you move up to half your [[Walking Speed]].
 
 ---
 

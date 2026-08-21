@@ -1,10 +1,7 @@
-1 action per turn
-no reactions
-[[Prone]]
-and can only Crawl
-can weakly speak
+- A feeble creature can’t take [[Reaction|Reactions]] and has only 1 [[Action]] per [[Turn]].
+- A feeble creature drops [[Prone]] and cannot [[Stand Up]].
 
-condition ends if you receive more than 5 [[Hit Point|Hit Points]] or if you have [[Short Rest]]
+Condition ends if creature receives more than 5 [[Hit Point|Hit Points]] or has [[Short Rest]] or [[Long Rest]].
 
 ---
 

@@ -12,7 +12,7 @@ While in this form:
 - Your [[Walking Speed]] is halved.
 - You gain [[Resistance]] to [[Physical Damage]].
 - You are [[Immune]] to being [[Grappled]], [[Restrained]], or otherwise physically bound.
-- You have disadvantage to any [[Strength]] based [[Check|Checks]], [[Saving Throw|Saving Throws]] or [[Attack|Attacks]].
+- You have disadvantage to any [[Strength]] based [[Check|Checks]], [[Saving Throw|Saving Throws]] or [[Main Hand Attack|Attacks]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

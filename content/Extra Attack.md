@@ -3,7 +3,7 @@
 
 _You have practised the basics of weaponry. Now, your path to martial excellence begins._
 
-When you take the [[Attack]] action to make a [[Weapon Attack]] or an [[Unarmed Strike]], you can make two attacks instead of one.
+When you take the [[Main Hand Attack]] action to make a [[Weapon Attack]] or an [[Unarmed Strike]], you can make two attacks instead of one.
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]

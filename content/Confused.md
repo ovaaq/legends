@@ -1,9 +1,12 @@
-Does random thing at its turn roll die, cannot have [[Reaction|Reactions]]
+- Confused creature cannot use [[Reaction|Reactions]].
+- At the start of confused creatures turn, roll 1d6 which determines action
 
-1 Attack nearest creature
-2-3 move random direction
-4-5 Do Nothing
-6 Act Normally
+| Result | Action                           |
+| ------ | -------------------------------- |
+| 1      | Attack nearest creature          |
+| 2-3    | Move full speed random direction |
+| 4-5    | Freeze, do nothing               |
+| 6      | Act Normally                     |
 
 ---
 

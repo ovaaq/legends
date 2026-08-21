@@ -1,4 +1,4 @@
-currently has less than half [[Hit Point]] of [[Hit Point Maximum]]
+- Bloodied creature has less than half [[Hit Point]] of [[Hit Point Maximum]].
 
 ---
 
