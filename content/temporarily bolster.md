@@ -11,5 +11,5 @@ Benefit.
 
 ---
 
-#talent #general
+#talent #crafting
 [[Talent]]

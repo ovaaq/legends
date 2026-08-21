@@ -102,7 +102,7 @@ During a [[Short Rest]], you regain:
 
 - [[Hit Point|Hit Points]] equal to your [[Constitution]].
 - [[Stamina Point|Stamina Points]] equal to your [[Constitution]].
-- [[Mana Point]] equal to your [[Sorcery]].
+- [[Mana]] equal to your [[Sorcery]].
 - Any additional resources specified by your Talents.
 
 #### Long Rest

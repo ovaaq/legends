@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Choose two [[Rune|Runes]] from the [[Rune List]] and add them to your [[Learned Runes List]].
+Choose two [[Rune|Runes]] from the [[Rune List]] and add them to your [[Known Runes List]].
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[General Talent]]
@@ -11,5 +11,5 @@ Choose two [[Rune|Runes]] from the [[Rune List]] and add them to your [[Learned 
 
 ---
 
-#talent #general
+#talent #crafting
 [[Talent]]

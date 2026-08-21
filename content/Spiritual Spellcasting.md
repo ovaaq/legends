@@ -29,7 +29,7 @@ These spells are added to your [[Spiritual Spell List]]:
 > [!info] Prepared Spells
 > Number of Prepared Spiritual Spells = 1 + [[Spiritual Spellcasting Skill]] [[Rank]] + [[Intelligence]]
 
-**Mana.** You use [[Mana Point|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana Point|Mana Points]] after a [[Long Rest]].
+**Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
 **Casting Spells.** You can cast any spell listed in your [[Prepared Spiritual Spells]].
 

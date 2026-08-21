@@ -1,13 +1,13 @@
-**Requirements**:: [[Contain Stronger Magic]]
+**Requirements**:: [[Learn Runes]]
 **Cost**:: 2 LP
 
 _Flavour text_.
 
-Benefit.
+The maximum number of active [[Rune|Runes]] increases by 1.
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**:: [[Contain best]]
+**Following**:: [[Twin Runes]]
 
 ---
 

@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You can cast [[Disguise Self]] at will, without expending [[Mana Point]].
+You can cast [[Disguise Self]] at will, without expending [[Mana]].
 
 **Group**:: [[Ancestry Talent]]
 **Following**::

@@ -1,5 +1,5 @@
 **Requirements**:: [[Runecraft Initiate]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
@@ -13,5 +13,5 @@ At 6th level, you can use an action to expend a charged rune, temporarily transf
 
 ---
 
-#talent #general
+#talent #crafting
 [[Talent]]

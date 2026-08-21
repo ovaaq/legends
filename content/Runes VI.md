@@ -1,5 +1,5 @@
 **Requirements**:: [[Runes V]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
@@ -12,5 +12,5 @@ Benefit.
 
 ---
 
-#talent #general
+#talent #crafting
 [[Talent]]

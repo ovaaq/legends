@@ -218,7 +218,7 @@
 | [[01 - Projects/Legends Game Master/Magical Essence.md\|Magical Essence]]                       |
 | [[Magical Material.md\|Magical Material]]                           |
 | [[Main Hand Attack.md\|Main Hand Attack]]                           |
-| [[Mana Point.md\|Mana Point]]                                       |
+| [[Mana.md\|Mana]]                                                   |
 | [[Mana Point Maximum.md\|Mana Point Maximum]]                       |
 | [[Martial Save DC.md\|Martial Save DC]]                             |
 | [[Martial Skill.md\|Martial Skill]]                                 |

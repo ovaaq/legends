@@ -1,6 +1,7 @@
 - [[Runecraft Initiate]]
   - [[Learn Runes]]
-  - [[More Active Runes]]
+    - [[Increased Runes]]
+      - [[Twin Runes]]
   - [[Runic Shield]]
     - [[temporarily bolster]]
       - [[shared runes]]

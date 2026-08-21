@@ -1,13 +1,13 @@
-**Requirements**:: [[Contain Stronger Magic]]
+**Requirements**:: [[Increased Runes]]
 **Cost**:: 2 LP
 
 _Flavour text_.
 
-Benefit.
+You can imbue one [[Object]] with two [[Rune|Runes]] instead of one.
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**:: [[Contain best]]
+**Following**::
 
 ---
 
