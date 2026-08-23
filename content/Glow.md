@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 0
-
 **Range**:: Touch
 **Duration**:: 1 hour
 
@@ -12,6 +11,8 @@ _[[Cantrip]]_
 If you target an object held or worn by a hostile creature, that creature must succeed on a [[Agility Saving Throw]] to avoid the spell.
 
 **Upcasting**:: For each additional mana spent, the duration increases by 1 hour. You can upcast the spell with a maximum of 3 extra mana.
+
+**Type**:: [[Projection Magic]]
 
 ---
 

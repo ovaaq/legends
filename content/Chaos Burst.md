@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 0
-
 **Range**:: 20 metres
 **Duration**:: Instant
 
@@ -27,6 +26,8 @@ Choose one of the d12s rolled. The number on that die determines the attack's [[
 |   12   |   [[Radiant Damage]]   |
 
 **Upcasting**:: For each additional 2 mana spent, the damage increases by 1d12. You can upcast the spell with a maximum of 4 extra mana.
+
+**Type**:: [[Evocation Magic]]
 
 ---
 

@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Double Action]]
 **Components**:: F, S
 **Mana**:: 0
-
 **Range**:: Melee
 **Duration**:: Instant
 

@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Double Action]]
 **Components**:: V, S
 **Mana**:: 0
-
 **Range**:: 10 metres
 **Duration**:: 1 minute
 
@@ -19,6 +18,8 @@ As an [[Action]], you can control the hand to:
 The hand can move up to 10 metres each time you control it. It cannot [[Main Hand Attack]], [[Use Magic Item]], or carry [[Object|Objects]] weighting more than 5 kg.
 
 **Upcasting**:: For each additional mana spent, the [[Strength]] Score increases by 2 and it can carry 10kg more. You can upcast the spell with a maximum of 3 extra mana.
+
+**Type**:: [[Summon Magic]]
 
 ---
 

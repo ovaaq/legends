@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Double Action]]
 **Components**:: F, V, S
 **Mana**:: 0
-
 **Range**:: 40 metres
 **Duration**:: Instant
 

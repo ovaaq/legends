@@ -17,7 +17,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Bane]]
 - [[Detect Undead]]
 - [[Dissonant Whispers]]
-- [[False Life]]
+- [[Temporal Vigour]]
 - [[Healing Word]]
 - [[Hex]]
 - [[Inflict Wounds]]

@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: S, M\*
 **Mana**:: 0
-
 **Range**:: Touch
 **Duration**:: Concentration, 10 minutes
 
@@ -17,6 +16,8 @@ While animated, a piece of parchment can:
 - Follow simple verbal commands from you.
 
 **Upcasting**:: For each additional mana spent, you can affect additional sheet of parchment. You can upcast the spell with a maximum of 3 extra mana.
+
+**Type**:: [[Summon Magic]]
 
 ---
 

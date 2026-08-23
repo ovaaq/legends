@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 0
-
 **Range**:: 10 metres
 **Duration**:: Instant
 
@@ -13,6 +12,8 @@ _[[Cantrip]]_
 **Failure:** Target takes 1d12 [[Radiant Damage]].
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+
+**Type**:: [[Evocation Magic]]
 
 ---
 

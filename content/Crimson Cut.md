@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: V, S
 **Mana**:: 0
-
 **Range**:: 10 metres
 **Duration**:: Instant
 

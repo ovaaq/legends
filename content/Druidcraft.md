@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: S, V
 **Mana**:: 0
-
 **Range**:: 2 metres
 **Duration**:: 1 hour
 
@@ -15,6 +14,8 @@ _[[Cantrip]]_
 - You instantly light or snuff out a [[Candle]], a [[Torch]] or a small campfire.
 
 **Upcasting**::
+
+**Type**:: [[Alteration Magic]]
 
 ---
 

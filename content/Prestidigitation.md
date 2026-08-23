@@ -3,7 +3,6 @@ _[[Cantrip]]_
 **Casting**:: [[Triple Action]]
 **Components**:: S, V
 **Mana**:: 0
-
 **Range**:: 2 metres
 **Duration**:: 1 hour
 
@@ -19,6 +18,8 @@ _[[Cantrip]]_
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
 **Upcasting**::
+
+**Type**:: [[Alteration Magic]]
 
 ---
 
