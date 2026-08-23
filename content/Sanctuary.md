@@ -1,17 +1,21 @@
 _[[1st Level Spell]]_
 
-**Casting**:: [[Double Action]]
-**Components**:: F, V, S, M\*
-**Mana**:: 0
+**Casting**:: [[Triple Action]]
+**Components**:: F, V, S
+**Mana**:: 1
 **Range**:: 20 metres
-**Duration**:: Instant
+**Duration**:: 1 minute
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: You ward a [[Creature]] within range against [[Attack|Attacks]]. Until the spell ends, any [[Creature]] that targets the warded [[Creature]] with an [[Attack]] or a harmful [[Spell]] must first make a [[Charisma Saving Throw]].
 
-**Effect**:: - You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.\
-If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
+**Critical Success:** No effect.
+**Success:** The attacker makes the [[Attack]] with [[Disadvantage]], and the target has [[Advantage]] on any [[Saving Throw]] the [[Attack]] causes.
+**Failure:** The attacker must choose a new target or lose the [[Attack]] or [[Spell]].
+**Critical Failure:** The attacker loses the [[Attack]] or [[Spell]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+This spell doesn’t protect the warded [[Creature]] from area effects, such as the explosion of a [[Fireball]]. If the warded [[Creature]] makes an [[Attack]] or casts a [[Spell]] that affects an enemy [[Creature]], this spell ends.
+
+**Upcasting**:: For each two additional mana spent, you can target one additional creature. You can upcast the spell with a maximum of 4 extra mana.
 
 **Type**:: [[Warding Magic]]
 
