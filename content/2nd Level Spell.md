@@ -44,8 +44,8 @@
 | [[Mirror Image.md\|Mirror Image]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Misty Step.md\|Misty Step]]                                             | [[Action.md\|Action]]               | S           | 1    | Self      | Instantaneous                 |
 | [[Moonbeam.md\|Moonbeam]]                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
+| [[Negate Strike.md\|Negate Strike]]                                       | [[Reaction]]\*                                                   | F, V, S     | 3    | Self      | Instant                       |
 | [[Obscure Senses.md\|Obscure Senses]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
-| [[One Shot Shield Gate.md\|One Shot Shield Gate]]                         | [[Reaction]]\*                                                   | F, V, S, M\* | 2    | 20 metres | Instantaneous                 |
 | [[Pass Without Trace.md\|Pass Without Trace]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Phantasmal Force.md\|Phantasmal Force]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 | [[Pocket Vault.md\|Pocket Vault]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |

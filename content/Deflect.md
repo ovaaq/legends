@@ -6,7 +6,7 @@ _[[1st Level Spell]]_
 **Range**:: Self
 **Duration**:: Instant
 
-_\*When someone makes an [[Main Hand Attack]] towards you._
+_\*When someone makes an [[Attack]] towards you._
 
 **Effect**:: An invisible barrier of magical force surrounds you, protecting you from harm. Reduce the incoming [[Attack Roll]] by an amount equal to your [[Sorcery]] Score.
 

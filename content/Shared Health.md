@@ -1,18 +1,16 @@
 _[[1st Level Spell]]_
 
 **Casting**:: [[Double Action]]
-**Components**:: F, V, S, M\*
-**Mana**:: 0
-**Range**:: 20 metres
+**Components**:: F, S
+**Mana**:: 1
+**Range**:: 10 metres
 **Duration**:: Instant
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Choose two [[Willing]] [[Humanoid]] [[Creature|Creatures]]. Add their current [[Hit Point|Hit Points]] together and divide the total by the number of targets. Each target's [[Hit Point|Hit Points]] become equal to this average. Any excess [[Hit Point|Hit Points]] above a target's [[Hit Point Maximum]] are lost.
 
-**Effect**:: Connection of emotions between to creatures, charisma save for other
+**Upcasting**:: For each additional mana spent, you can target one additional [[Willing]] [[Humanoid]] [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
-
-**Type**:: [[Enchantment Magic]]
+**Type**:: [[Distortion Magic]]
 
 ---
 
