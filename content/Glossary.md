@@ -54,6 +54,7 @@
 | [[Background.md\|Background]]                                       |
 | [[Bleeding.md\|Bleeding]]                                           |
 | [[Blinded.md\|Blinded]]                                             |
+| [[Blood Dice.md\|Blood Dice]]                                       |
 | [[Bloodied.md\|Bloodied]]                                           |
 | [[Bludgeoning Damage.md\|Bludgeoning Damage]]                       |
 | [[Bolt.md\|Bolt]]                                                   |
@@ -303,6 +304,7 @@
 | [[Set Traps.md\|Set Traps]]                                         |
 | [[Shadow Damage.md\|Shadow Damage]]                                 |
 | [[Shield.md\|Shield]]                                               |
+| [[Shield Rune.md\|Shield Rune]]                                     |
 | [[Short Rest.md\|Short Rest]]                                       |
 | [[Shove.md\|Shove]]                                                 |
 | [[Simple Focus.md\|Simple Focus]]                                   |

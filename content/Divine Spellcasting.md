@@ -14,24 +14,20 @@ These spells are added to your [[Divine Spell List]]:
 - [[Guiding Strike]]
 - [[Sacred Flame]]
 - [[Thaumaturgy]]
+- [[Thunderbolt]]
 
 ##### 1st Level Spells
 
 - [[Bless]]
-- [[Command]]
-- [[Cure Wounds]]
-- [[Detect Magic]]
-- [[Guidance]]
+- [[Minor Conjuration]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
-- [[Inflict Wounds]]
-- [[Searing Smite]]
 - [[Sense Undead]]
 
-**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Divine Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to 1 + [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Divine Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
-> Number of Prepared Divine Spells = [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]]
+> Number of Prepared Divine Spells = 1 + [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]]
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 

@@ -1,4 +1,4 @@
-**Requirements**:: [[shared runes]]
+**Requirements**:: [[Shared Runes]]
 **Cost**:: 1 LP
 
 _Flavour text_.

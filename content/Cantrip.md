@@ -33,6 +33,7 @@
 | [[Mind Sliver.md\|Mind Sliver]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
 | [[Minor Illusion.md\|Minor Illusion]]       | [[Triple Action.md\|Triple Action]] | F, S        | 0    | 10 metres  | 1 minute                  |
 | [[Mocking Taunt.md\|Mocking Taunt]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                   |
+| [[Mortal Dread.md\|Mortal Dread]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                   |
 | [[Poison Spray.md\|Poison Spray]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                   |
 | [[Prestidigitation.md\|Prestidigitation]]   | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres   | 1 hour                    |
 | [[Prismatic Ray.md\|Prismatic Ray]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                   |
@@ -57,7 +58,7 @@
 | [[Vine Lash.md\|Vine Lash]]                 | [[Double Action.md\|Double Action]] | V, S, M\*    | 0    | 4 metres   | Instant                   |
 | [[Water Bolt.md\|Water Bolt]]               | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                   |
 | [[Wind Slash.md\|Wind Slash]]               | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres  | Instant                   |
-| [[Withering Touch.md\|Withering Touch]]     | [[Triple Action.md\|Triple Action]] | V, S        | 0    | Melee      | Instant                   |
+| [[Withering Touch.md\|Withering Touch]]     | [[Double Action.md\|Double Action]] | F, S        | 0    | Melee      | Instant                   |
 
 to do
 
@@ -123,6 +124,7 @@ ideas
 | [[Mind Sliver.md\|Mind Sliver]]                       |
 | [[Minor Illusion.md\|Minor Illusion]]                 |
 | [[Mocking Taunt.md\|Mocking Taunt]]                   |
+| [[Mortal Dread.md\|Mortal Dread]]                     |
 | [[Pact Spellcasting.md\|Pact Spellcasting]]           |
 | [[Poison Spray.md\|Poison Spray]]                     |
 | [[Prestidigitation.md\|Prestidigitation]]             |
@@ -153,7 +155,6 @@ ideas
 | [[Thorn Dart.md\|Thorn Dart]]                         |
 | [[Thunderbolt.md\|Thunderbolt]]                       |
 | [[Thunderclap.md\|Thunderclap]]                       |
-| [[Toll the Death.md\|Toll the Death]]                 |
 | [[Toxic Torrent.md\|Toxic Torrent]]                   |
 | [[Venom Fang.md\|Venom Fang]]                         |
 | [[Vine Lash.md\|Vine Lash]]                           |

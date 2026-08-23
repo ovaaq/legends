@@ -1,13 +1,13 @@
-**Requirements**:: [[Runic Capacity]]
+**Requirements**:: [[Learn Runes]]
 **Cost**:: 2 LP
 
 _Flavour text_.
 
-You can imbue one [[Object]] with two [[Rune|Runes]] instead of one.
+The maximum number of active [[Rune|Runes]] increases by 1.
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[Twin Runes]]
 
 ---
 

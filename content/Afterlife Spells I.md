@@ -9,7 +9,7 @@ These spells are added to your [[Spiritual Spell List]]:
 
 - [[Crimson Cut]]
 - [[Sapping Sting]]
-- [[Toll the Death]]
+- [[Mortal Dread]]
 - [[Withering Touch]]
 
 ##### 1st Level Spells

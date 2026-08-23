@@ -10,7 +10,7 @@
 | [[Animate Rope.md\|Animate Rope]]                       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 1    | 10 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
 | [[Armour of Thorns.md\|Armour of Thorns]]               | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Aurora Burst.md\|Aurora Burst]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
-| [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Concentration, up to 1 minute                                                                         |
+| [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres    | Concentration, up to 1 minute                                                                         |
 | [[Burning Hands.md\|Burning Hands]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres    | Instantaneous                                                                                         |
@@ -24,9 +24,10 @@
 | [[Destroy Water.md\|Destroy Water]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
 | [[Detect Ethereal.md\|Detect Ethereal]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
 | [[Detect Magic.md\|Detect Magic]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
-| [[Detect Undead.md\|Detect Undead]]                     | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
+| [[Detect Undead.md\|Detect Undead]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
 | [[Disguise Self.md\|Disguise Self]]                     | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Self         | 1 hour                                                                                                |
 | [[Dissonant Whispers.md\|Dissonant Whispers]]           | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
+| [[Empathetic Connection.md\|Empathetic Connection]]     | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Ensnairing Strike.md\|Ensnairing Strike]]             | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Entangle.md\|Entangle]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
 | [[Faerie Fire.md\|Faerie Fire]]                         | -                                                              | -          | \*\* 2 | \*\* 20 meters | \*\* Concentration, up to 1 minute                                                                      |
@@ -57,8 +58,10 @@
 | [[Ray of Sickness.md\|Ray of Sickness]]                 | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Repair.md\|Repair]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres     | Instantaneous                                                                                         |
 | [[Resistance spell.md\|Resistance spell]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
+| [[Sanctuary.md\|Sanctuary]]                             | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Sense Spirits.md\|Sense Spirits]]                     | [[Triple Action.md\|Triple Action]] | F, S        | 1    | Self         | Concentration, up to 10 minutes                                                                       |
 | [[Sense Undead.md\|Sense Undead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
+| [[Shared Health.md\|Shared Health]]                     | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Shield of Faith.md\|Shield of Faith]]                 | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Silent Image.md\|Silent Image]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 10 minutes                                                                                            |
 | [[Skywrite.md\|Skywrite]]                               | 10 minutes                                                      | F, S        | 1    | Sight        | 1 day                                                                                                 |
@@ -72,6 +75,10 @@
 | [[Unearthly Chorus.md\|Unearthly Chorus]]               | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                                                |
 | [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
+
+[[Empathetic Connection]], two c
+[[Shared Health]]
+[[Sanctuary]]
 
 [[Animate Rope]]
 

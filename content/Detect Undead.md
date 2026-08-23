@@ -1,16 +1,17 @@
 _[[1st Level Spell]]_
 
-**Casting**::
-**Components**:: F, V, S, M\*
-**Mana**:: 0
-**Range**:: 20 metres
-**Duration**:: Instant
+**Casting**:: [[Triple Action]]
+**Components**:: F, V, S
+**Mana**:: 1
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Range**:: Self
+**Duration**:: [[Concentration]], 10 minutes
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Effect**:: For the duration, you sense the presence of [[Undead]] within 10 meters of yourself. You can spend [[Action]] to see a faint aura around any [[Undead]] [[Creature]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+The spell is blocked by 30 centimetres of stone, dirt, or wood; 2 centimetres of metal; or a thin sheet of lead.
+
+**Upcasting**:: For each additional mana spent, the range of detecting magic increases by 10 meters and you pierce higher level of conceal magic. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Revelation Magic]]
 
