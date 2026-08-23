@@ -13,7 +13,7 @@
 
 How to layout the book when time arrives
 
-1. [[Introduction to Legends TTRPG]]
+1. [[What is Legends TTRPG]]
 2. Playing the Game
 3. Character Creation
 4. Ancestries

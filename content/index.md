@@ -3,29 +3,33 @@ publish: true
 title: Homepage
 ---
 
-Hello there! You have found Legends TTRPG wiki. This website host current and evolving rules of Legends.
+**Legends TTRPG** is a classless d20 fantasy RPG featuring complete build freedom, tactical combat, and native metric design.
 
-You can join Discord -channel where I will answer all questions related to this game [join here](https://discord.gg/6bhbdrWeA7).
+[[Download Fillable PDF Character Sheet]]
 
-#### Introduction
+### New Players
 
-[[Introduction to Legends TTRPG]]
-[[Character Creation Guide]]
-[[Magic System]]
+- [[What is Legends TTRPG|What is Legends TTRPG?]]
+- [[Quick Start Guide]]
+- [[Character Creation Guide]]
 
-#### Character Creation
+### Ready to Play
 
-[[Ancestry|Ancestries]]
-[[Background|Backgrounds]]
-[[Talent|Talents]]
-[[Spell|Spells]]
-[[Martial Technique|Martial Techniques]]
-[[Equipment]]
-[[Character Sheet]]
+- [[Ancestry|Ancestries]]
+- [[Background|Backgrounds]]
+- [[Talent|Talents]]
+- [[Spell|Spells]]
+- [[Martial Technique|Martial Techniques]]
+- [[Equipment]]
 
-#### Playing Legends
+### Game Masters
 
-[[1 Core Rules]]
-[[Encounter Action]]
-[[Resting]]
-[[Injury]]
+- [[Quickstart Adventure - The Witch of Ironhold]]
+- [[Core Concepts]]
+- [[Encounter Design]]
+- [[Bestiary]]
+- [[NPC Design]]
+
+### Join the Playtest
+
+Help shape the future of Legends! Join our **[Discord Community](https://discord.gg/6bhbdrWeA7)** to ask rules questions, give playtest feedback, and share custom character builds with other players.
