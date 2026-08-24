@@ -168,6 +168,7 @@
 | [[Greater Resistance.md\|Greater Resistance]]                       |
 | [[Halfling Ancestry.md\|Halfling Ancestry]]                         |
 | [[Hammer.md\|Hammer]]                                               |
+| [[Haste Point.md\|Haste Point]]                                     |
 | [[Heavy.md\|Heavy]]                                                 |
 | [[Heavy Armour.md\|Heavy Armour]]                                   |
 | [[Hide.md\|Hide]]                                                   |

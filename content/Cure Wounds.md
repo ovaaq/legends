@@ -11,6 +11,8 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, the healing increases by 1d8. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Restoration Magic]]
+
 ---
 
 #spell #1st [[Spell]]

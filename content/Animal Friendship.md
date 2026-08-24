@@ -11,6 +11,8 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, you can target one additional [[Natural Beast]]. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Enchantment Magic]]
+
 ---
 
 #spell #1st  [[Spell]]

@@ -25,7 +25,7 @@ These spells are added to your [[Divine Spell List]].
 - [[Shield of Faith]]
 - [[Sanctuary]]
 - [[Shared Health]]
-- [[Empathetic Connection]]
+- [[Cure Wounds]]
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]
