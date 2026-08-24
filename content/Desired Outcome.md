@@ -25,4 +25,4 @@ _Flavour text_.
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

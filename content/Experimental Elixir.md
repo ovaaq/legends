@@ -25,4 +25,4 @@ Creating an _experimental elixir_ requires you to have [[Alchemist’s Supplie
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

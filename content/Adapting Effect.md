@@ -12,4 +12,4 @@ potions are more effective as your body can take all of the goods.
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

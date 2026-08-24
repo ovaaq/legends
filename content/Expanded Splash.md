@@ -1,4 +1,4 @@
-**Requirements**:: [[Alchemy Initiate]]
+**Requirements**:: [[Combat Alchemy]]
 **Cost**:: 1 LP
 
 _Flavour text_.
@@ -7,9 +7,9 @@ Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Form
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[aa3]]
 
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

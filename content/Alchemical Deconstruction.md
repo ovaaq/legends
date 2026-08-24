@@ -1,4 +1,4 @@
-**Requirements**:: [[Alchemy Initiate]]
+**Requirements**:: [[Improved Yield]]
 **Cost**:: 1 LP
 
 _Flavour text_.
@@ -12,4 +12,4 @@ You attempt to break solution reverseengineer into recipe, DC hard but if succes
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

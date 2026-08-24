@@ -16,4 +16,4 @@ These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical 
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

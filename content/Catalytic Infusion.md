@@ -25,4 +25,4 @@ table extends, also if you mix experimental brew with potion it boosts potions e
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

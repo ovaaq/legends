@@ -7,9 +7,9 @@ Select three [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Fo
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[Safety Measures]]
 
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

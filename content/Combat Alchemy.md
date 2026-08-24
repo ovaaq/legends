@@ -7,9 +7,9 @@ Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Form
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[Expanded Splash]]
 
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

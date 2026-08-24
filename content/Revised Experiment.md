@@ -23,4 +23,4 @@ roll two and take one, also table extends
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

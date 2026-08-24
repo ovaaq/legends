@@ -1,4 +1,4 @@
-**Requirements**:: [[Alchemy Initiate]]
+**Requirements**:: [[Safety Measures]]
 **Cost**:: 3 LP
 
 _Flavour text_.
@@ -7,9 +7,9 @@ _Flavour text_.
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[Alchemical Deconstruction]]
 
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

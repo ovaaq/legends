@@ -3,7 +3,7 @@
 
 _Your body is beginning to get used to all sort of things._
 
-You have [[Resistance]] to [[Poison Damage]] and automatically get [[Advantage]] on any [[Saving Throw|Saving Throws]] against [[Poison]].
+You have [[Resistance]] to [[Poison Damage]] and [[Acid Damage]].
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
@@ -12,4 +12,4 @@ You have [[Resistance]] to [[Poison Damage]] and automatically get [[Advantage]]
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[General Talent]]
+[[Talent]]

@@ -12,4 +12,4 @@ Each time you consume a [[Potion]] you gain [[Temporary Hit Point|Temporary Hit 
 ---
 
 #talent #general
-[[Talent]] [[Talent]] [[Arcane Talent]]
+[[Talent]]

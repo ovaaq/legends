@@ -48,7 +48,6 @@
 | [[Inflict Wounds.md\|Inflict Wounds]]                   | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Influence Emotion.md\|Influence Emotion]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
 | [[Longstrider.md\|Longstrider]]                         | [[Action.md\|Action]]               | F, V, S     | 1    | Touch        | 1 hour                                                                                                |
-| [[Lullaby.md\|Lullaby]]                                 | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Mage Armour.md\|Mage Armour]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch        | 8 hours                                                                                               |
 | [[Magic Missile.md\|Magic Missile]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 40 metres    | Instantaneous                                                                                         |
 | [[Magnify Gravity.md\|Magnify Gravity]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres    | 1 turn                                                                                                |
@@ -66,6 +65,7 @@
 | [[Shield of Faith.md\|Shield of Faith]]                 | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Silent Image.md\|Silent Image]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 10 minutes                                                                                            |
 | [[Skywrite.md\|Skywrite]]                               | 10 minutes                                                      | F, S        | 1    | Sight        | 1 day                                                                                                 |
+| [[Sleep.md\|Sleep]]                                     | -                                                              | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Speak with Animals.md\|Speak with Animals]]           | **▶▶▶⚡〇**                                                       | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                               |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres     | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
 | [[Summon Tiny Beast.md\|Summon Tiny Beast]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                         |
@@ -100,7 +100,7 @@ Floating Dsik
 [[Alarm]]
 [[Guidance]]
 
-[[Lullaby]]
+[[Sleep]]
 [[Mending]]
 [[Disguise Self]]
 [[Feather Fall]]

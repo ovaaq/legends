@@ -19,7 +19,7 @@ These spells are added to your [[Divine Spell List]].
 - [[Guidance]]
 - [[Heroism]]
 - [[Influence Emotion]]
-- [[Lullaby]]
+- [[Sleep]]
 - [[Mindward]]
 - [[Repair]]
 - [[Shield of Faith]]

@@ -14,4 +14,4 @@ Once gained, this increase to your [[Stamina Maximum]] does not change if your [
 ---
 
 #talent #martial
-[[Talent]][[General Talent]]
+[[Talent]]

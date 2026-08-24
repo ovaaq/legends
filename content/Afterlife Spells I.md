@@ -21,7 +21,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Healing Word]]
 - [[Hex]]
 - [[Inflict Wounds]]
-- [[Lullaby]]
+- [[Sleep]]
 - [[Protection from Spirits]]
 - [[Ray of Sickness]]
 - [[Unearthly Chorus]]
