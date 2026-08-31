@@ -3,7 +3,7 @@
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._
 
-When an attacker that you can see hits you with an [[Main Hand Attack]], you can use your [[Reaction]] to halve the attack's damage against you.
+When an attacker that you can see hits you with an [[Attack]], you can use your [[Reaction]] to halve the attack's damage against you.
 
 **Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]

@@ -2,7 +2,7 @@ _[[Advanced Weapon]], [[Equipment]]_
 
 _Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
 
-**Weight**:: 1 Stack
+**Weight**:: 1 kg
 **Cost**:: 2 gp
 **Category**:: [[Snare]]
 **Properties**:: [[Light]]. [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m)
