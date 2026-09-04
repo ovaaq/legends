@@ -1,3 +1,4 @@
+recipe for [[Alchemical Item]].
 | Alchemical Formulas                                                                                   |
 | ----------------------------------------------------------------------------------------------------- |
 | [[Alchemist's Fire Formula.md\|Alchemist's Fire Formula]]               |
@@ -65,3 +66,7 @@
 | [[Vitality Potion Formula.md\|Vitality Potion Formula]]                 |
 | [[Water Breathing Potion Formula.md\|Water Breathing Potion Formula]]   |
 | [[White Arsenic Formula.md\|White Arsenic Formula]]                     |
+
+---
+
+#keyword

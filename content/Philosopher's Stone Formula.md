@@ -1,4 +1,4 @@
-_[[6th Level Alchemical Formula]]_
+_[[2nd Level Alchemical Formula]]_
 
 **Preparation Time**:: 1 hour
 **Equipment**:: [[Alchemist’s Supplies]]
@@ -16,4 +16,4 @@ _[[6th Level Alchemical Formula]]_
 
 ---
 
-#1st #alchemical_formula [[Alchemical Formula]]
+#alchemical_formula #2nd [[Alchemical Formula]]

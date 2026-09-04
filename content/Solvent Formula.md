@@ -16,4 +16,4 @@ _[[1st Level Alchemical Formula]]_
 
 ---
 
-#1st #alchemical_formula [[Alchemical Formula]]
+#alchemical_formula #1st [[Alchemical Formula]]

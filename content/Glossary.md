@@ -35,6 +35,7 @@
 | [[Adventuring Item.md\|Adventuring Item]]                           |
 | [[Agility.md\|Agility]]                                             |
 | [[Agility Saving Throw.md\|Agility Saving Throw]]                   |
+| [[Alchemical Formula.md\|Alchemical Formula]]                       |
 | [[Alchemical Item.md\|Alchemical Item]]                             |
 | [[Alchemy Save DC.md\|Alchemy Save DC]]                             |
 | [[Alteration Magic.md\|Alteration Magic]]                           |
