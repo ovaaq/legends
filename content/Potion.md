@@ -1,7 +1,7 @@
 [[Equipment]], [[Alchemical Item]]
 
-| Potions                                                                                 |
-| --------------------------------------------------------------------------------------- |
+| Potions                                                                                   |
+| ----------------------------------------------------------------------------------------- |
 | [[Anti-Potion.md\|Anti-Potion]]                             |
 | [[Beast Scent Potion.md\|Beast Scent Potion]]               |
 | [[Darkvision Potion.md\|Darkvision Potion]]                 |

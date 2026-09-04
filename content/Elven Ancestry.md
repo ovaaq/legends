@@ -12,18 +12,18 @@ One mother can have 2 children at max, because god gave long live it must given 
 
 Having a elven ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your elf is. These [[Talent|Talent]] are:
 
-| Talent Name                                                             | Group                                                               | Cost | Requirements                                                          | Following Talents |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- | ----------------- |
+| Talent Name                                                               | Group                                                                 | Cost | Requirements                                                            | Following Talents |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------- | ----------------- |
 | [[Elven Accuracy.md\|Elven Accuracy]]       | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                |
-| [[Elven Spells I.md\|Elven Spells I]]       | -                                                                  | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                |
-| [[Elven Spells II.md\|Elven Spells II]]     | -                                                                  | 1 LP | [[Elven Spells I.md\|Elven Spells I]]     | -                |
-| [[Elven Spells III.md\|Elven Spells III]]   | -                                                                  | 1 LP | [[Elven Spells II.md\|Elven Spells II]]   | -                |
-| [[Elven Spells IV.md\|Elven Spells IV]]     | -                                                                  | 1 LP | [[Elven Spells III.md\|Elven Spells III]] | -                |
-| [[Elven Spells V.md\|Elven Spells V]]       | -                                                                  | 1 LP | [[Elven Spells IV.md\|Elven Spells IV]]   | -                |
-| [[Elven Spells VI.md\|Elven Spells VI]]     | -                                                                  | 1 LP | [[Elven Spells V.md\|Elven Spells V]]     | -                |
-| [[Long Stride.md\|Long Stride]]             | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry]] or [[Human Ancestry]]                              | -                |
+| [[Elven Spells I.md\|Elven Spells I]]       | -                                                                    | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                |
+| [[Elven Spells II.md\|Elven Spells II]]     | -                                                                    | 1 LP | [[Elven Spells I.md\|Elven Spells I]]     | -                |
+| [[Elven Spells III.md\|Elven Spells III]]   | -                                                                    | 1 LP | [[Elven Spells II.md\|Elven Spells II]]   | -                |
+| [[Elven Spells IV.md\|Elven Spells IV]]     | -                                                                    | 1 LP | [[Elven Spells III.md\|Elven Spells III]] | -                |
+| [[Elven Spells V.md\|Elven Spells V]]       | -                                                                    | 1 LP | [[Elven Spells IV.md\|Elven Spells IV]]   | -                |
+| [[Elven Spells VI.md\|Elven Spells VI]]     | -                                                                    | 1 LP | [[Elven Spells V.md\|Elven Spells V]]     | -                |
+| [[Long Stride.md\|Long Stride]]             | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry]] or [[Human Ancestry]]                                | -                |
 | [[Nature’s Whisper.md\|Nature’s Whisper]]   | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                |
-| [[Nocturnal Eyes.md\|Nocturnal Eyes]]       | [[Ancestry Talent.md\|Ancestry Talent]] | 2 LP | [[Dwarven Ancestry]] or [[Elven Ancestry]] or [[Halfling Ancestry]]   | -                |
+| [[Nocturnal Eyes.md\|Nocturnal Eyes]]       | [[Ancestry Talent.md\|Ancestry Talent]] | 2 LP | [[Dwarven Ancestry]] or [[Elven Ancestry]] or [[Halfling Ancestry]]     | -                |
 | [[Tranceborn.md\|Tranceborn]]               | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                |
 | [[Verdant Synthesis.md\|Verdant Synthesis]] | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                |
 

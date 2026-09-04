@@ -10,8 +10,8 @@ _Smallfolk are nimble and cheerful folk, drawn to gentle hills, fertile farmland
 
 Having a halfling ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your halfling is. These [[Talent|Talent]] are:
 [[Halfling Spells I]]
-| Talents                                                                     | Cost |
-| --------------------------------------------------------------------------- | ---- |
+| Talents                                                                       | Cost |
+| ----------------------------------------------------------------------------- | ---- |
 | [[Animal Connection.md\|Animal Connection]]     | 1 LP |
 | [[Brave Soul.md\|Brave Soul]]                   | 1 LP |
 | [[Fortune’s Favour.md\|Fortune’s Favour]]       | 1 LP |

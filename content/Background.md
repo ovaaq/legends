@@ -18,8 +18,8 @@ A background includes the following:
 
 **Initial Wealth.** A background specifies character’s starting wealth.
 
-| Backgrounds                                                     |
-| --------------------------------------------------------------- |
+| Backgrounds                                                       |
+| ----------------------------------------------------------------- |
 | [[Acolyte.md\|Acolyte]]             |
 | [[Apothecary.md\|Apothecary]]       |
 | [[Artisan.md\|Artisan]]             |

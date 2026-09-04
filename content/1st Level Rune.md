@@ -1,7 +1,7 @@
 [[Rune]]
 
-| 1st Level Rune                                                            | Item                                              |
-| ------------------------------------------------------------------------- | ------------------------------------------------- |
+| 1st Level Rune                                                              | Item                                                |
+| --------------------------------------------------------------------------- | --------------------------------------------------- |
 | [[Rune of Ammunition.md\|Rune of Ammunition]] | [[Weapon.md\|Weapon]] |
 | [[Rune of Health.md\|Rune of Health]]         | [[Weapon.md\|Weapon]] |
 | [[Rune of Might.md\|Rune of Might]]           | [[Weapon.md\|Weapon]] |

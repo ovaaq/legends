@@ -1,5 +1,5 @@
-| Glossary                                                                                        |
-| ----------------------------------------------------------------------------------------------- |
+| Glossary                                                                                          |
+| ------------------------------------------------------------------------------------------------- |
 | [[1st Level Alchemical Formula.md\|1st Level Alchemical Formula]]   |
 | [[1st Level Ki Technique.md\|1st Level Ki Technique]]               |
 | [[1st Level Martial technique.md\|1st Level Martial technique]]     |
@@ -126,17 +126,17 @@
 | [[Drop Item.md\|Drop Item]]                                         |
 | [[Drop Prone.md\|Drop Prone]]                                       |
 | [[Drowsy.md\|Drowsy]]                                               |
-| [[01 - Projects/Legends Game Master/Dwarf.md\|Dwarf]]                                           |
+| [[01 - Projects/3 Game Master/Dwarf.md\|Dwarf]]                                                   |
 | [[Dwarven Ancestry.md\|Dwarven Ancestry]]                           |
 | [[Dying.md\|Dying]]                                                 |
 | [[Elemental Damage.md\|Elemental Damage]]                           |
 | [[Elven Ancestry.md\|Elven Ancestry]]                               |
 | [[Enchantment Magic.md\|Enchantment Magic]]                         |
-| [[01 - Projects/Legends Game Master/Encounter.md\|Encounter]]                                   |
+| [[01 - Projects/3 Game Master/Encounter.md\|Encounter]]                                           |
 | [[Encounter Action.md\|Encounter Action]]                           |
-| [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                 |
+| [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                   |
 | [[Equipment.md\|Equipment]]                                         |
-| [[01 - Projects/Legends Game Master/Escape.md\|Escape]]                                         |
+| [[01 - Projects/3 Game Master/Escape.md\|Escape]]                                                 |
 | [[Ethereal Damage.md\|Ethereal Damage]]                             |
 | [[Evasion Class.md\|Evasion Class]]                                 |
 | [[Evocation Magic.md\|Evocation Magic]]                             |
@@ -158,7 +158,7 @@
 | [[Free Action.md\|Free Action]]                                     |
 | [[Friendly.md\|Friendly]]                                           |
 | [[Frightened.md\|Frightened]]                                       |
-| [[01 - Projects/Legends Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                 |
+| [[01 - Projects/3 Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                         |
 | [[General Skill.md\|General Skill]]                                 |
 | [[General Skill Modifier.md\|General Skill Modifier]]               |
 | [[Giant Ancestry.md\|Giant Ancestry]]                               |
@@ -218,7 +218,7 @@
 | [[Loud.md\|Loud]]                                                   |
 | [[Magical.md\|Magical]]                                             |
 | [[Magical Actions.md\|Magical Actions]]                             |
-| [[01 - Projects/Legends Game Master/Magical Essence.md\|Magical Essence]]                       |
+| [[01 - Projects/3 Game Master/Magical Essence.md\|Magical Essence]]                               |
 | [[Magical Material.md\|Magical Material]]                           |
 | [[Main Hand Attack.md\|Main Hand Attack]]                           |
 | [[Mana.md\|Mana]]                                                   |

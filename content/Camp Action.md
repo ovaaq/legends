@@ -1,5 +1,5 @@
-| Camp Action                                                                 | Duration | Description                                                                                    |
-| --------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------- |
+| Camp Action                                                                   | Duration | Description                                                                                    |
+| ----------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------- |
 | [[Conceal the Camp.md\|Conceal the Camp]]       | 1 hour   | Camouflage the campsite to avoid detection by passing creatures.                               |
 | [[Cook Meals.md\|Cook Meals]]                   | 1 hour   | Cook to increase quality of [[Long Rest]].                                                     |
 | [[Craft Items.md\|Craft Items]]                 | 1 hour   | Guard the camp against night ambushes and sudden threats.                                      |

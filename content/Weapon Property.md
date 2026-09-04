@@ -1,7 +1,7 @@
 A [[Weapon]] can have multiple properties that influence how it is used and what it can do. Here is a complete list of weapon properties:
 
-| Weapon Property                                           |
-| --------------------------------------------------------- |
+| Weapon Property                                             |
+| ----------------------------------------------------------- |
 | [[Ammunition.md\|Ammunition]] |
 | [[Finesse.md\|Finesse]]       |
 | [[Heavy.md\|Heavy]]           |

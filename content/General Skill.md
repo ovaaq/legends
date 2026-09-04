@@ -5,8 +5,8 @@ General Skills represent the common activities and practical tasks any adventure
 
 The following list details each [[General Skill]] and its corresponding [[Ability Score]].
 
-| General Skill                                                       | Ability Score\*                                                |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| General Skill                                                         | Ability Score\*                                                  |
+| --------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [[Acrobatics.md\|Acrobatics]]           | [[Agility.md\|Agility]]           |
 | [[Animal Handling.md\|Animal Handling]] | [[Awareness.md\|Awareness]]       |
 | [[Arcana.md\|Arcana]]                   | [[Intelligence.md\|Intelligence]] |

@@ -5,8 +5,8 @@ _Flavour text_.
 
 **New Techniques.** Select one [[2nd Level Martial technique|2nd Level Martial Techniques]] and add it to your list of [[Learned Martial Techniques]]. These techniques are listed below:
 
-| 2nd Level Martial Techniques                                          | Execution | Stamina | Range | Weapon |
-| --------------------------------------------------------------------- | --------- | ------- | ----- | ------ |
+| 2nd Level Martial Techniques                                            | Execution | Stamina | Range | Weapon |
+| ----------------------------------------------------------------------- | --------- | ------- | ----- | ------ |
 | [[Blinding Strike.md\|Blinding Strike]]   | -        | -      | -    | -     |
 | [[Counter Attack.md\|Counter Attack]]     | -        | -      | Melee | -     |
 | [[Dazing Attack.md\|Dazing Attack]]       | -        | -      | -    | -     |

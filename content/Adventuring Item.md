@@ -5,9 +5,9 @@
 | Item | Weight | Cost |
 | ---- | ------ | ---- |
 
-| Item                                                                                  | Weight | Cost |
-| ------------------------------------------------------------------------------------- | ------ | ---- |
-| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]       | -     | -   |
+| Item                                                                                    | Weight | Cost |
+| --------------------------------------------------------------------------------------- | ------ | ---- |
+| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         | -     | -   |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         | -     | -   |
 | [[Appraisal Tools.md\|Appraisal Tools]]                   | -     | -   |
 | [[Backpack.md\|Backpack]]                                 | -     | -   |
@@ -88,9 +88,9 @@
 | [[White Arsenic.md\|White Arsenic]]                       | -     | -   |
 | [[Wooden Box.md\|Wooden Box]]                             | -     | -   |
 
-| List of People                                                                        |
-| ------------------------------------------------------------------------------------- |
-| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]       |
+| List of People                                                                          |
+| --------------------------------------------------------------------------------------- |
+| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         |
 | [[Appraisal Tools.md\|Appraisal Tools]]                   |
 | [[Backpack.md\|Backpack]]                                 |

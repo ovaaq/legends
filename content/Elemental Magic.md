@@ -1,5 +1,5 @@
-| List of Elemental Spells                                        |
-| --------------------------------------------------------------- |
+| List of Elemental Spells                                          |
+| ----------------------------------------------------------------- |
 | [[Burning Hands.md\|Burning Hands]] |
 | [[Destroy Water.md\|Destroy Water]] |
 | [[Fireball.md\|Fireball]]           |

@@ -1,7 +1,7 @@
 A [[Object]] can have multiple properties that influence how it is used and what it can do. Here is a complete list of object properties:
 
-| Object Property                                             |
-| ----------------------------------------------------------- |
+| Object Property                                               |
+| ------------------------------------------------------------- |
 | [[Conducting.md\|Conducting]]   |
 | [[Explosive.md\|Explosive]]     |
 | [[Flammable.md\|Flammable]]     |

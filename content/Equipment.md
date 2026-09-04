@@ -1,7 +1,7 @@
 Purchasable equipment is divided into categories, shown in the table below.
 
-| Equipment Group                                                       | Description                                                                                           |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Equipment Group                                                         | Description                                                                                           |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | [[Adventuring Item.md\|Adventuring Item]] | General gear needed for exploration, survival, and travel.                                            |
 | [[Alchemical Item.md\|Alchemical Item]]   | Potions, elixirs, and other substances with magical or practical effects.                             |
 | [[Armour.md\|Armour]]                     | Protective gear that reduces damage and increases survivability in combat.                            |
@@ -11,8 +11,8 @@ Purchasable equipment is divided into categories, shown in the table below.
 
 There is also premade [[Pack|Packs]] that contain collection of items.
 
-| Pack                                                                                | Description |
-| ----------------------------------------------------------------------------------- | ----------- |
+| Pack                                                                                  | Description |
+| ------------------------------------------------------------------------------------- | ----------- |
 | [[Explorer’s Pack.md\|Explorer’s Pack]]                 | common gear |
 | [[Explorer's Premium Pack.md\|Explorer's Premium Pack]] | common gear |
 | [[Scholar’s Pack.md\|Scholar’s Pack]]                   | common gear |

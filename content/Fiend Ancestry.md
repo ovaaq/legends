@@ -9,8 +9,8 @@ _Humans are a versatile and ambitious people, known for their adaptability and d
 ### Fiend Ancestry Talents
 
 Having a Infernal Ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your character is. These [[Talent|Talent]] are:
-| Talents                                                                             | Cost |
-| ----------------------------------------------------------------------------------- | ---- |
+| Talents                                                                               | Cost |
+| ------------------------------------------------------------------------------------- | ---- |
 | [[Demon Claws.md\|Demon Claws]]                         | 2 LP |
 | [[False Reflection.md\|False Reflection]]               | 2 LP |
 | [[Mischievous Tail.md\|Mischievous Tail]]               | 1 LP |

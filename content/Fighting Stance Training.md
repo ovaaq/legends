@@ -7,8 +7,8 @@ _Flavour text_.
 
 **New Stances.** Select two [[Fighting Stance|Fighting Stances]] from the list below. You can always use any stances you have already learned.
 
-| Fighting Stances                                                        |
-| ----------------------------------------------------------------------- |
+| Fighting Stances                                                          |
+| ------------------------------------------------------------------------- |
 | [[Aggressive Stance.md\|Aggressive Stance]] |
 | [[Defensive Stance.md\|Defensive Stance]]   |
 | [[Protector Stance.md\|Protector Stance]]   |

@@ -19,8 +19,8 @@ Actions are categorized by their function during combat:
 
 ### Action Lists by Type
 
-| Offensive Action                                                      | Action Cost                                                     | Description                                                                  |
-| --------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Offensive Action                                                        | Action Cost                                                       | Description                                                                  |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [[Disarm.md\|Disarm]]                     | [[Double Action.md\|Double Action]] | -                                                                           |
 | [[Grapple.md\|Grapple]]                   | [[Double Action.md\|Double Action]] | -                                                                           |
 | [[Main Hand Attack.md\|Main Hand Attack]] | [[Double Action.md\|Double Action]] | Make an attack with a weapon or unarmed strike.                              |
@@ -28,34 +28,34 @@ Actions are categorized by their function during combat:
 | [[Shove.md\|Shove]]                       | [[Double Action.md\|Double Action]] | -                                                                           |
 | [[Trip.md\|Trip]]                         | [[Double Action.md\|Double Action]] | -                                                                           |
 
-| Defensive Action                                              | Action Cost                                                     | Description                                              |
-| ------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------- |
+| Defensive Action                                                | Action Cost                                                       | Description                                              |
+| --------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------- |
 | [[Dodge.md\|Dodge]]               | [[Double Action.md\|Double Action]] | -                                                       |
 | [[Raise Shield.md\|Raise Shield]] | [[Action.md\|Action]]               | -                                                       |
 | [[Take Cover.md\|Take Cover]]     | [[Action.md\|Action]]               | Find cover behind [[Object]], [[Creature]] or buildings. |
 
-| Magical Action                                                                      | Action Cost                                                 | Description                                                |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| [[Cast Spell.md\|Cast Spell]]                           | Multiple                                                    | Cast a [[Spell]] you are able to cast.                     |
+| Magical Action                                                                        | Action Cost                                                   | Description                                                |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
+| [[Cast Spell.md\|Cast Spell]]                           | Multiple                                                      | Cast a [[Spell]] you are able to cast.                     |
 | [[Dismiss Spell.md\|Dismiss Spell]]                     | [[Free Action.md\|Free Action]] | Stop concentration on a spell or end ongoing spell effect. |
 | [[Identify Magical Effect.md\|Identify Magical Effect]] | [[Action.md\|Action]]           | Make a [[Arcana]] [[Check]] to understand magical effect.  |
-| [[Use Magic Item.md\|Use Magic Item]]                   | Multiple                                                    | Use [[Magic Item]].                                        |
+| [[Use Magic Item.md\|Use Magic Item]]                   | Multiple                                                      | Use [[Magic Item]].                                        |
 
-| Movement Action                                           | Action Cost                                                     | Description                                        |
-| --------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------- |
+| Movement Action                                             | Action Cost                                                       | Description                                        |
+| ----------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------- |
 | [[Carry.md\|Carry]]           | [[Action.md\|Action]]               | Carry or drag someone or something while you move. |
 | [[Climb.md\|Climb]]           | [[Action.md\|Action]]               | -                                                 |
 | [[Crawl.md\|Crawl]]           | [[Free Action.md\|Free Action]]     | -                                                 |
 | [[Dash.md\|Dash]]             | [[Double Action.md\|Double Action]] | -                                                 |
 | [[Drop Prone.md\|Drop Prone]] | [[Free Action.md\|Free Action]]     | -                                                 |
-| [[01 - Projects/Legends Game Master/Escape.md\|Escape]]   | [[Double Action.md\|Double Action]] | -                                                 |
+| [[01 - Projects/3 Game Master/Escape.md\|Escape]]           | [[Double Action.md\|Double Action]] | -                                                 |
 | [[Hide.md\|Hide]]             | [[Double Action.md\|Double Action]] | -                                                 |
 | [[Jump.md\|Jump]]             | [[Action.md\|Action]]               | -                                                 |
 | [[Stand Up.md\|Stand Up]]     | [[Action.md\|Action]]               | -                                                 |
 | [[Swim.md\|Swim]]             | [[Action.md\|Action]]               | -                                                 |
 
-| Utility Action                                                        | Action Cost                                                     | Description                                                                               |
-| --------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Utility Action                                                          | Action Cost                                                       | Description                                                                               |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [[Deliver Potion.md\|Deliver Potion]]     | [[Double Action.md\|Double Action]] | Feed [[Potion]] to another [[Creature]].                                                  |
 | [[Demoralize.md\|Demoralize]]             | [[Action.md\|Action]]               | Make [[Intimidation]] [[Check]] to shaken enemies.                                        |
 | [[Disarm Trap.md\|Disarm Trap]]           | [[Double Action.md\|Double Action]] | Make a [[Lockpicking]] [[Sleight of Hand]] [[Check]] to help a disarm a trap.             |
@@ -66,9 +66,9 @@ Actions are categorized by their function during combat:
 | [[Inspect.md\|Inspect]]                   | [[Double Action.md\|Double Action]] | Analyse [[Creature]] or [[Object]], determine illusions etc.                              |
 | [[Look Around.md\|Look Around]]           | [[Action.md\|Action]]               | Make a [[Perception]] [[Check]] to seek around.                                           |
 | [[Pick Lock.md\|Pick Lock]]               | [[Triple Action.md\|Triple Action]] | Make a [[Lockpicking]] [[Sleight of Hand]] [[Check]] to help a disarm a trap.             |
-| [[Ready Action.md\|Ready Action]]         | [[Reaction]] + 1-3 [[Action\|Actions]]                          | Prepare to do something when trigger event happens.                                       |
+| [[Ready Action.md\|Ready Action]]         | [[Reaction]] + 1-3 [[Action\|Actions]]                            | Prepare to do something when trigger event happens.                                       |
 | [[Recall Knowledge.md\|Recall Knowledge]] | [[Action.md\|Action]]               | Make a [[History]], [[Arcana]], [[Religion]] or [[Nature]] [[Check]] to recall knowledge. |
-| [[Use Object.md\|Use Object]]             | Multiple                                                        | Use [[Object]].                                                                           |
+| [[Use Object.md\|Use Object]]             | Multiple                                                          | Use [[Object]].                                                                           |
 
 ---
 

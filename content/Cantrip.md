@@ -1,5 +1,5 @@
-| Cantrip                                                                 | Casting                                                         | Components  | Mana | Range      | Duration                  |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---- | ---------- | ------------------------- |
+| Cantrip                                                                   | Casting                                                           | Components  | Mana | Range      | Duration                  |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | ---------- | ------------------------- |
 | [[Acid Splash.md\|Acid Splash]]             | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
 | [[Animal Call.md\|Animal Call]]             | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 20 metres  | Concentration, 10 minutes |
 | [[Animate Paper.md\|Animate Paper]]         | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch      | Concentration, 10 minutes |
@@ -82,8 +82,8 @@ ideas
 [[Shadow Veil]]
 [[Wind Step]]
 
-| List of Cantrips                                                                  |
-| --------------------------------------------------------------------------------- |
+| List of Cantrips                                                                    |
+| ----------------------------------------------------------------------------------- |
 | [[Acid Splash.md\|Acid Splash]]                       |
 | [[Animal Call.md\|Animal Call]]                       |
 | [[Animate Paper.md\|Animate Paper]]                   |
@@ -133,7 +133,7 @@ ideas
 | [[Produce Wind.md\|Produce Wind]]                     |
 | [[Psychic Shock.md\|Psychic Shock]]                   |
 | [[Ray of Frost.md\|Ray of Frost]]                     |
-| [[01 - Projects/Legends Game Master/Rossu Cheat Sheet.md\|Rossu Cheat Sheet]]     |
+| [[01 - Projects/3 Game Master/Rossu Cheat Sheet.md\|Rossu Cheat Sheet]]             |
 | [[Sacred Flame.md\|Sacred Flame]]                     |
 | [[Sapping Sting.md\|Sapping Sting]]                   |
 | [[Shadow Tendril.md\|Shadow Tendril]]                 |

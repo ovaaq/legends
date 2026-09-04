@@ -71,7 +71,7 @@ These spells are added to your [[Arcane Spell List]]:
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]
-**Following**:: [[Study of Spellblade]], [[Study of Warding]], [[Arcane Spells I]], [[Signature Spell]], [[Wizardly Quill]], [[Awakened Spellbook]], [[Arcane Recovery]], [[Arcane Spellcasting Practice]], [[Learn Arcane Spell]], [[Arcane Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+**Following**:: [[Study of Spellblade]], [[Study of Warding]], [[Study of Spelltheft]], [[Study of Divination]], [[Arcane Spells I]], [[Signature Spell]], [[Wizardly Quill]], [[Awakened Spellbook]], [[Arcane Recovery]], [[Arcane Spellcasting Practice]], [[Learn Arcane Spell]], [[Arcane Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
 
 ---
 

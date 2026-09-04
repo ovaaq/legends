@@ -12,8 +12,8 @@ Having a infernal ancestry you unlock multiple [[Ancestry Talent|Ancestry Talent
 
 [[Giant Spells I]]
 
-| Talents                                                               | Cost |
-| --------------------------------------------------------------------- | ---- |
+| Talents                                                                 | Cost |
+| ----------------------------------------------------------------------- | ---- |
 | [[Giant Spells I.md\|Giant Spells I]]     | 1 LP |
 | [[Giant Spells II.md\|Giant Spells II]]   | 1 LP |
 | [[Giant Spells III.md\|Giant Spells III]] | 1 LP |

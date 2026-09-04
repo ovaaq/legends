@@ -5,8 +5,8 @@
 [[Potion]]
 [[Poison]]
 
-| Alchemical Items                                                        |
-| ----------------------------------------------------------------------- |
+| Alchemical Items                                                          |
+| ------------------------------------------------------------------------- |
 | [[Acid Vial.md\|Acid Vial]]                 |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]   |
 | [[Antidote Vial.md\|Antidote Vial]]         |

@@ -6,7 +6,7 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: [[Concentration]], 1 minute
 
-**Effect**:: Up to three [Creatures](Creature) of your choice that you can see within range make a [[Charisma Saving Throw]].
+**Effect**:: Up to three [Creatures](Creature.md) of your choice that you can see within range make a [[Charisma Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** The target's next [[Attack Roll]] or [[Saving Throw]] takes a 1d4 penalty.

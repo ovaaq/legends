@@ -5,8 +5,8 @@ _Flavour text_.
 
 These [[Rune|Runes]] are added to your [[Rune List]]. Additionally, choose one [[Rune]] from this list and add it to your [[Known Runes List]].
 
-| 1st Level Rune                                                            | Item                                              |
-| ------------------------------------------------------------------------- | ------------------------------------------------- |
+| 1st Level Rune                                                              | Item                                                |
+| --------------------------------------------------------------------------- | --------------------------------------------------- |
 | [[Rune of Ammunition.md\|Rune of Ammunition]] | [[Weapon.md\|Weapon]] |
 | [[Rune of Health.md\|Rune of Health]]         | [[Weapon.md\|Weapon]] |
 | [[Rune of Might.md\|Rune of Might]]           | [[Weapon.md\|Weapon]] |

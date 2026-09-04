@@ -1,5 +1,5 @@
-| Alchemical Formulas                                                                                 |
-| --------------------------------------------------------------------------------------------------- |
+| Alchemical Formulas                                                                                   |
+| ----------------------------------------------------------------------------------------------------- |
 | [[Alchemist's Fire Formula.md\|Alchemist's Fire Formula]]               |
 | [[Alchemist’s Frost Formula.md\|Alchemist’s Frost Formula]]             |
 | [[Anti-Potion Formula.md\|Anti-Potion Formula]]                         |

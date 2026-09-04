@@ -10,8 +10,8 @@ _Humans are a versatile and ambitious people, known for their adaptability and d
 
 Having a human ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your human is. These [[Talent|Talent]] are:
 
-| Talents                                                                       | Cost |
-| ----------------------------------------------------------------------------- | ---- |
+| Talents                                                                         | Cost |
+| ------------------------------------------------------------------------------- | ---- |
 | [[Human Spells I.md\|Human Spells I]]             | 1 LP |
 | [[Human Spells II.md\|Human Spells II]]           | 1 LP |
 | [[Human Spells III.md\|Human Spells III]]         | 1 LP |

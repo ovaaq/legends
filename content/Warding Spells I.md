@@ -32,7 +32,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Entangle]]
 - [[Longstrider]]
 - [[Colour Spray]]
-- [[Hellish Rebuke]]
+- [[Hellish rebuke]]
 
 **Tree**:: [[Warding Talent Tree]]
 **Group**:: [[Arcane Talent]]

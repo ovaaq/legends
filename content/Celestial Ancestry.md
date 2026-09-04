@@ -13,8 +13,8 @@ Having a celestial ancestry you unlock multiple [[Ancestry Talent|Ancestry Talen
 [[Celestial Spells I]]
 [[Celestial Spells II]]
 
-| Talents                                                                             | Cost |
-| ----------------------------------------------------------------------------------- | ---- |
+| Talents                                                                               | Cost |
+| ------------------------------------------------------------------------------------- | ---- |
 | [[Celestial Spells I.md\|Celestial Spells I]]           | 1 LP |
 | [[Celestial Spells II.md\|Celestial Spells II]]         | 1 LP |
 | [[Celestial Spells III.md\|Celestial Spells III]]       | 1 LP |

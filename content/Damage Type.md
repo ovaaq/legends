@@ -1,5 +1,5 @@
-| Talent Name                                                               | Damage Type Group                                                     |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Talent Name                                                                 | Damage Type Group                                                       |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [[Acid Damage.md\|Acid Damage]]               | [[Elemental Damage.md\|Elemental Damage]] |
 | [[Bludgeoning Damage.md\|Bludgeoning Damage]] | [[Physical Damage.md\|Physical Damage]]   |
 | [[Cold Damage.md\|Cold Damage]]               | [[Elemental Damage.md\|Elemental Damage]] |

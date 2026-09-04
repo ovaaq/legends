@@ -1,5 +1,5 @@
-| Kits, Tools and Supplies                                                      | Price | Weight  |
-| ----------------------------------------------------------------------------- | ----- | ------- |
+| Kits, Tools and Supplies                                                        | Price | Weight  |
+| ------------------------------------------------------------------------------- | ----- | ------- |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]] | 1gp   | 1 Stack |
 | [[Appraisal Tools.md\|Appraisal Tools]]           | 1gp   | 1 Stack |
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                 | 1gp   | 1 Stack |

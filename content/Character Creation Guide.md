@@ -220,15 +220,15 @@ If you select an [[Ancestry|Rare Ancestry]] as your Additional Ancestry, it modi
 
 You must spend 5 [[Legend Point|LP]] to acquire Talents exclusively from [[Ancestry Talent|Ancestral Talents]] whose requirements you meet. These abilities represent the inherited traits of your [[Ancestry]], whether drawn from a [[Ancestry|Common Ancestry]] or an [[Ancestry|Rare Ancestry]]. Select the Talents and record them on your [[Character Sheet]].
 
-| Common Ancestries                                                       |
-| ----------------------------------------------------------------------- |
+| Common Ancestries                                                         |
+| ------------------------------------------------------------------------- |
 | [[Dwarven Ancestry.md\|Dwarven Ancestry]]   |
 | [[Elven Ancestry.md\|Elven Ancestry]]       |
 | [[Halfling Ancestry.md\|Halfling Ancestry]] |
 | [[Human Ancestry.md\|Human Ancestry]]       |
 
-| Rare Ancestries                                                           |
-| ------------------------------------------------------------------------- |
+| Rare Ancestries                                                             |
+| --------------------------------------------------------------------------- |
 | [[Celestial Ancestry.md\|Celestial Ancestry]] |
 | [[Fiend Ancestry.md\|Fiend Ancestry]]         |
 | [[Giant Ancestry.md\|Giant Ancestry]]         |
@@ -260,8 +260,8 @@ From the first section, you select two [[Ability Score|Ability Scores]] to incre
 
 These premade and soon to be expanded options provide easy thematic foundations for your character’s background. Campaign-specific [[Background|Backgrounds]] may also be available, so be sure to consult your [[Game Master]] for details.
 
-| List of Backgrounds                                             |
-| --------------------------------------------------------------- |
+| List of Backgrounds                                               |
+| ----------------------------------------------------------------- |
 | [[Acolyte.md\|Acolyte]]             |
 | [[Apothecary.md\|Apothecary]]       |
 | [[Artisan.md\|Artisan]]             |
@@ -339,8 +339,8 @@ After assigning [[Rank|Ranks]], calculate the [[Modifier]] for each [[General Sk
 
 Each [[General Skill]] has a default [[Ability Score]] that is added when calculating its modifier. In some cases, a [[General Skill]] can be used with a different [[Ability Score]] depending on the situation.
 
-| General Skills                                                      | Ability Score\*                                                |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| General Skills                                                        | Ability Score\*                                                  |
+| --------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [[Acrobatics.md\|Acrobatics]]           | [[Agility.md\|Agility]]           |
 | [[Animal Handling.md\|Animal Handling]] | [[Awareness.md\|Awareness]]       |
 | [[Arcana.md\|Arcana]]                   | [[Intelligence.md\|Intelligence]] |
@@ -380,8 +380,8 @@ Using an [[Expert Skill|Expert Skill]] differs slightly from using a [[General S
 - **Recalling lore about a mystic weapon:** [[History]] modifier + [[Smithing]] modifier
 - **Appraising the value of a weapon:** [[Investigation]] modifier + [[Smithing]] modifier
 
-| Expert Skills                                                     |
-| ----------------------------------------------------------------- |
+| Expert Skills                                                       |
+| ------------------------------------------------------------------- |
 | [[Alchemy.md\|Alchemy]]               |
 | [[Appraisal.md\|Appraisal]]           |
 | [[Arts.md\|Arts]]                     |
@@ -536,8 +536,8 @@ You can select any item group to view its contents and purchase items at their l
 
 Premade [[Pack|Packs]] are designed for convenience, offering ready-made sets of equipment for characters who prefer not to manage every item individually. You can also purchase a Premade Pack and customize it by adding or swapping items as needed.
 
-| Packs                                                                               | Weight  | Price |
-| ----------------------------------------------------------------------------------- | ------- | ----- |
+| Packs                                                                                 | Weight  | Price |
+| ------------------------------------------------------------------------------------- | ------- | ----- |
 | [[Explorer’s Pack.md\|Explorer’s Pack]]                 | 1 Stack | 1gp   |
 | [[Explorer's Premium Pack.md\|Explorer's Premium Pack]] | 1 Stack | 1gp   |
 | [[Scholar’s Pack.md\|Scholar’s Pack]]                   | 1 Stack | 1gp   |
