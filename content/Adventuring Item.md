@@ -31,7 +31,6 @@
 | [[Compass.md\|Compass]]                                   | -     | -   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                             | -     | -   |
 | [[Crowbar.md\|Crowbar]]                                   | -     | -   |
-| [[Dreamdust.md\|Dreamdust]]                               | -     | -   |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]               | -     | -   |
 | [[Fishing Tools.md\|Fishing Tools]]                       | -     | -   |
 | [[Flint and Steel.md\|Flint and Steel]]                   | -     | -   |
@@ -112,7 +111,6 @@
 | [[Compass.md\|Compass]]                                   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                             |
 | [[Crowbar.md\|Crowbar]]                                   |
-| [[Dreamdust.md\|Dreamdust]]                               |
 | [[Exorcism Supplies.md\|Exorcism Supplies]]               |
 | [[Fishing Tools.md\|Fishing Tools]]                       |
 | [[Flint and Steel.md\|Flint and Steel]]                   |

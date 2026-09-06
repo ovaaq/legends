@@ -1,24 +1,18 @@
-_[[Adventuring Item]], [[Equipment]]_
+**Type**:: [[Inhaled Poison]]
+**Weight**:: 0.1 kg
+**Duration**:: 2d4 hours
 
-_Lore._
+As a [[Double Action]], you throw the Dreamdust, which releases misty cloud into a 3-metre-diameter sphere. Each [[Creature]] in the area must make a DC 12 [[Constitution Saving Throw]].
 
-**Weight**:: 1 Stack
-**Cost**:: 2 gp
+The [[Creature]] has [[Advantage]] on this save if its size is [[Huge]] or larger.
 
-As a _Double Action_, you throw the Dreamdust, which releases misty cloud into a 3-metre-diameter sphere. Each Creature in the area must make a _DC 12 Constitution Saving Throw_.
+**Critical Success:** No effect.
+**Success:** The target is [[Drowsy]] for 1 hour.
+**Failure:** The target falls [[Asleep]] for 2d4 hours.
+**Critical Failure:** The target falls [[Asleep]] for double the failure duration.
 
-The Creature has _Advantage_ on this save if its size is _Huge_ or larger.
-
-_Critical Success:_ No effect.
-
-_Success:_ The target is _Drowsy_ for 1 hour.
-
-_Failure:_ The target falls _Asleep_ for 2d4 hours.
-
-_Critical Failure:_ The target falls _Asleep_ for double the failure duration.
-
-While _Asleep_ by this substance, the Creature wakes up if the it takes damage, or someone uses an _Double Action_ to shake or slap the sleeper awake.
+While [[Asleep]] by this substance, the [[Creature]] wakes up if the it takes [[Damage]], or someone uses an [[Double Action]] to shake or slap the sleeper awake.
 
 ---
 
-#adventuring_item  #equipment
+#alchemical_item #poison #common

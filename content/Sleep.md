@@ -1,18 +1,23 @@
 _[[1st Level Spell]]_
 
-**Casting**::
-**Components**:: F, V, S, M\*
-**Mana**:: 0
-**Range**:: 20 metres
+**Casting**:: [[Triple Action]]
+**Components**:: F, V, S
+**Mana**:: 1
+**Range**:: 10 metres
 **Duration**:: Instant
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Target a [[Creature]] within range you can see. Target makes a [[Constitution Saving Throw]]. The [[Creature]] has [[Advantage]] on this save if its size is [[Huge]] or larger.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Critical Success:** No effect.
+**Success:** The target is [[Drowsy]] for 1 hour.
+**Failure:** The target falls [[Asleep]] for 2d4 hours.
+**Critical Failure:** The target falls [[Asleep]] for double the failure duration.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+While [[Asleep]] by this spell, the [[Creature]] wakes up if the it takes [[Damage]], or someone uses an [[Double Action]] to shake or slap the sleeper awake.
 
-**Type**:: [[Revelation Magic]]
+**Upcasting**:: For each additional two mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
+
+**Type**:: [[Enchantment Magic]]
 
 ---
 

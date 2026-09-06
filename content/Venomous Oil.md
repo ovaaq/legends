@@ -8,4 +8,4 @@ A [[Creature]] hit by the coated [[Weapon]] or [[Ammunition]] takes 1d4 [[Poison
 
 ---
 
-#adventuring_item  #equipment
+#alchemical_item #poison #common

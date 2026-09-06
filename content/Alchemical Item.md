@@ -12,6 +12,7 @@
 | [[Alchemist's Frost.md\|Alchemist's Frost]] |
 | [[Antidote Vial.md\|Antidote Vial]]         |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]     |
+| [[Dreamdust.md\|Dreamdust]]                 |
 | [[Glue Vial.md\|Glue Vial]]                 |
 | [[Liquid Lightning.md\|Liquid Lightning]]   |
 | [[Magical Ink.md\|Magical Ink]]             |
@@ -22,6 +23,7 @@
 | [[Smoke Powder.md\|Smoke Powder]]           |
 | [[Solvent Vial.md\|Solvent Vial]]           |
 | [[Thunderboom Stick.md\|Thunderboom Stick]] |
+| [[Venomous Oil.md\|Venomous Oil]]           |
 
 **Use on others**
 [[Antidote Vial]]
