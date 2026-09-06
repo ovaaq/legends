@@ -1,14 +1,9 @@
-_[[Potion]], [[Alchemical Item]], [[Equipment]]_
+**Type**:: [[Potion]]
+**Weight**:: 0.1 kg
+**Duration**:: Instant
 
-**Duration**:: 7 days
-
-**Effect**:: long rest in a bottle
-
-**Critical Success:** No effect.
-**Success:** z
-**Failure:** y
-**Critical Failure:** x
+**Effect**:: You regain 1 [[Hit Die]] and remove 1 level of the [[Exhausted]] condition.
 
 ---
 
-#rare #potion #alchemical_item
+#potion #common

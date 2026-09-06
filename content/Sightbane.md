@@ -1,12 +1,13 @@
-_[[Adventuring Item]], [[Equipment]]_
+**Type**:: [[Contact Poison]]
+**Weight**:: 0.1 kg
 
-_Lore._
+As a [[Double Action]], you can smear Sightbane on a [[Creature]]'s face, forcing it to make a DC 15 [[Constitution Saving Throw]].
 
-**Weight**:: 1 Stack
-**Cost**:: 2 gp
-
-Neutralises any [[Common]] [[Poison]] currently affecting a [[Creature]].
+**Critical Success:** No effect.
+**Success:** The target has [[Disadvantage]] on [[Perception]] [[Check|Checks]] with sight for 10 minutes.
+**Failure:** The target is [[Blinded]] for 10 minutes.
+**Critical Failure:** The target is [[Blinded]] for double the failure duration.
 
 ---
 
-#adventuring_item  #equipment
+#uncommon #alchemical_item

@@ -5,7 +5,7 @@ _[[1st Level Spell]]_
 **Mana**:: 1
 
 **Range**:: Self
-**Duration**:: [[Concentration]], 10 minutes
+**Duration**:: [[Concentration]], 1 hour
 
 **Effect**:: For the duration, you sense the presence of [[Undead]] within 10 meters of yourself. You can spend [[Action]] to see a faint aura around any [[Undead]] [[Creature]].
 

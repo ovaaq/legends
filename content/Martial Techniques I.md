@@ -25,7 +25,7 @@ _Flavour text_.
 | [[Feinting Attack.md\|Feinting Attack]]           | **▶▶▶⚡〇**                                                     | 0       | Melee     | Bludgeoning                                           |
 | [[Glancing Blow.md\|Glancing Blow]]               | [[Free Action]]\*                                              | 0       | Melee     | Any                                                   |
 | [[Intimidating Command.md\|Intimidating Command]] | **▶▶▶⚡〇**                                                     | 0       | Melee     | Bludgeoning                                           |
-| [[Opportunity Attack.md\|Opportunity Attack]]     | [[Reaction]]\*                                                 | 1       | Melee     | Any                                                   |
+| [[Opportunity Attack.md\|Opportunity Attack]]     | [[Reaction]]\*                                                 | 1       | Melee     | Melee                                                 |
 | [[Parry.md\|Parry]]                               | [[Reaction]]\*                                                 | 1       | Melee     | Any                                                   |
 | [[Precision Attack.md\|Precision Attack]]         | [[Free Action]]\*                                              | 1       | Any       | Any                                                   |
 | [[Push the Limit.md\|Push the Limit]]             | [[Action.md\|Action]]           | 0       | Self      | None                                                  |

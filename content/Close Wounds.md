@@ -1,15 +1,15 @@
 _[[Cantrip]]_
 
 **Casting**:: [[Double Action]]
-**Components**:: F, V, S, M
+**Components**:: F, V, S
 **Mana**:: 0
 
-**Range**:: 40 metres
+**Range**:: 10 metres
 **Duration**:: Instant
 
-**Effect**:: You touch a living creature and remove [[Bleeding]] or [[Dying]] condition.
+**Effect**:: You select one [Creature](Creature) within range and remove the [Bleeding](Bleeding) or [Dying](Dying) condition from it.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For one additional mana spent you can remove both conditions.
 
 **Type**:: [[Restoration Magic]]
 

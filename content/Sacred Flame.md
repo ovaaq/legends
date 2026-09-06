@@ -6,7 +6,7 @@ _[[Cantrip]]_
 **Range**:: 10 metres
 **Duration**:: Instant
 
-**Effect**:: You cast holy flames toward a creature. Choose one target you can see within range. The target makes a [[Charisma Saving Throw]]:
+**Effect**:: You conjure holy flames that seek out the soul of a [[Creature]]. Choose one [[Creature]] you can see within range. The target makes a [[Charisma Saving Throw]].
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d12 [[Radiant Damage]].

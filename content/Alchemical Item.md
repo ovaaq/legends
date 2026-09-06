@@ -9,6 +9,7 @@
 | ------------------------------------------------------------------------- |
 | [[Acid Vial.md\|Acid Vial]]                 |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]   |
+| [[Alchemist's Frost.md\|Alchemist's Frost]] |
 | [[Antidote Vial.md\|Antidote Vial]]         |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]     |
 | [[Glue Vial.md\|Glue Vial]]                 |
@@ -16,6 +17,7 @@
 | [[Magical Ink.md\|Magical Ink]]             |
 | [[Oil Flask.md\|Oil Flask]]                 |
 | [[Poison Vial.md\|Poison Vial]]             |
+| [[Sightbane.md\|Sightbane]]                 |
 | [[Skyflare.md\|Skyflare]]                   |
 | [[Smoke Powder.md\|Smoke Powder]]           |
 | [[Solvent Vial.md\|Solvent Vial]]           |

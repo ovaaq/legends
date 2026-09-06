@@ -22,7 +22,7 @@ These spells are added to your [[Divine Spell List]]:
 - [[Minor Conjuration]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
-- [[Sense Undead]]
+- [[Detect Undead]]
 
 **Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to 1 + [[Divine Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Divine Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 

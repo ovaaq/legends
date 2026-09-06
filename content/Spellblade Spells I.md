@@ -34,7 +34,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Compelled Duel]]
 - [[Earth Tremor]]
 - [[Expeditious Retreat]]
-- [[Temporal Vigour]]
+- [[Temporal Life]]
 - [[Fog Cloud]]
 - [[Frost Armour]]
 - [[Grease]]

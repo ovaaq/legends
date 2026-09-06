@@ -2,14 +2,13 @@ _[[1st Level Spell]]_
 
 **Casting**:: [[Double Action]]
 **Components**:: F, V, S
-**Mana**:: 2
-
+**Mana**:: 1
 **Range**:: 10 metres
-**Duration**:: Concentration, up to 1 minute
+**Duration**:: [[Concentration]], up to 1 minute
 
-**Effect**:: You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a 1d4 and add the number rolled to the attack roll or saving throw.
+**Effect**:: You bless up to three [[Creature|Creatures]] of your choice within range. Whenever a target makes an [[Attack Roll]] or a [[Saving Throw]] before the spell ends, the target can add 1d4 to the [[Attack Roll]] or [[Saving Throw]].
 
-**Upcasting**:: For each additional mana spent, you can target one additional creature. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Warding Magic]]
 

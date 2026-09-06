@@ -8,7 +8,7 @@
 | [[Chaos Burst.md\|Chaos Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
 | [[Charming Smile.md\|Charming Smile]]       | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres   | Concentration, 1 minute   |
 | [[Chill Touch.md\|Chill Touch]]             | [[Double Action.md\|Double Action]] | V, S        | 0    | Touch      | Instant                   |
-| [[Close Wounds.md\|Close Wounds]]           | [[Double Action.md\|Double Action]] | F, V, S, M  | 0    | 40 metres  | Instant                   |
+| [[Close Wounds.md\|Close Wounds]]           | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
 | [[Corrosive Shot.md\|Corrosive Shot]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
 | [[Crimson Cut.md\|Crimson Cut]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                   |
 | [[Dancing Lights.md\|Dancing Lights]]       | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres  | Concentration, 10 minutes |

@@ -14,7 +14,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Armour of Thorns]]
 - [[Command]]
 - [[Ensnairing Strike]]
-- [[Temporal Vigour]]
+- [[Temporal Life]]
 - [[Heroism]]
 - [[Mindward]]
 - [[Protection from Spirits]]

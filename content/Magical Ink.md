@@ -1,14 +1,8 @@
-_[[Alchemical Item]], [[Equipment]]_
+**Type**:: [[Alchemical Item]]
+**Weight**:: 0.1 kg
 
-**Duration**:: 7 days
-
-**Effect**:: Animals won't attack the drinker
-
-**Critical Success:** No effect.
-**Success:** z
-**Failure:** y
-**Critical Failure:** x
+A vial of ink infused with arcane energy. Used in the creation of [Spell Scrolls](Spell%20Scroll) and for writing in [Spellbooks](Spellbook).
 
 ---
 
-#uncommon #alchemical_item
+#alchemical_item #common

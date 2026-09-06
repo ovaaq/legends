@@ -3,7 +3,6 @@ _[[1st Level Spell]]_
 **Casting**:: [[Action]]
 **Components**:: V
 **Mana**:: 1
-
 **Range**:: 20 metres
 **Duration**:: Instantaneous
 

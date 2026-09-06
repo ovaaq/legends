@@ -1,14 +1,9 @@
-_[[Potion]], [[Alchemical Item]], [[Equipment]]_
+**Type**:: [[Potion]]
+**Weight**:: 0.1 kg
+**Duration**:: 1 hour
 
-**Duration**:: 7 days
-
-**Effect**:: Love drinker makes [[Charisma Saving Throw]] DC 20
-
-**Critical Success:** No effect.
-**Success:** z
-**Failure:** y
-**Critical Failure:** x
+**Effect**:: For the duration, your [[Strength]] score increases by 1.
 
 ---
 
-#rare #potion #alchemical_item
+#potion #common

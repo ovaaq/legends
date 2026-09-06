@@ -1,10 +1,10 @@
-- **Contact:** Smeared on an object; triggers on skin contact.
+- **[[Contact Poison]]:** Smeared on an object; triggers on skin contact.
 
-- **Ingested:** Must be swallowed via food or drink.
+- **[[Ingested Poison]]:** Must be swallowed via food or drink.
 
-- **Inhaled:** A powder or gas filling a 5-foot cube.
+- **[[Inhaled Poison]]:** A powder or gas filling a 5-foot cube.
 
-- **Injury:** Applied to piercing/slashing weapon s or ammunition.
+- **[[Wound Poison]]:** Applied to piercing/slashing weapon s or ammunition.
 
 [[Dreamdust]]
 [[White Arsenic]]

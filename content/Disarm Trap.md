@@ -2,7 +2,7 @@ _[[Utility Actions]]_
 
 **Description**:: Make a [[Lockpicking]] [[Sleight of Hand]] [[Check]] to help a disarm a trap.
 
-**Action**:: [[Double Action]]
+**Action**:: [[Triple Action]]
 **Target**::
 
 Explanation.

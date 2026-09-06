@@ -67,7 +67,6 @@
 | [[Scribe’s Supplies.md\|Scribe’s Supplies]]               | -     | -   |
 | [[Scroll Case.md\|Scroll Case]]                           | -     | -   |
 | [[Shovel.md\|Shovel]]                                     | -     | -   |
-| [[Sightbane.md\|Sightbane]]                               | -     | -   |
 | [[Small Mirror.md\|Small Mirror]]                         | -     | -   |
 | [[Smithing Hammer.md\|Smithing Hammer]]                   | -     | -   |
 | [[Smithing Tools.md\|Smithing Tools]]                     | -     | -   |
@@ -79,7 +78,6 @@
 | [[Torch.md\|Torch]]                                       | -     | -   |
 | [[Trapwire.md\|Trapwire]]                                 | -     | -   |
 | [[Tripwire.md\|Tripwire]]                                 | -     | -   |
-| [[Venomous Oil.md\|Venomous Oil]]                         | -     | -   |
 | [[Waterskin.md\|Waterskin]]                               | -     | -   |
 | [[Wax Beads.md\|Wax Beads]]                               | -     | -   |
 | [[Wax Seal Stamp.md\|Wax Seal Stamp]]                     | -     | -   |
@@ -150,7 +148,6 @@
 | [[Scribe’s Supplies.md\|Scribe’s Supplies]]               |
 | [[Scroll Case.md\|Scroll Case]]                           |
 | [[Shovel.md\|Shovel]]                                     |
-| [[Sightbane.md\|Sightbane]]                               |
 | [[Small Mirror.md\|Small Mirror]]                         |
 | [[Smithing Hammer.md\|Smithing Hammer]]                   |
 | [[Smithing Tools.md\|Smithing Tools]]                     |
@@ -162,7 +159,6 @@
 | [[Torch.md\|Torch]]                                       |
 | [[Trapwire.md\|Trapwire]]                                 |
 | [[Tripwire.md\|Tripwire]]                                 |
-| [[Venomous Oil.md\|Venomous Oil]]                         |
 | [[Waterskin.md\|Waterskin]]                               |
 | [[Wax Beads.md\|Wax Beads]]                               |
 | [[Wax Seal Stamp.md\|Wax Seal Stamp]]                     |
