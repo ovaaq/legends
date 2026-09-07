@@ -6,9 +6,11 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Melee
 **Duration**:: Instant
 
-_\*When a [[Creature]] uses its movement to leave your [[Melee Range]]._
+_\*When a [[Creature]] moves out of your [[Melee Range]]._
 
 **Effect**:: Make one [[Melee Attack]] against that [[Creature]]. The [[Melee Attack]] resolves immediately before the [[Creature]] exits your [[Melee Range]].
+
+**Type**:: [[Offensive]]
 
 ---
 

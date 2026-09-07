@@ -10,6 +10,8 @@ _[[1st Level Martial technique]]_
 
 **Effect**:: You regain your balance and stay on your feet instead of becoming [[Prone]].
 
+**Type**:: [[Defensive Technique]]
+
 ---
 
 #martial_technique #1st\

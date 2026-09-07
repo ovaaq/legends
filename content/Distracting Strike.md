@@ -6,9 +6,11 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-_\*When you hit a [[Creature]] with an [[Attack]]._
+_\*When your [[Attack]] hits a [[Creature]]._
 
 **Effect**:: The next [[Attack Roll]] against the target by an attacker other than you has [[Advantage]] if the [[Attack]] is made before the start of your next [[Turn]].
+
+**Type**:: [[Offensive]]
 
 ---
 

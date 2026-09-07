@@ -1,24 +1,18 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: **▶▶▶⚡〇**
-**Stamina**:: 0
-**Range**:: Melee
-**Weapon**:: Bludgeoning
+**Execution**:: [[Free Action]]\*
+**Stamina**:: 1
+**Range**:: Any
+**Weapon**:: Advanced
 **Duration**:: Instant
 
-_\*Reaction / etc_
+_\*When your [[Attack]] a [[Creature]]._
 
-**Effect**:: When someone hits you you can react to hit back
+**Effect**:: You have [[Advantage]] on the [[Attack Roll]].
+
+**Type**:: [[Offensive]]
 
 ---
 
 #martial_technique #1st\
-[[Martial Technique]]
-
-As a Bonus Action, you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have Advantage on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack’s damage roll.
-
----
-
-#martial_technique #1st
-[[Martial Technique]]
 [[Martial Technique]]

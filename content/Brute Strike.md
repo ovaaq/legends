@@ -1,23 +1,18 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: **▶▶▶⚡〇**
-**Stamina**:: 0
+**Execution**:: [[Free Action]]\*
+**Stamina**:: 1
 **Range**:: Melee
-**Weapon**:: Bludgeoning
+**Weapon**:: Heavy
 **Duration**:: Instant
 
-_\*Reaction / etc_
+_\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: When someone hits you you can react to hit back
+**Effect**:: Add 1d8 [[Damage]] to the [[Damage Roll]].
+
+**Type**:: [[Offensive]]
 
 ---
 
 #martial_technique #1st\
-[[Martial Technique]]
-
-When you hit a creature with a melee weapon attack, you can expend an Exploit Die to strike at a vulnerable point to force it to make a Constitution saving throw. On a failure, add your Exploit Die to the damage roll, the creature falls Prone, and it cannot take reactions until the start of your next turn.
-
----
-
-#martial_technique #1st
 [[Martial Technique]]

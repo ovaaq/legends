@@ -6,14 +6,14 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-**Effect**:: You whisper a discordant melody that only one [[Creature]] of your choice within range that can hear, wracking it with terrible pain. The target must make a [[Charisma Saving Throw]].
+**Effect**:: Choose one [[Creature]] within range that can hear you. The target makes a [[Charisma Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** A target takes half damage.
 **Failure:** A target takes takes 3d6 [[Psychic Damage]].
-**Critical Failure:** A target takes double damage and is [[Frightened]] (Flight) for one minute.
+**Critical Failure:** A target takes double damage and is [[Frightened]] (Flight) until the start of your next [[Turn]].
 
-On a [[Failure]] or [[Critical Failure]], the target must immediately use its [Reaction](Reaction), if available, to move as far away from you as its [[Walking Speed]] allows. The target doesn't move into obviously dangerous terrain, such as fire or a pit.
+On a [[Failure]], the target uses its [[Reaction]], to move away from you for it's [[Walking Speed]]. The target doesn't move into obviously dangerous terrain.
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 

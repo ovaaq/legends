@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-_\*When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]]._
+_\*When your [[Attack]] hits a [[Creature]]._
 
 **Effect**:: You strike at a vulnerable point and force the target to make a [[Constitution Saving Throw]]:
 

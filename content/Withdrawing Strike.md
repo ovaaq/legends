@@ -6,9 +6,9 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-_\*When you hit a [[Creature]] with a [[Melee Weapon Attack]] or [[Unarmed Strike]]._
+_\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: Immediately after the [[Main Hand Attack]], you move up to half your [[Walking Speed]].
+**Effect**:: Immediately after the [[Attack]], move up to half your [[Walking Speed]].
 
 ---
 

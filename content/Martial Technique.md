@@ -1,6 +1,5 @@
 | Martial Techniques                                                                |
 | --------------------------------------------------------------------------------- |
-| [[Apply Poison.md\|Apply Poison]]                   |
 | [[Bait and Switch.md\|Bait and Switch]]             |
 | [[Brute Strike.md\|Brute Strike]]                   |
 | [[Charging Strike.md\|Charging Strike]]             |
@@ -20,6 +19,7 @@
 | [[Precision Attack.md\|Precision Attack]]           |
 | [[Push the Limit.md\|Push the Limit]]               |
 | [[Pushing Attack.md\|Pushing Attack]]               |
+| [[Quick Coating.md\|Quick Coating]]                 |
 | [[Rally.md\|Rally]]                                 |
 | [[Riposte.md\|Riposte]]                             |
 | [[Sneak Attack.md\|Sneak Attack]]                   |

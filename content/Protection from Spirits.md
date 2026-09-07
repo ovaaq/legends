@@ -12,7 +12,7 @@ _\*One vial of [[Holy Water]]._
 
 **Upcasting**:: For each additional two mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
 
-**Type**:: [[Revelation Magic]]
+**Type**:: [[Warding Magic]]
 
 ---
 

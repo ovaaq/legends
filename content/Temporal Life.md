@@ -1,7 +1,7 @@
 _[[1st Level Spell]]_
 
 **Casting**:: [[Action]]
-**Components**:: F, V, S
+**Components**:: V, S
 **Mana**:: 1
 **Range**:: Self
 **Duration**:: 1 hour

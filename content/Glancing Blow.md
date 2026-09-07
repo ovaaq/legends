@@ -1,14 +1,14 @@
 _[[1st Level Martial technique]]_
 
 **Execution**:: [[Free Action]]\*
-**Stamina**:: 0
+**Stamina**:: 1
 **Range**:: Melee
 **Weapon**:: Any
 **Duration**:: Instant
 
-_\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
+_\*When your [[Attack]] misses a [[Creature]]._
 
-**Effect**:: Immediately repeat your [[Main Hand Attack]] against another target within the reach of your [[Melee Weapon]].
+**Effect**:: Immediately repeat your [[Attack]] against another target within the reach of your [[Melee Weapon]].
 
 ---
 

@@ -8,6 +8,8 @@ _[[1st Level Martial technique]]_
 
 **Effect**:: Increase your [[Evasion Class]] by your [[Martial Skill]] [[Rank]] until the start of your next [[Turn]].
 
+**Type**:: [[Defensive]]
+
 ---
 
 #martial_technique #1st
