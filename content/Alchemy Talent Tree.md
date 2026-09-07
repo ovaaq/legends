@@ -1,0 +1,30 @@
+- [[Alchemy Initiate]]
+  - [[Learn Alchemical Formulas]]
+    - [[Safety Measures]]
+      - [[Improved Yield]]
+        - [[Alchemical Deconstruction]]
+  - [[Experimental Elixir]]
+    - [[Revised Experiment]]
+      - [[Catalytic Infusion]]
+        - [[Desired Outcome]]
+  - [[Combat Alchemy]]
+    - [[Expanded Splash]]
+      - [[aa3]]
+        - [[aa4]]
+  - [[Favourable Exposure]]
+    - [[Toxic Tolerance]]
+      - [[Adapting Effect]]
+        - [[ap4]]
+  - [[Alchemical Formulas I]]
+    - [[Alchemical Formulas II]]
+      - [[Alchemical Formulas III]]
+        - [[Alchemical Formulas IV]]
+          - [[Alchemical Formulas V]]
+            - [[Alchemical Formulas VI]]
+
+**Group**:: [[General Talent]]
+
+---
+
+#talent_tree #crafting
+[[Talent Tree]]

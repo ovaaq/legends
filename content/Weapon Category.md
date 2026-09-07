@@ -1,0 +1,12 @@
+[[Axe]]
+[[Sword]]
+[[Hammer]]
+[[Bow]]
+[[Crossbow]]
+[[Polearm]]
+[[Snare]]
+[[Projectile]]
+
+---
+
+#keyword

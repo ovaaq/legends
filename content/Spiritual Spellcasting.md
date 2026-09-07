@@ -1,0 +1,48 @@
+**Requirements**:: [[Spiritual Connection]]
+**Cost**:: 4 LP
+
+_Flavour text._
+
+Increase [[Rank]] of [[Spiritual Spellcasting Skill]] by 1.
+
+These spells are added to your [[Spiritual Spell List]]:
+
+##### Cantrips
+
+- [[Chill Touch]]
+- [[Mind Sliver]]
+- [[Produce Flame]]
+- [[Spectral Grasp]]
+- [[Starry Wisp]]
+- [[Thaumaturgy]]
+
+##### 1st Level Spells
+
+- [[Guidance]]
+- [[Silent Image]]
+- [[Summon Lesser Spirit]]
+- [[Unseen Servant]]
+- [[Detect Magic]]
+
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to 1 + [[Spiritual Spellcasting Skill]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Spiritual Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
+
+> [!info] Prepared Spells
+> Number of Prepared Spiritual Spells = 1 + [[Spiritual Spellcasting Skill]] [[Rank]] + [[Intelligence]]
+
+**Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
+
+**Casting Spells.** You can cast any spell listed in your [[Prepared Spiritual Spells]].
+
+**[[Spell Save DC]]** = 8 + [[Spiritual Spellcasting Skill]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Spiritual Spellcasting Skill]] [[Rank]] + [[Sorcery]]
+
+**Ritual Casting.** You can also cast any spell from your [[Spiritual Spell List]] as a ritual. Doing so increases the casting time by 10 minutes.
+
+**Tree**:: [[Spiritual Talent Tree]]
+**Group**:: [[Spiritual Talent]]
+**Following**:: [[Spiritual Spellcasting Practice]], [[Spiritual Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+
+---
+
+#talent #spiritual
+[[Talent]] [[Spiritual Talent]]

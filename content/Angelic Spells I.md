@@ -1,0 +1,14 @@
+**Requirements**:: [[Servant of Angel]]
+**Cost**:: 1 LP
+
+_Flavour text_.
+
+x
+
+**Group**:: Pact
+**Following**::
+
+---
+
+#talent #pact #celestial
+[[Talent]] [[Pact Talent]]

@@ -1,0 +1,37 @@
+**Requirements**:: [[Path of Afterlife]]
+**Cost**:: 4 LP
+
+_Flavour text_.
+
+These spells are added to your [[Spiritual Spell List]]:
+
+##### Cantrips
+
+- [[Crimson Cut]]
+- [[Sapping Sting]]
+- [[Mortal Dread]]
+- [[Withering Touch]]
+
+##### 1st Level Spells
+
+- [[Bane]]
+- [[Detect Undead]]
+- [[Dissonant Whispers]]
+- [[Temporal Life]]
+- [[Healing Word]]
+- [[Hex]]
+- [[Inflict Wounds]]
+- [[Sleep]]
+- [[Protection from Spirits]]
+- [[Ray of Sickness]]
+- [[Unearthly Chorus]]
+- [[Deflect]]
+
+**Tree**:: [[Afterlife Talent Tree]]
+**Group**:: [[Spiritual Talent]]
+**Following**:: [[Afterlife Spells II]]
+
+---
+
+#talent
+[[Talent]]
