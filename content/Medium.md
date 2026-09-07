@@ -1,5 +1,0 @@
-[[Creature Size]]
-
----
-
-#keyword

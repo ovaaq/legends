@@ -1,5 +1,0 @@
-[[Weapon Category]]
-
----
-
-#keyword

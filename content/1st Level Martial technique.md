@@ -1,5 +1,0 @@
-[[Martial Technique]]
-
----
-
-#keyword

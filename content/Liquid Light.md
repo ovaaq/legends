@@ -1,3 +1,0 @@
-[[Equipment]] [[Alchemical Item]]
-
-flashbang

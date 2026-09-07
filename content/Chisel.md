@@ -1,1 +1,0 @@
-[[Equipment]], [[Adventuring Item]]

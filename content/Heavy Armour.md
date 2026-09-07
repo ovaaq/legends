@@ -1,5 +1,0 @@
-[[Armour]], [[Equipment]]
-
----
-
-#keyword
