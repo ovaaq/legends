@@ -1,17 +1,17 @@
 [[Rune]]
 
-| 1st Level Rune                                                              | Item                                                |
-| --------------------------------------------------------------------------- | --------------------------------------------------- |
-| [[Rune of Ammunition.md\|Rune of Ammunition]] | [[Weapon.md\|Weapon]] |
-| [[Rune of Health.md\|Rune of Health]]         | [[Weapon.md\|Weapon]] |
-| [[Rune of Might.md\|Rune of Might]]           | [[Weapon.md\|Weapon]] |
-| [[Rune of Protection.md\|Rune of Protection]] | [[Armour.md\|Armour]] |
-| [[Rune of Repulsion.md\|Rune of Repulsion]]   | [[Weapon.md\|Weapon]] |
-| [[Rune of Returning.md\|Rune of Returning]]   | [[Weapon.md\|Weapon]] |
-| [[Rune of Seeing.md\|Rune of Seeing]]         | [[Weapon.md\|Weapon]] |
-| [[Rune of Strength.md\|Rune of Strength]]     | [[Armour.md\|Armour]] |
-| [[Rune of Swiftness.md\|Rune of Swiftness]]   | [[Weapon.md\|Weapon]] |
-| [[Rune of Vitality.md\|Rune of Vitality]]     | [[Armour.md\|Armour]] |
+| 1st Level Rune                                                              | Item                                                                 |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [[Rune of Ammunition.md\|Rune of Ammunition]] | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Health.md\|Rune of Health]]         | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Might.md\|Rune of Might]]           | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Protection.md\|Rune of Protection]] | [[Armour.md\|Armour]]                  |
+| [[Rune of Repulsion.md\|Rune of Repulsion]]   | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Returning.md\|Rune of Returning]]   | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Seeing.md\|Rune of Seeing]]         | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Strength.md\|Rune of Strength]]     | [[Armour.md\|Armour]]                  |
+| [[Rune of Swiftness.md\|Rune of Swiftness]]   | [[Weapon.md\|Weapon]]                  |
+| [[Rune of Vitality.md\|Rune of Vitality]]     | Accessories like [[Ring]], [[Necklace]], [[Bracelet]] or [[Earring]] |
 
 Rune of Magic
 [[Rune of Repulsion]]
