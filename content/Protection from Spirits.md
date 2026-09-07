@@ -1,16 +1,16 @@
 _[[1st Level Spell]]_
 
-**Casting**::
+**Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
-**Mana**:: 0
-**Range**:: 20 metres
-**Duration**:: Instant
+**Mana**:: 1
+**Range**:: Touch
+**Duration**:: 1 hour
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+_\*One vial of [[Holy Water]]._
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Effect**:: Until the spell ends, one willing [[Creature]] you touch is protected against [[Spirit|Spirits]]. The protection grants several benefits. Spirits have [[Disadvantage]] on [[Attack Roll|Attack Rolls]] against the target. The target also can’t be [[Charmed]], [[Frightened]], or [[Possessed]] by them. If the target is already [[Charmed]], [[Frightened]], or [[Possessed]] by such a creature, the target has [[Advantage]] on any new [[Saving Throw]] against the relevant effect.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional two mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
 
 **Type**:: [[Revelation Magic]]
 

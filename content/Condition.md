@@ -7,6 +7,7 @@
 | [[Burning.md\|Burning]]             |
 | [[Charmed.md\|Charmed]]             |
 | [[Confused.md\|Confused]]           |
+| [[Cursed.md\|Cursed]]               |
 | [[Dazed.md\|Dazed]]                 |
 | [[Dead.md\|Dead]]                   |
 | [[Deafened.md\|Deafened]]           |
@@ -25,6 +26,7 @@
 | [[Petrified.md\|Petrified]]         |
 | [[Pinned.md\|Pinned]]               |
 | [[Poisoned.md\|Poisoned]]           |
+| [[Possessed.md\|Possessed]]         |
 | [[Prone.md\|Prone]]                 |
 | [[Restrained.md\|Restrained]]       |
 | [[Stunned.md\|Stunned]]             |

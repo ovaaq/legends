@@ -2,7 +2,7 @@ _[[1st Level Rune]]_
 
 **Item**:: [[Armour]]
 
-Effect.
+While wearing the armour, your [Strength](Strength) score increases by 1.
 
 ---
 

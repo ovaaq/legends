@@ -5,6 +5,7 @@
 | [[Duplicate.md\|Duplicate]]               | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instantaneous |
 | [[Ghost Walk.md\|Ghost Walk]]             | [[Reaction]]\*                                                     | F, V, S, M\* | 0    | 20 metres | Instantaneous |
 | [[Ray of Ruin.md\|Ray of Ruin]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
+| [[Remove Curse.md\|Remove Curse]]         | [[Reaction]]\*                                                     | F, V, S, M\* | 0    | 20 metres | Instantaneous |
 | [[Revivify.md\|Revivify]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
 | [[Summon Construct.md\|Summon Construct]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
 | [[Summon Elemental.md\|Summon Elemental]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |

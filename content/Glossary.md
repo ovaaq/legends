@@ -103,6 +103,7 @@
 | [[Critical Hit.md\|Critical Hit]]                                   |
 | [[Critical Success.md\|Critical Success]]                           |
 | [[Crossbow.md\|Crossbow]]                                           |
+| [[Cursed.md\|Cursed]]                                               |
 | [[Damage Modifiers.md\|Damage Modifiers]]                           |
 | [[Damage Roll.md\|Damage Roll]]                                     |
 | [[Damage Type.md\|Damage Type]]                                     |
@@ -265,6 +266,7 @@
 | [[Poison Damage.md\|Poison Damage]]                                 |
 | [[Poisoned.md\|Poisoned]]                                           |
 | [[Polearm.md\|Polearm]]                                             |
+| [[Possessed.md\|Possessed]]                                         |
 | [[Potion.md\|Potion]]                                               |
 | [[Precision.md\|Precision]]                                         |
 | [[Prepare.md\|Prepare]]                                             |

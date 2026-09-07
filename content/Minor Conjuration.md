@@ -1,17 +1,16 @@
 _[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
-**Mana**:: 0
+**Components**:: F, V, S
+**Mana**:: 1
+**Range**:: 4 metres
+**Duration**:: 8 hours
 
-**Range**:: 20 metres
-**Duration**:: Instantaneous
+**Effect**:: You conjure a [Solid](Solid) [Object](Object) in your hand or in an unoccupied space that you can see within range. The [Object](Object) can be no larger than 2 metres on a side and weigh no more than 5 kg. You cannot duplicate fine mechanical details, such as those of a key.
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+[Detect Magic](Detect%20Magic) reveals the [Object](Object) as [[Magical]]. A [[Creature]] can also make an [Arcana](Arcana) [Check](Check) against your [Spell Save DC](Spell%20Save%20DC) to determine that the [Object](Object) is temporarily conjured.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
-
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the weight limit increases by 5 kg. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Conjuration Magic]]
 

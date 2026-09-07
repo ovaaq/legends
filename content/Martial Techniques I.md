@@ -5,9 +5,9 @@ _Flavour text_.
 
 **Stamina.** You use [[Stamina Point|Stamina Points]] to power your techniques. Your [[Stamina Point Maximum]] equals your [[Constitution]] score. You regain all expended [[Stamina Point|Stamina Points]] after a [[Short Rest]].
 
-**Martial Techniques.** Select four [[1st Level Martial technique|1st Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below:
+**Martial Techniques.** Select four [[1st Level Martial technique|1st Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below.
 
-**Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Main Hand Attack]].
+**Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Attack]].
 
 | 1st Level Martial Techniques                                                    | Execution                                                     | Stamina | Range     | Weapon                                                |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- |

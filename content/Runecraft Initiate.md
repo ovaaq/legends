@@ -10,7 +10,7 @@ Add these [[Rune|Runes]] to your [[Rune List]]:
 ##### 1st Level Runes
 
 - [[Rune of Might]]
-- [[Rune of Warding]]
+- [[Rune of Protection]]
 - [[Rune of Strength]]
 - [[Rune of Vitality]]
 

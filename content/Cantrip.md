@@ -99,6 +99,7 @@ ideas
 | [[Crimson Cut.md\|Crimson Cut]]                       |
 | [[Dancing Lights.md\|Dancing Lights]]                 |
 | [[Dark Flame.md\|Dark Flame]]                         |
+| [[Dazed.md\|Dazed]]                                   |
 | [[Divine Spellcasting.md\|Divine Spellcasting]]       |
 | [[Druidcraft.md\|Druidcraft]]                         |
 | [[Eldritch Blast.md\|Eldritch Blast]]                 |
