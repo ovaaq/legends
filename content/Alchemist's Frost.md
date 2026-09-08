@@ -12,4 +12,4 @@ This freezes any [[Liquid]] [[Object|Objects]] in the area that aren't being wor
 
 ---
 
-#uncommon #alchemical_item
+#common #alchemical_item

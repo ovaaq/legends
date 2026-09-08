@@ -4,7 +4,7 @@ _[[Cantrip]]_
 **Components**:: S, M\*
 **Mana**:: 0
 **Range**:: Touch
-**Duration**:: Concentration, 10 minutes
+**Duration**:: [[Concentration]], 10 minutes
 
 _\*[[Parchment Sheet]]._
 

@@ -5,7 +5,7 @@ _[[1st Level Spell]]_
 **Range::** 20 meters
 **Spell Parts::**  sF, V, S
 **Level::** [[1st Level Spell]]
-**Duration::** Concentration, up to 1 minute
+**Duration**:: [[Concentration]], 1 minute
 
 **Effect::** Each object in a 4-meter cube within range is outlined in glimmering light.
 

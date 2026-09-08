@@ -14,4 +14,4 @@ This ignites the surface and burns any [[Flammable]] [[Object|Objects]] in the a
 
 ---
 
-#alchemical_item #uncommon
+#alchemical_item #common

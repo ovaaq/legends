@@ -6,7 +6,7 @@ As a [[Double Action]], you can smear Sightbane on a [[Creature]]'s face, forcin
 **Critical Success:** No effect.
 **Success:** The target has [[Disadvantage]] on [[Perception]] [[Check|Checks]] with sight for 10 minutes.
 **Failure:** The target is [[Blinded]] for 10 minutes.
-**Critical Failure:** The target is [[Blinded]] for double the failure duration.
+**Critical Failure:** The target is [[Blinded]] for double the duration.
 
 ---
 

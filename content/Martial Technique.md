@@ -1,6 +1,7 @@
 | Martial Techniques                                                                |
 | --------------------------------------------------------------------------------- |
 | [[Bait and Switch.md\|Bait and Switch]]             |
+| [[Block Way.md\|Block Way]]                         |
 | [[Brute Strike.md\|Brute Strike]]                   |
 | [[Charging Strike.md\|Charging Strike]]             |
 | [[Commander’s Strike.md\|Commander’s Strike]]       |
@@ -22,6 +23,7 @@
 | [[Quick Coating.md\|Quick Coating]]                 |
 | [[Rally.md\|Rally]]                                 |
 | [[Riposte.md\|Riposte]]                             |
+| [[Slashing Strike.md\|Slashing Strike]]             |
 | [[Sneak Attack.md\|Sneak Attack]]                   |
 | [[Taunting Strike.md\|Taunting Strike]]             |
 | [[Trick Shot.md\|Trick Shot]]                       |

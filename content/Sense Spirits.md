@@ -5,7 +5,7 @@ _[[1st Level Spell]]_
 **Mana**:: 1
 
 **Range**:: Self
-**Duration**:: Concentration, up to 10 minutes
+**Duration**:: [[Concentration]], 10 minutes
 
 **Effect**:: For the duration, you sense the presence of [[Spirit|Spirits]] within 6 meters. If any are present, you may take an [[Action]] to perceive a faint aura outlining each [[Spirit]] in range. You also become aware of the dominant emotion each [[Spirit]] is experiencing.
 

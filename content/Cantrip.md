@@ -1,64 +1,64 @@
-| Cantrip                                                                   | Casting                                                           | Components  | Mana | Range      | Duration                  |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | ---------- | ------------------------- |
-| [[Acid Splash.md\|Acid Splash]]             | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
-| [[Animal Call.md\|Animal Call]]             | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 20 metres  | Concentration, 10 minutes |
-| [[Animate Paper.md\|Animate Paper]]         | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch      | Concentration, 10 minutes |
-| [[Arcane Blast.md\|Arcane Blast]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 minutes | Instant                   |
-| [[Arcane Mark.md\|Arcane Mark]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch      | 1 week                    |
-| [[Chaos Burst.md\|Chaos Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Charming Smile.md\|Charming Smile]]       | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres   | Concentration, 1 minute   |
-| [[Chill Touch.md\|Chill Touch]]             | [[Double Action.md\|Double Action]] | V, S        | 0    | Touch      | Instant                   |
-| [[Close Wounds.md\|Close Wounds]]           | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
-| [[Corrosive Shot.md\|Corrosive Shot]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
-| [[Crimson Cut.md\|Crimson Cut]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                   |
-| [[Dancing Lights.md\|Dancing Lights]]       | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres  | Concentration, 10 minutes |
-| [[Dark Flame.md\|Dark Flame]]               | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres  | Instant                   |
-| [[Druidcraft.md\|Druidcraft]]               | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres   | 1 hour                    |
-| [[Eldritch Blast.md\|Eldritch Blast]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                   |
-| [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self       | 1 hour                    |
-| [[Feral Claw.md\|Feral Claw]]               | [[Double Action.md\|Double Action]] | S           | 0    | Melee      | Instant                   |
-| [[Fire Bolt.md\|Fire Bolt]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Flame Blade.md\|Flame Blade]]             | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch      | 1 minute                  |
-| [[Flame Burst.md\|Flame Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 1 metre    | Instant                   |
-| [[Force Wave.md\|Force Wave]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Frostbite.md\|Frostbite]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Glow.md\|Glow]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch      | 1 hour                    |
-| [[Gravity Slam.md\|Gravity Slam]]           | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres  | Instant                   |
-| [[Guiding Strike.md\|Guiding Strike]]       | [[Action.md\|Action]]               | V, S, M\*    | 0    | 4 metres   | 1 minute                  |
-| [[Ignite.md\|Ignite]]                       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres  | Instant                   |
-| [[Infestation.md\|Infestation]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Lightning Lure.md\|Lightning Lure]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
-| [[Mage Hand.md\|Mage Hand]]                 | [[Double Action.md\|Double Action]] | V, S        | 0    | 10 metres  | 1 minute                  |
-| [[Message.md\|Message]]                     | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 40 meters  | 1 round                   |
-| [[Mind Sliver.md\|Mind Sliver]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Minor Illusion.md\|Minor Illusion]]       | [[Triple Action.md\|Triple Action]] | F, S        | 0    | 10 metres  | 1 minute                  |
-| [[Mocking Taunt.md\|Mocking Taunt]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                   |
-| [[Mortal Dread.md\|Mortal Dread]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                   |
-| [[Poison Spray.md\|Poison Spray]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                   |
-| [[Prestidigitation.md\|Prestidigitation]]   | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres   | 1 hour                    |
-| [[Prismatic Ray.md\|Prismatic Ray]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                   |
-| [[Produce Flame.md\|Produce Flame]]         | [[Double Action.md\|Double Action]] | V, S        | 0    | Self       | 10 minutes                |
-| [[Psychic Shock.md\|Psychic Shock]]         | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres  | Instant                   |
-| [[Ray of Frost.md\|Ray of Frost]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                   |
-| [[Sacred Flame.md\|Sacred Flame]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                   |
-| [[Sapping Sting.md\|Sapping Sting]]         | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 40 metres  | Instant                   |
-| [[Shadow Tendril.md\|Shadow Tendril]]       | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 20 metres  | Instant                   |
-| [[Shillelagh.md\|Shillelagh]]               | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch      | 1 minute                  |
-| [[Shocking Grasp.md\|Shocking Grasp]]       | [[Double Action.md\|Double Action]] | V, S,       | 0    | Touch      | Instant                   |
-| [[Solar Flare.md\|Solar Flare]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 4 metres   | Instant                   |
-| [[Spectral Grasp.md\|Spectral Grasp]]       | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                   |
-| [[Starry Wisp.md\|Starry Wisp]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                   |
-| [[Telekinetic Throw.md\|Telekinetic Throw]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 10 metres  | Instant                   |
-| [[Thaumaturgy.md\|Thaumaturgy]]             | [[Double Action.md\|Double Action]] | V           | 0    | 10 metres  | 1 minute                  |
-| [[Thorn Dart.md\|Thorn Dart]]               | [[Triple Action.md\|Triple Action]] | F, S, M\*    | 0    | 10 metres  | Instant                   |
-| [[Thunderbolt.md\|Thunderbolt]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                   |
-| [[Thunderclap.md\|Thunderclap]]             | [[Triple Action.md\|Triple Action]] | S           | 0    | 20 metres  | Instant                   |
-| [[Toxic Torrent.md\|Toxic Torrent]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 4 metres   | Instant                   |
-| [[Venom Fang.md\|Venom Fang]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Melee      | Instant                   |
-| [[Vine Lash.md\|Vine Lash]]                 | [[Double Action.md\|Double Action]] | V, S, M\*    | 0    | 4 metres   | Instant                   |
-| [[Water Bolt.md\|Water Bolt]]               | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                   |
-| [[Wind Slash.md\|Wind Slash]]               | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres  | Instant                   |
-| [[Withering Touch.md\|Withering Touch]]     | [[Double Action.md\|Double Action]] | F, S        | 0    | Melee      | Instant                   |
+| Cantrip                                                                   | Casting                                                           | Components  | Mana | Range      | Duration                                                                                                |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | ---------- | ------------------------------------------------------------------------------------------------------- |
+| [[Acid Splash.md\|Acid Splash]]             | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
+| [[Animal Call.md\|Animal Call]]             | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 20 metres  | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
+| [[Animate Paper.md\|Animate Paper]]         | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch      | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
+| [[Arcane Blast.md\|Arcane Blast]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 minutes | Instant                                                                                                 |
+| [[Arcane Mark.md\|Arcane Mark]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch      | 1 week                                                                                                  |
+| [[Chaos Burst.md\|Chaos Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Charming Smile.md\|Charming Smile]]       | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres   | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
+| [[Chill Touch.md\|Chill Touch]]             | [[Double Action.md\|Double Action]] | V, S        | 0    | Touch      | Instant                                                                                                 |
+| [[Close Wounds.md\|Close Wounds]]           | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
+| [[Corrosive Shot.md\|Corrosive Shot]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
+| [[Crimson Cut.md\|Crimson Cut]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                                                                                                 |
+| [[Dancing Lights.md\|Dancing Lights]]       | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres  | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
+| [[Dark Flame.md\|Dark Flame]]               | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres  | Instant                                                                                                 |
+| [[Druidcraft.md\|Druidcraft]]               | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres   | 1 hour                                                                                                  |
+| [[Eldritch Blast.md\|Eldritch Blast]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                                                 |
+| [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self       | 1 hour                                                                                                  |
+| [[Feral Claw.md\|Feral Claw]]               | [[Double Action.md\|Double Action]] | S           | 0    | Melee      | Instant                                                                                                 |
+| [[Fire Bolt.md\|Fire Bolt]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Flame Blade.md\|Flame Blade]]             | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch      | 1 minute                                                                                                |
+| [[Flame Burst.md\|Flame Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 1 metre    | Instant                                                                                                 |
+| [[Force Wave.md\|Force Wave]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Frostbite.md\|Frostbite]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Glow.md\|Glow]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch      | 1 hour                                                                                                  |
+| [[Gravity Slam.md\|Gravity Slam]]           | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres  | Instant                                                                                                 |
+| [[Guiding Strike.md\|Guiding Strike]]       | [[Action.md\|Action]]               | V, S, M\*    | 0    | 4 metres   | 1 minute                                                                                                |
+| [[Ignite.md\|Ignite]]                       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres  | Instant                                                                                                 |
+| [[Infestation.md\|Infestation]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Lightning Lure.md\|Lightning Lure]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
+| [[Mage Hand.md\|Mage Hand]]                 | [[Double Action.md\|Double Action]] | V, S        | 0    | 10 metres  | 1 minute                                                                                                |
+| [[Message.md\|Message]]                     | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 40 meters  | 1 round                                                                                                 |
+| [[Mind Sliver.md\|Mind Sliver]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Minor Illusion.md\|Minor Illusion]]       | [[Triple Action.md\|Triple Action]] | F, S        | 0    | 10 metres  | 1 minute                                                                                                |
+| [[Mocking Taunt.md\|Mocking Taunt]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                                                                                                 |
+| [[Mortal Dread.md\|Mortal Dread]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                                                                                                 |
+| [[Poison Spray.md\|Poison Spray]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                                                                                                 |
+| [[Prestidigitation.md\|Prestidigitation]]   | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres   | 1 hour                                                                                                  |
+| [[Prismatic Ray.md\|Prismatic Ray]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                                                 |
+| [[Produce Flame.md\|Produce Flame]]         | [[Double Action.md\|Double Action]] | V, S        | 0    | Self       | 10 minutes                                                                                              |
+| [[Psychic Shock.md\|Psychic Shock]]         | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres  | Instant                                                                                                 |
+| [[Ray of Frost.md\|Ray of Frost]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                                                 |
+| [[Sacred Flame.md\|Sacred Flame]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
+| [[Sapping Sting.md\|Sapping Sting]]         | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                                                 |
+| [[Shadow Tendril.md\|Shadow Tendril]]       | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 20 metres  | Instant                                                                                                 |
+| [[Shillelagh.md\|Shillelagh]]               | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch      | 1 minute                                                                                                |
+| [[Shocking Grasp.md\|Shocking Grasp]]       | [[Double Action.md\|Double Action]] | V, S,       | 0    | Touch      | Instant                                                                                                 |
+| [[Solar Flare.md\|Solar Flare]]             | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 4 metres   | Instant                                                                                                 |
+| [[Spectral Grasp.md\|Spectral Grasp]]       | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                                                                                                 |
+| [[Starry Wisp.md\|Starry Wisp]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                                                 |
+| [[Telekinetic Throw.md\|Telekinetic Throw]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 10 metres  | Instant                                                                                                 |
+| [[Thaumaturgy.md\|Thaumaturgy]]             | [[Double Action.md\|Double Action]] | V           | 0    | 10 metres  | 1 minute                                                                                                |
+| [[Thorn Dart.md\|Thorn Dart]]               | [[Triple Action.md\|Triple Action]] | F, S, M\*    | 0    | 10 metres  | Instant                                                                                                 |
+| [[Thunderbolt.md\|Thunderbolt]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
+| [[Thunderclap.md\|Thunderclap]]             | [[Triple Action.md\|Triple Action]] | S           | 0    | 20 metres  | Instant                                                                                                 |
+| [[Toxic Torrent.md\|Toxic Torrent]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 4 metres   | Instant                                                                                                 |
+| [[Venom Fang.md\|Venom Fang]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Melee      | Instant                                                                                                 |
+| [[Vine Lash.md\|Vine Lash]]                 | [[Double Action.md\|Double Action]] | V, S, M\*    | 0    | 4 metres   | Instant                                                                                                 |
+| [[Water Bolt.md\|Water Bolt]]               | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                                                                                                 |
+| [[Wind Slash.md\|Wind Slash]]               | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres  | Instant                                                                                                 |
+| [[Withering Touch.md\|Withering Touch]]     | [[Double Action.md\|Double Action]] | F, S        | 0    | Melee      | Instant                                                                                                 |
 
 to do
 

@@ -5,7 +5,7 @@ _[[1st Level Spell]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Concentration, up to 1 minute
+**Duration**:: [[Concentration]], 1 minute
 
 _\*100 grams of [[Gold Dust]], consumed by the spell_
 

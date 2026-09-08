@@ -12,6 +12,7 @@ _Flavour text_.
 | 1st Level Martial Techniques                                                    | Execution                                                     | Stamina | Range     | Weapon                                                |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- |
 | [[Bait and Switch.md\|Bait and Switch]]           | [[Action.md\|Action]]           | 1       | 1 metre   | None                                                  |
+| [[Block Way.md\|Block Way]]                       | [[Action.md\|Action]]           | 1       | Melee     | [[Polearm.md\|Polearm]] |
 | [[Brute Strike.md\|Brute Strike]]                 | [[Free Action]]\*                                              | 1       | Melee     | Heavy                                                 |
 | [[Charging Strike.md\|Charging Strike]]           | [[Action.md\|Action]]           | 1       | Melee     | Any                                                   |
 | [[Commander’s Strike.md\|Commander’s Strike]]     | **▶▶▶⚡〇**                                                     | 0       | Melee     | Bludgeoning                                           |
@@ -32,6 +33,7 @@ _Flavour text_.
 | [[Quick Coating.md\|Quick Coating]]               | [[Action.md\|Action]]           | 0       | Melee     | Piercing or Slashing                                  |
 | [[Rally.md\|Rally]]                               | [[Action.md\|Action]]           | 1       | 10 metres | None                                                  |
 | [[Riposte.md\|Riposte]]                           | [[Free Action]]\*                                              | 2       | Melee     | Any                                                   |
+| [[Slashing Strike.md\|Slashing Strike]]           | [[Action.md\|Action]]           | 1       | Melee     | Slashing                                              |
 | [[Sneak Attack.md\|Sneak Attack]]                 | [[Free Action]]\*                                              | 0       | Any       | [[Finesse.md\|Finesse]] |
 | [[Taunting Strike.md\|Taunting Strike]]           | [[Free Action]]\*                                              | 1       | 4 metres  | Any                                                   |
 | [[Trick Shot.md\|Trick Shot]]                     | [[Action.md\|Action]]           | 1       | Range     | [[Ranged]] or [[Thrown]]                              |
