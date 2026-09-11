@@ -1,13 +1,10 @@
-_[[Offensive Actions]]_
+_[[Offensive Action]]_
 
-**Description**:: Make an attack with a weapon or unarmed strike.
-**Action**:: [[Double Action]]
+**Execution**:: [[Double Action]]
 **Target**:: [[Creature]] or [[Object]]
 
-[[Spell Attack]]
-[[Weapon Attack]]
+Make an [[Weapon Attack]] with a [[Weapon]] wielded in your hand or an [[Unarmed Strike]].
 
 ---
 
 #keyword #action #encounter #offensive
-[[Encounter Action]]

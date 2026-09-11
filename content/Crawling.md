@@ -9,4 +9,3 @@ Explanation.
 ---
 
 #keyword #action #encounter #movement
-[[Encounter Action]]

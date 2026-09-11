@@ -1,4 +1,4 @@
-_[[Magical Actions]]_
+_[[Magical Action]]_
 
 **Description**:: Cast a [[Spell]] you are able to cast.
 **Action**:: Multiple

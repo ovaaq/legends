@@ -1,10 +1,13 @@
-_[[Offensive Actions]]_
+_[[Offensive Action]]_
 
-**Description**::
-**Action**:: [[Double Action]]
-**Target**::
+**Execution**:: [[Double Action]]
+**Target**:: [[Creature]] or [[Object]]
 
-Explanation.
+You attempt to push a [[Creature]] or [[Object]]. Make an [[Athletics]] [[Check]]. The target makes an [[Agility Saving Throw]] or [[Strength Saving Throw]] against your [[Athletics]] [[Check]] result.
+
+**Success:** No effect.
+**Failure:** The target is pushed directly away from you 1 metre.
+**Critical Failure:** The target is pushed directly away from you 2 metres.
 
 ---
 

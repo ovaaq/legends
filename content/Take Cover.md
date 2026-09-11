@@ -1,4 +1,4 @@
-_[[Defensive Actions]]_
+_[[Defensive Action]]_
 
 **Description**:: Find cover behind [[Object]], [[Creature]] or buildings.
 **Action**:: [[Action]]

@@ -1,12 +1,10 @@
-_[[Movement Actions]]_
+_[[Movement Action]]_
 
-**Description**::
-**Action**:: [[Double Action]]
-**Target**::
+**Execution**:: [[Double Action]]
+**Target**:: Self
 
-Explanation.
+You can move an additional distance equal to your [[Walking Speed]] during this [[Turn]].
 
 ---
 
 #keyword #action #encounter #movement
-[[Encounter Action]]

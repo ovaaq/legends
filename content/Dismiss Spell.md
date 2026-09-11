@@ -1,4 +1,4 @@
-_[[Magical Actions]]_
+_[[Magical Action]]_
 
 **Description**:: Stop concentration on a spell or end ongoing spell effect.
 **Action**:: [[Free Action]]

@@ -8,6 +8,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Arcane Talent Tree.md\|Arcane Talent Tree]]               |
 | [[Armour Talent Tree.md\|Armour Talent Tree]]               |
 | [[Beast Talent Tree.md\|Beast Talent Tree]]                 |
+| [[Berserk Talent Tree.md\|Berserk Talent Tree]]             |
 | [[Capability Talent Tree.md\|Capability Talent Tree]]       |
 | [[Devil Pact Talent Tree.md\|Devil Pact Talent Tree]]       |
 | [[Divination Talent Tree.md\|Divination Talent Tree]]       |
@@ -20,10 +21,10 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Healer Talent Tree.md\|Healer Talent Tree]]               |
 | [[Innate Talent Tree.md\|Innate Talent Tree]]               |
 | [[Inspirer Talent Tree.md\|Inspirer Talent Tree]]           |
-| [[Ki Talent Tree.md\|Ki Talent Tree]]                       |
 | [[Knowledge Talent Tree.md\|Knowledge Talent Tree]]         |
 | [[Light Talent Tree.md\|Light Talent Tree]]                 |
 | [[Luck Talent Tree.md\|Luck Talent Tree]]                   |
+| [[Martial Arts Talent Tree.md\|Martial Arts Talent Tree]]   |
 | [[Martial Talent Tree.md\|Martial Talent Tree]]             |
 | [[Mental Talent Tree.md\|Mental Talent Tree]]               |
 | [[Metamagic Talent Tree.md\|Metamagic Talent Tree]]         |
@@ -32,7 +33,6 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Nature Talent Tree.md\|Nature Talent Tree]]               |
 | [[Pact Talent Tree.md\|Pact Talent Tree]]                   |
 | [[Psionic Talent Tree.md\|Psionic Talent Tree]]             |
-| [[Rage Talent Tree.md\|Rage Talent Tree]]                   |
 | [[Resistance Talent Tree.md\|Resistance Talent Tree]]       |
 | [[Runecraft Talent Tree.md\|Runecraft Talent Tree]]         |
 | [[Spellblade Talent Tree.md\|Spellblade Talent Tree]]       |

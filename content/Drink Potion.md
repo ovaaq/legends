@@ -1,13 +1,10 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
-**Description**:: Drink one [[Potion]] you have.
+**Execution**:: [[Action]]
+**Target**:: Self
 
-**Action**:: [[Action]]
-**Target**::
-
-Explanation.
+You drink one [[Potion]] in your possession.
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]

@@ -1,10 +1,9 @@
-_[[Defensive Actions]]_
+_[[Defensive Action]]_
 
-**Description**::
-**Action**:: [[Double Action]]
-**Target**::
+**Execution**:: [[Double Action]]
+**Target**:: Self
 
-+5 Explanation.
+Increase your [[Evasion Class]] by 5 until the start of your next [[Turn]]. You lose this benefit if you [[Incapacitated]] or if your [[Walking Speed]] drops to 0.
 
 ---
 

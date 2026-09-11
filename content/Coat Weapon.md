@@ -1,4 +1,4 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
 **Description**:: Coat weapon or ammunition with poison or other stuff.
 

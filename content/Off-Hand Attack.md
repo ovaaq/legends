@@ -1,10 +1,9 @@
-_[[Offensive Actions]]_
+_[[Offensive Action]]_
 
-**Description**:: Follow-up  [[Weapon]] or [[Unarmed Strike]] after main [[Main Hand Attack]].
-**Action**:: [[Action]]
-**Target**::
+**Execution**:: [[Action]]
+**Target**:: [[Creature]] or [[Object]]
 
-When you take the [[Main Hand Attack]] action, you can make a Off-Hand Attack using a second [[Weapon]] wielded in your other hand, or with an [[Unarmed Strike]].
+After you make a [[Main Hand Attack]] with a [[Light]] [[Weapon]], you can make a [[Weapon Attack]] with another [[Light]] [[Weapon]] or an [[Unarmed Strike]] with your other hand.
 
 ---
 

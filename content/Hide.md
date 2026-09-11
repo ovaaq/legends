@@ -1,4 +1,4 @@
-_[[Movement Actions]]_
+_[[Movement Action]]_
 
 **Description**::
 **Action**:: [[Double Action]]

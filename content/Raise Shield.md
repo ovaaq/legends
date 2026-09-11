@@ -1,11 +1,11 @@
-_[[Defensive Actions]]_
+_[[Defensive Action]]_
 
-**Description**::
-**Action**:: [[Action]]
-**Target**::
+**Execution**:: [[Double Action]]
+**Target**:: Self
 
-Explanation.
+Increase your [[Armour Class]] by 5 until the start of your next [[Turn]].
 
 ---
 
 #keyword #action #encounter #defensive
+[[Encounter Action]]

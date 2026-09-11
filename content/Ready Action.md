@@ -1,4 +1,4 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
 **Description**:: Prepare to do something when trigger event happens.
 

@@ -1,10 +1,13 @@
-_[[Offensive Actions]]_
+_[[Offensive Action]]_
 
-**Description**::
-**Action**:: [[Double Action]]
-**Target**::
+**Execution**:: [[Double Action]]
+**Target**:: [[Creature]]
 
-Explanation.
+You attempt to grapple a [[Creature]]. Make an [[Athletics]] [[Check]]. The target makes an [[Agility Saving Throw]] or [[Strength Saving Throw]] against the result of your [[Athletics]] [[Check]].
+
+**Success:** No effect.
+**Failure:** The target becomes [[Grappled]] by you.
+**Critical Failure:** The target becomes [[Grappled]] by you and has [[Disadvantage]] on first attempt to [[Escape]].
 
 ---
 

@@ -1,9 +1,9 @@
 _[[Utility Action]]_
 
-**Description**:: Use [[Object]].
+**Description**:: Drop a held [[Object]].
 
-**Action**:: Multiple
-**Target**::
+**Action**:: [[Free Action]]
+**Target**:: Self
 
 Explanation.
 

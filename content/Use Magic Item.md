@@ -1,4 +1,4 @@
-_[[Magical Actions]]_
+_[[Magical Action]]_
 
 **Description**:: Use [[Magic Item]].
 **Action**:: Multiple

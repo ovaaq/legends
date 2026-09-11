@@ -1,10 +1,9 @@
-_[[Magical Actions]]_
+_[[Magical Action]]_
 
-**Description**:: Make a [[Arcana]] [[Check]] to understand magical effect.
-**Action**:: [[Action]]
-**Target**:: Magical Effect
+**Execution**:: [[Action]]
+**Target**:: Self
 
-Explanation.
+You attempt to understand an ongoing magical effect or spell. Make an [[Arcana]] [[Check]].
 
 ---
 

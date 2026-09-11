@@ -1,4 +1,4 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
 **Description**:: Analyse [[Creature]] or [[Object]], determine illusions etc.
 

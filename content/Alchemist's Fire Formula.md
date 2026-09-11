@@ -4,6 +4,7 @@ _[[1st Level Alchemical Formula]]_
 **Equipment**:: [[Alchemist’s Supplies]]
 **Range**:: Touch
 **Duration**:: Instant
+**DC**:: 15
 
 **Ingredients**:: 2 [[Common Volatile Reagent]], [[Glass Vial]]
 

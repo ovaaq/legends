@@ -462,8 +462,8 @@ Talents are grouped by relevance to make them easier to find. Some Talents are o
 
 - [[Weapon Talent Tree]]
 - [[Armour Talent Tree]]
-- [[Ki Talent Tree]]
-- [[Rage Talent Tree]]
+- [[Martial Arts Talent Tree]]
+- [[Berserk Talent Tree]]
 
 ### Arcane Talents
 

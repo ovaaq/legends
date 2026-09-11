@@ -1,6 +1,8 @@
 [[Main Hand Attack]]
 [[Off-Hand Attack]]
 
+[[Unarmed Strike]]
+
 [[Touch Attack]]
 [[Melee Attack]]
 [[Ranged Attack]]

@@ -1,11 +1,9 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
-**Description**:: Make a [[Lockpicking]] [[Sleight of Hand]] [[Check]] to help a disarm a trap.
+**Execution**:: [[Triple Action]]
+**Target**:: [[Trap]]
 
-**Action**:: [[Triple Action]]
-**Target**::
-
-Explanation.
+You attempt to disarm an [[Object]] held by a [[Creature]]. Make an [[Athletics]] or [[Sleight of Hand]] [[Check]]. The target makes an [[Agility Saving Throw]] or [[Strength Saving Throw]] against the result of your [[Check]].
 
 ---
 

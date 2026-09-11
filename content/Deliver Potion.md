@@ -1,13 +1,10 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
-**Description**:: Feed [[Potion]] to another [[Creature]].
+**Execution**:: [[Double Action]]
+**Target**:: [[Creature]]
 
-**Action**:: [[Double Action]]
-**Target**::
-
-Explanation.
+You feed one [[Potion]] in your possession to another [[Creature]].
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]

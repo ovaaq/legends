@@ -1,9 +1,9 @@
 **Requirements**:: [[Alchemy Initiate]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-Choose two [[Alchemical Formula|Alchemical Formulas]] from the [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
+Each time you use your combat alchemy you can add your alchemy rank to the damage or half of it to healing effect.
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]

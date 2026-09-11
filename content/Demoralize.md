@@ -1,4 +1,4 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
 **Description**:: Make [[Intimidation]] [[Check]] to shaken enemies.
 

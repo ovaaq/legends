@@ -10,10 +10,10 @@ _Flavour text_.
 | Fighting Stances                                                          |
 | ------------------------------------------------------------------------- |
 | [[Aggressive Stance.md\|Aggressive Stance]] |
+| [[Balanced Stance.md\|Balanced Stance]]     |
 | [[Defensive Stance.md\|Defensive Stance]]   |
 | [[Protector Stance.md\|Protector Stance]]   |
 | [[Steady Stance.md\|Steady Stance]]         |
-| [[Sturdy Stance.md\|Sturdy Stance]]         |
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]

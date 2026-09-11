@@ -1,11 +1,11 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
 **Description**:: Ignite [[Object]].
 
 **Action**:: [[Action]]
 **Target**::
 
-Explanation.
+Lit [[Torch]], [[Lantern]], fireplace, etc with [[Tinderbox]].
 
 ---
 

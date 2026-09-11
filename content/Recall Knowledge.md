@@ -1,13 +1,10 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
-**Description**:: Make a [[History]], [[Arcana]], [[Religion]] or [[Nature]] [[Check]] to recall knowledge.
+**Execution**:: [[Action]]
+**Target**:: Self
 
-**Action**:: [[Action]]
-**Target**::
-
-Explanation.
+You attempt to recall knowledge. Make a [[History]], [[Arcana]], [[Religion]], [[Nature]], or [[Medicine]] [[Check]].
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]

@@ -4,13 +4,13 @@ Martial Talents reflect a character’s combat prowess, from mastering weapons t
 | ----------------------------------------------------------------------------- |
 | [[Martial Talent Tree.md\|Martial Talent Tree]] |
 
-| Sub Talent Trees                                                              |
-| ----------------------------------------------------------------------------- |
-| [[Armour Talent Tree.md\|Armour Talent Tree]]   |
-| [[Evasion Talent Tree.md\|Evasion Talent Tree]] |
-| [[Ki Talent Tree.md\|Ki Talent Tree]]           |
-| [[Rage Talent Tree.md\|Rage Talent Tree]]       |
-| [[Weapon Talent Tree.md\|Weapon Talent Tree]]   |
+| Sub Talent Trees                                                                        |
+| --------------------------------------------------------------------------------------- |
+| [[Armour Talent Tree.md\|Armour Talent Tree]]             |
+| [[Berserk Talent Tree.md\|Berserk Talent Tree]]           |
+| [[Evasion Talent Tree.md\|Evasion Talent Tree]]           |
+| [[Martial Arts Talent Tree.md\|Martial Arts Talent Tree]] |
+| [[Weapon Talent Tree.md\|Weapon Talent Tree]]             |
 
 | Talent Name                                                                                               | Group                                                               | Cost | Requirements                                                                            | Following Talents                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

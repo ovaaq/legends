@@ -1,13 +1,10 @@
-_[[Utility Actions]]_
+_[[Utility Action]]_
 
-**Description**:: Make a [[Perception]] [[Check]] to seek around.
+**Execution**:: [[Action]]
+**Target**:: Self
 
-**Action**:: [[Action]]
-**Target**::
-
-Explanation.
+You quickly look around. Make a [[Perception]] [[Check]].
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]
