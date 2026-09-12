@@ -165,6 +165,7 @@
 | [[Free Action.md\|Free Action]]                                                   |
 | [[Friendly.md\|Friendly]]                                                         |
 | [[Frightened.md\|Frightened]]                                                     |
+| [[Gemstone.md\|Gemstone]]                                                         |
 | [[01 - Projects/3 Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                                       |
 | [[General Skill.md\|General Skill]]                                               |
 | [[General Skill Modifier.md\|General Skill Modifier]]                             |

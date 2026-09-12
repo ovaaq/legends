@@ -19,7 +19,7 @@ _Flavour text_.
 | [[Counterbalance.md\|Counterbalance]]                               | [[Reaction]]\*                                                 | 1       | Self      | Any                                                   |
 | [[Crushing Grip.md\|Crushing Grip]]                                 | [[Free Action.md\|Free Action]] | 2       | Melee     | None                                                  |
 | [[Dirty Hit.md\|Dirty Hit]]                                         | [[Free Action]]\*                                              | 1       | Melee     | Any                                                   |
-| [[Disarming Attack.md\|Disarming Attack]]                           | [[Free Action.md\|Free Action]] | 1       | Melee     | Any                                                   |
+| [[Disarming Attack.md\|Disarming Attack]]                           | [[Free Action]]\*                                              | 1       | Any       | Any                                                   |
 | [[Distracting Strike.md\|Distracting Strike]]                       | [[Free Action]]\*                                              | 1       | Any       | Any                                                   |
 | [[Evasive Footwork.md\|Evasive Footwork]]                           | [[Action.md\|Action]]           | 1       | Self      | Any                                                   |
 | [[Feinting Attack.md\|Feinting Attack]]                             | [[Free Action]]\*                                              | 1       | Any       | Advanced                                              |

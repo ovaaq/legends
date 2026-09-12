@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: You strike at a vulnerable point and force the target to make a [[Constitution Saving Throw]]:
+**Effect**:: You strike at a vulnerable point and force the target to make a [[Constitution Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** Target's [[Walking Speed]] is halved until the end of it's next [[Turn]].
