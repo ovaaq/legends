@@ -1,11 +1,10 @@
-_[[Movement Action]]_
+_[[Defensive Action]]_
 
-**Description**::
-**Action**:: [[Double Action]]
-**Target**::
+**Execution**:: [[Double Action]]
+**Target**:: Self
 
-Explanation.
+You attempt to hide. Make a [[Stealth]] [[Check]].
 
 ---
 
-#keyword #action #encounter #movement
+#keyword #action #encounter #defensive

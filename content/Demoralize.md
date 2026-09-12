@@ -1,13 +1,10 @@
 _[[Utility Action]]_
 
-**Description**:: Make [[Intimidation]] [[Check]] to shaken enemies.
+**Execution**:: [[Action]]
+**Target**:: [[Creature|Creatures]]
 
-**Action**:: [[Action]]
-**Target**:: [[Creature]]
-
-Make [[Intimidation]] [[Check]] to shaken enemies.
+You attempt to demoralize an enemy. Make an [[Intimidation]] [[Check]].
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]

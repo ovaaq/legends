@@ -66,7 +66,6 @@
 | [[Cantrip.md\|Cantrip]]                                                           |
 | [[Carry.md\|Carry]]                                                               |
 | [[Carrying Capacity.md\|Carrying Capacity]]                                       |
-| [[Cast Spell.md\|Cast Spell]]                                                     |
 | [[Celestial Ancestry.md\|Celestial Ancestry]]                                     |
 | [[Character Sheet.md\|Character Sheet]]                                           |
 | [[Charisma.md\|Charisma]]                                                         |
@@ -108,7 +107,6 @@
 | [[Damage Roll.md\|Damage Roll]]                                                   |
 | [[Damage Type.md\|Damage Type]]                                                   |
 | [[Dash.md\|Dash]]                                                                 |
-| [[Dashing Jump.md\|Dashing Jump]]                                                 |
 | [[Dazed.md\|Dazed]]                                                               |
 | [[Dazed (conflict 2026-09-08-19-36-08).md\|Dazed (conflict 2026-09-08-19-36-08)]] |
 | [[Dead.md\|Dead]]                                                                 |
@@ -161,6 +159,7 @@
 | [[First Aid.md\|First Aid]]                                                       |
 | [[Flammable.md\|Flammable]]                                                       |
 | [[Flat-Footed.md\|Flat-Footed]]                                                   |
+| [[00 - Inbox/Flying.md\|Flying]]                                                                                |
 | [[Forage.md\|Forage]]                                                             |
 | [[Fortify the Camp.md\|Fortify the Camp]]                                         |
 | [[Free Action.md\|Free Action]]                                                   |
@@ -186,7 +185,7 @@
 | [[Hit Point Maximum.md\|Hit Point Maximum]]                                       |
 | [[Hostile.md\|Hostile]]                                                           |
 | [[Human Ancestry.md\|Human Ancestry]]                                             |
-| [[Identify Magical Effect.md\|Identify Magical Effect]]                           |
+| [[Identify Magic.md\|Identify Magic]]                                             |
 | [[Ignite Object.md\|Ignite Object]]                                               |
 | [[Immobilized.md\|Immobilized]]                                                   |
 | [[Immune.md\|Immune]]                                                             |
@@ -296,7 +295,6 @@
 | [[Rare Volatile Reagent.md\|Rare Volatile Reagent]]                               |
 | [[Reach.md\|Reach]]                                                               |
 | [[Reaction.md\|Reaction]]                                                         |
-| [[Ready Action.md\|Ready Action]]                                                 |
 | [[Reagent.md\|Reagent]]                                                           |
 | [[Recall Knowledge.md\|Recall Knowledge]]                                         |
 | [[Religion.md\|Religion]]                                                         |
@@ -357,7 +355,6 @@
 | [[Take Cover.md\|Take Cover]]                                                     |
 | [[Talent.md\|Talent]]                                                             |
 | [[Talent Tree.md\|Talent Tree]]                                                   |
-| [[00 - Inbox/Temporally Exhausted.md\|Temporally Exhausted]]                                                    |
 | [[Temporary Hit Point.md\|Temporary Hit Point]]                                   |
 | [[Thrown.md\|Thrown]]                                                             |
 | [[Too Heavy Penalty.md\|Too Heavy Penalty]]                                       |
@@ -382,8 +379,6 @@
 | [[Unconscious.md\|Unconscious]]                                                   |
 | [[Untrained Armour Penalty.md\|Untrained Armour Penalty]]                         |
 | [[Untrained Weapon Penalty.md\|Untrained Weapon Penalty]]                         |
-| [[Use Magic Item.md\|Use Magic Item]]                                             |
-| [[Use Object.md\|Use Object]]                                                     |
 | [[Utility Action.md\|Utility Action]]                                             |
 | [[Versatile.md\|Versatile]]                                                       |
 | [[Visible.md\|Visible]]                                                           |
@@ -396,4 +391,5 @@
 | [[Weapon Category.md\|Weapon Category]]                                           |
 | [[Weapon Property.md\|Weapon Property]]                                           |
 | [[Willing.md\|Willing]]                                                           |
+| [[Winded.md\|Winded]]                                                             |
 | [[Wound Poison.md\|Wound Poison]]                                                 |

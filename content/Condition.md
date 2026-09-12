@@ -32,6 +32,7 @@
 | [[Restrained.md\|Restrained]]                                                     |
 | [[Stunned.md\|Stunned]]                                                           |
 | [[Unconscious.md\|Unconscious]]                                                   |
+| [[Winded.md\|Winded]]                                                             |
 
 ---
 

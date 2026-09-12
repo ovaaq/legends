@@ -1,10 +1,9 @@
 _[[Movement Action]]_
 
-**Description**::
-**Action**:: [[Action]]
-**Target**::
+**Execution**:: [[Action]]
+**Target**:: Self
 
-Explanation.
+You stand up, removing the [[Prone]] condition.
 
 ---
 

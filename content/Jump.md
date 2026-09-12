@@ -1,16 +1,11 @@
 _[[Movement Action]]_
 
-**Description**:: Make leap into air.
-**Action**:: [[Action]]
+**Execution**:: [[Action]]
 **Target**:: Self
 
-Jump distance counts against your [[Walking Speed]]. If you have no [[Walking Speed]] or are [[Prone]], you cannot jump.
+You attempt to jump a long distance. Make an [[Athletics]] [[Check]]. The DC is 6 times the jump distance in metres. If you move at least 3 metres toward the jump immediately before jumping, the DC is halved. The jump distance counts against your [[Walking Speed]].
 
-**Jump.** Make an [[Athletics]] [[Check]]. You can jump up to a distance equal to your result divided by 6.
-
-**Vertical Jump.** Make an [[Athletics]] [[Check]]. You can jump vertically up to a height equal to your result divided by 10.
-
-**Dashing Jump.** If you have taken the [[Dash]] action before making the roll, make an [[Athletics]] [[Check]]. You can jump up to a distance equal to your result divided by 3.
+When you land in [[Difficult Terrain]], you must succeed on a DC 10 [[Acrobatics]] [[Check]] to land on your feet. Otherwise, you land [[Prone]].
 
 ---
 

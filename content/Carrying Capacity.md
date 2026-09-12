@@ -1,4 +1,4 @@
-Carrying Capacity = 40 + 5 × [[Strength]] score
+Carrying Capacity = 30 + 5 × [[Strength]] score
 
 ---
 

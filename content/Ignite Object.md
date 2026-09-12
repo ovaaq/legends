@@ -1,13 +1,10 @@
 _[[Utility Action]]_
 
-**Description**:: Ignite [[Object]].
+**Execution**:: [[Action]]
+**Target**:: [[Creature|Creatures]]
 
-**Action**:: [[Action]]
-**Target**::
-
-Lit [[Torch]], [[Lantern]], fireplace, etc with [[Tinderbox]].
+Light a [[Torch]], [[Lantern]], fireplace, or similar [[Object]] using a [[Tinderbox]].
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]
