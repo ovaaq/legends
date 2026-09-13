@@ -46,7 +46,7 @@
 | [[Hunting Trap.md\|Hunting Trap]]                         | -     | -   |
 | [[Ink Bottle.md\|Ink Bottle]]                             | -     | -   |
 | [[Knockout Drops.md\|Knockout Drops]]                     | -     | -   |
-| [[00 - Inbox/Lantern.md\|Lantern]]                                                      | -     | -   |
+| [[Lantern.md\|Lantern]]                                   | -     | -   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]         | -     | -   |
 | [[Lock.md\|Lock]]                                         | -     | -   |
 | [[Magnifying Glass.md\|Magnifying Glass]]                 | -     | -   |
@@ -127,7 +127,7 @@
 | [[Hunting Trap.md\|Hunting Trap]]                         |
 | [[Ink Bottle.md\|Ink Bottle]]                             |
 | [[Knockout Drops.md\|Knockout Drops]]                     |
-| [[00 - Inbox/Lantern.md\|Lantern]]                                                      |
+| [[Lantern.md\|Lantern]]                                   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]         |
 | [[Lock.md\|Lock]]                                         |
 | [[Magnifying Glass.md\|Magnifying Glass]]                 |

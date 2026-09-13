@@ -1,13 +1,10 @@
 _[[Utility Action]]_
 
-**Description**:: Drop a held [[Object]].
+**Execution**:: [[Free Action]]
+**Target**:: [[Object]]
 
-**Action**:: [[Free Action]]
-**Target**:: Self
-
-Explanation.
+You drop one [Object](Object) you are holding onto the ground within 1 metre of you.
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]

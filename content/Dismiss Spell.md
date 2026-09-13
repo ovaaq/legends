@@ -1,12 +1,10 @@
 _[[Magical Action]]_
 
-**Description**:: Stop concentration on a spell or end ongoing spell effect.
-**Action**:: [[Free Action]]
-**Target**::
+**Execution**:: [[Free Action]]
+**Target**:: Self
 
-Explanation.
+You end [[Concentration]] on a spell.
 
 ---
 
 #keyword #action #encounter #magical
-[[Encounter Action]]

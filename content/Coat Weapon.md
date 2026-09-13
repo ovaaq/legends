@@ -1,13 +1,10 @@
 _[[Utility Action]]_
 
-**Description**:: Coat weapon or ammunition with poison or other stuff.
+**Execution**:: [[Double Action]]
+**Target**:: [[Weapon]] or [[Ammunition]]
 
-**Action**:: [[Double Action]]
-**Target**::
-
-Explanation.
+Coat a [[Weapon]] with an environmental effect, such as a pool of [[Poison]], or apply your own vial to the [[Weapon]] or up to 5 pieces of [[Ammunition]].
 
 ---
 
 #keyword #action #encounter #utility
-[[Encounter Action]]
