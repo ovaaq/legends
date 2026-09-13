@@ -2,6 +2,8 @@
 
 [[Equipment]]
 
+[[Foam bomb]]
+
 [[Potion]]
 [[Poison]]
 

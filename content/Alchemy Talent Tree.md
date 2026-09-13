@@ -14,7 +14,7 @@
   - [[Favourable Exposure]]
     - [[Toxic Tolerance]]
       - [[Adapting Effect]]
-        - [[ap4]]
+        - [[Iron Lung]]
   - [[Alchemical Formulas I]]
     - [[Alchemical Formulas II]]
       - [[Alchemical Formulas III]]
