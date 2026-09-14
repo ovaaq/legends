@@ -17,7 +17,7 @@
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                         | -     | -   |
 | [[Bucket.md\|Bucket]]                                     | -     | -   |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                 | -     | -   |
-| [[00 - Inbox/Buy Equipment.md\|Buy Equipment]]                                          | -     | -   |
+| [[Buy Equipment.md\|Buy Equipment]]                       | -     | -   |
 | [[Caltrops.md\|Caltrops]]                                 | -     | -   |
 | [[Candle.md\|Candle]]                                     | -     | -   |
 | [[Carpenter’s Tools.md\|Carpenter’s Tools]]               | -     | -   |
@@ -99,7 +99,7 @@
 | [[Brewer’s Kit.md\|Brewer’s Kit]]                         |
 | [[Bucket.md\|Bucket]]                                     |
 | [[Bullseye Lantern.md\|Bullseye Lantern]]                 |
-| [[00 - Inbox/Buy Equipment.md\|Buy Equipment]]                                          |
+| [[Buy Equipment.md\|Buy Equipment]]                       |
 | [[Caltrops.md\|Caltrops]]                                 |
 | [[Candle.md\|Candle]]                                     |
 | [[Carpenter’s Tools.md\|Carpenter’s Tools]]               |

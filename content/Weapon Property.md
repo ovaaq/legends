@@ -3,22 +3,22 @@ A [[Weapon]] can have multiple properties that influence how it is used and what
 [[Entangling]]
 [[Vicious]]
 
-| Weapon Property                                             |
-| ----------------------------------------------------------- |
-| [[Ammunition.md\|Ammunition]] |
-| [[00 - Inbox/Entangling.md\|Entangling]]                    |
-| [[Finesse.md\|Finesse]]       |
-| [[Heavy.md\|Heavy]]           |
-| [[Light.md\|Light]]           |
-| [[Loading.md\|Loading]]       |
-| [[00 - Inbox/Penetrating.md\|Penetrating]]                  |
-| [[Ranged.md\|Ranged]]         |
-| [[Reach.md\|Reach]]           |
-| [[Special.md\|Special]]       |
-| [[Thrown.md\|Thrown]]         |
-| [[Two‑Handed.md\|Two‑Handed]] |
-| [[Versatile.md\|Versatile]]   |
-| [[00 - Inbox/Vicious.md\|Vicious]]                          |
+| Weapon Property                                               |
+| ------------------------------------------------------------- |
+| [[Ammunition.md\|Ammunition]]   |
+| [[Entangling.md\|Entangling]]   |
+| [[Finesse.md\|Finesse]]         |
+| [[Heavy.md\|Heavy]]             |
+| [[Light.md\|Light]]             |
+| [[Loading.md\|Loading]]         |
+| [[Penetrating.md\|Penetrating]] |
+| [[Ranged.md\|Ranged]]           |
+| [[Reach.md\|Reach]]             |
+| [[Special.md\|Special]]         |
+| [[Thrown.md\|Thrown]]           |
+| [[Two‑Handed.md\|Two‑Handed]]   |
+| [[Versatile.md\|Versatile]]     |
+| [[Vicious.md\|Vicious]]         |
 
 ---
 
