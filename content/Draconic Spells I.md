@@ -3,10 +3,35 @@
 
 _Flavour text_.
 
-x
+These spells are added to your [[Pact Spell List]]:
 
-**Group**:: Pact
-**Following**::
+##### Cantrips
+
+- [[Chill Touch]]
+- [[Feral Claw]]
+- [[Frostbite]]
+- [[Fire Bolt]]
+- [[Ignite]]
+- [[Flame Blade]]
+- [[Venom Fang]]
+- [[Wind Slash]]
+
+##### 1st Level Spells
+
+- [[Absorb Elements]]
+- [[Alter Self]]
+- [[Alter Sky]]
+- [[Burning Hands]]
+- [[Detect Magic]]
+- [[Feather Fall]]
+- [[Find Familiar]]
+- [[Frost Armour]]
+- [[Tailwind Strike]]
+- [[Wind Step]]
+
+**Tree**:: [[Draconic Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
+**Following**:: [[Draconic Spells II]]
 
 ---
 

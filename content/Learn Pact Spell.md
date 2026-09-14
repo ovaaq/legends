@@ -3,10 +3,13 @@
 
 _Flavour text_.
 
-Learn one [[1st Level Spell]] or higher level spell. Spell must be in your [[Pact Spell List]].
+Choose one [[Spell]] from the [[Pact Spell List]] and add it to your [[Learned Spell List]].
+
+**Tree**:: [[Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
+**Following**::
 
 ---
 
-Following Abilities:
-
-Part of [[Pact Talent]]
+#talent #pact
+[[Talent]] [[Pact Talent]]

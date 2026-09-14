@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain one 1st level [[Spell Slot|Spell Slots]].
+You gain one 1st level [[Spell Slot]].
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]

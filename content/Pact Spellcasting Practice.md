@@ -5,7 +5,8 @@ _Flavour text_.
 
 Increase [[Rank]] of [[Pact Spellcasting Skill]] by 1.
 
-**Group**:: Pact
+**Tree**:: [[Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**::
 
 ---

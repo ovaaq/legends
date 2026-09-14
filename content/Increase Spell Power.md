@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Upgrade one [[Spell Slot]] by 1 level, to a maximum of 6th level.
+Upgrade one of your [[Spell Slot]] by 1 level, to a maximum of 6th level.
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
