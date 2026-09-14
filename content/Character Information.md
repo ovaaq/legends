@@ -1,6 +1,6 @@
 ### Ability Scores & Saving Throws
 
-| **[[Ability Score]]** | Score\* |
+| **[[Attribute]]** | Score\* |
 | --------------------- | ------ |
 | [[Strength]]          |        |
 | [[Agility]]           |        |
@@ -10,7 +10,7 @@
 | [[Charisma]]          |        |
 | [[Intelligence]]      |        |
 | [[Sorcery]]           |        |
-\* [[Background]] and [[Creature Size]] affect [[Ability Score|Ability Scores]]
+\* [[Background]] and [[Creature Size]] affect [[Attribute|Ability Scores]]
 
 |     **[[Saving Throw]]**      | Rank |          Modifier\*          |
 | :---------------------------: | :--: | :-------------------------: |
@@ -61,7 +61,7 @@
 | [[Sleight of Hand]] | 0-4  |  rank \* 2 + [[Precision]]   |
 |     [[Stealth]]     | 0-4  |   rank \* 2 + [[Agility]]    |
 |    [[Survival]]     | 0-4  |   rank \* 2 + [[Awareness]]   |
-\* Some [[Skill|Skills]] can be used with multiple [[Ability Score|Ability Scores]]
+\* Some [[Skill|Skills]] can be used with multiple [[Attribute|Ability Scores]]
 
 | **[[Expert Skill]]** | Rank | Modifier |
 | :-------------------: | :--: | :------: |
@@ -89,7 +89,7 @@
 | [[Spell Attack]]\*\*  | 0-4  |                   rank \* 2 + [[Sorcery]]                   |
 | [[Martial Save DC]] | 0-4  |      8 +rank \* 2 + MAX([[Strength]], [[Precision]])       |
 | [[Spell Save DC]]\*\* | 0-4  |                 8 +rank \* 2 + [[Sorcery]]                  |
-\* Weapon determines which [[Ability Score]] is used
+\* Weapon determines which [[Attribute]] is used
 \*\* Each spellcasting tradition has its own rank
 
 | Movement Type       | Score |
@@ -126,7 +126,7 @@ List of [[Known Spell]]
 | :-----------------: | :--: | :--------------------------------------------------------: |
 | [[Weapon Attack]]\*  | 0-4  |    rank \* 2 + [[Strength]] / [[Precision]]     |
 | [[Martial Save DC]] | 0-4  | 8 +rank \* 2 + MAX([[Strength]], [[Precision]]) |
-\* Weapon determines which [[Ability Score]] is used
+\* Weapon determines which [[Attribute]] is used
 
 List of [[Martial Technique|Martial Techniques]]
 List of [[Fighting Stance Training|Fighting Stances]]

@@ -5,5 +5,7 @@
 | [[Swimming Speed]]  |       |
 | [[Flying Speed]]    |       |
 | [[Burrowing Speed]] |       |
-| [[Long Jump]]       |       |
-| [[High Jump]]       |       |
+
+---
+
+#keyword

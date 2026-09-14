@@ -2,10 +2,10 @@ _Legends_ is a classless [[TTRPG]] that gives you the freedom to create unique c
 
 When creating a 1. Level character, you have a total of 20 [[Legend Point|Legend Points]]. Five must be allocated to your [[Ancestry Talent|Ancestry Talents]], while the remaining 15 can be spent on any [[Talent]] for which you meet the requirements.
 
-Your character is defined by more than just [[Talent|Talents]]. They also have [[Ability Score|Ability Scores]], an [[Ancestry]], a [[Background]], [[Skill|Skills]], and [[Equipment]], all of which are recorded on your [[Character Sheet]]. Each of these elements will be explained in detail later in this guide. You also have full control over your character’s appearance, name, personality, and personal history, allowing them to fit seamlessly into the story. After reading this guide, you can see [[Filling Character Sheet]] page for a summary of character sheet statistics.
+Your character is defined by more than just [[Talent|Talents]]. They also have [[Attribute|Ability Scores]], an [[Ancestry]], a [[Background]], [[Skill|Skills]], and [[Equipment]], all of which are recorded on your [[Character Sheet]]. Each of these elements will be explained in detail later in this guide. You also have full control over your character’s appearance, name, personality, and personal history, allowing them to fit seamlessly into the story. After reading this guide, you can see [[Filling Character Sheet]] page for a summary of character sheet statistics.
 
 > [!info] Legend Formula
-> Character = [[Ability Score|Ability Scores]] + [[Ancestry]] + [[Background]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]
+> Character = [[Attribute|Ability Scores]] + [[Ancestry]] + [[Background]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]
 
 ## Character Creation 101
 
@@ -22,7 +22,7 @@ You may create your character in any order, but the following sequence is recomm
 
 ### 1. Determine Ability Scores
 
-[[Ability Score|Ability Scores]] represent your character’s natural talents and capabilities. There are eight Ability Scores, such as [[Strength]] and [[Intelligence]], that measure how well your character performs different kinds of tasks.
+[[Attribute|Ability Scores]] represent your character’s natural talents and capabilities. There are eight Ability Scores, such as [[Strength]] and [[Intelligence]], that measure how well your character performs different kinds of tasks.
 
 You generate these scores using the [[Standard Array]], rolling dice, or the [[Point Buy]] method, and record them on your [[Character Sheet]]. Your chosen Ancestry may modify one or more Ability Scores. As your character advances, you can further improve these scores by gaining [[Talent|Talents]].
 
@@ -36,7 +36,7 @@ After choosing your [[Ancestry]], you spend 5 [[Legend Point|Legend Points]] to 
 
 ### 3. Select Background
 
-Choosing a [[Background]] answers the question: _What did your character do before beginning their adventuring career?_ Your character may have been a [[Blacksmith]] or a [[Merchant]]. This choice improves few [[General Skill|General Skills]] and [[Expert Skill|Expert Skills]], grants one or two [[Talent|Talents]], improves your [[Ability Score|Ability Scores]], grants to your [[Rank|Ranks]] and gives starting [[Equipment]] and [[Money]].
+Choosing a [[Background]] answers the question: _What did your character do before beginning their adventuring career?_ Your character may have been a [[Blacksmith]] or a [[Merchant]]. This choice improves few [[General Skill|General Skills]] and [[Expert Skill|Expert Skills]], grants one or two [[Talent|Talents]], improves your [[Attribute|Ability Scores]], grants to your [[Rank|Ranks]] and gives starting [[Equipment]] and [[Money]].
 
 ### 4. Improve Skills & Saving Throw
 
@@ -60,7 +60,7 @@ Using the [[Money]] granted by your chosen [[Background]], you can purchase [[Ad
 
 ## Determine Ability Scores
 
-When creating a character, you assign values to eight [[Ability Score|Ability Scores]], four physical and four mental. These abilities are: [[Strength]], [[Precision]], [[Agility]], [[Constitution]], [[Awareness]], [[Charisma]], [[Intelligence]] and [[Sorcery]]. Each Ability Score ranges from -5 to +5, where 0 represents the average level in the human population. Since this is a game of legends, your character’s Ability Scores are expected to exceed this average, enabling extraordinary feats and capabilities.
+When creating a character, you assign values to eight [[Attribute|Ability Scores]], four physical and four mental. These abilities are: [[Strength]], [[Precision]], [[Agility]], [[Constitution]], [[Awareness]], [[Charisma]], [[Intelligence]] and [[Sorcery]]. Each Ability Score ranges from -5 to +5, where 0 represents the average level in the human population. Since this is a game of legends, your character’s Ability Scores are expected to exceed this average, enabling extraordinary feats and capabilities.
 
 |  Ability Score   | **Abbr.** |   Type   |                                                                            Description                                                                             |
 | :--------------: | :-------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -131,7 +131,7 @@ When creating a character, you assign values to eight [[Ability Score|Ability Sc
 
 ### Using Standard Array
 
-The standard array in _Legends_ is **+3, +2, +2, +1, +1, +0, -1, -2**. You can assign these values to any of your character’s eight [[Ability Score|Ability Scores]], distributing them however you like. Once assigned, record the finalized Ability Scores on your [[Character Sheet]]. This array is designed to provide a mix of strengths and weaknesses, encouraging balanced and varied gameplay.
+The standard array in _Legends_ is **+3, +2, +2, +1, +1, +0, -1, -2**. You can assign these values to any of your character’s eight [[Attribute|Ability Scores]], distributing them however you like. Once assigned, record the finalized Ability Scores on your [[Character Sheet]]. This array is designed to provide a mix of strengths and weaknesses, encouraging balanced and varied gameplay.
 
 ### Dice Rolls & Point Buy
 
@@ -235,7 +235,7 @@ You must spend 5 [[Legend Point|LP]] to acquire Talents exclusively from [[Ances
 
 ## Select Background
 
-Choosing a [[Background]] answers the question: _What did your character do before beginning their adventuring career?_ Your character may have been a [[Blacksmith]] or a [[Merchant]]. This choice grants [[Rank|Ranks]] in certain [[General Skill|General Skills]] and [[Expert Skill|Expert Skills]], one [[Talent]], improvements to two of your [[Ability Score|Ability Scores]], and may also provide additional [[Language|Languages]], [[Equipment]], and [[Money]]. You can either select a premade background or work with your [[Game Master]] to create a custom one.
+Choosing a [[Background]] answers the question: _What did your character do before beginning their adventuring career?_ Your character may have been a [[Blacksmith]] or a [[Merchant]]. This choice grants [[Rank|Ranks]] in certain [[General Skill|General Skills]] and [[Expert Skill|Expert Skills]], one [[Talent]], improvements to two of your [[Attribute|Ability Scores]], and may also provide additional [[Language|Languages]], [[Equipment]], and [[Money]]. You can either select a premade background or work with your [[Game Master]] to create a custom one.
 
 For example, one premade background is [[Scholar]]:
 
@@ -254,7 +254,7 @@ For example, one premade background is [[Scholar]]:
 
 #background[[Background]]
 
-From the first section, you select two [[Ability Score|Ability Scores]] to increase by 1. Each background provides four options. Next, follow the instructions in the [[General Skill]] and [[Expert Skill]] sections, as different backgrounds grant different choices. Once these selections are made, you gain everything listed in the [[Language|Languages]], [[Talent]], Initial Wealth, and [[Equipment]] sections.
+From the first section, you select two [[Attribute|Ability Scores]] to increase by 1. Each background provides four options. Next, follow the instructions in the [[General Skill]] and [[Expert Skill]] sections, as different backgrounds grant different choices. Once these selections are made, you gain everything listed in the [[Language|Languages]], [[Talent]], Initial Wealth, and [[Equipment]] sections.
 
 ### Premade Backgrounds
 
@@ -302,7 +302,7 @@ A custom background follows the same structure as a premade background. Work wit
 
 In general, a background includes the following elements:
 
-- **Ability Scores:** Select two of the four specified [[Ability Score|Ability Scores]] to increase by +1.
+- **Ability Scores:** Select two of the four specified [[Attribute|Ability Scores]] to increase by +1.
 - **Skills:** Choose from the provided [[General Skill]] and [[Expert Skill]] options.
 - **Languages:** Gain one or more possible [[Language|Languages]].
 - **Talent:** Choose one [[Talent]].
@@ -335,9 +335,9 @@ These are [[General Skill|General Skills]] already listed on your [[Character Sh
 After assigning [[Rank|Ranks]], calculate the [[Modifier]] for each [[General Skill]] and record it on your [[Character Sheet]].
 
 > [!info] Calculating General Skill Modifier\
-> General Skill Modifier = [[Ability Score]] + ([[Rank]] × 2)
+> General Skill Modifier = [[Attribute]] + ([[Rank]] × 2)
 
-Each [[General Skill]] has a default [[Ability Score]] that is added when calculating its modifier. In some cases, a [[General Skill]] can be used with a different [[Ability Score]] depending on the situation.
+Each [[General Skill]] has a default [[Attribute]] that is added when calculating its modifier. In some cases, a [[General Skill]] can be used with a different [[Attribute]] depending on the situation.
 
 | General Skills                                                        | Ability Score\*                                                  |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -363,7 +363,7 @@ Each [[General Skill]] has a default [[Ability Score]] that is added when calcul
 | [[Streetwise.md\|Streetwise]]           | [[Awareness.md\|Awareness]]       |
 | [[Survival.md\|Survival]]               | [[Awareness.md\|Awareness]]       |
 
-\* Some [[General Skill|General Skills]] can be used with multiple [[Ability Score|Ability Scores]]
+\* Some [[General Skill|General Skills]] can be used with multiple [[Attribute|Ability Scores]]
 
 ### Expert Skills
 
@@ -434,7 +434,7 @@ _Following Talents: [[Blood Frenzy]]_
 
 > _Part of [[Vampire Talent Tree]]_
 
-- **Requirement:** Could be another [[Talent]], a specific [[Level]], [[Ability Score]], [[Rank]], or other condition.
+- **Requirement:** Could be another [[Talent]], a specific [[Level]], [[Attribute]], [[Rank]], or other condition.
 - **Cost:** The number of [[Legend Point|Legend Points]] required to acquire the Talent.
 - **Description:** A brief flavour text followed by the mechanical effect of the Talent.
 
@@ -549,7 +549,7 @@ Lets make my favourite character Brûni Blackstone. He is a dwarven spellcaster,
 
 Using standard array +3, +2, +2, +1, +0, +0, -1, -2
 
-| **[[Ability Score]]** | Score |
+| **[[Attribute]]** | Score |
 | :-------------------: | :---: |
 |     [[Strength]]      |  +0   |
 |      [[Agility]]      |  +3   |

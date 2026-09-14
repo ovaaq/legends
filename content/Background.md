@@ -4,7 +4,7 @@ Your character's background is a collection of characteristics that represent th
 
 A background includes the following:
 
-**Ability Scores.** A background lists four [[Ability Score|Ability Scores]]. Increase three of them by 1.
+**Ability Scores.** A background lists four [[Attribute|Ability Scores]]. Increase three of them by 1.
 
 **Saving Throws.** Distribute 4 [[Rank|Ranks]] among a list of [[Saving Throw|Saving Throws]] listed in background.
 

@@ -1,10 +1,12 @@
-[[Resolution]]\
+[[Skill Check]]
+
+[[Resolution]]
 [[Encounters]]\
 [[Exploration]]\
 [[Travel]]
 [[Roleplay]]\
-[[Downtime]]\
-[[Conditions]]
+[[Downtime]]
+[[Condition]]
 
 ### Making Checks
 
@@ -13,7 +15,7 @@
 - [[General Skill]]
 - [[Expert Skill]]
 
-**Check** = d20 + [[Ability Score]] + [[General Skill]] [[Rank]] + possible [[Expert Skill]] [[Rank]]
+**Check** = d20 + [[Attribute]] + [[General Skill]] [[Rank]] + possible [[Expert Skill]] [[Rank]]
 
 For example:
 
@@ -25,7 +27,7 @@ For example:
 
 [[Saving Throw]]
 
-**Saving Throw** = d20 + [[Ability Score]] + [[Saving Throw]] [[Rank]]
+**Saving Throw** = d20 + [[Attribute]] + [[Saving Throw]] [[Rank]]
 
 For example:
 
@@ -33,7 +35,7 @@ For example:
 
 ### Making Attacks
 
-[[Main Hand Attack]]
+[[Attack]]
 
 - [[Spell Attack]]
   - [[Touch Spell Attack]]

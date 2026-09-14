@@ -15,13 +15,13 @@ Let’s go through the [[Character Sheet]] step by step. We will cover all secti
 
 ### Ability Scores
 
-Record [[Ability Score|Ability Scores]] in the corresponding rows. Remember to apply any increases to your character’s Ability Scores from their [[Background]] and possible [[Ancestry]]. In addition, certain [[Talent|Talents]] may provide an Ability Score increase, if desired.
+Record [[Attribute|Ability Scores]] in the corresponding rows. Remember to apply any increases to your character’s Ability Scores from their [[Background]] and possible [[Ancestry]]. In addition, certain [[Talent|Talents]] may provide an Ability Score increase, if desired.
 
 ### General Skills
 
 Each [[General Skill]] has a [[Rank]] ranging from 0 to 4, as shown in the table below. Record the chosen Skill Rank by colouring in the corresponding bubbles for that General Skill on the Character Sheet.
 
-Each General Skill is also associated with an abbreviated [[Ability Score]], which is added to the [[Modifier]].
+Each General Skill is also associated with an abbreviated [[Attribute]], which is added to the [[Modifier]].
 
 | Bubbles | Skill Rank | Modifier | Description |
 | :-----: | :--------: | :------: | :---------: |
@@ -33,7 +33,7 @@ Each General Skill is also associated with an abbreviated [[Ability Score]], whi
 
 After assigning Skill Ranks, calculate the [[Modifier]] for each skill using the following formula and fill it in on the sheet:
 
-**[[Modifier]]** = ([[Rank]] × 2) + [[Ability Score]]
+**[[Modifier]]** = ([[Rank]] × 2) + [[Attribute]]
 
 ### Expert Skills
 
@@ -64,7 +64,7 @@ Each [[Saving Throw]] has a [[Saving Throw Rank]] ranging from 0 to 4, as shown 
 
 After assigning Saving Throw Ranks, calculate the [[Saving Throw Modifier]] for each [[Saving Throw]] using the following formula and fill it in on the sheet:
 
-**[[Saving Throw Modifier]]** = ([[Saving Throw Rank]] × 2) + [[Ability Score]]
+**[[Saving Throw Modifier]]** = ([[Saving Throw Rank]] × 2) + [[Attribute]]
 
 ### Martial Training
 

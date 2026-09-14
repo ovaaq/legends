@@ -10,7 +10,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Beast Talent Tree.md\|Beast Talent Tree]]                 |
 | [[Berserk Talent Tree.md\|Berserk Talent Tree]]             |
 | [[Capability Talent Tree.md\|Capability Talent Tree]]       |
-| [[Devil Pact Talent Tree.md\|Devil Pact Talent Tree]]       |
+| [[Devilish Pact Talent Tree.md\|Devilish Pact Talent Tree]] |
 | [[Divination Talent Tree.md\|Divination Talent Tree]]       |
 | [[Divine Talent Tree.md\|Divine Talent Tree]]               |
 | [[Draconic Pact Talent Tree.md\|Draconic Pact Talent Tree]] |

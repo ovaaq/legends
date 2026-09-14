@@ -1,9 +1,9 @@
 General Skills represent the common activities and practical tasks any adventurer might attempt during their journeys. When making a [[Check]], add the skill’s [[General Skill Modifier]] to your result. This modifier is calculated as follows:
 
 > [!info] Calculating General Skill Modifier\
-> [[General Skill Modifier]] = [[Ability Score]] + [[Rank]]
+> [[General Skill Modifier]] = [[Attribute]] + [[Rank]]
 
-The following list details each [[General Skill]] and its corresponding [[Ability Score]].
+The following list details each [[General Skill]] and its corresponding [[Attribute]].
 
 | General Skill                                                         | Ability Score\*                                                  |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -29,7 +29,7 @@ The following list details each [[General Skill]] and its corresponding [[Abilit
 | [[Streetwise.md\|Streetwise]]           | [[Awareness.md\|Awareness]]       |
 | [[Survival.md\|Survival]]               | [[Awareness.md\|Awareness]]       |
 
-_\* Some [[General Skill|General Skills]] can be used with different [[Ability Score|Ability Scores]]._
+_\* Some [[General Skill|General Skills]] can be used with different [[Attribute|Ability Scores]]._
 
 ---
 

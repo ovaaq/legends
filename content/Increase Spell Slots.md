@@ -3,9 +3,10 @@
 
 _Flavour text_.
 
-Benefit.
+You gain one 1st level [[Spell Slot|Spell Slots]].
 
-**Group**:: Pact
+**Tree**:: [[Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**::
 
 ---

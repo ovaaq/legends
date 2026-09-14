@@ -3,20 +3,19 @@ publish: true
 title: Homepage
 ---
 
-**Legends TTRPG** is a classless d20 fantasy RPG featuring complete build freedom, tactical combat, and native metric design.
+**Legends RPG** is a classless d20 fantasy role-playing game featuring complete build freedom, tactical combat, and native metric design.
 
 [[Download Fillable PDF Character Sheet]]
 
 ### New Players
 
-- [[What is Legends TTRPG|What is Legends TTRPG?]]
+- [[What is Legends RPG|What is Legends TTRPG?]]
 - [[Quick Start Guide]]
-- [[Character Creation Guide]]
+- [[Character Creation Guide v2]]
 
 ### Ready to Play
 
 - [[Ancestry|Ancestries]]
-- [[Background|Backgrounds]]
 - [[Talent|Talents]]
 - [[Spell|Spells]]
 - [[Martial Technique|Martial Techniques]]

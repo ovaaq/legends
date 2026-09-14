@@ -3,9 +3,10 @@
 
 _Flavour text_.
 
-Benefit.
+Upgrade one [[Spell Slot]] by 1 level, to a maximum of 6th level.
 
-**Group**:: Pact
+**Tree**:: [[Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**::
 
 ---

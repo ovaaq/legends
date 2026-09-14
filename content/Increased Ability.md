@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase one [[Ability Score]] by 1.
+Increase one [[Attribute]] by 1.
 
 **Tree**:: [[Capability Talent Tree]]
 **Group**:: [[General Talent]]

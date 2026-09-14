@@ -1,6 +1,6 @@
 **Standard Array**: +3, +2, +2, +1, +1, +0, -1, -2
 
-| **[[Ability Score]]** | Score | Ancestry | Background | Talent | Total |
+| **[[Attribute]]** | Score | Ancestry | Background | Talent | Total |
 | :-------------------: | :---: | :------: | :--------: | :----: | :---: |
 |     [[Strength]]      |       |          |            |        |       |
 |      [[Agility]]      |       |          |            |        |       |

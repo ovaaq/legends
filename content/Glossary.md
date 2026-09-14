@@ -139,6 +139,7 @@
 | [[01 - Projects/3 Game Master/Encounter.md\|Encounter]]                                                         |
 | [[Encounter Action.md\|Encounter Action]]                                         |
 | [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                                 |
+| [[00 - Inbox/Entangling.md\|Entangling]]                                                                        |
 | [[Equipment.md\|Equipment]]                                                       |
 | [[01 - Projects/3 Game Master/Escape.md\|Escape]]                                                               |
 | [[Ethereal Damage.md\|Ethereal Damage]]                                           |
@@ -260,6 +261,7 @@
 | [[Pact Spellcasting Skill.md\|Pact Spellcasting Skill]]                           |
 | [[Paralyzed.md\|Paralyzed]]                                                       |
 | [[Passive Investigation.md\|Passive Investigation]]                               |
+| [[00 - Inbox/Penetrating.md\|Penetrating]]                                                                      |
 | [[Petrified.md\|Petrified]]                                                       |
 | [[Physical Damage.md\|Physical Damage]]                                           |
 | [[Pick Lock.md\|Pick Lock]]                                                       |
@@ -325,9 +327,9 @@
 | [[Small.md\|Small]]                                                               |
 | [[Snare.md\|Snare]]                                                               |
 | [[Solid.md\|Solid]]                                                               |
-| [[Sorcery.md\|Sorcery]]                                                           |
 | [[Special.md\|Special]]                                                           |
 | [[Special Skill.md\|Special Skill]]                                               |
+| [[Speed.md\|Speed]]                                                               |
 | [[Spell.md\|Spell]]                                                               |
 | [[Spell Attack.md\|Spell Attack]]                                                 |
 | [[Spell List.md\|Spell List]]                                                     |
@@ -383,6 +385,7 @@
 | [[Untrained Weapon Penalty.md\|Untrained Weapon Penalty]]                         |
 | [[Utility Action.md\|Utility Action]]                                             |
 | [[Versatile.md\|Versatile]]                                                       |
+| [[00 - Inbox/Vicious.md\|Vicious]]                                                                              |
 | [[Visible.md\|Visible]]                                                           |
 | [[Vulnerable.md\|Vulnerable]]                                                     |
 | [[Warding Magic.md\|Warding Magic]]                                               |
