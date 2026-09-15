@@ -2,3 +2,4 @@
 [[Why Play Legends?]]
 [[Core Concepts]]
 [[Example of Play]]
+test
