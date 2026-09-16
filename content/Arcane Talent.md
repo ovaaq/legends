@@ -7,6 +7,7 @@ Arcane Talents represent a character’s mastery of magic, combining study and a
 | Sub Talent Trees                                                                    |
 | ----------------------------------------------------------------------------------- |
 | [[Divination Talent Tree.md\|Divination Talent Tree]] |
+| [[Necromancy Talent Tree.md\|Necromancy Talent Tree]] |
 | [[Spellblade Talent Tree.md\|Spellblade Talent Tree]] |
 | [[Spellthief Talent Tree.md\|Spellthief Talent Tree]] |
 | [[Warding Talent Tree.md\|Warding Talent Tree]]       |

@@ -31,6 +31,7 @@ A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a 
 | [[Mobility Talent Tree.md\|Mobility Talent Tree]]           |
 | [[Mutant Talent Tree.md\|Mutant Talent Tree]]               |
 | [[Nature Talent Tree.md\|Nature Talent Tree]]               |
+| [[Necromancy Talent Tree.md\|Necromancy Talent Tree]]       |
 | [[Pact Talent Tree.md\|Pact Talent Tree]]                   |
 | [[Psionic Talent Tree.md\|Psionic Talent Tree]]             |
 | [[Resistance Talent Tree.md\|Resistance Talent Tree]]       |

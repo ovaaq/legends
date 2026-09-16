@@ -27,12 +27,12 @@ You can view all Ancestry [[Talent|Talents]] in the list. Note that each Talent 
 | [[Celestial Spells VI.md\|Celestial Spells VI]]         | 1 LP | [[Celestial Spells V.md\|Celestial Spells V]]                                                                  | -                |
 | [[Demon Claws.md\|Demon Claws]]                         | 2 LP | [[Fiend Ancestry.md\|Fiend Ancestry]]                                                                          | -                |
 | [[Dwarven Resilience.md\|Dwarven Resilience]]           | 1 LP | [[Dwarven Ancestry.md\|Dwarven Ancestry]]                                                                      | -                |
-| [[Dwarven Spells I.md\|Dwarven Spells I]]               | 1 LP | [[Dwarven Ancestry.md\|Dwarven Ancestry]]                                                                      | -                |
-| [[Dwarven Spells II.md\|Dwarven Spells II]]             | 1 LP | [[Dwarven Spells I.md\|Dwarven Spells I]]                                                                      | -                |
-| [[Dwarven Spells III.md\|Dwarven Spells III]]           | 1 LP | [[Dwarven Spells II.md\|Dwarven Spells II]]                                                                    | -                |
-| [[Dwarven Spells IV.md\|Dwarven Spells IV]]             | 1 LP | [[Dwarven Spells III.md\|Dwarven Spells III]]                                                                  | -                |
-| [[Dwarven Spells V.md\|Dwarven Spells V]]               | 1 LP | [[Dwarven Spells IV.md\|Dwarven Spells IV]]                                                                    | -                |
-| [[Dwarven Spells VI.md\|Dwarven Spells VI]]             | 1 LP | [[Dwarven Spells V.md\|Dwarven Spells V]]                                                                      | -                |
+| [[Dwarven Spells I.md\|Dwarven Spells I]]               | 2 LP | [[Dwarven Ancestry.md\|Dwarven Ancestry]]                                                                      | -                |
+| [[Dwarven Spells II.md\|Dwarven Spells II]]             | 2 LP | [[Dwarven Spells I.md\|Dwarven Spells I]]                                                                      | -                |
+| [[Dwarven Spells III.md\|Dwarven Spells III]]           | 2 LP | [[Dwarven Spells II.md\|Dwarven Spells II]]                                                                    | -                |
+| [[Dwarven Spells IV.md\|Dwarven Spells IV]]             | 2 LP | [[Dwarven Spells III.md\|Dwarven Spells III]]                                                                  | -                |
+| [[Dwarven Spells V.md\|Dwarven Spells V]]               | 2 LP | [[Dwarven Spells IV.md\|Dwarven Spells IV]]                                                                    | -                |
+| [[Dwarven Spells VI.md\|Dwarven Spells VI]]             | 2 LP | [[Dwarven Spells V.md\|Dwarven Spells V]]                                                                      | -                |
 | [[Elven Accuracy.md\|Elven Accuracy]]                   | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]                                                                          | -                |
 | [[Elven Spells I.md\|Elven Spells I]]                   | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]                                                                          | -                |
 | [[Elven Spells II.md\|Elven Spells II]]                 | 1 LP | [[Elven Spells I.md\|Elven Spells I]]                                                                          | -                |

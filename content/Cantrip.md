@@ -111,6 +111,7 @@ ideas
 | [[Dazed.md\|Dazed]]                                   |
 | [[Divine Spellcasting.md\|Divine Spellcasting]]       |
 | [[Druidcraft.md\|Druidcraft]]                         |
+| [[Dwarven Spells I.md\|Dwarven Spells I]]             |
 | [[Eldritch Blast.md\|Eldritch Blast]]                 |
 | [[Ethereal Blade.md\|Ethereal Blade]]                 |
 | [[Feral Claw.md\|Feral Claw]]                         |
