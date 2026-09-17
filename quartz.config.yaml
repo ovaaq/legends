@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: goatcounter
+    websiteId: ovaaq
   locale: en-US
   baseUrl: legendsrpg.org
   ignorePatterns:
