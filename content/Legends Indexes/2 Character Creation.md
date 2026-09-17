@@ -4,7 +4,7 @@ When creating a [[Level]] 1 character, you have 20 [[Legend Point|Legend Points]
 
 [[Talent|Talents]] are the largest one part of your character, but your character also has [[Attribute|Attributes]], an [[Ancestry]], [[Skill|Skills]], [[Saving Throw|Saving Throws]], and [[Equipment]]. These are all recorded on your [[Character Sheet]]. Each of these parts of your character is explained later in this guide.
 
-> _Character = [[Attribute|Attributes]] + [[Ancestry]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]_
+_**Character** = [[Attribute|Attributes]] + [[Ancestry]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]_
 
 You also decide who your character is. You choose their appearance, name, personality, and personal history. These choices help make your character unique and give them a place in the story.
 
@@ -20,22 +20,12 @@ You may create your character in any order, but the following sequence is recomm
 4. [[Choose Talents]]
 5. [[Buy Equipment]]
 
-## Determine Attributes
-
 ![[Determine Attributes]]
-
-## Choose an Ancestry
 
 ![[Choose an Ancestry]]
 
-## Build an Origin
-
 ![[Build an Origin]]
 
-## Choose Talents
-
 ![[Choose Talents]]
-
-## Buy Equipment
 
 ![[Buy Equipment]]
