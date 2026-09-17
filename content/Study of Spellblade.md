@@ -1,7 +1,7 @@
 **Requirements**:: [[Arcane Spellcasting]]
 **Cost**:: 2 LP
 
-_Your inspiration from martial weaponry has lead to study of spellblade, branch of arcane study where magic is wield in hands of powerful casters. As the mana you spend become extension of your arms. You are a tough match to any martial fighter in the perfect combination magic and might_.
+_Your inspiration from martial weaponry has lead to study of spellblade, branch of arcane study where  mana become extension of your arms._
 
 **Spellblades.** As an [[Action]], you conjure weapons made of pure magical energy. These weapons last for 1 hour or until you dismiss them as a [[Free Action]].
 

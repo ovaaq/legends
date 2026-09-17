@@ -6,5 +6,3 @@
 | [[Time Skip Spell.md\|Time Skip Spell]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant       |
 
 ---
-
-#keyword

@@ -68,5 +68,3 @@
 | [[Zone of Truth.md\|Zone of Truth]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                 |
 
 ---
-
-#keyword

@@ -1,31 +1,6 @@
 | Glossary                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------- |
-| [[1st Level Alchemical Formula.md\|1st Level Alchemical Formula]]                 |
-| [[1st Level Ki Technique.md\|1st Level Ki Technique]]                             |
-| [[1st Level Martial technique.md\|1st Level Martial technique]]                   |
-| [[1st Level Rune.md\|1st Level Rune]]                                             |
-| [[1st Level Spell.md\|1st Level Spell]]                                           |
-| [[2nd Level Alchemical Formula.md\|2nd Level Alchemical Formula]]                 |
-| [[2nd Level Ki Technique.md\|2nd Level Ki Technique]]                             |
-| [[2nd Level Martial technique.md\|2nd Level Martial technique]]                   |
-| [[2nd Level Rune.md\|2nd Level Rune]]                                             |
-| [[2nd Level Spell.md\|2nd Level Spell]]                                           |
-| [[3rd Level Alchemical Formula.md\|3rd Level Alchemical Formula]]                 |
-| [[3rd Level Ki Technique.md\|3rd Level Ki Technique]]                             |
-| [[3rd Level Martial technique.md\|3rd Level Martial technique]]                   |
-| [[3rd Level Rune.md\|3rd Level Rune]]                                             |
-| [[3rd Level Spell.md\|3rd Level Spell]]                                           |
-| [[4th Level Alchemical Formula.md\|4th Level Alchemical Formula]]                 |
-| [[4th Level Rune.md\|4th Level Rune]]                                             |
-| [[4th Level Spell.md\|4th Level Spell]]                                           |
-| [[5th Level Alchemical Formula.md\|5th Level Alchemical Formula]]                 |
-| [[5th Level Rune.md\|5th Level Rune]]                                             |
-| [[5th Level Spell.md\|5th Level Spell]]                                           |
-| [[6th Level Alchemical Formula.md\|6th Level Alchemical Formula]]                 |
-| [[6th Level Rune.md\|6th Level Rune]]                                             |
-| [[6th Level Spell.md\|6th Level Spell]]                                           |
 | [[Ability.md\|Ability]]                                                           |
-| [[Ability Score.md\|Ability Score]]                                               |
 | [[Acid Damage.md\|Acid Damage]]                                                   |
 | [[Action.md\|Action]]                                                             |
 | [[Advanced Fighting Stance.md\|Advanced Fighting Stance]]                         |
@@ -51,9 +26,10 @@
 | [[Asleep.md\|Asleep]]                                                             |
 | [[Attack.md\|Attack]]                                                             |
 | [[Attack Roll.md\|Attack Roll]]                                                   |
+| [[Attribute.md\|Attribute]]                                                       |
 | [[Awareness.md\|Awareness]]                                                       |
 | [[Axe.md\|Axe]]                                                                   |
-| [[Background.md\|Background]]                                                     |
+| [[98 - Meta/Archive/Legends Old/Background.md\|Background]]                                                     |
 | [[Bleeding.md\|Bleeding]]                                                         |
 | [[Blinded.md\|Blinded]]                                                           |
 | [[Blood Dice.md\|Blood Dice]]                                                     |

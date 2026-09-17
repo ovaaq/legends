@@ -1,66 +1,36 @@
-**Standard Array**: +3, +2, +2, +1, +1, +0, -1, -2
+**Standard Array**:
 
-| **[[Attribute]]** | Score | Ancestry | Background | Talent | Total |
-| :-------------------: | :---: | :------: | :--------: | :----: | :---: |
-|     [[Strength]]      |       |          |            |        |       |
-|      [[Agility]]      |       |          |            |        |       |
-|     [[Precision]]     |       |          |            |        |       |
-|   [[Constitution]]    |       |          |            |        |       |
-|     [[Awareness]]     |       |          |            |        |       |
-|     [[Charisma]]      |       |          |            |        |       |
-|   [[Intelligence]]    |       |          |            |        |       |
-|      [[Sorcery]]      |       |          |            |        |       |
+- +3, +2, +2, +1, +1, +0, -1, -2
+- +3, +2, +2, +1, +1, +0, -1, -2
+- +3, +2, +2, +1, +1, +0, -1, -2
 
-|         Statistic         | Value |                          How to Calculate                          |
-| :-----------------------: | :---: | :----------------------------------------------------------------: |
-|        Hit Points         |       |         = 12 + [[Constitution]] ( + [[Increased Health]] )         |
-|           Mana            |       |               = [[Sorcery]] ( + [[Increased Mana]] )               |
-|          Stamina          |       | = 0 (+ [[Martial Technique Talent Tree]] & [[Increased Stamina]] ) |
-|        Initiative         |       |                           = [[Agility]]                            |
-|         Hit Dice          |       |                  = once like [[Increased Health]]                  |
-|       Armour Class        |       |                                = 8                                 |
-|       Evasion Class       |       |                         = 10 + [[Agility]]                         |
-|       Martial Skill       |       |                             = 2 x Rank                             |
-|    Spellcasting Skill     |       |                             = 2 x Rank                             |
-|      Martial Save DC      |       |    = 8 + [[Martial Skill]] + MAX( [[Strength]], [[Precision]] )    |
-|       Spell Save DC       |       |             = 8 + [[Spellcasting Skill]] + [[Sorcery]]             |
-|  Weapon Attack Modifier   |       |         = [[Martial Skill]] + [[Strength]] / [[Precision]]         |
-|   Spell Attack Modifier   |       |               = [[Spellcasting Skill]] + [[Sorcery]]               |
-| Short Rest Hit Point Gain |       |                       = [[Constitution]]<br>                       |
-| Long Rest Hit Point Gain  |       |                       = 7 × [[Constitution]]                       |
-|   Short Rest Mana Gain    |       |                           = [[Sorcery]]                            |
-|    Long Rest Mana Gain    |       |                         = 7 × [[Sorcery]]                          |
+| **[[Attribute]]** | Modifier | Ancestry | Talent | Total Modifier |
+| :---------------: | :------: | :------: | :----: | :------------: |
+|   [[Strength]]    |          |          |        |                |
+|    [[Agility]]    |          |          |        |                |
+|   [[Precision]]   |          |          |        |                |
+| [[Constitution]]  |          |          |        |                |
+|   [[Awareness]]   |          |          |        |                |
+|   [[Charisma]]    |          |          |        |                |
+| [[Intelligence]]  |          |          |        |                |
+|    [[Sorcery]]    |          |          |        |                |
 
-| **[[Saving Throw]]** | Ability Score | Background | Creation | Talent | Total |
-| :------------------: | :-----------: | :--------: | :------: | :----: | :---: |
-|     [[Strength]]     |               |            |          |        |       |
-|     [[Agility]]      |               |            |          |        |       |
-|   [[Constitution]]   |               |            |          |        |       |
-|     [[Charisma]]     |               |            |          |        |       |
-|   [[Intelligence]]   |               |            |          |        |       |
+|      Statistic       | Value |
+| :------------------: | :---: |
+|   Common Ancestry    |       |
+| Additional Ancestry\* |       |
+|  [[Creature Size]]   |       |
+|  [[Walking Speed]]   |       |
+_\*Optional_
 
-|          Option          | Selected | Talent | Total |
-| :----------------------: | :------: | :----: | :---: |
-|    Core [[Ancestry]]     |          |        |       |
-|   Additional Ancestry    |          |        |       |
-|    [[Creature Size]]     |          |        |       |
-|    [[Walking Speed]]     |          |        |       |
-| Ancestry Talents ( 5LP ) |          |        |       |
-| Ancestry Talents ( 5LP ) |          |        |       |
-| Ancestry Talents ( 5LP ) |          |        |       |
-| Ancestry Talents ( 5LP ) |          |        |       |
-| Ancestry Talents ( 5LP ) |          |        |       |
-
-|          Option           | Selected |
-| :-----------------------: | :------: |
-|      [[Background]]       |          |
-|  3 Ability Score Boosts   |          |
-|   2 Saving Throw Incrs    |          |
-| 4 ranks in General Skills |          |
-| 3 ranks in Expert Skills  |          |
-|    Background Talents     |          |
-|         Equipment         |          |
-|          Wealth           |          |
+| Ancestry Talent | Cost |
+| --------------- | ---- |
+|                 |      |
+|                 |      |
+|                 |      |
+|                 |      |
+|                 |      |
+|                 |      |
 
 |    General Skill    |  Ability Score   | Modifier | Skill Rank | Total |
 | :-----------------: | :--------------: | :------: | :--------: | :---: |
@@ -95,6 +65,14 @@
 |              |            |       |
 |              |            |       |
 
+| **[[Saving Throw]]** | [[Attribute]] | [[Saving Throw]] [[Rank]] | Total Modifier |
+| :------------------: | :-----------: | :-----------------------: | :------------: |
+|     [[Strength]]     |               |                           |                |
+|     [[Agility]]      |               |                           |                |
+|   [[Constitution]]   |               |                           |                |
+|     [[Charisma]]     |               |                           |                |
+|   [[Intelligence]]   |               |                           |                |
+
 | Talent | Cost |
 | :----: | :--: |
 |        |      |
@@ -119,6 +97,15 @@
 |        |      |
 |        |      |
 |        |      |
+
+|            Statistic             | Value |               How to Calculate               |
+| :------------------------------: | :---: | :------------------------------------------: |
+|      [[Hit Point Maximum]]       |       |            12 + [[Constitution]]             |
+|         [[Armour Class]]         |       |                     = 8                      |
+|        [[Evasion Class]]         |       |              = 10 + [[Agility]]              |
+|          [[Initiative]]          |       |                 [[Agility]]                  |
+| [[Long Rest]] [[Hit Point]] Gain |       | [[Hit Point Maximum]] / 3 + [[Constitution]] |
+|                                  |       |                                              |
 
 | Gained Resource | Amount | Short Rest Gain | Long Rest Gain | Other |
 | :-------------: | :----: | :-------------: | :------------: | :---: |

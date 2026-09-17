@@ -1,5 +1,3 @@
 [[Rune]]
 
 ---
-
-#keyword

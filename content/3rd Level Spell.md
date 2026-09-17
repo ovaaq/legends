@@ -14,5 +14,3 @@
 | [[Thunder Step.md\|Thunder Step]]         | [[Double Action.md\|Double Action]] | V, S        | 3    | 40 metres | Instantaneous |
 
 ---
-
-#keyword

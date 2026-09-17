@@ -145,5 +145,3 @@ Minor Creation / Minor Provision
 [[Wrathful Smite]]
 
 ---
-
-#keyword

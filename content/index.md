@@ -23,7 +23,7 @@ title: Homepage
 
 ### Game Masters
 
-- [[Quickstart Adventure - The Witch of Ironhold]]
+- [[Quickstart Adventure - Witch of the Ironhold]]
 - [[Core Concepts]]
 - [[Encounter Design]]
 - [[Bestiary]]

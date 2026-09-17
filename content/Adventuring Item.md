@@ -24,7 +24,7 @@
 | [[Cartographer’s Kit.md\|Cartographer’s Kit]]             | -     | -   |
 | [[Chain.md\|Chain]]                                       | -     | -   |
 | [[Chalk.md\|Chalk]]                                       | -     | -   |
-| [[Character Creation Guide.md\|Character Creation Guide]] | -     | -   |
+| [[98 - Meta/Archive/Legends Old/Character Creation Guide.md\|Character Creation Guide]] | -     | -   |
 | [[Charcoal Stick.md\|Charcoal Stick]]                     | -     | -   |
 | [[Chest.md\|Chest]]                                       | -     | -   |
 | [[Chisel.md\|Chisel]]                                     | -     | -   |
@@ -106,7 +106,7 @@
 | [[Cartographer’s Kit.md\|Cartographer’s Kit]]             |
 | [[Chain.md\|Chain]]                                       |
 | [[Chalk.md\|Chalk]]                                       |
-| [[Character Creation Guide.md\|Character Creation Guide]] |
+| [[98 - Meta/Archive/Legends Old/Character Creation Guide.md\|Character Creation Guide]] |
 | [[Charcoal Stick.md\|Charcoal Stick]]                     |
 | [[Chest.md\|Chest]]                                       |
 | [[Chisel.md\|Chisel]]                                     |

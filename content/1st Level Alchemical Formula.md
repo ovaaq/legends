@@ -34,5 +34,3 @@
 | [[White Arsenic Formula.md\|White Arsenic Formula]]                     |
 
 ---
-
-#keyword

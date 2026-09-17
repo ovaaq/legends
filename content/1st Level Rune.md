@@ -79,5 +79,3 @@ Boots of the Winding Path
 Armor of Magical Strength
 
 ---
-
-#keyword
