@@ -193,7 +193,7 @@
 | [[Legendary Reagent.md\|Legendary Reagent]]                                       |
 | [[Legendary Volatile Reagent.md\|Legendary Volatile Reagent]]                     |
 | [[Level.md\|Level]]                                                               |
-| [[Leveling Up.md\|Leveling Up]]                                                   |
+| [[Level Up.md\|Level Up]]                                                         |
 | [[Light.md\|Light]]                                                               |
 | [[Light Armour.md\|Light Armour]]                                                 |
 | [[Lightning Damage.md\|Lightning Damage]]                                         |
@@ -218,6 +218,7 @@
 | [[Melee Attack.md\|Melee Attack]]                                                 |
 | [[Melee Spell Attack.md\|Melee Spell Attack]]                                     |
 | [[Melee Weapon Attack.md\|Melee Weapon Attack]]                                   |
+| [[Mental Attribute.md\|Mental Attribute]]                                         |
 | [[Metallic.md\|Metallic]]                                                         |
 | [[Movement Action.md\|Movement Action]]                                           |
 | [[Muted.md\|Muted]]                                                               |
@@ -239,6 +240,7 @@
 | [[Passive Investigation.md\|Passive Investigation]]                               |
 | [[Penetrating.md\|Penetrating]]                                                   |
 | [[Petrified.md\|Petrified]]                                                       |
+| [[Physical Attribute.md\|Physical Attribute]]                                     |
 | [[Physical Damage.md\|Physical Damage]]                                           |
 | [[Pick Lock.md\|Pick Lock]]                                                       |
 | [[Piercing Damage.md\|Piercing Damage]]                                           |
@@ -303,6 +305,7 @@
 | [[Small.md\|Small]]                                                               |
 | [[Snare.md\|Snare]]                                                               |
 | [[Solid.md\|Solid]]                                                               |
+| [[Sorcery.md\|Sorcery]]                                                           |
 | [[Special.md\|Special]]                                                           |
 | [[Special Skill.md\|Special Skill]]                                               |
 | [[Speed.md\|Speed]]                                                               |
@@ -322,7 +325,6 @@
 | [[Sprint.md\|Sprint]]                                                             |
 | [[Stamina Point.md\|Stamina Point]]                                               |
 | [[Stand Up.md\|Stand Up]]                                                         |
-| [[Standard Array.md\|Standard Array]]                                             |
 | [[Strand of Magic.md\|Strand of Magic]]                                           |
 | [[Strength.md\|Strength]]                                                         |
 | [[Strength Saving Throw.md\|Strength Saving Throw]]                               |

@@ -1,4 +1,4 @@
-Represents reasoning, memory, and knowledge. Key for characters who rely on intellect, like scholars, spellcasters, investigators, or lore masters.
+Int. Represents reasoning, memory, and knowledge. Key for characters who rely on intellect, like scholars, spellcasters, investigators, or lore masters.
 
 Characters with high Intelligence gain the following benefits:
 
@@ -10,4 +10,4 @@ Characters with high Intelligence gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute

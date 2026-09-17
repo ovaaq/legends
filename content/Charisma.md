@@ -1,4 +1,4 @@
-Reflects mental toughness and force of personality. Essential for persuasive, deceptive, or mentally resilient adventurers, like diplomats, bards, or slayers.
+Cha. Reflects mental toughness and force of personality. Essential for persuasive, deceptive, or mentally resilient adventurers, like diplomats, bards, or slayers.
 
 Characters with high Charisma gain the following benefits:
 
@@ -7,4 +7,4 @@ Characters with high Charisma gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute

@@ -1,4 +1,4 @@
-Represents raw muscular power. Key for characters relying on brute strength, such as berserk warriors, armoured knights, or athletic wrestlers.
+Str. Represents raw muscular power. Key for characters relying on brute strength, such as berserk warriors, armoured knights, or athletic wrestlers.
 
 Characters with high Strength gain the following benefits:
 
@@ -11,4 +11,4 @@ Characters with high Strength gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute

@@ -1,4 +1,4 @@
-Represents stamina and resilience. Crucial for adventurers enduring harsh conditions or sicknesses.
+Con. Represents stamina and resilience. Crucial for adventurers enduring harsh conditions or sicknesses.
 
 Characters with high Constitution gain the following benefits:
 
@@ -9,4 +9,4 @@ Characters with high Constitution gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute

@@ -9,7 +9,7 @@ When creating a [[Level]] 1 character, you have 20 [[Legend Point|Legend Points]
 
 You also decide who your character is. You choose their appearance, name, personality, and personal history. These choices help make your character unique and give them a place in the story.
 
-Once you have read through this guide, see [[Filling Character Sheet]] for a quick summary of the information you need to create your character.
+Once you have read through this guide, see [[Filling Out the Character Sheet]] for a quick summary of the information you need to create your character.
 
 ## Steps of Character Creation
 
@@ -26,4 +26,4 @@ You may create your character in any order, but the following sequence is recomm
 ![[Determine Attributes | no title]]
 
 if you need tips how to do this you can read few example characters being build
-[[8 Example Characters]]
+[[8 Building Example Characters]]

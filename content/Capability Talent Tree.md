@@ -1,4 +1,4 @@
-- [[Increased Ability]]
+- [[Increased Attribute]]
 - [[Increased Skill]]
   - [[Reliable Talent]]
   - [[Jack of All Trades]]

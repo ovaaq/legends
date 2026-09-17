@@ -1,4 +1,4 @@
-Measures reflexes and coordination. Important for characters who rely on mobility and dodging, such as acrobats, sneaky outlaws, or nimble fighters.
+Agi. Measures reflexes and coordination. Important for characters who rely on mobility and dodging, such as acrobats, sneaky outlaws, or nimble fighters.
 
 Characters with high Agility gain the following benefits:
 
@@ -8,4 +8,4 @@ Characters with high Agility gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute

@@ -1,4 +1,4 @@
-Measures awareness, intuition, and perceptiveness. Important for characters who rely on keen senses, such as scouts, sharp-eyed archers, or cautious conspirators.
+Awa. Measures awareness, intuition, and perceptiveness. Important for characters who rely on keen senses, such as scouts, sharp-eyed archers, or cautious conspirators.
 
 Characters with high Awareness gain the following benefits:
 
@@ -8,4 +8,4 @@ Characters with high Awareness gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute

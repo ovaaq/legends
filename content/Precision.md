@@ -1,4 +1,4 @@
-Reflects fine motor control and accuracy. Vital for characters who rely on precise strikes, such as quick-handed burglars, skilled archers, or master artificers.
+Pre. Reflects fine motor control and accuracy. Vital for characters who rely on precise strikes, such as quick-handed burglars, skilled archers, or master artificers.
 
 Characters with high Precision gain the following benefits:
 
@@ -9,4 +9,4 @@ Characters with high Precision gain the following benefits:
 
 ---
 
-#keyword #ability_score
+#keyword #attribute
