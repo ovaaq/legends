@@ -2,3 +2,23 @@
 @use "./syncer";
 
 // put your custom CSS here!
+/* Remove borders, margins, background, and padding from embeds */
+.transclude,
+blockquote.transclude {
+  border: none !important;
+  border-left: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: transparent !important;
+}
+
+/* Hide the "Link to original" link at the bottom */
+.transclude-src,
+a.transclude-src {
+  display: none !important;
+}
+
+/* (Optional) Hide tags contained within embedded notes */
+.transclude .tags {
+  display: none !important;
+}
