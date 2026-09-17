@@ -24,11 +24,11 @@ title: Homepage
 
 ### Game Masters
 
-- [[Quickstart Adventure - Witch of the Ironhold]]
-- [[Core Concepts]]
-- [[Encounter Design]]
-- [[Bestiary]]
-- [[NPC Design]]
+[[Quickstart Adventure - Witch of the Ironhold]]
+[[Core Concepts]]
+[[Encounter Design]]
+[[Bestiary]]
+[[NPC Design]]
 
 ### Join the Playtest
 
