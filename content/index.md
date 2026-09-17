@@ -9,17 +9,18 @@ title: Homepage
 
 ### New Players
 
-- [[What is Legends RPG|What is Legends TTRPG?]]
-- [[Quick Start Guide]]
-- [[Character Creation Guide v2]]
+[[0 Introduction]]
+[[1 Core Rules]]
+[[2 Character Creation]]
+[[Example Characters]]
 
 ### Ready to Play
 
-- [[Ancestry|Ancestries]]
-- [[Talent|Talents]]
-- [[Spell|Spells]]
-- [[Martial Technique|Martial Techniques]]
-- [[Equipment]]
+[[3 Talents]]
+[[4 Spells]]
+[[5 Martial Techniques]]
+[[6 Equipment]]
+[[7 Appendix]]
 
 ### Game Masters
 

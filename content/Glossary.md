@@ -1,9 +1,7 @@
 | Glossary                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------- |
-| [[Ability.md\|Ability]]                                                           |
 | [[Acid Damage.md\|Acid Damage]]                                                   |
 | [[Action.md\|Action]]                                                             |
-| [[Advanced Fighting Stance.md\|Advanced Fighting Stance]]                         |
 | [[Advanced Focus.md\|Advanced Focus]]                                             |
 | [[Advanced Weapon.md\|Advanced Weapon]]                                           |
 | [[Advantage.md\|Advantage]]                                                       |
@@ -12,7 +10,6 @@
 | [[Agility Saving Throw.md\|Agility Saving Throw]]                                 |
 | [[Alchemical Formula.md\|Alchemical Formula]]                                     |
 | [[Alchemical Item.md\|Alchemical Item]]                                           |
-| [[Alchemy Save DC.md\|Alchemy Save DC]]                                           |
 | [[Alteration Magic.md\|Alteration Magic]]                                         |
 | [[Ammunition.md\|Ammunition]]                                                     |
 | [[Ancestry.md\|Ancestry]]                                                         |

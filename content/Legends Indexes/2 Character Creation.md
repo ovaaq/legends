@@ -10,7 +10,7 @@ You also decide who your character is. You choose their appearance, name, person
 
 Once you have read through this guide, see [[Filling Out the Character Sheet]] for a quick summary of the information you need to create your character.
 
-If you need inspiration or help understanding the character creation process, you can follow [[8 Building Example Characters]] step by step.
+If you need inspiration or help understanding the character creation process, you can follow [[Example Characters]] step by step.
 
 ## Steps of Character Creation
 
