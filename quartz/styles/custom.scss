@@ -18,6 +18,12 @@ a.transclude-src {
   display: none !important;
 }
 
+/* Hide headers/titles inside embedded notes */
+.transclude h1, 
+.transclude h2 {
+  display: none !important;
+}
+
 /* (Optional) Hide tags contained within embedded notes */
 .transclude .tags {
   display: none !important;
