@@ -9,7 +9,7 @@ title: Homepage
 
 ### Why Legends?
 
-#### Build Anything
+#### Build Anyone
 
 Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character, not a class name. Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic, interesting, and uniquely yours.
 
