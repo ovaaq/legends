@@ -1,5 +1,9 @@
 _Humans are a versatile and ambitious people, known for their adaptability and drive to shape the world around them. Though their lives are shorter than many other ancestries, humans settle in nearly every corner of the realms, building cities, forging alliances, and leaving their mark on history._
 
+**Size**:: [[Medium]]
+**Speed**:: 7 metres
+**Lifespan**:: 80 years
+
 **Moderate-Lived.** Humans mature at the same pace as their peers and are considered adults at around the age of 18. On average, they live about 80 years.
 
 **Average Build.** Humans stand between 1.4 and 2.1 meters tall, weighing around 70 kilograms on average. Their builds are balanced, reflecting a blend of strength and agility. Your [[Creature Size]] is Medium.

@@ -16,15 +16,17 @@ If you need inspiration or help understanding the character creation process, yo
 
 You may create your character in any order, but the following sequence is recommended for clarity and convenience.
 
-1. [[Determine Attributes]]
+1. [[Imagine your Character]]
 2. [[Choose an Ancestry]]
 3. [[Build an Origin]]
-4. [[Choose Talents]]
-5. [[Buy Equipment]]
+4. [[Determine Attributes]]
+5. [[Choose Talents]]
+6. [[Buy Equipment]]
+7. [[Calculate Stats]]
 
-## Determine Attributes
+## Imagine your Character
 
-![[Determine Attributes]]
+![[Imagine your Character]]
 
 ## Choose an Ancestry
 
@@ -34,6 +36,10 @@ You may create your character in any order, but the following sequence is recomm
 
 ![[Build an Origin]]
 
+## Determine Attributes
+
+![[Determine Attributes]]
+
 ## Choose Talents
 
 ![[Choose Talents]]
@@ -41,3 +47,7 @@ You may create your character in any order, but the following sequence is recomm
 ## Buy Equipment
 
 ![[Buy Equipment]]
+
+## Calculate Stats
+
+![[Calculate Stats]]

@@ -1,5 +1,9 @@
 _Smallfolk are nimble and cheerful folk, drawn to gentle hills, fertile farmland, and the comforts of home. Their small size and light build make them quick and agile, able to slip unnoticed through crowded streets or dense undergrowth. Though often underestimated, their cleverness, resilience, and love of community allow them to thrive in nearly any corner of the world, spreading joy and resourcefulness wherever they go._
 
+**Size**:: [[Small]]
+**Speed**:: 6 metres
+**Lifespan**:: 70 years
+
 **Short-Lived.** Smallfolk mature at a similar pace to humans and are considered adults at the age of 20. On average, they live about 70 years.
 
 **Small Figures.** Smallfolk stand between 0.6 and 1.2 meters tall, weighing around 30 kilograms on average. Their light, compact builds make them naturally agile and nimble. Your [[Creature Size]] is Small. Because of your size, your [Agility](app://obsidian.md/Agility) score increases by 2, and your [[Strength]] score decreases by 2.

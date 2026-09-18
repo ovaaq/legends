@@ -6,6 +6,8 @@ _Humans are a versatile and ambitious people, known for their adaptability and d
 
 **Long Legs.** Your [[Walking Speed]] increases by 1m.
 
+**Extra**:: +1 [[Walking Speed]], [[Creature Size]] +1 one category
+
 ### Giant Ancestry Talents
 
 Having a infernal ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your character is. These [[Talent|Talent]] are:

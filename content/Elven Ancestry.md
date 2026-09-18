@@ -1,5 +1,9 @@
 _Elves are a graceful and long-lived people, closely attuned to the rhythms of nature and the flow of magic. Their lives are intertwined with forests, glades, and hidden groves, and though their origins are ancient and mysterious, elves now dwell wherever the natural world thrives, blending seamlessly with its beauty and secrets._
 
+**Size**:: [[Medium]]
+**Speed**:: 7 metres
+**Lifespan**:: 700 years
+
 **Long-Lived.** Elves mature more slowly than humans and are not considered adults until around the age of 100. On average, they live about 700 years.
 
 One mother can have 2 children at max, because god gave long live it must given away something.
