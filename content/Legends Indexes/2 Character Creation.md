@@ -22,12 +22,22 @@ You may create your character in any order, but the following sequence is recomm
 4. [[Choose Talents]]
 5. [[Buy Equipment]]
 
+## Determine Attributes
+
 ![[Determine Attributes]]
+
+## Choose an Ancestry
 
 ![[Choose an Ancestry]]
 
+## Build an Origin
+
 ![[Build an Origin]]
 
+## Choose Talents
+
 ![[Choose Talents]]
+
+## Buy Equipment
 
 ![[Buy Equipment]]

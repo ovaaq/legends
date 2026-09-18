@@ -2,23 +2,43 @@ In **Legends RPG**, each character has 8 [[Attribute|Attributes]]: [[Strength]],
 
 Each [[Attribute]] ranges from -5 to +5, with 0 representing the average humanoid. Since **Legends RPG** is a game of legends, your character's Attributes are expected to exceed this average, allowing them to  accomplish extraordinary things.
 
+### Strength (Str)
+
 ![[Strength]]
+
+### Precision (Pre)
 
 ![[Precision]]
 
+### Agility (Agi)
+
 ![[Agility]]
+
+### Constitution (Con)
 
 ![[Constitution]]
 
+### Awareness (Awa)
+
 ![[Awareness]]
+
+### Charisma (Cha)
 
 ![[Charisma]]
 
+### Intelligence (Int)
+
 ![[Intelligence]]
+
+### Sorcery (Sor)
 
 ![[Sorcery]]
 
+### Point Buy System
+
 ![[Point Buy]]
+
+### Standard Array System
 
 ![[Standard Array]]
 
