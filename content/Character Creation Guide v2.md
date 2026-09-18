@@ -19,7 +19,7 @@ You may create your character in any order, but the following sequence is recomm
 >
 > 1. [[Determine Attributes]]
 > 2. [[Choose an Ancestry]]
-> 3. [[Build an Origin]]
+> 3. [[Build a Background]]
 > 4. [[Choose Talents]]
 > 5. [[Buy Equipment]]
 

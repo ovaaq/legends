@@ -5,6 +5,8 @@ _Flavour text_.
 
 Increase your [[Walking Speed]] by 1 metre.
 
+This [[Talent]] can be taken once.
+
 **Group**:: [[Ancestry Talent]]
 **Following Talents**::
 

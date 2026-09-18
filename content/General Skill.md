@@ -26,7 +26,6 @@ The following list details each [[General Skill]] and its corresponding [[Attrib
 | [[Sleight of Hand.md\|Sleight of Hand]] | [[Precision.md\|Precision]]       |
 | [[Spirituality.md\|Spirituality]]       | [[Awareness.md\|Awareness]]       |
 | [[Stealth.md\|Stealth]]                 | [[Agility.md\|Agility]]           |
-| [[Streetwise.md\|Streetwise]]           | [[Awareness.md\|Awareness]]       |
 | [[Survival.md\|Survival]]               | [[Awareness.md\|Awareness]]       |
 
 _\* Some [[General Skill|General Skills]] can be used with different [[Attribute|Ability Scores]]._

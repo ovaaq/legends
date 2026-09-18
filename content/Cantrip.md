@@ -129,6 +129,7 @@ ideas
 | [[Guiding Strike.md\|Guiding Strike]]                 |
 | [[Halfling Spells I.md\|Halfling Spells I]]           |
 | [[Holy Arrow.md\|Holy Arrow]]                         |
+| [[Human Spells I.md\|Human Spells I]]                 |
 | [[Ignite.md\|Ignite]]                                 |
 | [[Infestation.md\|Infestation]]                       |
 | [[Innate Spellcasting.md\|Innate Spellcasting]]       |

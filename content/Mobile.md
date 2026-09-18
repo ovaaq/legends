@@ -3,7 +3,7 @@
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._
 
-Increase your [[Walking Speed]] by 2 meters.
+Increase your [[Walking Speed]] by 1 metre.
 
 **Tree**:: [[Mobility Talent Tree]]
 **Group**:: [[General Talent]]

@@ -38,7 +38,6 @@
 | [[Camp Action.md\|Camp Action]]                                                   |
 | [[Cantrip.md\|Cantrip]]                                                           |
 | [[Carry.md\|Carry]]                                                               |
-| [[Carrying Capacity.md\|Carrying Capacity]]                                       |
 | [[Character Sheet.md\|Character Sheet]]                                           |
 | [[Charisma.md\|Charisma]]                                                         |
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]                               |
@@ -316,7 +315,6 @@
 | [[Stamina Point.md\|Stamina Point]]                                               |
 | [[Stand Up.md\|Stand Up]]                                                         |
 | [[Strand of Magic.md\|Strand of Magic]]                                           |
-| [[Strength.md\|Strength]]                                                         |
 | [[Strength Saving Throw.md\|Strength Saving Throw]]                               |
 | [[Stunned.md\|Stunned]]                                                           |
 | [[Success.md\|Success]]                                                           |
