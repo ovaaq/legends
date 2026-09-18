@@ -100,6 +100,7 @@ ideas
 | [[Arcane Mark.md\|Arcane Mark]]                       |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
 | [[Blade Ward.md\|Blade Ward]]                         |
+| [[Celestial Spells I.md\|Celestial Spells I]]         |
 | [[Chaos Burst.md\|Chaos Burst]]                       |
 | [[Charming Smile.md\|Charming Smile]]                 |
 | [[Chill Touch.md\|Chill Touch]]                       |
@@ -113,16 +114,20 @@ ideas
 | [[Druidcraft.md\|Druidcraft]]                         |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]             |
 | [[Eldritch Blast.md\|Eldritch Blast]]                 |
+| [[Elven Spells I.md\|Elven Spells I]]                 |
 | [[Ethereal Blade.md\|Ethereal Blade]]                 |
 | [[Feral Claw.md\|Feral Claw]]                         |
+| [[Fiend Spells I.md\|Fiend Spells I]]                 |
 | [[Fire Bolt.md\|Fire Bolt]]                           |
 | [[Flame Blade.md\|Flame Blade]]                       |
 | [[Flame Burst.md\|Flame Burst]]                       |
 | [[Force Wave.md\|Force Wave]]                         |
 | [[Frostbite.md\|Frostbite]]                           |
+| [[Giant Spells I.md\|Giant Spells I]]                 |
 | [[Glow.md\|Glow]]                                     |
 | [[Gravity Slam.md\|Gravity Slam]]                     |
 | [[Guiding Strike.md\|Guiding Strike]]                 |
+| [[Halfling Spells I.md\|Halfling Spells I]]           |
 | [[Holy Arrow.md\|Holy Arrow]]                         |
 | [[Ignite.md\|Ignite]]                                 |
 | [[Infestation.md\|Infestation]]                       |

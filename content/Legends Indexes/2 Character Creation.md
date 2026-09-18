@@ -4,7 +4,7 @@ Each [[Talent]] has a cost in a meta currency called [[Legend Point|Legend Point
 
 [[Talent|Talents]] are the largest part of your character, but your character also has [[Attribute|Attributes]], an [[Ancestry]], [[Skill|Skills]], [[Saving Throw|Saving Throws]], and [[Equipment]]. These are all recorded on your [[Character Sheet]]. Each part of your character is explained later in this guide.
 
-_**Character** = [[Attribute|Attributes]] + [[Ancestry]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]_
+\*\*Character = [[Attribute|Attributes]] + [[Ancestry]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]
 
 You also decide who your character is. You choose their appearance, name, personality, and personal history. These choices help make your character unique and give them a place in the story.
 

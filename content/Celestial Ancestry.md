@@ -1,32 +1,27 @@
-_Humans are a versatile and ambitious people, known for their adaptability and drive to shape the world around them. Though their lives are shorter than many other ancestries, humans settle in nearly every corner of the realms, building cities, forging alliances, and leaving their mark on history._
+_Celestial lore._
 
-**Moderate-Lived.** Humans mature at the same pace as their peers and are considered adults at around the age of 18. On average, they live about 80 years.
+**Extended Lifespan.** Your celestial blood grants you a lifespan twice that of your ancestry.
 
-**Average Build.** Humans stand between 1.4 and 2.1 meters tall, weighing around 70 kilograms on average. Their builds are balanced, reflecting a blend of strength and agility. Your [[Creature Size]] is Medium.
-
-**Standard Stride.** Your [[Walking Speed]] is 10 meters.
+**Angelic Features.** Your hair may be golden, silver, or bronze. Your appearance is more refined and beautiful, and your skin has a warm, pale complexion.
 
 ### Celestial Ancestry Talents
 
 Having a celestial ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]] that shape how your character is. These [[Talent|Talent]] are:
 
-[[Celestial Spells I]]
-[[Celestial Spells II]]
-
-| Talents                                                                               | Cost |
-| ------------------------------------------------------------------------------------- | ---- |
-| [[Celestial Spells I.md\|Celestial Spells I]]           | 1 LP |
-| [[Celestial Spells II.md\|Celestial Spells II]]         | 1 LP |
-| [[Celestial Spells III.md\|Celestial Spells III]]       | 1 LP |
-| [[Celestial Spells IV.md\|Celestial Spells IV]]         | 1 LP |
-| [[Celestial Spells V.md\|Celestial Spells V]]           | 1 LP |
-| [[Celestial Spells VI.md\|Celestial Spells VI]]         | 1 LP |
-| [[Golden Wings.md\|Golden Wings]]                       | 2 LP |
-| [[Healing Hands.md\|Healing Hands]]                     | 2 LP |
-| [[Light Bearer.md\|Light Bearer]]                       | 2 LP |
-| [[Otherworldly Resistance.md\|Otherworldly Resistance]] | 2 LP |
-| [[Radiant Strike.md\|Radiant Strike]]                   | 2 LP |
+| Talent Name                                                                           | Cost | Requirements                                                                    | Following Talents                                                               |
+| ------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [[Celestial Spells I.md\|Celestial Spells I]]           | 2 LP | [[Celestial Ancestry.md\|Celestial Ancestry]]     | [[Celestial Spells II.md\|Celestial Spells II]]   |
+| [[Celestial Spells II.md\|Celestial Spells II]]         | 2 LP | [[Celestial Spells I.md\|Celestial Spells I]]     | [[Celestial Spells III.md\|Celestial Spells III]] |
+| [[Celestial Spells III.md\|Celestial Spells III]]       | 2 LP | [[Celestial Spells II.md\|Celestial Spells II]]   | [[Celestial Spells IV.md\|Celestial Spells IV]]   |
+| [[Celestial Spells IV.md\|Celestial Spells IV]]         | 2 LP | [[Celestial Spells III.md\|Celestial Spells III]] | [[Celestial Spells V.md\|Celestial Spells V]]     |
+| [[Celestial Spells V.md\|Celestial Spells V]]           | 2 LP | [[Celestial Spells IV.md\|Celestial Spells IV]]   | [[Celestial Spells VI.md\|Celestial Spells VI]]   |
+| [[Celestial Spells VI.md\|Celestial Spells VI]]         | 2 LP | [[Celestial Spells V.md\|Celestial Spells V]]     | -                                                                              |
+| [[Golden Wings.md\|Golden Wings]]                       | 2 LP | [[Celestial Ancestry.md\|Celestial Ancestry]]     | -                                                                              |
+| [[Healing Hands.md\|Healing Hands]]                     | 2 LP | [[Celestial Ancestry]] or [[Halfling Ancestry]]                                 | -                                                                              |
+| [[Light Bearer.md\|Light Bearer]]                       | 2 LP | [[Celestial Ancestry.md\|Celestial Ancestry]]     | -                                                                              |
+| [[Otherworldly Resistance.md\|Otherworldly Resistance]] | 2 LP | [[Celestial Ancestry]] or [[Fiendish Ancestry]]                                 | -                                                                              |
+| [[Radiant Strike.md\|Radiant Strike]]                   | 2 LP | [[Celestial Ancestry.md\|Celestial Ancestry]]     | -                                                                              |
 
 ---
 
-#keyword #rare #ancestry [[Ancestry]]
+#rare #ancestry

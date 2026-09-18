@@ -1,9 +1,9 @@
-**Requirements**:: [[Fiend Ancestry]]
-**Cost**:: 1 LP
+**Requirements**:: [[Fiendish Ancestry]]
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-These spells are added to your [[Innate Spell List]]:
+These spells are added to your [[Innate Spell List]]. Additionally, choose one [[Spell]] or two [[Cantrip|Cantrips]] from this list and add them to your [[Learned Innate Spells]].
 
 ##### Cantrips
 
@@ -13,11 +13,10 @@ These spells are added to your [[Innate Spell List]]:
 
 -
 
-**Tree**:: [[Fiend Ancestry]]
+**Tree**:: [[Fiendish Ancestry]]
 **Group**:: [[Ancestry Talent]]
 **Following**:: [[Fiend Spells II]]
 
 ---
 
-#talent #fiend #ancestry [[Talent]]
-[[Talent]][[Ancestry Talent]]
+#talent #fiend #ancestry

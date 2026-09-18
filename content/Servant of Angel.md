@@ -13,5 +13,5 @@ _Flavour text_.
 
 ---
 
-#talent #pact #celestial
+#talent #pact #angelic
 [[Talent]] [[Pact Talent]]

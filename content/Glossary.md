@@ -39,7 +39,6 @@
 | [[Cantrip.md\|Cantrip]]                                                           |
 | [[Carry.md\|Carry]]                                                               |
 | [[Carrying Capacity.md\|Carrying Capacity]]                                       |
-| [[Celestial Ancestry.md\|Celestial Ancestry]]                                     |
 | [[Character Sheet.md\|Character Sheet]]                                           |
 | [[Charisma.md\|Charisma]]                                                         |
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]                               |
@@ -104,10 +103,8 @@
 | [[Drop Object.md\|Drop Object]]                                                   |
 | [[Drowsy.md\|Drowsy]]                                                             |
 | [[01 - Projects/3 Game Master/Dwarf.md\|Dwarf]]                                                                 |
-| [[Dwarven Ancestry.md\|Dwarven Ancestry]]                                         |
 | [[Dying.md\|Dying]]                                                               |
 | [[Elemental Damage.md\|Elemental Damage]]                                         |
-| [[Elven Ancestry.md\|Elven Ancestry]]                                             |
 | [[Enchantment Magic.md\|Enchantment Magic]]                                       |
 | [[01 - Projects/3 Game Master/Encounter.md\|Encounter]]                                                         |
 | [[Encounter Action.md\|Encounter Action]]                                         |
@@ -126,7 +123,6 @@
 | [[Fall Prone.md\|Fall Prone]]                                                     |
 | [[Falling Damage.md\|Falling Damage]]                                             |
 | [[Feeble.md\|Feeble]]                                                             |
-| [[Fiend Ancestry.md\|Fiend Ancestry]]                                             |
 | [[Fighting Stance.md\|Fighting Stance]]                                           |
 | [[Finesse.md\|Finesse]]                                                           |
 | [[Fire Damage.md\|Fire Damage]]                                                   |
@@ -143,12 +139,10 @@
 | [[01 - Projects/3 Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                                       |
 | [[General Skill.md\|General Skill]]                                               |
 | [[General Skill Modifier.md\|General Skill Modifier]]                             |
-| [[Giant Ancestry.md\|Giant Ancestry]]                                             |
 | [[Good Rest.md\|Good Rest]]                                                       |
 | [[Grapple.md\|Grapple]]                                                           |
 | [[Grappled.md\|Grappled]]                                                         |
 | [[Greater Resistance.md\|Greater Resistance]]                                     |
-| [[Halfling Ancestry.md\|Halfling Ancestry]]                                       |
 | [[Hammer.md\|Hammer]]                                                             |
 | [[Haste Point.md\|Haste Point]]                                                   |
 | [[Heavy.md\|Heavy]]                                                               |
@@ -159,7 +153,6 @@
 | [[Hit Point.md\|Hit Point]]                                                       |
 | [[Hit Point Maximum.md\|Hit Point Maximum]]                                       |
 | [[Hostile.md\|Hostile]]                                                           |
-| [[Human Ancestry.md\|Human Ancestry]]                                             |
 | [[Identify Magic.md\|Identify Magic]]                                             |
 | [[Immobilized.md\|Immobilized]]                                                   |
 | [[Immune.md\|Immune]]                                                             |

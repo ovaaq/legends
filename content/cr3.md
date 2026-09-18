@@ -10,5 +10,4 @@ x
 
 ---
 
-#talent #pact #celestial
-[[Talent]] [[Pact Talent]]
+#talent #pact #angelic[[Talent]] [[Pact Talent]]
