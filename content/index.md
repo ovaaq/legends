@@ -11,27 +11,17 @@ title: Homepage
 
 #### Build Anything
 
-Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character, not a class name.
-
-Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic, interesting, and uniquely yours.
+Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character, not a class name. Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic, interesting, and uniquely yours.
 
 #### Tactical Combat
 
-Every turn gives you 3 Actions, Movement, and a Reaction, giving you meaningful choices every round.
-
-Move freely without opportunity attacks locking you in place. [[Evasion Class]] and [[Armour Class]] provide two distinct ways to avoid taking a hit, making positioning and defence important parts of every fight.
-
-#### Metric by Design
-
-Legends uses metres, kilograms, and other familiar metric measurements throughout its rules.
-
-No converting feet to metres. No pounds to kilograms. Just measurements you already use.
+Every turn gives you 3 Actions, Movement, and a Reaction, giving you meaningful choices every round. Move freely without opportunity attacks locking you in place. [[Evasion Class]] and [[Armour Class]] provide two distinct ways to avoid taking a hit, making positioning and defence important parts of every fight.
 
 #### Free Rules
 
 Legends RPG is a passion project made for my own table and shared freely with everyone.
 
-### New Players
+### Start Here
 
 [[0 Introduction]]
 [[1 Core Rules]]
