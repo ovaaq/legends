@@ -1,0 +1,3 @@
+[[Talent]] & [[Legend Point]]
+
+[[Skill]]
