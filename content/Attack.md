@@ -1,14 +1,10 @@
-[[Main Hand Attack]]
-[[Off-Hand Attack]]
-
-[[Unarmed Strike]]
-
 [[Touch Attack]]
 [[Melee Attack]]
 [[Ranged Attack]]
 
 [[Spell Attack]]
 [[Weapon Attack]]
+[[Unarmed Strike]]
 
 ---
 

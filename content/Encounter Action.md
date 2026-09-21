@@ -24,10 +24,10 @@ Actions are categorized by their function during combat:
 - [[Identify Magic]]
 - [[Jump]]
 - [[Object Interaction]]
-- [[Off-Hand Attack]]
 - [[Recall Knowledge]]
 - [[Search]]
 - [[Stand Up]]
+- [[Unarmed Strike]]
 
 **Double Action ( ▶▶)**
 
@@ -39,7 +39,6 @@ Actions are categorized by their function during combat:
 - [[First Aid]]
 - [[Grapple]]
 - [[Hide]]
-- [[Main Hand Attack]]
 - [[Raise Shield]]
 - [[Shove]]
 - [[Trip]]
@@ -58,7 +57,6 @@ Actions are categorized by their function during combat:
 
 **Action ( ▶)**
 
-- [[Off-Hand Attack]]
 - [[Jump]]
 - [[Drink Potion]]
 - [[Stand Up]]
@@ -71,7 +69,6 @@ Actions are categorized by their function during combat:
 
 **Double Action ( ▶▶)**
 
-- [[Main Hand Attack]]
 - [[Shove]]
 - [[Trip]]
 - [[Escape]]
@@ -124,10 +121,10 @@ Movement Types
 | [[Identify Magic.md\|Identify Magic]]         | [[Action.md\|Action]]               | -                                                           |
 | [[Jump.md\|Jump]]                             | [[Action.md\|Action]]               | -                                                           |
 | [[Object Interaction.md\|Object Interaction]] | [[Action.md\|Action]]               | -                                                           |
-| [[Off-Hand Attack.md\|Off-Hand Attack]]       | [[Action.md\|Action]]               | -                                                           |
 | [[Recall Knowledge.md\|Recall Knowledge]]     | [[Action.md\|Action]]               | -                                                           |
 | [[Search.md\|Search]]                         | [[Action.md\|Action]]               | -                                                           |
 | [[Stand Up.md\|Stand Up]]                     | [[Action.md\|Action]]               | -                                                           |
+| [[Unarmed Strike.md\|Unarmed Strike]]         | [[Action.md\|Action]]               | -                                                           |
 | [[Coat Weapon.md\|Coat Weapon]]               | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Dash.md\|Dash]]                             | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Deliver Potion.md\|Deliver Potion]]         | [[Double Action.md\|Double Action]] | -                                                           |
@@ -137,7 +134,6 @@ Movement Types
 | [[First Aid.md\|First Aid]]                   | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Grapple.md\|Grapple]]                       | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Hide.md\|Hide]]                             | [[Double Action.md\|Double Action]] | -                                                           |
-| [[Main Hand Attack.md\|Main Hand Attack]]     | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Raise Shield.md\|Raise Shield]]             | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Shove.md\|Shove]]                           | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Trip.md\|Trip]]                             | [[Double Action.md\|Double Action]] | -                                                           |
@@ -150,14 +146,12 @@ Movement Types
 
 ### Action Lists by Type
 
-| Offensive Action                                                        | Action Cost | Description |
-| ----------------------------------------------------------------------- | ----------- | ----------- |
-| [[Disarm.md\|Disarm]]                     | -          | -          |
-| [[Grapple.md\|Grapple]]                   | -          | -          |
-| [[Main Hand Attack.md\|Main Hand Attack]] | -          | -          |
-| [[Off-Hand Attack.md\|Off-Hand Attack]]   | -          | -          |
-| [[Shove.md\|Shove]]                       | -          | -          |
-| [[Trip.md\|Trip]]                         | -          | -          |
+| Offensive Action                                      | Action Cost | Description |
+| ----------------------------------------------------- | ----------- | ----------- |
+| [[Disarm.md\|Disarm]]   | -          | -          |
+| [[Grapple.md\|Grapple]] | -          | -          |
+| [[Shove.md\|Shove]]     | -          | -          |
+| [[Trip.md\|Trip]]       | -          | -          |
 
 | Defensive Action                                                | Action Cost                                         | Description                                              |
 | --------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
@@ -171,15 +165,16 @@ Movement Types
 | [[Dismiss Spell.md\|Dismiss Spell]]   | -          | -          |
 | [[Identify Magic.md\|Identify Magic]] | -          | -          |
 
-| Movement Action                                             | Action Cost                                         | Description                                        |
-| ----------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
-| [[Carry.md\|Carry]]           | [[Action.md\|Action]] | Carry or drag someone or something while you move. |
-| [[Dash.md\|Dash]]             | -                                                  | -                                                 |
-| [[01 - Projects/3 Game Master/Escape.md\|Escape]]           | -                                                  | -                                                 |
-| [[Fall Prone.md\|Fall Prone]] | -                                                  | -                                                 |
-| [[Jump.md\|Jump]]             | -                                                  | -                                                 |
-| [[Sprint.md\|Sprint]]         | -                                                  | -                                                 |
-| [[Stand Up.md\|Stand Up]]     | -                                                  | -                                                 |
+| Movement Action                                                     | Action Cost                                         | Description                                        |
+| ------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
+| [[Carry.md\|Carry]]                   | [[Action.md\|Action]] | Carry or drag someone or something while you move. |
+| [[Dash.md\|Dash]]                     | -                                                  | -                                                 |
+| [[01 - Projects/3 Game Master/Escape.md\|Escape]]                   | -                                                  | -                                                 |
+| [[Fall Prone.md\|Fall Prone]]         | -                                                  | -                                                 |
+| [[Jump.md\|Jump]]                     | -                                                  | -                                                 |
+| [[Sprint.md\|Sprint]]                 | -                                                  | -                                                 |
+| [[Stand Up.md\|Stand Up]]             | -                                                  | -                                                 |
+| [[Unarmed Strike.md\|Unarmed Strike]] | -                                                  | -                                                 |
 
 | Utility Action                                                              | Action Cost                                                       | Description                                                  |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------ |

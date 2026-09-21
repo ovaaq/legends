@@ -105,7 +105,6 @@
 | [[Dying.md\|Dying]]                                                               |
 | [[Elemental Damage.md\|Elemental Damage]]                                         |
 | [[Enchantment Magic.md\|Enchantment Magic]]                                       |
-| [[01 - Projects/3 Game Master/Encounter.md\|Encounter]]                                                         |
 | [[Encounter Action.md\|Encounter Action]]                                         |
 | [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                                 |
 | [[Entangling.md\|Entangling]]                                                     |
@@ -194,7 +193,6 @@
 | [[Magical Action.md\|Magical Action]]                                             |
 | [[01 - Projects/3 Game Master/Magical Essence.md\|Magical Essence]]                                             |
 | [[Magical Material.md\|Magical Material]]                                         |
-| [[Main Hand Attack.md\|Main Hand Attack]]                                         |
 | [[Mana.md\|Mana]]                                                                 |
 | [[Mana Point Maximum.md\|Mana Point Maximum]]                                     |
 | [[Martial Save DC.md\|Martial Save DC]]                                           |
@@ -220,7 +218,6 @@
 | [[Object.md\|Object]]                                                             |
 | [[Object Interaction.md\|Object Interaction]]                                     |
 | [[Object Property.md\|Object Property]]                                           |
-| [[Off-Hand Attack.md\|Off-Hand Attack]]                                           |
 | [[Offensive Action.md\|Offensive Action]]                                         |
 | [[Pack.md\|Pack]]                                                                 |
 | [[Pact Spell List.md\|Pact Spell List]]                                           |
