@@ -124,7 +124,6 @@ Movement Types
 | [[Recall Knowledge.md\|Recall Knowledge]]     | [[Action.md\|Action]]               | -                                                           |
 | [[Search.md\|Search]]                         | [[Action.md\|Action]]               | -                                                           |
 | [[Stand Up.md\|Stand Up]]                     | [[Action.md\|Action]]               | -                                                           |
-| [[Unarmed Strike.md\|Unarmed Strike]]         | [[Action.md\|Action]]               | -                                                           |
 | [[Coat Weapon.md\|Coat Weapon]]               | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Dash.md\|Dash]]                             | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Deliver Potion.md\|Deliver Potion]]         | [[Double Action.md\|Double Action]] | -                                                           |
@@ -137,6 +136,7 @@ Movement Types
 | [[Raise Shield.md\|Raise Shield]]             | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Shove.md\|Shove]]                           | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Trip.md\|Trip]]                             | [[Double Action.md\|Double Action]] | -                                                           |
+| [[Unarmed Strike.md\|Unarmed Strike]]         | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Dismiss Spell.md\|Dismiss Spell]]           | [[Free Action.md\|Free Action]]     | -                                                           |
 | [[Drop Object.md\|Drop Object]]               | [[Free Action.md\|Free Action]]     | -                                                           |
 | [[Fall Prone.md\|Fall Prone]]                 | [[Free Action.md\|Free Action]]     | -                                                           |

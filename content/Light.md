@@ -1,4 +1,4 @@
-Once during your [[Turn]], when you miss with an [[Attack]] using a [[Light]] [[Weapon]] while wielding another [[Light]] [[Weapon]], you may reroll the [[Attack Roll]]. You must use the new result.
+Once during your [[Turn]], when you miss with a [[Melee Attack]] using a [[Light]] [[Weapon]] while wielding two [[Light]] [[Weapon|Weapons]], you may reroll the [[Attack Roll]]. You must use the new result.
 
 ---
 

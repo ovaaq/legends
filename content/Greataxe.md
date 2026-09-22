@@ -5,7 +5,7 @@ _Big axe._
 **Weight**:: 2.5kg
 **Cost**:: 20 gp
 **Category**:: [[Axe]]
-**Properties**:: [[Heavy]] (2)
+**Properties**:: [[Heavy]] (3)
 **Attack**:: [[Triple Action]]
 **Damage**:: 2d12 + [[Strength]]
 **Type**:: [[Slashing Damage]]

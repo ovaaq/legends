@@ -1,16 +1,16 @@
 _[[Advanced Weapon]], [[Equipment]]_
 
-_Curved blade nice nice._
+_yes._
 
-**Weight**:: 1 Stack
+**Weight**:: 0.25kg
 **Cost**:: 2 gp
-
 **Category**:: [[Sword]]
 **Properties**:: [[Finesse]]
-**Damage**:: 1d8 + [[Strength]]
+**Attack**:: [[Double Action]]
+**Damage**:: 2d6 + [[Strength]]
 **Type**:: [[Slashing Damage]]
 
 ---
 
-#advanced #weapon #equipment
+#simple #weapon #equipment
 [[Weapon]]

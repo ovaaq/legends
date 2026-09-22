@@ -3,7 +3,7 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-You can wield two [[Weapon|Weapons]] as long as at least one of them has the [[Light]] property.
+When wielding two different [[Weapon|Weapons]] in two hands, you can make an [[Attack]] with the other weapon for one fewer [[Action]] than normal, to a minimum of one [[Action]].
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]

@@ -7,7 +7,7 @@ _Shooting is easy way to harm._
 
 **Category**:: [[Crossbow]]
 **Properties**:: [[Ammunition]], [[Loading]], [[Ranged]] (20m / 120m), [[Two‑Handed]]
-**Damage**:: 1d8 + [[Precision]]
+**Damage**:: 3d4
 **Type**:: [[Piercing Damage]]
 
 ---

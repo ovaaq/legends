@@ -2,12 +2,13 @@ _[[Advanced Weapon]], [[Equipment]]_
 
 _Short blade nice nice._
 
-**Weight**:: 1 Stack
-**Cost**:: 2 gp
-
+**Weight**:: 0.5kg
+**Cost**:: 20 gp
 **Category**:: [[Sword]]
-**Properties**:: [[Finesse]], [[Light]]
-**Damage**:: 1d6 + [[Strength]] [[Piercing Damage]] or [[Slashing Damage]]
+**Properties**:: [[Finesse]]
+**Attack**:: [[Action]]
+**Damage**:: 1d6 + [[Strength]]
+**Type**:: [[Slashing Damage]]
 
 ---
 

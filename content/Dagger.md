@@ -7,7 +7,7 @@ _Thief's basic need._
 **Category**:: [[Sword]]
 **Properties**:: [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)
 **Attack**:: [[Action]]
-**Damage**:: 1d4 + [[Strength]]
+**Damage**:: 1d4
 **Type**:: [[Slashing Damage]] or [[Piercing Damage]]
 
 ---

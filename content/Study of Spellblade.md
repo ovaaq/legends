@@ -9,21 +9,21 @@ Spellblades cannot be disarmed and appear as solid weapons made of glowing arcan
 
 When you make a [[Weapon Attack]] with a spellblade, you can use your [[Melee Spell Attack]] modifier instead of your [[Weapon Attack]] modifier. Attacks made with spellblades are still [[Weapon Attack|Weapon Attacks]].
 
-**Throwing Weapon.**
+**Throwing Weapon**
 **Properties**:: [[Light]], [[Finesse]], [[Thrown]] (10m)
 **Attack**:: [[Action]]
-**Damage**:: 1d4 + [[Sorcery]]
+**Damage**:: 1d6
 After the attack, the weapon immediately returns to your hand, whether the attack hits or misses.
 
-**Duelling Weapon.**
+**Duelling Weapon**
 **Properties**:: [[Finesse]]
 **Attack**:: [[Double Action]]
-**Damage**:: 2d6 + [[Sorcery]]
+**Damage**:: 3d6
 
-**Two-Handed Weapon.**
-**Properties**:: [[Two‑Handed]], [[Reach]] (2m)
+**Two-Handed Weapon**
+**Properties**:: [[Finesse]], [[Two‑Handed]], [[Reach]] (2m)
 **Attack**:: [[Triple Action]]
-**Damage**:: 2d12 + [[Sorcery]]
+**Damage**:: 4d6
 
 **Tree**:: [[Spellblade Talent Tree]]
 **Group**:: [[Arcane Talent]]
