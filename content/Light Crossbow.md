@@ -2,11 +2,11 @@ _[[Simple Weapon]], [[Equipment]]_
 
 _Shooting is easy way to harm._
 
-**Weight**:: 1 Stack
-**Cost**:: 2 gp
-
+**Weight**:: 2.25kg
+**Cost**:: 75 gp
 **Category**:: [[Crossbow]]
-**Properties**:: [[Ammunition]], [[Loading]], [[Ranged]] (20m / 120m), [[Two‑Handed]]
+**Properties**:: [[Ammunition]], [[Two‑Handed]], [[Loading]], [[Ranged]] (20m / 40m)
+**Attack**:: [[Double Action]]
 **Damage**:: 3d4
 **Type**:: [[Piercing Damage]]
 

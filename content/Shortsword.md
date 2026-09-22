@@ -7,7 +7,7 @@ _Short blade nice nice._
 **Category**:: [[Sword]]
 **Properties**:: [[Finesse]]
 **Attack**:: [[Action]]
-**Damage**:: 1d6 + [[Strength]]
+**Damage**:: 1d6
 **Type**:: [[Slashing Damage]]
 
 ---
