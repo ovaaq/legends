@@ -1,17 +1,18 @@
 _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
-**Mana**:: 0
+**Components**:: F, V, S
+**Mana**:: 2
+**Range**:: Self
+**Duration**:: 1 minute
 
-**Range**:: 20 metres
-**Duration**:: Instantaneous
+**Effect**:: Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it’s impossible to track which image is real.
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+Each time a [[Creature]] hits you with an [[Attack Roll]] during the spell’s duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+A creature is unaffected by this spell if it has the [[Blinded]] condition, [[Blindsight]], or [[Truesight]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional two mana spent, the amount of duplicates increase by 1. You can upcast the spell with a maximum of 4 extra mana.
 
 ---
 
