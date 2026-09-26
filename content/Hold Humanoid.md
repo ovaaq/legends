@@ -1,8 +1,8 @@
-_[[2nd Level Spell]]_
+_[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
-**Mana**:: 2
+**Mana**:: 1
 
 **Range**:: 20 metres
 **Duration**:: Concentration, up to 1 minute
@@ -20,4 +20,4 @@ At the end of each of its turns, the target can make another [[Charisma Saving T
 
 ---
 
-#spell #2nd  [[Spell]]
+#spell #1st  [[Spell]]

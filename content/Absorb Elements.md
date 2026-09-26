@@ -2,7 +2,7 @@ _[[1st Level Spell]]_
 
 **Casting**:: [[Reaction]]\*
 **Components**:: F, S
-**Mana**:: 2
+**Mana**:: 1
 
 **Range**:: 4 metres
 **Duration**:: Instantaneous

@@ -11,7 +11,7 @@ _[[1st Level Spell]]_
 
 If the object is being held or carried by a creature, that creature must make a [[Strength Saving Throw]] against your [[Spell Save DC]]. On a failed save, the object is pulled from its grasp and flies to your hand. On a successful save, the creature retains its grip.
 
-The object must weigh no more than 5 kg, must be able to fit in one hand, and cannot be magical. If multiple valid objects are within range, the closest one is affected.
+The object must weigh no more than 5 kg, must be able to fit in one hand, and cannot be [[Magical]]. If multiple valid objects are within range, the closest one is affected.
 
 **Upcasting**:: For each additional mana spent, the range increases by 20 metres. You can upcast the spell with a maximum of 3 extra mana.
 
