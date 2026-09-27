@@ -64,7 +64,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 | ----------------------------------------------------------- | --------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
 | [[Bolas.md\|Bolas]]           | [[Snare.md\|Snare]]   | -                      | [[Light]]. [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m) |
 | [[Greataxe.md\|Greataxe]]     | [[Axe.md\|Axe]]       | 2d12 + [[Strength]]     | [[Heavy]] (3)                                                           |
-| [[Longsword.md\|Longsword]]   | [[Sword.md\|Sword]]   | 1d10 + [[Strength]]     | [[Versatile]] (2d10 + [[Strength]])                                     |
+| [[Longsword.md\|Longsword]]   | [[Sword.md\|Sword]]   | 1d8 + [[Strength]]      | [[Vicious]], [[Versatile]] (2d8 + [[Strength]])                         |
 | [[Shortsword.md\|Shortsword]] | [[Sword.md\|Sword]]   | 1d6                     | [[Finesse.md\|Finesse]]                   |
 | [[Warhammer.md\|Warhammer]]   | [[Hammer.md\|Hammer]] | 1d8 + [[Strength]]      | [[Penetrating]], [[Versatile]] (2d8 + [[Strength]])                     |
 | [[Whip.md\|Whip]]             | [[Snare.md\|Snare]]   | 1d4 [[Slashing Damage]] | [[Light]], [[Finesse]], [[Reach]] (2m), [[Special]]                     |

@@ -1,13 +1,13 @@
 _[[Advanced Weapon]], [[Equipment]]_
 
-_Big sword, but not too big._
+_Sword for war._
 
 **Weight**:: 1.5kg
 **Cost**:: 20 gp
 **Category**:: [[Sword]]
-**Properties**:: [[Versatile]] (2d10 + [[Strength]])
+**Properties**:: [[Vicious]], [[Versatile]] (2d8 + [[Strength]])
 **Attack**:: [[Double Action]]
-**Damage**:: 1d10 + [[Strength]]
+**Damage**:: 1d8 + [[Strength]]
 **Type**:: [[Slashing Damage]]
 
 ---

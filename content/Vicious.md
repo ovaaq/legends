@@ -1,4 +1,4 @@
-if you max roll damage die you can add another
+critical hit on the weapon causes [[Bleeding]] (1)
 
 ---
 
