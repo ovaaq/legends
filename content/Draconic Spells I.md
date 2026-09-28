@@ -24,7 +24,7 @@ These spells are added to your [[Pact Spell List]]:
 - [[Burning Hands]]
 - [[Detect Magic]]
 - [[Feather Fall]]
-- [[Find Familiar]]
+- [[Summon Familiar]]
 - [[Frost Armour]]
 - [[Tailwind Strike]]
 - [[Wind Step]]

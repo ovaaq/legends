@@ -48,7 +48,7 @@ These spells are added to your [[Arcane Spell List]]:
 - [[Deflect]]
 - [[Detect Magic]]
 - [[Feather Fall]]
-- [[Find Familiar]]
+- [[Summon Familiar]]
 - [[Mage Armour]]
 - [[Repair]]
 - [[Unseen Servant]]

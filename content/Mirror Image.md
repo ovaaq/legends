@@ -14,6 +14,8 @@ A creature is unaffected by this spell if it has the [[Blinded]] condition, [[Bl
 
 **Upcasting**:: For each additional two mana spent, the amount of duplicates increase by 1. You can upcast the spell with a maximum of 4 extra mana.
 
+**Type**:: [[Projection Magic]]
+
 ---
 
 #spell #2nd [[Spell]]

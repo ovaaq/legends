@@ -1,13 +1,14 @@
 _[[Simple Weapon]], [[Equipment]]_
 
-_Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
+_Hammer for war._
 
-**Weight**:: 1 Stack
-**Cost**:: 2 gp
-
+**Weight**:: 1.5kg
+**Cost**:: 20 gp
 **Category**:: [[Polearm]]
-**Properties**:: [[Reach]] (2m), [[Versatile]] (1d10)
-**Damage**:: 1d8 [[Piercing Damage]]
+**Properties**:: [[Vicious]], [[Reach]] (2m), [[Versatile]] (2d6 + [[Strength]])
+**Attack**:: [[Double Action]]
+**Damage**:: 1d6 + [[Strength]]
+**Type**:: [[Piercing Damage]]
 
 ---
 

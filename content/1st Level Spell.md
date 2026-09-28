@@ -32,7 +32,6 @@
 | [[Entangle.md\|Entangle]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
 | [[Faerie Fire.md\|Faerie Fire]]                         | -                                                                | -          | \*\* 2 | \*\* 20 meters | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Feather Fall.md\|Feather Fall]]                       | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres    | 10 minutes                                                                                              |
-| [[Find Familiar.md\|Find Familiar]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
 | [[Fog Cloud.md\|Fog Cloud]]                             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 40 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 hour</li></ul>     |
 | [[Frost Armour.md\|Frost Armour]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 hour                                                                                                  |
 | [[Grease.md\|Grease]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres    | 1 minute                                                                                                |
@@ -67,6 +66,7 @@
 | [[Skywrite.md\|Skywrite]]                               | 10 minutes                                                        | F, S        | 1    | Sight        | 1 day                                                                                                   |
 | [[Sleep.md\|Sleep]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres    | 2 days, 4 hours                                                                                         |
 | [[Speak with Animals.md\|Speak with Animals]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                                 |
+| [[Summon Familiar.md\|Summon Familiar]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 2 metres     | Instantaneous                                                                                           |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres     | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
 | [[Summon Tiny Beast.md\|Summon Tiny Beast]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
 | [[Summon Tiny Construct.md\|Summon Tiny Construct]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
@@ -104,7 +104,7 @@ Floating Dsik
 [[Mending]]
 [[Disguise Self]]
 [[Feather Fall]]
-[[Find Familiar]]
+[[Summon Familiar]]
 [[Silent Image]]
 
 Minor Creation / Minor Provision
@@ -114,7 +114,7 @@ Minor Creation / Minor Provision
 - It cannot be rare materials or mechanical devices.
 
 [[Minor Conjuration]]
-[[Find Familiar]]
+[[Summon Familiar]]
 [[Cure Wounds]]
 [[Barkskin]]
 [[Duplicate]] duplicate object
@@ -124,7 +124,7 @@ Minor Creation / Minor Provision
 - **Creation Magic**
   - Conjuration Magic - [[Minor Conjuration]], [[Grease]]
   - Projection Magic - [[Silent Image]], [[Disguise Self]]
-  - Summon Magic - [[Find Familiar]], [[Unseen Servant]]
+  - Summon Magic - [[Summon Familiar]], [[Unseen Servant]]
 - **Preservation Magic**
   - Restoration Magic - [[Cure Wounds]], [[Repair]]
   - Revelation Magic - [[Detect Magic]], [[Sense Spirits]]
