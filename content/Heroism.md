@@ -1,18 +1,16 @@
 _[[1st Level Spell]]_
 
-**Casting**:: **▶▶▶⚡〇**
-**Components**:: F, V, S, M\*
-**Mana**:: 0
-**Range**:: 20 metres
-**Duration**:: Instant
+**Casting**:: [[Triple Action]]
+**Components**:: V, S
+**Mana**:: 1
+**Range**:: Touch
+**Duration**:: [[Concentration]], 1 minute
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: A [[Willing]] [[Creature]] you touch is imbued with bravery. Until the spell ends, the [[Creature]] is immune to the [[Frightened]] condition and gains [[Temporary Hit Point|Temporary Hit Points]] equal to your [[Sorcery]] at the start of each of its [[Turn|Turns]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Upcasting**:: For each additional mana spent, the [[Temporary Hit Point|Temporary Hit Points]] gained each turn increase by 1. You can upcast the spell with a maximum of 3 extra mana.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
-
-**Type**:: [[Enchantment Magic]]
+**Type**:: [[Warding Magic]]
 
 ---
 

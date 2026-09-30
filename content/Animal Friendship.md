@@ -3,7 +3,6 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 1
-
 **Range**:: 20 metres
 **Duration**:: 24 hours
 

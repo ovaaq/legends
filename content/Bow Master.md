@@ -3,7 +3,7 @@
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.
 
-[[Bow]] benefits
+when using [[Bow]] you can ignore short range you only shoot to the long range without penalty
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]

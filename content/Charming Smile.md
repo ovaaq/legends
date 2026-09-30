@@ -14,8 +14,6 @@ _[[Cantrip]]_
 
 When target realizes you used magic to influence its mood, it becomes hostile toward you. A creature prone to violence might attack immediately. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.
 
-**Upcasting**:: For each additional mana spent, the duration increases by 1 minute. You can upcast the spell with a maximum of 3 extra mana.
-
 **Type**:: [[Enchantment Magic]]
 
 ---

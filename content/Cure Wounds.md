@@ -1,9 +1,8 @@
 _[[1st Level Spell]]_
 
-**Casting**:: [[Double Action]]
+**Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 1
-
 **Range**:: Touch
 **Duration**:: Instantaneous
 

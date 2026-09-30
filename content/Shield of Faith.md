@@ -1,16 +1,14 @@
 _[[1st Level Spell]]_
 
-**Casting**:: **▶▶▶⚡〇**
-**Components**:: F, V, S, M\*
-**Mana**:: 0
+**Casting**:: [[Double Action]]
+**Components**:: V
+**Mana**:: 1
 **Range**:: 20 metres
-**Duration**:: Instant
+**Duration**:: [[Concentration]], 10 minutes
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: A shimmering field surrounds a [[Creature]] you can see within range, granting it a +2 bonus to [[Armour Class]] for the duration.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
-
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional 2 mana spent, bonus to [[Armour Class]] increases by 1. You can upcast the spell with a maximum of 4 extra mana.
 
 **Type**:: [[Warding Magic]]
 

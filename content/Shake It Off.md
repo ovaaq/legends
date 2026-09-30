@@ -3,14 +3,14 @@ _[[2nd Level Martial technique]]_
 **Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range**:: Melee
-**Weapon**:: Slashing or Piercing
+**Weapon**:: [[Heavy]]
 **Duration**:: Instant
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: Target gains [[Bleeding]] (1) condition.
+**Effect**:: Remove Frightened, Prone, Grappled, etc.
 
-**Type**:: [[Offensive Technique]]
+**Type**:: [[Defensive Technique]]
 
 ---
 
