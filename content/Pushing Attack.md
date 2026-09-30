@@ -17,7 +17,7 @@ _\*When your [[Attack]] hits a [[Creature]]._
 
 If the target's movement is interrupted by an obstacle, such as a wall, it takes [[Bludgeoning Damage]] equal to your [[Strength]] score.
 
-**Type**:: [[Offensive]]
+**Type**:: [[Offensive Technique]]
 
 ---
 

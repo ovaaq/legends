@@ -1,9 +1,9 @@
 **Requirements**:: [[Elven Ancestry]]
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-Whenever you have [[Advantage]] on a [[Precision]]-based [[Attack Roll]] or [[Check]], you may reroll one of the dice once.
+Once per [[Turn]], when you have an [[Advantage]] on a [[Precision]]-based [[Check]], you may reroll additional d20 die.
 
 **Group**:: [[Ancestry Talent]]
 **Following Talents**::

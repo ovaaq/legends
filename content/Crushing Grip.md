@@ -1,16 +1,18 @@
 _[[1st Level Martial technique]]_
 
 **Execution**:: [[Free Action]]
-**Stamina**:: 2
+**Stamina**:: 1
 **Range**:: Melee
 **Weapon**:: None
-**Duration**:: Maintained, up to 1 minute
+**Duration**:: 1 Minute
 
-_\*When you successfully [[Grapple]] a target_.
+_\*When you successfully [[Grapple]] a target._
 
-**Effect**:: You enhance your grip. The target takes 2d6 + [[Strength]] [[Bludgeoning Damage]], and the [[Grappled]] [[Creature]] has [[Disadvantage]] on attempts to escape your hold.
+**Effect**:: You tighten your hold. The [[Grappled]] creature has [[Disadvantage]] on attempts to escape your grapple.
 
-At the start of each of its turns while [[Grappled]], the creature takes 1d6 + [[Strength]] [[Bludgeoning Damage]].
+At the start of each of its turns while [[Grappled]], it takes 1d6 + [[Strength]] [[Bludgeoning Damage]].
+
+**Type**:: [[Control Technique]]
 
 ---
 

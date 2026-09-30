@@ -5,8 +5,9 @@ _Flavour text_.
 
 Each time you take the [[Increased Stamina]] talent, gain 1 additional [[Stamina Point]].
 
+**Tree**:: [[Human Ancestry]]
 **Group**:: [[Ancestry Talent]]
-**Following Talents**::
+**Following**::
 
 ---
 

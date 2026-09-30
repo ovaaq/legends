@@ -10,7 +10,7 @@ _\*When a [[Creature]] moves out of your [[Melee Range]]._
 
 **Effect**:: Make one [[Melee Attack]] against that [[Creature]]. The [[Melee Attack]] resolves immediately before the [[Creature]] exits your [[Melee Range]].
 
-**Type**:: [[Offensive]]
+**Type**:: [[Control Technique]]
 
 ---
 

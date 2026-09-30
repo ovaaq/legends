@@ -10,6 +10,8 @@ _\*When someone makes a [[Melee Attack]] towards you._
 
 **Effect**:: Reduce the incoming [[Attack Roll]] by your [[Martial Skill]] [[Rank]].
 
+**Type**:: [[Defensive Technique]]
+
 ---
 
 #martial_technique #1st\

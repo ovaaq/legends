@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 **Effect**:: You do [[Coat Weapon]] action fast. Applying the coat.
 
-**Type**:: [[Offensive]]
+**Type**:: [[Offensive Technique]]
 
 ---
 

@@ -1,4 +1,4 @@
-_Humans are a versatile and ambitious people, known for their adaptability and drive to shape the world around them. Though their lives are shorter than many other ancestries, humans settle in nearly every corner of the realms, building cities, forging alliances, and leaving their mark on history._
+_Humans are a versatile people, known for their adaptability and drive to travel the world around them. Though their lives are shorter than many other ancestries, humans settle in nearly every corner of the realms, building cities, forging alliances, and leaving their mark on history._
 
 **Size**:: [[Medium]]
 **Speed**:: 7 metres

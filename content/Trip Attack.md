@@ -15,6 +15,8 @@ _\*When your [[Attack]] hits a [[Creature]]._
 **Failure:** Target falls [[Prone]].
 **Critical Failure:** Target falls [[Prone]], and takes 1d6 [[Bludgeoning Damage]].
 
+**Type**:: [[Offensive Technique]]
+
 ---
 
 #martial_technique #1st\

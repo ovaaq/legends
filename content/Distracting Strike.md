@@ -8,9 +8,9 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: The next [[Attack Roll]] against the target by an attacker other than you has [[Advantage]] if the [[Attack]] is made before the start of your next [[Turn]].
+**Effect**:: The next [[Attack Roll]] against the target made by a [[Creature]] other than you has [[Advantage]] if the [[Attack]] is made before the start of your next [[Turn]].
 
-**Type**:: [[Offensive]]
+**Type**:: [[Control Technique]]
 
 ---
 

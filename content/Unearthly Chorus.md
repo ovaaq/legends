@@ -11,7 +11,7 @@ _[[1st Level Spell]]_
 **Critical Success:** No effect.
 **Success:** The target becomes neutral toward you.
 **Failure:** The target becomes friendly toward you.
-**Critical Failure:** The target becomes [Charmed](Charmed) by you.
+**Critical Failure:** The target becomes [Charmed](Charmed) by yftou.
 
 The target remains affected while it can hear the music and for 1 hour afterward. While friendly from this spell, you make [[Deception]] and [[Persuasion]] [[Check|Checks]] against it with [[Advantage]].
 

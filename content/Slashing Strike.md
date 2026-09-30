@@ -10,7 +10,7 @@ _\*When your [[Attack]] hits a [[Creature]]._
 
 **Effect**:: Hit two targets that are in your melee range and nothing is between them.
 
-**Type**:: [[Offensive]]
+**Type**:: [[Offensive Technique]]
 
 ---
 

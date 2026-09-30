@@ -8,12 +8,14 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: You strike at the [[Object]] the [[Creature]] is holding. The target must make a [[Strength Saving Throw]].
+**Effect**:: You strike at an [[Object]] the target is holding, forcing it to make a [[Strength Saving Throw]].
 
 **Critical Success:** No effect.\
-**Success:** Target cannot take [[Reaction|Reactions]] until the end of its next turn.\
-**Failure:** One [[Object]] target held drops in an unoccupied space within 1 metre of the target.
-**Critical Failure:** One [[Object]] target held drops in an unoccupied space within 2 metres of the target.
+**Success:** The target cannot take [[Reaction|Reactions]] until the end of its next [[Turn]].
+**Failure:** The [[Object]] the target is holding falls into an unoccupied space within 1 metre of it.
+**Critical Failure:** The [[Object]] the target is holding falls into an unoccupied space within 2 metres of it.
+
+**Type**:: [[Control Technique]]
 
 ---
 

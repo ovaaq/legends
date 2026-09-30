@@ -2,15 +2,15 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Reaction]]\*
 **Stamina**:: 1
-**Range**:: Self
+**Range**:: Melee
 **Weapon**:: Any
 **Duration**:: Instant
 
-\*\*When you would become [[Prone]].
+\*\*When [[Creature]] enters your [[Melee Range]].
 
-**Effect**:: You regain your balance and do not become [[Prone]].
+**Effect**:: Make one [[Attack]] against the triggering [[Creature]].
 
-**Type**:: [[Defensive Technique]]
+**Type**:: [[Control Technique]]
 
 ---
 

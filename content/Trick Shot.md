@@ -8,6 +8,8 @@ _[[1st Level Martial technique]]_
 
 **Effect**:: Next [[Attack Roll]] you make does not have [[Disadvantage]], and it ignores [[Cover]], so long as it can ricochet off a single surface and hit a target. On hit, add your [[Martial Skill]] [[Rank]] to the [[Damage Roll]].
 
+**Type**:: [[Offensive Technique]]
+
 ---
 
 #martial_technique #1st\

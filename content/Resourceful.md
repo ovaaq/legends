@@ -3,10 +3,11 @@
 
 _Flavour text_.
 
-Once per day, you can choose to gain [[Advantage]] on a roll before you roll.
+Once per day, you can choose to gain [[Advantage]] on a roll before you roll [[Check]].
 
+**Tree**:: [[Human Ancestry]]
 **Group**:: [[Ancestry Talent]]
-**Following Talents**::
+**Following**::
 
 ---
 

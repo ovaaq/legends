@@ -10,7 +10,7 @@ Having a elven ancestry you unlock multiple [[Ancestry Talent|Ancestry Talents]]
 
 | Talent Name                                                               | Group                                                                 | Cost | Requirements                                                            | Following Talents                                                       |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [[Elven Accuracy.md\|Elven Accuracy]]       | [[Ancestry Talent.md\|Ancestry Talent]] | 1 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                                                                      |
+| [[Elven Accuracy.md\|Elven Accuracy]]       | [[Ancestry Talent.md\|Ancestry Talent]] | 2 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | -                                                                      |
 | [[Elven Spells I.md\|Elven Spells I]]       | [[Ancestry Talent.md\|Ancestry Talent]] | 2 LP | [[Elven Ancestry.md\|Elven Ancestry]]     | [[Elven Spells II.md\|Elven Spells II]]   |
 | [[Elven Spells II.md\|Elven Spells II]]     | [[Ancestry Talent.md\|Ancestry Talent]] | 2 LP | [[Elven Spells I.md\|Elven Spells I]]     | [[Elven Spells III.md\|Elven Spells III]] |
 | [[Elven Spells III.md\|Elven Spells III]]   | [[Ancestry Talent.md\|Ancestry Talent]] | 2 LP | [[Elven Spells II.md\|Elven Spells II]]   | [[Elven Spells IV.md\|Elven Spells IV]]   |

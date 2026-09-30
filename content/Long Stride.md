@@ -7,10 +7,11 @@ Increase your [[Walking Speed]] by 1 metre.
 
 This [[Talent]] can be taken once.
 
+**Tree**:: [[Human Ancestry]] & [[Elven Ancestry]]
 **Group**:: [[Ancestry Talent]]
 **Following Talents**::
 
 ---
 
-#talent #elven #human   #ancestry
+#talent #elven #human #ancestry
 [[Talent]][[Ancestry Talent]]

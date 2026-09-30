@@ -1,7 +1,9 @@
 **Requirements**:: [[Simple Weapon Training]]
 **Cost**:: 3 LP
 
-_Flavour text_.
+_Years of training have taught you how to perform combat techniques that ordinary warriors cannot replicate._
+
+[[Martial Technique]]s are specialized combat manoeuvres learned through training and experience. Each technique belongs to one of four categories: [[Offensive Technique|Offensive]], [[Defensive Technique|Defensive]], [[Control Technique|Control]] and [[Support Technique|Support]].
 
 **Stamina.** You use [[Stamina Point|Stamina Points]] to power your techniques. Your [[Stamina Point Maximum]] equals your [[Constitution]] score. You regain all expended [[Stamina Point|Stamina Points]] after a [[Short Rest]].
 
@@ -9,37 +11,38 @@ _Flavour text_.
 
 **Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Attack]].
 
-| 1st Level Martial Techniques                                                                      | Execution                                                     | Stamina | Range     | Weapon                                                |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- |
-| [[Bait and Switch.md\|Bait and Switch]]                             | [[Action.md\|Action]]           | 1       | 1 metre   | None                                                  |
-| [[Block Way.md\|Block Way]]                                         | [[Action.md\|Action]]           | 1       | Melee     | [[Polearm.md\|Polearm]] |
-| [[Brute Strike.md\|Brute Strike]]                                   | [[Free Action]]\*                                              | 1       | Melee     | Heavy                                                 |
-| [[Charging Strike.md\|Charging Strike]]                             | [[Action.md\|Action]]           | 1       | Melee     | Any                                                   |
-| [[Commander’s Strike.md\|Commander’s Strike]]                       | **▶▶▶⚡〇**                                                     | 0       | Melee     | Bludgeoning                                           |
-| [[Counterbalance.md\|Counterbalance]]                               | [[Reaction]]\*                                                 | 1       | Self      | Any                                                   |
-| [[Crushing Grip.md\|Crushing Grip]]                                 | [[Free Action.md\|Free Action]] | 2       | Melee     | None                                                  |
-| [[Dirty Hit.md\|Dirty Hit]]                                         | [[Free Action]]\*                                              | 1       | Melee     | Any                                                   |
-| [[Disarming Attack.md\|Disarming Attack]]                           | [[Free Action]]\*                                              | 1       | Any       | Any                                                   |
-| [[Distracting Strike.md\|Distracting Strike]]                       | [[Free Action]]\*                                              | 1       | Any       | Any                                                   |
-| [[Evasive Footwork.md\|Evasive Footwork]]                           | [[Action.md\|Action]]           | 1       | Self      | Any                                                   |
-| [[Feinting Attack.md\|Feinting Attack]]                             | [[Free Action]]\*                                              | 1       | Any       | Advanced                                              |
-| [[Glancing Blow.md\|Glancing Blow]]                                 | [[Free Action]]\*                                              | 1       | Melee     | Any                                                   |
-| [[Hit when someone comes nearby.md\|Hit when someone comes nearby]] | [[Reaction]]\*                                                 | 1       | Self      | Any                                                   |
-| [[Intimidating Command.md\|Intimidating Command]]                   | **▶▶▶⚡〇**                                                     | 0       | Melee     | Bludgeoning                                           |
-| [[Opportunity Attack.md\|Opportunity Attack]]                       | [[Reaction]]\*                                                 | 1       | Melee     | Melee                                                 |
-| [[Parry.md\|Parry]]                                                 | [[Reaction]]\*                                                 | 1       | Melee     | Any                                                   |
-| [[Precision Attack.md\|Precision Attack]]                           | [[Free Action]]\*                                              | 1       | Any       | Any                                                   |
-| [[Push the Limit.md\|Push the Limit]]                               | [[Action.md\|Action]]           | 0       | Self      | None                                                  |
-| [[Pushing Attack.md\|Pushing Attack]]                               | [[Free Action]]\*                                              | 1       | Melee     | [[Heavy.md\|Heavy]]     |
-| [[Quick Coating.md\|Quick Coating]]                                 | [[Action.md\|Action]]           | 0       | Melee     | Piercing or Slashing                                  |
-| [[Rally.md\|Rally]]                                                 | [[Action.md\|Action]]           | 1       | 10 metres | None                                                  |
-| [[Riposte.md\|Riposte]]                                             | [[Free Action]]\*                                              | 2       | Melee     | Any                                                   |
-| [[Slashing Strike.md\|Slashing Strike]]                             | [[Action.md\|Action]]           | 1       | Melee     | Slashing                                              |
-| [[Sneak Attack.md\|Sneak Attack]]                                   | [[Free Action]]\*                                              | 0       | Any       | [[Finesse.md\|Finesse]] |
-| [[Taunting Strike.md\|Taunting Strike]]                             | [[Free Action]]\*                                              | 1       | 4 metres  | Any                                                   |
-| [[Trick Shot.md\|Trick Shot]]                                       | [[Action.md\|Action]]           | 1       | Range     | [[Ranged]] or [[Thrown]]                              |
-| [[Trip Attack.md\|Trip Attack]]                                     | [[Free Action]]\*                                              | 1       | Melee     | Any                                                   |
-| [[Withdrawing Strike.md\|Withdrawing Strike]]                       | [[Free Action]]\*                                              | 1       | Melee     | Any                                                   |
+| 1st Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                                                | Type                                                                          |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[Bait and Switch.md\|Bait and Switch]]           | [[Action.md\|Action]]               | 1       | 1 metre   | None                                                                  | [[Support Technique.md\|Support Technique]]     |
+| [[Blockade.md\|Blockade]]                         | [[Action.md\|Action]]               | 1       | Melee     | [[Polearm.md\|Polearm]]                 | [[Support Technique.md\|Support Technique]]     |
+| [[Brute Strike.md\|Brute Strike]]                 | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]]                     | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Charging Strike.md\|Charging Strike]]           | [[Action.md\|Action]]               | 1       | Melee     | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Commander’s Strike.md\|Commander’s Strike]]     | [[Double Action.md\|Double Action]] | 0       | 10 metres | Any                                                                   | [[Support Technique.md\|Support Technique]]     |
+| [[Corrected Strike.md\|Corrected Strike]]         | [[Free Action]]\*                                                  | 1       | Any       | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Counterbalance.md\|Counterbalance]]             | [[Reaction]]\*                                                     | 1       | Self      | Any                                                                   | [[Defensive Technique.md\|Defensive Technique]] |
+| [[Crushing Grip.md\|Crushing Grip]]               | [[Free Action.md\|Free Action]]     | 1       | Melee     | None                                                                  | [[Control Technique.md\|Control Technique]]     |
+| [[Dirty Hit.md\|Dirty Hit]]                       | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Disarming Attack.md\|Disarming Attack]]         | [[Free Action]]\*                                                  | 1       | Any       | Any                                                                   | [[Control Technique.md\|Control Technique]]     |
+| [[Distracting Strike.md\|Distracting Strike]]     | [[Free Action]]\*                                                  | 1       | Any       | Any                                                                   | [[Control Technique.md\|Control Technique]]     |
+| [[Evasive Footwork.md\|Evasive Footwork]]         | [[Action.md\|Action]]               | 1       | Self      | Any                                                                   | [[Defensive Technique.md\|Defensive Technique]] |
+| [[Feinting Attack.md\|Feinting Attack]]           | [[Free Action]]\*                                                  | 1       | Any       | [[Advanced Weapon.md\|Advanced Weapon]] | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Glancing Blow.md\|Glancing Blow]]               | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Intercept.md\|Intercept]]                       | [[Reaction]]\*                                                     | 1       | Melee     | Any                                                                   | [[Control Technique.md\|Control Technique]]     |
+| [[Intimidating Command.md\|Intimidating Command]] | [[Double Action.md\|Double Action]] | 1       | 10 metres | None                                                                  | [[Control Technique.md\|Control Technique]]     |
+| [[Opportunity Attack.md\|Opportunity Attack]]     | [[Reaction]]\*                                                     | 1       | Melee     | Melee                                                                 | [[Control Technique.md\|Control Technique]]     |
+| [[Parry.md\|Parry]]                               | [[Reaction]]\*                                                     | 1       | Melee     | Any                                                                   | [[Defensive Technique.md\|Defensive Technique]] |
+| [[Pinning Strike.md\|Pinning Strike]]             | [[Free Action.md\|Free Action]]     | 1       | Melee     | Piercing                                                              | [[Control Technique.md\|Control Technique]]     |
+| [[Push the Limit.md\|Push the Limit]]             | [[Action.md\|Action]]               | 0       | Self      | None                                                                  | [[Defensive Technique.md\|Defensive Technique]] |
+| [[Pushing Attack.md\|Pushing Attack]]             | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]]                     | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Quick Coating.md\|Quick Coating]]               | [[Action.md\|Action]]               | 0       | Melee     | Piercing or Slashing                                                  | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Rally.md\|Rally]]                               | [[Action.md\|Action]]               | 1       | 10 metres | None                                                                  | [[Support Technique.md\|Support Technique]]     |
+| [[Riposte.md\|Riposte]]                           | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Slashing Strike.md\|Slashing Strike]]           | [[Action.md\|Action]]               | 1       | Melee     | Slashing                                                              | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Sneak Attack.md\|Sneak Attack]]                 | [[Free Action]]\*                                                  | 0       | Any       | [[Finesse.md\|Finesse]]                 | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Taunting Strike.md\|Taunting Strike]]           | [[Free Action]]\*                                                  | 1       | 4 metres  | Any                                                                   | [[Support Technique.md\|Support Technique]]     |
+| [[Trick Shot.md\|Trick Shot]]                     | [[Action.md\|Action]]               | 1       | Range     | [[Ranged]] or [[Thrown]]                                              | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Trip Attack.md\|Trip Attack]]                   | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Withdrawing Strike.md\|Withdrawing Strike]]     | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                                   | [[Defensive Technique.md\|Defensive Technique]] |
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]

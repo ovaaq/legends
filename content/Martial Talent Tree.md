@@ -9,6 +9,7 @@
   - [[Martial Techniques I]]
     - [[Learn Martial Techniques]]
     - [[Increased Stamina]]
+    - [[Combine two Techniques]]
     - [[Martial Techniques II]]
       - [[Martial Techniques III]]
 

@@ -10,6 +10,8 @@ _\*When your [[Attack]] hits a [[Creature]]._
 
 **Effect**:: Immediately after the [[Attack]], move up to half your [[Walking Speed]].
 
+**Type**:: [[Defensive Technique]]
+
 ---
 
 #martial_technique #1st\

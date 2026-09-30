@@ -1,7 +1,7 @@
 _[[1st Level Martial technique]]_
 
 **Execution**:: [[Free Action]]\*
-**Stamina**:: 2
+**Stamina**:: 1
 **Range**:: Melee
 **Weapon**:: Any
 **Duration**:: Instant
@@ -9,6 +9,8 @@ _[[1st Level Martial technique]]_
 _\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
 
 **Effect**:: Make a new [[Attack Roll]] against the target.
+
+**Type**:: [[Offensive Technique]]
 
 ---
 

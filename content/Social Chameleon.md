@@ -5,8 +5,9 @@ _Flavour text_.
 
 You gain [[Advantage]] when trying to blend into a culture, mimic behaviour, or pass as a local.
 
+**Tree**:: [[Human Ancestry]]
 **Group**:: [[Ancestry Talent]]
-**Following Talents**::
+**Following**::
 
 ---
 

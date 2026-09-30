@@ -9,8 +9,9 @@ Select one of the following:
 
 This [[Talent]] can be taken once.
 
+**Tree**:: [[Human Ancestry]]
 **Group**:: [[Ancestry Talent]]
-**Following Talents**::
+**Following**::
 
 ---
 

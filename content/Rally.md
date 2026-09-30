@@ -8,6 +8,8 @@ _[[1st Level Martial technique]]_
 
 **Effect**:: Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [[Temporary Hit Point|Temporary Hit Points]] equal to the [[Martial Skill]] [[Rank]] +  2.
 
+**Type**:: [[Support Technique]]
+
 ---
 
 #martial_technique #1st\

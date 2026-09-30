@@ -2,13 +2,13 @@ _[[1st Level Martial technique]]_
 
 **Execution**:: [[Free Action]]\*
 **Stamina**:: 1
-**Range**:: Melee
-**Weapon**:: [[Heavy]]
+**Range**:: Any
+**Weapon**:: Any
 **Duration**:: Instant
 
-_\*When your [[Attack]] hits a [[Creature]]._
+_\*When you miss a [[Creature]] with an [[Attack]]._
 
-**Effect**:: Add 1d8 [[Damage]] to the [[Damage Roll]].
+**Effect**:: Add your [[Martial Skill]] [[Rank]] to the triggering [[Attack Roll]].
 
 **Type**:: [[Offensive Technique]]
 

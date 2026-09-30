@@ -4,9 +4,11 @@ _[[1st Level Martial technique]]_
 **Stamina**:: 1
 **Range**:: 1 metre
 **Weapon**:: None
-**Duration**:: Instant
+**Duration**:: 1 Turn
 
 **Effect**:: You switch places with one [[Willing]] [[Creature]] within 1 metre of you. Until the start of your next [[Turn]], any [[Attack Roll]] made against the target is reduced by your [[Martial Skill]] [[Rank]], provided it remains within 1 metre of you.
+
+**Type**:: [[Support Technique]]
 
 ---
 

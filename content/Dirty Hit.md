@@ -11,9 +11,11 @@ _\*When your [[Attack]] hits a [[Creature]]._
 **Effect**:: You strike at a vulnerable point and force the target to make a [[Constitution Saving Throw]].
 
 **Critical Success:** No effect.
-**Success:** Target's [[Walking Speed]] is halved until the end of it's next [[Turn]].
-**Failure:** Target falls [[Prone]], and cannot take [[Reaction|Reactions]] until the end of it's next [[Turn]].
-**Critical Failure:** Target falls [[Prone]], and is [[Muted]], [[Walking Speed]] is 0 and cannot take [[Reaction|Reactions]] until the end of it's next [[Turn]].
+**Success:** The target's [[Walking Speed]] is halved until the end of its next [[Turn]].
+**Failure:** The target falls [[Prone]] and cannot take [[Reaction]]s until the end of its next [[Turn]].
+**Critical Failure:** The target falls [[Prone]], its [[Walking Speed]] becomes 0, and it cannot take [[Reaction]]s until the end of its next [[Turn]].
+
+**Type**:: [[Offensive Technique]]
 
 ---
 

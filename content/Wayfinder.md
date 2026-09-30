@@ -7,8 +7,9 @@ Increase [[Survival]] [[Rank]] by 3.
 
 This [[Talent]] can be taken once.
 
+**Tree**:: [[Human Ancestry]]
 **Group**:: [[Ancestry Talent]]
-**Following Talents**::
+**Following**::
 
 ---
 
