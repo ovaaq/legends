@@ -3,7 +3,7 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range**:: Melee
-**Weapon**:: Any
+**Weapon**:: [[Finesse]]
 **Duration**:: Instant
 
 _\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._

@@ -8,7 +8,7 @@
 | [[Glancing Blow.md\|Glancing Blow]]       | [[Free Action]]\*                                    | 1       | Melee | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Pushing Attack.md\|Pushing Attack]]     | [[Free Action]]\*                                    | 1       | Melee | [[Heavy.md\|Heavy]]                     | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Quick Coating.md\|Quick Coating]]       | [[Action.md\|Action]] | 0       | Melee | Piercing or Slashing                                                  | [[Offensive Technique.md\|Offensive Technique]] |
-| [[Riposte.md\|Riposte]]                   | [[Free Action]]\*                                    | 1       | Melee | Any                                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Riposte.md\|Riposte]]                   | [[Free Action]]\*                                    | 1       | Melee | [[Finesse.md\|Finesse]]                 | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Slashing Strike.md\|Slashing Strike]]   | [[Action.md\|Action]] | 1       | Melee | Slashing                                                              | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Sneak Attack.md\|Sneak Attack]]         | [[Free Action]]\*                                    | 0       | Any   | [[Finesse.md\|Finesse]]                 | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Trick Shot.md\|Trick Shot]]             | [[Action.md\|Action]] | 1       | Range | [[Ranged]] or [[Thrown]]                                              | [[Offensive Technique.md\|Offensive Technique]] |

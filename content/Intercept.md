@@ -3,7 +3,7 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Reaction]]\*
 **Stamina**:: 1
 **Range**:: Melee
-**Weapon**:: Any
+**Weapon**:: [[Polearm]]
 **Duration**:: Instant
 
 \*\*When [[Creature]] enters your [[Melee Range]].
