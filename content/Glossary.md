@@ -6,7 +6,6 @@
 | [[Advanced Weapon.md\|Advanced Weapon]]                                           |
 | [[Advantage.md\|Advantage]]                                                       |
 | [[Adventuring Item.md\|Adventuring Item]]                                         |
-| [[Agility.md\|Agility]]                                                           |
 | [[Agility Saving Throw.md\|Agility Saving Throw]]                                 |
 | [[Alchemical Formula.md\|Alchemical Formula]]                                     |
 | [[Alchemical Item.md\|Alchemical Item]]                                           |
@@ -24,7 +23,6 @@
 | [[Attack.md\|Attack]]                                                             |
 | [[Attack Roll.md\|Attack Roll]]                                                   |
 | [[Attribute.md\|Attribute]]                                                       |
-| [[Awareness.md\|Awareness]]                                                       |
 | [[Axe.md\|Axe]]                                                                   |
 | [[98 - Meta/Archive/Legends Old/Background.md\|Background]]                                                     |
 | [[Bleeding.md\|Bleeding]]                                                         |
@@ -39,7 +37,6 @@
 | [[Cantrip.md\|Cantrip]]                                                           |
 | [[Carry.md\|Carry]]                                                               |
 | [[Character Sheet.md\|Character Sheet]]                                           |
-| [[Charisma.md\|Charisma]]                                                         |
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]                               |
 | [[Charmed.md\|Charmed]]                                                           |
 | [[Check.md\|Check]]                                                               |
@@ -59,7 +56,6 @@
 | [[Conducting.md\|Conducting]]                                                     |
 | [[Confused.md\|Confused]]                                                         |
 | [[Conjuration Magic.md\|Conjuration Magic]]                                       |
-| [[Constitution.md\|Constitution]]                                                 |
 | [[Constitution Saving Throw.md\|Constitution Saving Throw]]                       |
 | [[Contact Poison.md\|Contact Poison]]                                             |
 | [[Cook Meals.md\|Cook Meals]]                                                     |
@@ -164,7 +160,6 @@
 | [[Innate Spell List.md\|Innate Spell List]]                                       |
 | [[Innate Spellcasting Skill.md\|Innate Spellcasting Skill]]                       |
 | [[Inspect.md\|Inspect]]                                                           |
-| [[Intelligence.md\|Intelligence]]                                                 |
 | [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]                       |
 | [[Investigation.md\|Investigation]]                                               |
 | [[Invisible.md\|Invisible]]                                                       |
@@ -236,7 +231,6 @@
 | [[Polearm.md\|Polearm]]                                                           |
 | [[Possessed.md\|Possessed]]                                                       |
 | [[Potion.md\|Potion]]                                                             |
-| [[Precision.md\|Precision]]                                                       |
 | [[Prepare.md\|Prepare]]                                                           |
 | [[Prepared Spell.md\|Prepared Spell]]                                             |
 | [[Preservation Magic.md\|Preservation Magic]]                                     |
@@ -291,7 +285,6 @@
 | [[Small.md\|Small]]                                                               |
 | [[Snare.md\|Snare]]                                                               |
 | [[Solid.md\|Solid]]                                                               |
-| [[Sorcery.md\|Sorcery]]                                                           |
 | [[Special.md\|Special]]                                                           |
 | [[Special Skill.md\|Special Skill]]                                               |
 | [[Speed.md\|Speed]]                                                               |

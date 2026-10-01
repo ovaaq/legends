@@ -1,34 +1,22 @@
 ## Select Talents
 
-Choosing [[Talent|Talents]] is one of the most important parts of character creation. There are currently  [[Talent|Talents]] in this game. After selecting your [[Ancestry Talent|Ancestral Talents]], you have 15 [[Legend Point|LP]] remaining. These points can be used to acquire any other [[Talent|Talents]] for which your character meets the requirements. If you want you can leave remaining [[Legend Point|LP]] and mark it in your [[Character Sheet]].
+Choosing [[Talent|Talents]] is one of the most important steps in character creation. After selecting your [[Ancestry Talent|Ancestral Talents]], you have 15 [[Legend Point|LP]] remaining. You can spend these points to acquire any [[Talent|Talents]] for which your character meets the requirements. If you prefer, you may save some unspent [[Legend Point|LP]] and record it on your [[Character Sheet]] for later use.
 
 Below is an example of a [[Talent]]:
 
-> [!note] **[[Vampiric Bite]]**
-> **Requirement**: [[Mark of Bite]]
-> **Cost**: 1 Legend Point
->
-> _You have learned to siphon vitality from living creatures, turning their essence into your own strength._
->
-> **Blood Dice.** You have four Blood Dice, which are D6. You regain all expended Blood Dice when you consume at least 0.5 litres of fresh blood. If the blood consumed is from a [[Humanoid]], you gain 1 temporary Blood Die, which lasts until the next [[Long Rest]]. If you have no Blood Dice at the end of a [[Long Rest]], you regain 1 Blood Die.
+### Lucky
 
-**Bite Attack.** As a [[Double Action]], make a [[Melee Attack]] with an attack bonus of [[Martial Skill]] × 2 + [[Precision]]. On a hit, deal 1d6 + [[Precision]] [[Piercing Damage]]. Additionally, if the target is a living creature, you gain 1 Blood Die.
+![[Lucky]]
 
->
+**Requirement** lists any prerequisites needed to acquire the Talent. These may include other Talents, a minimum Level, a specific Attribute score, a Skill Rank, or other conditions.
 
-**Vital Surge.** As an [[Action]], you may spend any number of Blood Dice to regain a number of Hit Points equal to the total rolled.
+**Cost** indicates how many **Legend Points (LP)** must be spent to acquire the [[Talent]].
 
->
+**Description** provides a brief overview of the [[Talent]], including any flavour text and its mechanical effects.
 
-_Following Talents: [[Blood Frenzy]]_
+To make them easier to navigate, [[Talent|Talents]] are grouped by theme and function. Some Talents are further organized into [[Talent Tree|Talent Trees]], which illustrate prerequisite relationships and progression paths between related [[Talent|Talents]]. An example of a [[Talent Tree]] can be found in the **Following** section.
 
-> _Part of [[Vampire Talent Tree]]_
-
-- **Requirement:** Could be another [[Talent]], a specific [[Level]], [[Attribute]], [[Rank]], or other condition.
-- **Cost:** The number of [[Legend Point|Legend Points]] required to acquire the Talent.
-- **Description:** A brief flavour text followed by the mechanical effect of the Talent.
-
-Talents are grouped by relevance to make them easier to find. Some Talents are organized into [[Talent Tree|Talent Trees]], which show how Talents are connected and which Talents lead to others. An example of this structure can be seen in the Following Talents section at the end.
+### Talent Groups
 
 ### Ancestry Talents
 

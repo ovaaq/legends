@@ -1,12 +1,9 @@
-Con. Represents stamina and resilience. Crucial for adventurers enduring harsh conditions or sicknesses.
+Constitution measures stamina and resilience. Crucial for adventurers enduring attacks and harsh conditions.
 
-Characters with high Constitution gain the following benefits:
+Characters with high [[Constitution]] gain the following benefits:
 
-- **Saving Throw:** Add Constitution to [[Constitution Saving Throw]] & [[Death Saving Throw]]
-- **Hit Points:** Starting [[Hit Point Maximum]] = 12 + Constitution
-- **Recovery:** Constitution determines [[Hit Die]]
-- **Endurance:** Constitution determines how long you can [[Hold Breath]] or [[Dash]]
+- **Skills:** Add Strength to [[Athletics]] [[Check|Checks]].
+- **Saving Throws:** Add Constitution to [[Constitution Saving Throw|Constitution Saving Throws]] & [[Death Saving Throw|Death Saving Throws]].
+- **Hit Points:** The benefits of the [[Increased Health]] [[Talent]] scale with your Constitution, granting additional [[Hit Point|Hit Points]] and [[Hit Die|Hit Dice]].
 
----
-
-#keyword #attribute
+![[Starting Hit Points]]

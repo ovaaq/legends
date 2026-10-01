@@ -12,7 +12,7 @@ Every character must choose a Primary Ancestry. This ancestry represents the cha
 
 ### Additional Ancestry (Optional)
 
-You may choose an Additional Ancestry to represent a mixed heritage. This ancestry may be selected from either the Common Ancestries or the Rare Ancestries. A Rare Ancestry may alter your [[Walking Speed]], [[Creature Size]], or appearance. Characters with two Common Ancestries typically have physical features and lifespans that fall somewhere between those of their parent ancestries.
+You may choose an Additional Ancestry to represent a mixed heritage. This ancestry may be selected from the list below. Some Ancestries can alter your [[Walking Speed]], [[Creature Size]], or appearance. Characters with two Ancestries typically have physical features and lifespans that fall somewhere between those of their parent ancestries.
 
 An Additional Ancestry allows you to represent lineages such as a Human with Celestial blood or a Dwarf-Giant hybrid. It also makes combinations such as a half-Dwarf, half-Elf character possible.
 

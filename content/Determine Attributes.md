@@ -1,6 +1,8 @@
-In **Legends RPG**, each character has 8 [[Attribute|Attributes]]: [[Strength]], [[Precision]], [[Agility]], [[Constitution]], [[Awareness]], [[Charisma]], [[Intelligence]], and [[Sorcery]].
+In **Legends RPG**, every character is defined by eight [[Attribute|Attributes]]: [[Strength]], [[Precision]], [[Agility]], [[Constitution]], [[Awareness]], [[Charisma]], [[Intelligence]], and [[Sorcery]].
 
-Each [[Attribute]] ranges from -5 to +5, with 0 representing the average humanoid. Since **Legends RPG** is a game of legends, your character's Attributes are expected to exceed this average, allowing them to  accomplish extraordinary things.
+[[Attribute|Attributes]] range from **−5 to +5**, with **0** representing the capabilities of an average humanoid. Player characters possess abilities beyond the ordinary. Higher Attribute scores reflect exceptional talent, training, determination, or supernatural potential, enabling characters to achieve extraordinary feats.
+
+[[Attribute|Attributes]] range from −5 to +5, with 0 representing the capabilities of an average humanoid. Player characters are exceptional individuals whose abilities exceed the ordinary. Higher Attribute scores reflect outstanding talent, training, determination, or supernatural potential, enabling extraordinary feats.
 
 ### Strength (Str)
 
@@ -44,4 +46,4 @@ Each [[Attribute]] ranges from -5 to +5, with 0 representing the average humanoi
 
 ### Increasing Attributes
 
-The only way to increase your character's Attributes is through [[Talent|Talents]]. The [[Increased Attribute]] -talent is the easiest way for doing so.
+Attributes can only be increased through Talents. The [[Increased Attribute]] [[Talent]] is the primary method of raising an [[Attribute]].

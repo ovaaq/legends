@@ -1,4 +1,4 @@
-You have 40 points to spend on your attributes. The cost of each modifier is shown on the Attribute Modifier Point Cost table. For example, a modifier of +3 costs 8 points. Using this method, +4 is the highest modifier you can end up with. You can’t have a score lower than -3.
+You have 40 points to spend on your Attributes. The cost of each [[Attribute]] modifier is shown in the Attribute Modifier Point Cost table. For example, a modifier of +3 costs 8 points. Using this method, the highest [[Attribute]] modifier you can start with is +4, and no Attribute can be reduced below −3.
 
 | Modifier | Cost |
 | -------- | ---- |

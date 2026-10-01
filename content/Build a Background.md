@@ -2,7 +2,7 @@ Your character's background describes the life they lived before becoming an adv
 
 #### Culture
 
-Choose the cultural region where your character was raised. Your culture shapes your worldview, customs, and upbringing.
+With GM's help choose the cultural region where your character was raised. Your culture shapes your worldview, customs, and upbringing.
 
 #### Languages
 
@@ -14,7 +14,7 @@ In addition, each [[Rank]] gained in [[Linguistic]] grants fluency in one additi
 
 #### Saving Throws
 
-Your past experiences have taught you how to endure hardship. Distribute 4 Ranks among your Saving Throws.
+Your past experiences have taught you resilience. Distribute 4 [[Rank|Ranks]] among your [[Saving Throw|Saving Throws]]. Each [[Rank]] increases the associated [[Saving Throw]] by 1.
 
 | Saving Throws                                                                             |
 | ----------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Your past experiences have taught you how to endure hardship. Distribute 4 Ranks
 
 #### General Skills
 
-The everyday abilities you developed through your upbringing, work, and hobbies. Distribute 10 Ranks among General Skills. At character creation Maximum rank per general skill is 4 out of 8.
+Distribute 10 [[Rank|Ranks]] among your [[General Skill|General Skills]] to represent the abilities learned through your background and life experiences. At character creation, a [[General Skill]] cannot exceed [[Rank]] 4 (out of a maximum [[Rank]] of 8).
 
 | General Skills                                                        |
 | --------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ The everyday abilities you developed through your upbringing, work, and hobbies.
 
 #### Expert Skills
 
-Specialized knowledge and advanced training gained through profession, education, or exceptional experience. Distribute 4 Ranks among Expert Skills. At character creation Maximum rank per general skill is 2 out of 8.
+Distribute 4 [[Rank|Ranks]] among your [[Expert Skill|Expert Skills]] to represent specialized knowledge and advanced training. At character creation, an [[Expert Skill]] cannot exceed [[Rank]] 2 (out of a maximum [[Rank]] of 8).
 
 | Expert Skills                                                       |
 | ------------------------------------------------------------------- |
@@ -82,3 +82,11 @@ Specialized knowledge and advanced training gained through profession, education
 | [[Runecraft.md\|Runecraft]]           |
 | [[Sailing.md\|Sailing]]               |
 | [[Smithing.md\|Smithing]]             |
+
+#### Inspiration for Background
+
+Your [[Background]] represents the life you led before the story begins. It may reflect your upbringing, profession, trade, or other formative experiences. In  **Legends RPG**, it is generally recommended that your character is not already a renowned hero. The journey to becoming a legend is at the core of the game.
+
+If you're looking for inspiration, consider one of these common backgrounds:
+
+_Acolyte, Apothecary, Artisan, Bard, Beast Tamer, Blacksmith, Bounty Hunter, Charlatan, Cook, Courier, Farmer, Feylost, Fisher, Gladiator, Gravekeeper, Hermit, Hunter, Merchant, Miner, Monk, Noble, Pirate, Prisoner, Sailor, Scholar, Scribe, Shepherd, Shipwright, Smuggler, Soldier, Thief, Urchin, Woodsman._
