@@ -1,6 +1,6 @@
 ## Select Talents
 
-Choosing [[Talent|Talents]] is one of the most important parts of character creation. After selecting your [[Ancestry Talent|Ancestral Talents]], you have 15 [[Legend Point|LP]] remaining. These points can be used to acquire any other [[Talent|Talents]] for which your character meets the requirements. If you want you can leave remaining [[Legend Point|LP]] and mark it in your [[Character Sheet]].
+Choosing [[Talent|Talents]] is one of the most important parts of character creation. There are currently `$= dv.pages("#talent").length` [[Talent|Talents]] in this game. After selecting your [[Ancestry Talent|Ancestral Talents]], you have 15 [[Legend Point|LP]] remaining. These points can be used to acquire any other [[Talent|Talents]] for which your character meets the requirements. If you want you can leave remaining [[Legend Point|LP]] and mark it in your [[Character Sheet]].
 
 Below is an example of a [[Talent]]:
 

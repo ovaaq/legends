@@ -77,6 +77,7 @@
 | [[Tinderbox.md\|Tinderbox]]                               | -     | -   |
 | [[Tome.md\|Tome]]                                         | -     | -   |
 | [[Torch.md\|Torch]]                                       | -     | -   |
+| [[Tourmaline Dust.md\|Tourmaline Dust]]                   | -     | -   |
 | [[Trapwire.md\|Trapwire]]                                 | -     | -   |
 | [[Tripwire.md\|Tripwire]]                                 | -     | -   |
 | [[Waterskin.md\|Waterskin]]                               | -     | -   |
@@ -159,6 +160,7 @@
 | [[Tinderbox.md\|Tinderbox]]                               |
 | [[Tome.md\|Tome]]                                         |
 | [[Torch.md\|Torch]]                                       |
+| [[Tourmaline Dust.md\|Tourmaline Dust]]                   |
 | [[Trapwire.md\|Trapwire]]                                 |
 | [[Tripwire.md\|Tripwire]]                                 |
 | [[Waterskin.md\|Waterskin]]                               |

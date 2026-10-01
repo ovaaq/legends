@@ -3,14 +3,14 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
 **Mana**:: 1
-**Range**:: 20 metres
-**Duration**:: Instantaneous
+**Range**:: 10 metres
+**Duration**:: 1 hour
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+_\*1 gram of [[Topaz Dust]], consumed by the spell._
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Effect**:: You ward one [[Creature]] of your choice within range. Whenever a target makes an [[Intelligence Saving Throw]] or [[Charisma Saving Throw]] before the spell ends, the target can add 1d4 to the [[Saving Throw]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Warding Magic]]
 
