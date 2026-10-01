@@ -7,7 +7,7 @@ A Talent is a single learned ability or power that grants a specific mechanical 
 Talents are organized into Talent Groups to make them easier to find and reference.\
 Some Talents also form [[Talent Tree|Talent Trees]], which are structured progressions where later Talents require earlier ones as prerequisites.
 
-A complete list of Talent Groups can be found in the table below. There are currently `$= dv.pages("#talent").length` talents in this game.
+A complete list of Talent Groups can be found in the table below. There are currently  talents in this game.
 
 |      Talent Group       | Description                                                       |
 | :---------------------: | ----------------------------------------------------------------- |
