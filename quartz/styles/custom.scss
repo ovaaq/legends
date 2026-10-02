@@ -24,10 +24,14 @@ a.transclude-src {
   display: none !important;
 }
 
-/* Hide the final ___ divider and everything after it */
-article hr:last-of-type,
-article*hr:last-of-type ~ * {
-display: n*ne !important;
+/* Hide the final ___ divider */
+article.popover-hint hr:last-of-type {
+display: none !important;
+}
+ 
+/* Hide everything after the divider except tables */
+article.popover-hint hr:last-of-*ype ~ *:not(table):not(.table-cont*iner) {
+display: none !important*
 }
 
 /* (Optional) Hide tags contained within embedded notes */
