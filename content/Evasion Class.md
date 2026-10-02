@@ -1,4 +1,4 @@
-[[Evasion Class]] = 10 + [[Agility]]
+Character's [[Evasion Class]] equals 10 + [[Agility]].
 
 ---
 

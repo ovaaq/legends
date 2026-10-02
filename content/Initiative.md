@@ -1,4 +1,4 @@
-equals your [[Agility]]
+Character's [[Initiative]] equals [[Agility]].
 
 ---
 
