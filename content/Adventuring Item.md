@@ -5,171 +5,171 @@
 | Item | Weight | Cost |
 | ---- | ------ | ---- |
 
-| Item                                                                                      | Weight | Cost |
-| ----------------------------------------------------------------------------------------- | ------ | ---- |
-| [[Legends Indexes/2.6 Buy Equipment.md\|2.6 Buy Equipment]] | -     | -   |
-| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]           | -     | -   |
-| [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]           | -     | -   |
-| [[Appraisal Tools.md\|Appraisal Tools]]                     | -     | -   |
-| [[Backpack.md\|Backpack]]                                   | -     | -   |
-| [[Ball Bearings.md\|Ball Bearings]]                         | -     | -   |
-| [[Bedroll.md\|Bedroll]]                                     | -     | -   |
-| [[Bell.md\|Bell]]                                           | -     | -   |
-| [[Brewer’s Kit.md\|Brewer’s Kit]]                           | -     | -   |
-| [[Bucket.md\|Bucket]]                                       | -     | -   |
-| [[Bullseye Lantern.md\|Bullseye Lantern]]                   | -     | -   |
-| [[Caltrops.md\|Caltrops]]                                   | -     | -   |
-| [[Candle.md\|Candle]]                                       | -     | -   |
-| [[Carpenter’s Tools.md\|Carpenter’s Tools]]                 | -     | -   |
-| [[Cartographer’s Kit.md\|Cartographer’s Kit]]               | -     | -   |
-| [[Chain.md\|Chain]]                                         | -     | -   |
-| [[Chalk.md\|Chalk]]                                         | -     | -   |
-| [[98 - Meta/Archive/Legends Old/Character Creation Guide.md\|Character Creation Guide]]   | -     | -   |
-| [[Charcoal Stick.md\|Charcoal Stick]]                       | -     | -   |
-| [[Chest.md\|Chest]]                                         | -     | -   |
-| [[Chisel.md\|Chisel]]                                       | -     | -   |
-| [[Common Antidote.md\|Common Antidote]]                     | -     | -   |
-| [[Compass.md\|Compass]]                                     | -     | -   |
-| [[Cook’s Kit.md\|Cook’s Kit]]                               | -     | -   |
-| [[Crowbar.md\|Crowbar]]                                     | -     | -   |
-| [[Exorcism Supplies.md\|Exorcism Supplies]]                 | -     | -   |
-| [[Fishing Tools.md\|Fishing Tools]]                         | -     | -   |
-| [[Flint and Steel.md\|Flint and Steel]]                     | -     | -   |
-| [[Flour Sack.md\|Flour Sack]]                               | -     | -   |
-| [[Forgery Kit.md\|Forgery Kit]]                             | -     | -   |
-| [[Glass Vial.md\|Glass Vial]]                               | -     | -   |
-| [[Gold Panning.md\|Gold Panning]]                           | -     | -   |
-| [[Grappling Hook.md\|Grappling Hook]]                       | -     | -   |
-| [[Grease Jar.md\|Grease Jar]]                               | -     | -   |
-| [[Healer's Kit.md\|Healer's Kit]]                           | -     | -   |
-| [[Herbalism Kit.md\|Herbalism Kit]]                         | -     | -   |
-| [[Hooded Lantern.md\|Hooded Lantern]]                       | -     | -   |
-| [[Hunting Trap.md\|Hunting Trap]]                           | -     | -   |
-| [[Ink Bottle.md\|Ink Bottle]]                               | -     | -   |
-| [[Knockout Drops.md\|Knockout Drops]]                       | -     | -   |
-| [[Lantern.md\|Lantern]]                                     | -     | -   |
-| [[Leatherworking Tools.md\|Leatherworking Tools]]           | -     | -   |
-| [[Lock.md\|Lock]]                                           | -     | -   |
-| [[Magnifying Glass.md\|Magnifying Glass]]                   | -     | -   |
-| [[Manacles.md\|Manacles]]                                   | -     | -   |
-| [[Masonry Kit.md\|Masonry Kit]]                             | -     | -   |
-| [[Mess Kit.md\|Mess Kit]]                                   | -     | -   |
-| [[Metal Spoon.md\|Metal Spoon]]                             | -     | -   |
-| [[Mining Tools.md\|Mining Tools]]                           | -     | -   |
-| [[Mirror.md\|Mirror]]                                       | -     | -   |
-| [[Parchment Sheet.md\|Parchment Sheet]]                     | -     | -   |
-| [[Pickaxe.md\|Pickaxe]]                                     | -     | -   |
-| [[Pitons.md\|Pitons]]                                       | -     | -   |
-| [[Portable Ram.md\|Portable Ram]]                           | -     | -   |
-| [[Pouch.md\|Pouch]]                                         | -     | -   |
-| [[Quill.md\|Quill]]                                         | -     | -   |
-| [[Rations.md\|Rations]]                                     | -     | -   |
-| [[Rope.md\|Rope]]                                           | -     | -   |
-| [[Scribe’s Supplies.md\|Scribe’s Supplies]]                 | -     | -   |
-| [[Scroll Case.md\|Scroll Case]]                             | -     | -   |
-| [[Shovel.md\|Shovel]]                                       | -     | -   |
-| [[Small Mirror.md\|Small Mirror]]                           | -     | -   |
-| [[Smithing Hammer.md\|Smithing Hammer]]                     | -     | -   |
-| [[Smithing Tools.md\|Smithing Tools]]                       | -     | -   |
-| [[Spyglass.md\|Spyglass]]                                   | -     | -   |
-| [[Tent.md\|Tent]]                                           | -     | -   |
-| [[Thieves' Tools.md\|Thieves' Tools]]                       | -     | -   |
-| [[Tinderbox.md\|Tinderbox]]                                 | -     | -   |
-| [[Tome.md\|Tome]]                                           | -     | -   |
-| [[Torch.md\|Torch]]                                         | -     | -   |
-| [[Tourmaline Dust.md\|Tourmaline Dust]]                     | -     | -   |
-| [[Trapwire.md\|Trapwire]]                                   | -     | -   |
-| [[Tripwire.md\|Tripwire]]                                   | -     | -   |
-| [[Waterskin.md\|Waterskin]]                                 | -     | -   |
-| [[Wax Beads.md\|Wax Beads]]                                 | -     | -   |
-| [[Wax Seal Stamp.md\|Wax Seal Stamp]]                       | -     | -   |
-| [[Whetstone.md\|Whetstone]]                                 | -     | -   |
-| [[Whistle.md\|Whistle]]                                     | -     | -   |
-| [[White Arsenic.md\|White Arsenic]]                         | -     | -   |
-| [[Wooden Box.md\|Wooden Box]]                               | -     | -   |
+| Item                                                                                    | Weight | Cost |
+| --------------------------------------------------------------------------------------- | ------ | ---- |
+| [[Rulebook/2.6 Buy Equipment.md\|2.6 Buy Equipment]]      | -     | -   |
+| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         | -     | -   |
+| [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         | -     | -   |
+| [[Appraisal Tools.md\|Appraisal Tools]]                   | -     | -   |
+| [[Backpack.md\|Backpack]]                                 | -     | -   |
+| [[Ball Bearings.md\|Ball Bearings]]                       | -     | -   |
+| [[Bedroll.md\|Bedroll]]                                   | -     | -   |
+| [[Bell.md\|Bell]]                                         | -     | -   |
+| [[Brewer’s Kit.md\|Brewer’s Kit]]                         | -     | -   |
+| [[Bucket.md\|Bucket]]                                     | -     | -   |
+| [[Bullseye Lantern.md\|Bullseye Lantern]]                 | -     | -   |
+| [[Caltrops.md\|Caltrops]]                                 | -     | -   |
+| [[Candle.md\|Candle]]                                     | -     | -   |
+| [[Carpenter’s Tools.md\|Carpenter’s Tools]]               | -     | -   |
+| [[Cartographer’s Kit.md\|Cartographer’s Kit]]             | -     | -   |
+| [[Chain.md\|Chain]]                                       | -     | -   |
+| [[Chalk.md\|Chalk]]                                       | -     | -   |
+| [[98 - Meta/Archive/Legends Old/Character Creation Guide.md\|Character Creation Guide]] | -     | -   |
+| [[Charcoal Stick.md\|Charcoal Stick]]                     | -     | -   |
+| [[Chest.md\|Chest]]                                       | -     | -   |
+| [[Chisel.md\|Chisel]]                                     | -     | -   |
+| [[Common Antidote.md\|Common Antidote]]                   | -     | -   |
+| [[Compass.md\|Compass]]                                   | -     | -   |
+| [[Cook’s Kit.md\|Cook’s Kit]]                             | -     | -   |
+| [[Crowbar.md\|Crowbar]]                                   | -     | -   |
+| [[Exorcism Supplies.md\|Exorcism Supplies]]               | -     | -   |
+| [[Fishing Tools.md\|Fishing Tools]]                       | -     | -   |
+| [[Flint and Steel.md\|Flint and Steel]]                   | -     | -   |
+| [[Flour Sack.md\|Flour Sack]]                             | -     | -   |
+| [[Forgery Kit.md\|Forgery Kit]]                           | -     | -   |
+| [[Glass Vial.md\|Glass Vial]]                             | -     | -   |
+| [[Gold Panning.md\|Gold Panning]]                         | -     | -   |
+| [[Grappling Hook.md\|Grappling Hook]]                     | -     | -   |
+| [[Grease Jar.md\|Grease Jar]]                             | -     | -   |
+| [[Healer's Kit.md\|Healer's Kit]]                         | -     | -   |
+| [[Herbalism Kit.md\|Herbalism Kit]]                       | -     | -   |
+| [[Hooded Lantern.md\|Hooded Lantern]]                     | -     | -   |
+| [[Hunting Trap.md\|Hunting Trap]]                         | -     | -   |
+| [[Ink Bottle.md\|Ink Bottle]]                             | -     | -   |
+| [[Knockout Drops.md\|Knockout Drops]]                     | -     | -   |
+| [[Lantern.md\|Lantern]]                                   | -     | -   |
+| [[Leatherworking Tools.md\|Leatherworking Tools]]         | -     | -   |
+| [[Lock.md\|Lock]]                                         | -     | -   |
+| [[Magnifying Glass.md\|Magnifying Glass]]                 | -     | -   |
+| [[Manacles.md\|Manacles]]                                 | -     | -   |
+| [[Masonry Kit.md\|Masonry Kit]]                           | -     | -   |
+| [[Mess Kit.md\|Mess Kit]]                                 | -     | -   |
+| [[Metal Spoon.md\|Metal Spoon]]                           | -     | -   |
+| [[Mining Tools.md\|Mining Tools]]                         | -     | -   |
+| [[Mirror.md\|Mirror]]                                     | -     | -   |
+| [[Parchment Sheet.md\|Parchment Sheet]]                   | -     | -   |
+| [[Pickaxe.md\|Pickaxe]]                                   | -     | -   |
+| [[Pitons.md\|Pitons]]                                     | -     | -   |
+| [[Portable Ram.md\|Portable Ram]]                         | -     | -   |
+| [[Pouch.md\|Pouch]]                                       | -     | -   |
+| [[Quill.md\|Quill]]                                       | -     | -   |
+| [[Rations.md\|Rations]]                                   | -     | -   |
+| [[Rope.md\|Rope]]                                         | -     | -   |
+| [[Scribe’s Supplies.md\|Scribe’s Supplies]]               | -     | -   |
+| [[Scroll Case.md\|Scroll Case]]                           | -     | -   |
+| [[Shovel.md\|Shovel]]                                     | -     | -   |
+| [[Small Mirror.md\|Small Mirror]]                         | -     | -   |
+| [[Smithing Hammer.md\|Smithing Hammer]]                   | -     | -   |
+| [[Smithing Tools.md\|Smithing Tools]]                     | -     | -   |
+| [[Spyglass.md\|Spyglass]]                                 | -     | -   |
+| [[Tent.md\|Tent]]                                         | -     | -   |
+| [[Thieves' Tools.md\|Thieves' Tools]]                     | -     | -   |
+| [[Tinderbox.md\|Tinderbox]]                               | -     | -   |
+| [[Tome.md\|Tome]]                                         | -     | -   |
+| [[Torch.md\|Torch]]                                       | -     | -   |
+| [[Tourmaline Dust.md\|Tourmaline Dust]]                   | -     | -   |
+| [[Trapwire.md\|Trapwire]]                                 | -     | -   |
+| [[Tripwire.md\|Tripwire]]                                 | -     | -   |
+| [[Waterskin.md\|Waterskin]]                               | -     | -   |
+| [[Wax Beads.md\|Wax Beads]]                               | -     | -   |
+| [[Wax Seal Stamp.md\|Wax Seal Stamp]]                     | -     | -   |
+| [[Whetstone.md\|Whetstone]]                               | -     | -   |
+| [[Whistle.md\|Whistle]]                                   | -     | -   |
+| [[White Arsenic.md\|White Arsenic]]                       | -     | -   |
+| [[Wooden Box.md\|Wooden Box]]                             | -     | -   |
 
-| List of People                                                                            |
-| ----------------------------------------------------------------------------------------- |
-| [[Legends Indexes/2.6 Buy Equipment.md\|2.6 Buy Equipment]] |
-| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]           |
-| [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]           |
-| [[Appraisal Tools.md\|Appraisal Tools]]                     |
-| [[Backpack.md\|Backpack]]                                   |
-| [[Ball Bearings.md\|Ball Bearings]]                         |
-| [[Bedroll.md\|Bedroll]]                                     |
-| [[Bell.md\|Bell]]                                           |
-| [[Brewer’s Kit.md\|Brewer’s Kit]]                           |
-| [[Bucket.md\|Bucket]]                                       |
-| [[Bullseye Lantern.md\|Bullseye Lantern]]                   |
-| [[Caltrops.md\|Caltrops]]                                   |
-| [[Candle.md\|Candle]]                                       |
-| [[Carpenter’s Tools.md\|Carpenter’s Tools]]                 |
-| [[Cartographer’s Kit.md\|Cartographer’s Kit]]               |
-| [[Chain.md\|Chain]]                                         |
-| [[Chalk.md\|Chalk]]                                         |
-| [[98 - Meta/Archive/Legends Old/Character Creation Guide.md\|Character Creation Guide]]   |
-| [[Charcoal Stick.md\|Charcoal Stick]]                       |
-| [[Chest.md\|Chest]]                                         |
-| [[Chisel.md\|Chisel]]                                       |
-| [[Common Antidote.md\|Common Antidote]]                     |
-| [[Compass.md\|Compass]]                                     |
-| [[Cook’s Kit.md\|Cook’s Kit]]                               |
-| [[Crowbar.md\|Crowbar]]                                     |
-| [[Exorcism Supplies.md\|Exorcism Supplies]]                 |
-| [[Fishing Tools.md\|Fishing Tools]]                         |
-| [[Flint and Steel.md\|Flint and Steel]]                     |
-| [[Flour Sack.md\|Flour Sack]]                               |
-| [[Forgery Kit.md\|Forgery Kit]]                             |
-| [[Glass Vial.md\|Glass Vial]]                               |
-| [[Gold Panning.md\|Gold Panning]]                           |
-| [[Grappling Hook.md\|Grappling Hook]]                       |
-| [[Grease Jar.md\|Grease Jar]]                               |
-| [[Healer's Kit.md\|Healer's Kit]]                           |
-| [[Herbalism Kit.md\|Herbalism Kit]]                         |
-| [[Hooded Lantern.md\|Hooded Lantern]]                       |
-| [[Hunting Trap.md\|Hunting Trap]]                           |
-| [[Ink Bottle.md\|Ink Bottle]]                               |
-| [[Knockout Drops.md\|Knockout Drops]]                       |
-| [[Lantern.md\|Lantern]]                                     |
-| [[Leatherworking Tools.md\|Leatherworking Tools]]           |
-| [[Lock.md\|Lock]]                                           |
-| [[Magnifying Glass.md\|Magnifying Glass]]                   |
-| [[Manacles.md\|Manacles]]                                   |
-| [[Masonry Kit.md\|Masonry Kit]]                             |
-| [[Mess Kit.md\|Mess Kit]]                                   |
-| [[Metal Spoon.md\|Metal Spoon]]                             |
-| [[Mining Tools.md\|Mining Tools]]                           |
-| [[Mirror.md\|Mirror]]                                       |
-| [[Parchment Sheet.md\|Parchment Sheet]]                     |
-| [[Pickaxe.md\|Pickaxe]]                                     |
-| [[Pitons.md\|Pitons]]                                       |
-| [[Portable Ram.md\|Portable Ram]]                           |
-| [[Pouch.md\|Pouch]]                                         |
-| [[Quill.md\|Quill]]                                         |
-| [[Rations.md\|Rations]]                                     |
-| [[Rope.md\|Rope]]                                           |
-| [[Scribe’s Supplies.md\|Scribe’s Supplies]]                 |
-| [[Scroll Case.md\|Scroll Case]]                             |
-| [[Shovel.md\|Shovel]]                                       |
-| [[Small Mirror.md\|Small Mirror]]                           |
-| [[Smithing Hammer.md\|Smithing Hammer]]                     |
-| [[Smithing Tools.md\|Smithing Tools]]                       |
-| [[Spyglass.md\|Spyglass]]                                   |
-| [[Tent.md\|Tent]]                                           |
-| [[Thieves' Tools.md\|Thieves' Tools]]                       |
-| [[Tinderbox.md\|Tinderbox]]                                 |
-| [[Tome.md\|Tome]]                                           |
-| [[Torch.md\|Torch]]                                         |
-| [[Tourmaline Dust.md\|Tourmaline Dust]]                     |
-| [[Trapwire.md\|Trapwire]]                                   |
-| [[Tripwire.md\|Tripwire]]                                   |
-| [[Waterskin.md\|Waterskin]]                                 |
-| [[Wax Beads.md\|Wax Beads]]                                 |
-| [[Wax Seal Stamp.md\|Wax Seal Stamp]]                       |
-| [[Whetstone.md\|Whetstone]]                                 |
-| [[Whistle.md\|Whistle]]                                     |
-| [[White Arsenic.md\|White Arsenic]]                         |
-| [[Wooden Box.md\|Wooden Box]]                               |
+| List of People                                                                          |
+| --------------------------------------------------------------------------------------- |
+| [[Rulebook/2.6 Buy Equipment.md\|2.6 Buy Equipment]]      |
+| [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         |
+| [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         |
+| [[Appraisal Tools.md\|Appraisal Tools]]                   |
+| [[Backpack.md\|Backpack]]                                 |
+| [[Ball Bearings.md\|Ball Bearings]]                       |
+| [[Bedroll.md\|Bedroll]]                                   |
+| [[Bell.md\|Bell]]                                         |
+| [[Brewer’s Kit.md\|Brewer’s Kit]]                         |
+| [[Bucket.md\|Bucket]]                                     |
+| [[Bullseye Lantern.md\|Bullseye Lantern]]                 |
+| [[Caltrops.md\|Caltrops]]                                 |
+| [[Candle.md\|Candle]]                                     |
+| [[Carpenter’s Tools.md\|Carpenter’s Tools]]               |
+| [[Cartographer’s Kit.md\|Cartographer’s Kit]]             |
+| [[Chain.md\|Chain]]                                       |
+| [[Chalk.md\|Chalk]]                                       |
+| [[98 - Meta/Archive/Legends Old/Character Creation Guide.md\|Character Creation Guide]] |
+| [[Charcoal Stick.md\|Charcoal Stick]]                     |
+| [[Chest.md\|Chest]]                                       |
+| [[Chisel.md\|Chisel]]                                     |
+| [[Common Antidote.md\|Common Antidote]]                   |
+| [[Compass.md\|Compass]]                                   |
+| [[Cook’s Kit.md\|Cook’s Kit]]                             |
+| [[Crowbar.md\|Crowbar]]                                   |
+| [[Exorcism Supplies.md\|Exorcism Supplies]]               |
+| [[Fishing Tools.md\|Fishing Tools]]                       |
+| [[Flint and Steel.md\|Flint and Steel]]                   |
+| [[Flour Sack.md\|Flour Sack]]                             |
+| [[Forgery Kit.md\|Forgery Kit]]                           |
+| [[Glass Vial.md\|Glass Vial]]                             |
+| [[Gold Panning.md\|Gold Panning]]                         |
+| [[Grappling Hook.md\|Grappling Hook]]                     |
+| [[Grease Jar.md\|Grease Jar]]                             |
+| [[Healer's Kit.md\|Healer's Kit]]                         |
+| [[Herbalism Kit.md\|Herbalism Kit]]                       |
+| [[Hooded Lantern.md\|Hooded Lantern]]                     |
+| [[Hunting Trap.md\|Hunting Trap]]                         |
+| [[Ink Bottle.md\|Ink Bottle]]                             |
+| [[Knockout Drops.md\|Knockout Drops]]                     |
+| [[Lantern.md\|Lantern]]                                   |
+| [[Leatherworking Tools.md\|Leatherworking Tools]]         |
+| [[Lock.md\|Lock]]                                         |
+| [[Magnifying Glass.md\|Magnifying Glass]]                 |
+| [[Manacles.md\|Manacles]]                                 |
+| [[Masonry Kit.md\|Masonry Kit]]                           |
+| [[Mess Kit.md\|Mess Kit]]                                 |
+| [[Metal Spoon.md\|Metal Spoon]]                           |
+| [[Mining Tools.md\|Mining Tools]]                         |
+| [[Mirror.md\|Mirror]]                                     |
+| [[Parchment Sheet.md\|Parchment Sheet]]                   |
+| [[Pickaxe.md\|Pickaxe]]                                   |
+| [[Pitons.md\|Pitons]]                                     |
+| [[Portable Ram.md\|Portable Ram]]                         |
+| [[Pouch.md\|Pouch]]                                       |
+| [[Quill.md\|Quill]]                                       |
+| [[Rations.md\|Rations]]                                   |
+| [[Rope.md\|Rope]]                                         |
+| [[Scribe’s Supplies.md\|Scribe’s Supplies]]               |
+| [[Scroll Case.md\|Scroll Case]]                           |
+| [[Shovel.md\|Shovel]]                                     |
+| [[Small Mirror.md\|Small Mirror]]                         |
+| [[Smithing Hammer.md\|Smithing Hammer]]                   |
+| [[Smithing Tools.md\|Smithing Tools]]                     |
+| [[Spyglass.md\|Spyglass]]                                 |
+| [[Tent.md\|Tent]]                                         |
+| [[Thieves' Tools.md\|Thieves' Tools]]                     |
+| [[Tinderbox.md\|Tinderbox]]                               |
+| [[Tome.md\|Tome]]                                         |
+| [[Torch.md\|Torch]]                                       |
+| [[Tourmaline Dust.md\|Tourmaline Dust]]                   |
+| [[Trapwire.md\|Trapwire]]                                 |
+| [[Tripwire.md\|Tripwire]]                                 |
+| [[Waterskin.md\|Waterskin]]                               |
+| [[Wax Beads.md\|Wax Beads]]                               |
+| [[Wax Seal Stamp.md\|Wax Seal Stamp]]                     |
+| [[Whetstone.md\|Whetstone]]                               |
+| [[Whistle.md\|Whistle]]                                   |
+| [[White Arsenic.md\|White Arsenic]]                       |
+| [[Wooden Box.md\|Wooden Box]]                             |
 
 | Name                  | Weight     | Price  | Description                                            |
 | --------------------- | ---------- | ------ | ------------------------------------------------------ |
