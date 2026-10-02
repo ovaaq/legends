@@ -24,6 +24,12 @@ a.transclude-src {
   display: none !important;
 }
 
+/* Hide the final ___ divider and everything after it */
+article hr:last-of-type,
+article*hr:last-of-type ~ * {
+display: n*ne !important;
+}
+
 /* (Optional) Hide tags contained within embedded notes */
 .transclude .tags {
   display: none !important;
