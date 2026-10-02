@@ -1,7 +1,8 @@
 @use "./variables.scss" as *;
 @use "./syncer";
 
-// put your custom CSS here!
+// Put your custom CSS here.
+
 /* Remove borders, margins, background, and padding from embeds */
 .transclude,
 blockquote.transclude {
@@ -19,22 +20,25 @@ a.transclude-src {
 }
 
 /* Hide headers/titles inside embedded notes */
-.transclude h1, 
+.transclude h1,
 .transclude h2 {
   display: none !important;
 }
 
 /* Hide the final ___ divider */
 article.popover-hint hr:last-of-type {
-display: none !important;
-}
- 
-/* Hide everything after the divider except tables */
-article.popover-hint hr:last-of-*ype ~ *:not(table):not(.table-cont*iner) {
-display: none !important*
+  display: none !important;
 }
 
-/* (Optional) Hide tags contained within embedded notes */
+/* Hide everything after the divider except tables */
+article.popover-hint
+  hr:last-of-type
+  ~ *:not(table):not(.table-container) {
+  display: none !important;
+}
+
+/* Hide tags contained within embedded notes */
 .transclude .tags {
   display: none !important;
 }
+``
