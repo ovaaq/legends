@@ -20,6 +20,7 @@
 - **Auto-Response Training**\
   When an ally nearby drops, you may immediately move toward them without provoking reactions.
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

@@ -4,4 +4,4 @@
 
 ---
 
-#keyword #equipment #group
+#keyword #equipment #item_group

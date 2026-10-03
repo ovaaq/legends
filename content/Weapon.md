@@ -14,7 +14,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 
 ---
 
-#simple #weapon #equipment
+#simple #weapon #equipment #item_group
 [[Weapon]]
 **Description**:: Melee and ranged arms used for combat or hunting.
 

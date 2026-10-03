@@ -31,4 +31,4 @@ _In case you need some protection..._
 
 ---
 
-#keyword #equipment #group
+#keyword #equipment #item_group

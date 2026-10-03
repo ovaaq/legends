@@ -18,6 +18,7 @@
           - [[Elemental Spells V]]
             - [[Elemental Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Spiritual Talent]]
 
 ---

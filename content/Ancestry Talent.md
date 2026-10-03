@@ -95,3 +95,9 @@ You can view all Ancestry [[Talent|Talents]] in the list. Note that each Talent 
 | [[Versatile Heritage.md\|Versatile Heritage]]           | 1 LP | [[Human Ancestry.md\|Human Ancestry]]                                                                          | -                                                                              |
 | [[Warmblood.md\|Warmblood]]                             | 2 LP | [[Giant Ancestry.md\|Giant Ancestry]]                                                                          | -                                                                              |
 | [[Wayfinder.md\|Wayfinder]]                             | 1 LP | [[Human Ancestry.md\|Human Ancestry]]                                                                          | -                                                                              |
+
+---
+
+#talent_group
+
+**Description**:: Traits inherited from heritage.

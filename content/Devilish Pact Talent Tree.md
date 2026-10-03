@@ -18,6 +18,9 @@
           - [[Devil Spells V]]
             - [[Devil Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Pact Talent]]
+
 ---
 
 #talent_tree #pact

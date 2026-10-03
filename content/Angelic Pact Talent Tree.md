@@ -18,6 +18,9 @@
           - [[Angelic Spells V]]
             - [[Angelic Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Pact Talent]]
+
 ---
 
 #talent_tree #pact

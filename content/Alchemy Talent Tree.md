@@ -22,6 +22,7 @@
           - [[Alchemical Formulas V]]
             - [[Alchemical Formulas VI]]
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

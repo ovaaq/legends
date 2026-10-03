@@ -2,6 +2,7 @@
 - [[Keen Mind]]
 - [[Danger Sense]]
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

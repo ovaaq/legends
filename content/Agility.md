@@ -1,4 +1,4 @@
-Strength measures reflexes and coordination. It is the primary [[Attribute]] for characters who rely on mobility and dodging, such as acrobats, sneaky outlaws, or nimble fighters.
+Agility measures reflexes and coordination. It is the primary [[Attribute]] for characters who rely on mobility and dodging, such as acrobats, sneaky outlaws, or nimble fighters.
 
 Characters with high [[Agility]] gain the following benefits:
 

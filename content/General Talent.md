@@ -98,3 +98,9 @@ these will be added
 [[Diplomat]]
 [[Analyse Person]]
 [[Empathic]]
+
+---
+
+#talent_group
+
+**Description**:: Broad talents useful to many characters.

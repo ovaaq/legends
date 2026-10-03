@@ -18,6 +18,7 @@
           - [[War Spells V]]
             - [[War Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Divine Talent]]
 
 ---

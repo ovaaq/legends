@@ -9,6 +9,7 @@
       - [[Multitasking Concentration]]
     - [[Spell Sniper]]
 
+**Theme**:: placeholder
 **Group**:: [[Spellcasting Talent]]
 
 ---

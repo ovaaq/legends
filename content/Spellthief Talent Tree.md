@@ -10,6 +10,7 @@
           - [[Spellthief Spells V]]
             - [[Spellthief Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Arcane Talent]]
 
 ---

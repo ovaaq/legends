@@ -75,4 +75,6 @@ Martial Talents reflect a character’s combat prowess, from mastering weapons t
 
 ---
 
-#keyword
+#talent_group
+
+**Description**:: Combat training and physical mastery.

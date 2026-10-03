@@ -18,6 +18,7 @@
           - [[Knowledge Spells V]]
             - [[Knowledge Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Divine Talent]]
 
 ---

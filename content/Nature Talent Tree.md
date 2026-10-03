@@ -18,6 +18,7 @@
           - [[Nature Spells V]]
             - [[Nature Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Spiritual Talent]]
 
 ---

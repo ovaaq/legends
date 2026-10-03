@@ -8,6 +8,7 @@
           - [[Innate Spells V]]
             - [[Innate Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Innate Talent]]
 
 ---

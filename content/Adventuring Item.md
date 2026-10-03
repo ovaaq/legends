@@ -7,7 +7,6 @@
 
 | Item                                                                                    | Weight | Cost |
 | --------------------------------------------------------------------------------------- | ------ | ---- |
-| [[Rulebook/2.6 Buy Equipment.md\|2.6 Buy Equipment]]      | -     | -   |
 | [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         | -     | -   |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         | -     | -   |
 | [[Appraisal Tools.md\|Appraisal Tools]]                   | -     | -   |
@@ -90,7 +89,6 @@
 
 | List of People                                                                          |
 | --------------------------------------------------------------------------------------- |
-| [[Rulebook/2.6 Buy Equipment.md\|2.6 Buy Equipment]]      |
 | [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         |
 | [[Appraisal Tools.md\|Appraisal Tools]]                   |
@@ -232,4 +230,4 @@
 
 ---
 
-#keyword #equipment #group
+#keyword #equipment #item_group

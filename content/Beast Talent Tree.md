@@ -18,6 +18,7 @@
           - [[Beast Spells V]]
             - [[Beast Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Spiritual Talent]]
 
 ---

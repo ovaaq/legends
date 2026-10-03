@@ -18,6 +18,9 @@
           - [[Blood Spells V]]
             - [[Blood Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Innate Talent]]
+
 ---
 
 #talent_tree #innate

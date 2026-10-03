@@ -18,6 +18,9 @@
           - [[Wild Magic Spells V]]
             - [[Wild Magic Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Innate Talent]]
+
 ---
 
 #talent_tree #innate

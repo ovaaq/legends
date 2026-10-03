@@ -11,6 +11,7 @@
         - [[Ki Techniques II]]
           - [[Ki Techniques III]]
 
+**Theme**:: placeholder
 **Group**:: [[Martial Talent]]
 
 ---

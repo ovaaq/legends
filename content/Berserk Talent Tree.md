@@ -8,6 +8,7 @@
 
 thing that boosts str?
 
+**Theme**:: placeholder
 **Group**:: [[Martial Talent]]
 
 ---

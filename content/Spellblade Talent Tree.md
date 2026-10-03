@@ -10,6 +10,7 @@
           - [[Spellblade Spells V]]
             - [[Spellblade Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Arcane Talent]]
 
 ---

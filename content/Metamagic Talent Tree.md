@@ -3,6 +3,7 @@
     - [[Learn Greater Metamagic Options]]
       - [[Metamagic Mastery]]
 
+**Theme**:: placeholder
 **Group**:: [[Spellcasting Talent]]
 
 ---

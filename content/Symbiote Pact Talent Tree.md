@@ -18,6 +18,9 @@
           - [[Symbiote Spells V]]
             - [[Symbiote Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Pact Talent]]
+
 ---
 
 #talent_tree #pact

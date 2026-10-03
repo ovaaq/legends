@@ -9,13 +9,13 @@ title: Homepage
 
 ### Why Legends?
 
-#### Build Anyone
+#### Build Anything
 
-Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character, not a class name. Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic, interesting, and uniquely yours.
+Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character, not a class. Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic and interesting.
 
 #### Tactical Combat
 
-Every turn gives you 3 Actions, Movement, and a Reaction, giving you meaningful choices every round. Move freely without opportunity attacks locking you in place. [[Evasion Class]] and [[Armour Class]] provide two distinct ways to avoid taking a hit, making positioning and defence important parts of every fight.
+Every turn gives you 3 Actions, Movement, and a Reaction, providing choices every round. Move freely without opportunity attacks locking you in place. [[Evasion Class]] and [[Armour Class]] provide two distinct ways to avoid taking a hit.
 
 #### Free Rules
 

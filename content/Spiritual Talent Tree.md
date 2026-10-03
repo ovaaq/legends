@@ -1,5 +1,3 @@
-Part of [[Spiritual Talent]]
-
 - [[Spiritual Connection]]
   - [[Spirit Guide]]
     - [[Channel Spirit]]
@@ -20,6 +18,7 @@ Part of [[Spiritual Talent]]
               - [[Spiritual Spells V]]
                 - [[Spiritual Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Spiritual Talent]]
 
 ---

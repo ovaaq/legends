@@ -3,6 +3,7 @@
     - [[Second Chance]]
       - [[Chain of Fortune]]
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

@@ -18,6 +18,7 @@
           - [[Harmony Spells V]]
             - [[Harmony Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Divine Talent]]
 
 ---

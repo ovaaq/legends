@@ -18,6 +18,7 @@
           - [[Afterlife Spells V]]
             - [[Afterlife Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Spiritual Talent]]
 
 ---

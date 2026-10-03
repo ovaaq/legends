@@ -3,6 +3,7 @@
     - [[Unyielding]]
       - [[Indomitable]]
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

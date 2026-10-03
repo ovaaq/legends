@@ -10,6 +10,7 @@
           - [[Divination Spells V]]
             - [[Divination Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Arcane Talent]]
 
 ---

@@ -1,13 +1,9 @@
 Purchasable equipment is divided into categories, shown in the table below.
 
-| Equipment Group                                                         | Description                                                                                           |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [[Adventuring Item.md\|Adventuring Item]] | General gear needed for exploration, survival, and travel.                                            |
-| [[Alchemical Item.md\|Alchemical Item]]   | Potions, elixirs, and other substances with magical or practical effects.                             |
-| [[Armour.md\|Armour]]                     | Protective gear that reduces damage and increases survivability in combat.                            |
-| [[Clothing.md\|Clothing]]                 | Everyday attire and specialized garments used for travel, social interaction, performance.            |
-| [[Tool.md\|Tool]]                         | Kits and implements for crafting, repairing, or specialized tasks (e.g., lockpicking, artisan tools). |
-| [[Weapon.md\|Weapon]]                     | Melee and ranged arms used for combat or hunting.                                                     |
+| Equipment Group                                         | Description                                                                                |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [[Clothing.md\|Clothing]] | Everyday attire and specialized garments used for travel, social interaction, performance. |
+| [[Weapon.md\|Weapon]]     | Melee and ranged arms used for combat or hunting.                                          |
 
 There is also premade [[Pack|Packs]] that contain collection of items.
 

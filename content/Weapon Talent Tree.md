@@ -20,6 +20,7 @@
     - [[Bow Master]]
     - [[Sharpshooter]]
 
+**Theme**:: placeholder
 **Group**:: [[Martial Talent]]
 
 ---

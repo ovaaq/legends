@@ -1,6 +1,7 @@
 - [[x]]
   [[Inspiring Leader]]
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

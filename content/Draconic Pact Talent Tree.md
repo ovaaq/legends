@@ -18,6 +18,9 @@
           - [[Draconic Spells V]]
             - [[Draconic Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Pact Talent]]
+
 ---
 
 #talent_tree #pact

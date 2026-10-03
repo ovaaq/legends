@@ -18,6 +18,7 @@
           - [[Light Spells V]]
             - [[Light Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Divine Talent]]
 
 ---

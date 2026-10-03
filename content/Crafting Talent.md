@@ -24,3 +24,9 @@ Craft things and talents related.
 | [[Shared Runes.md\|Shared Runes]]                 | [[General Talent.md\|General Talent]]   | 2 LP | [[Runic Recharge.md\|Runic Recharge]]           | [[Arcane Exemplar Form.md\|Arcane Exemplar Form]]                                                                                                                                                                                                                                           |
 | [[Spell Runes.md\|Spell Runes]]                   | [[General Talent.md\|General Talent]]   | 3 LP | [[Runecraft Initiate.md\|Runecraft Initiate]]   | -                                                                                                                                                                                                                                                                                                                        |
 | [[Twin Runes.md\|Twin Runes]]                     | [[General Talent.md\|General Talent]]   | 2 LP | [[Runic Capacity.md\|Runic Capacity]]           | -                                                                                                                                                                                                                                                                                                                        |
+
+---
+
+#talent_group
+
+**Description**:: Creation and modification of items.

@@ -62,3 +62,9 @@ Pact Talents are powers gained through bonds with otherworldly entities or magic
 | [[Servant of Archfey.md\|Servant of Archfey]]                 | [[Pact Talent.md\|Pact Talent]] | 1 LP | -                                                                              | [[fr1\|fr1]], [[fa1\|fa1]], [[fp1\|fp1]], [[Fey Spells I\|Fey Spells I]], [[Pact Spellcasting.md\|Pact Spellcasting]], [[Eldritch Invocations.md\|Eldritch Invocations]], [[Pact Boon.md\|Pact Boon]], [[Bargain.md\|Bargain]]                                                                                                                                               |
 | [[Servant of Artifact.md\|Servant of Artifact]]               | [[Pact Talent.md\|Pact Talent]] | 1 LP | -                                                                              | [[ar1\|ar1]], [[aa1\|aa1]], [[ap1\|ap1]], [[Artifact Spells I\|Artifact Spells I]], [[Pact Spellcasting.md\|Pact Spellcasting]], [[Eldritch Invocations.md\|Eldritch Invocations]], [[Pact Boon.md\|Pact Boon]], [[Bargain.md\|Bargain]]                                                                                                                                     |
 | [[Servant of Dragon.md\|Servant of Dragon]]                   | [[Pact Talent.md\|Pact Talent]] | 1 LP | -                                                                              | [[dr1.md\|dr1]], [[da1.md\|da1]], [[dp1.md\|dp1]], [[Draconic Spells I.md\|Draconic Spells I]], [[Pact Spellcasting.md\|Pact Spellcasting]], [[Eldritch Invocations.md\|Eldritch Invocations]], [[Pact Boon.md\|Pact Boon]], [[Bargain.md\|Bargain]] |
+
+---
+
+#talent_group
+
+**Description**:: Powers granted by supernatural agreements.

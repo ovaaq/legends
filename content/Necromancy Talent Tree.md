@@ -10,6 +10,7 @@
           - [[Necromancy Spells V]]
             - [[Necromancy Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Arcane Talent]]
 
 ---

@@ -10,6 +10,7 @@
           - [[Warding Spells V]]
             - [[Warding Spells VI]]
 
+**Theme**:: placeholder
 **Group**:: [[Arcane Talent]]
 
 ---

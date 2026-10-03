@@ -192,7 +192,6 @@
 | [[Mana Point Maximum.md\|Mana Point Maximum]]                                     |
 | [[Martial Save DC.md\|Martial Save DC]]                                           |
 | [[Martial Skill.md\|Martial Skill]]                                               |
-| [[Martial Talent.md\|Martial Talent]]                                             |
 | [[Martial Technique.md\|Martial Technique]]                                       |
 | [[Medicine.md\|Medicine]]                                                         |
 | [[Medium.md\|Medium]]                                                             |
@@ -313,6 +312,7 @@
 | [[Sword.md\|Sword]]                                                               |
 | [[Take Cover.md\|Take Cover]]                                                     |
 | [[Talent.md\|Talent]]                                                             |
+| [[Talent Group.md\|Talent Group]]                                                 |
 | [[Talent Tree.md\|Talent Tree]]                                                   |
 | [[Temporary Hit Point.md\|Temporary Hit Point]]                                   |
 | [[Thrown.md\|Thrown]]                                                             |

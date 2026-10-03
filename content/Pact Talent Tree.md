@@ -10,6 +10,9 @@
 - [[Bargain]]
   - [[Improved bargain]]
 
+**Theme**:: placeholder
+**Group**:: [[Pact Talent]]
+
 ---
 
 #talent_tree #pact

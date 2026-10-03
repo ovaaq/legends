@@ -18,6 +18,7 @@
             - [[Arcane Spells V]]
               - [[Arcane Spells VI]]
 
+**Theme**:: Generalist arcane spellcasting talents.
 **Group**:: [[Arcane Talent]]
 
 ---

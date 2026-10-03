@@ -3,6 +3,7 @@
   - [[Reliable Talent]]
   - [[Jack of All Trades]]
 
+**Theme**:: placeholder
 **Group**:: [[General Talent]]
 
 ---

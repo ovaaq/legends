@@ -18,6 +18,9 @@
           - [[Psionic Spells V]]
             - [[Psionic Spells VI]]
 
+**Theme**:: placeholder
+**Group**:: [[Innate Talent]]
+
 ---
 
 #talent_tree #innate

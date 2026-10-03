@@ -20,3 +20,9 @@ Spellcasting Talents enhance a character’s spellcasting abilities, making thei
 | [[Spell Holding.md\|Spell Holding]]                                     | [[Spellcasting Talent.md\|Spellcasting Talent]] | 1 LP | [[Advanced Focus Training.md\|Advanced Focus Training]]                                          | [[Multitasking Concentration.md\|Multitasking Concentration]]           |
 | [[Spell Parry.md\|Spell Parry]]                                         | [[Spellcasting Talent.md\|Spellcasting Talent]] | 1 LP | [[Spellstrike.md\|Spellstrike]]                                                                  | -                                                                                                    |
 | [[Spelldrive.md\|Spelldrive]]                                           | [[Spellcasting Talent.md\|Spellcasting Talent]] | 1 LP | [[Advanced Focus Training.md\|Advanced Focus Training]]                                          | [[Mega boost blast.md\|Mega boost blast]]                               |
+
+---
+
+#talent_group
+
+**Description**:: General spellcasting talents.

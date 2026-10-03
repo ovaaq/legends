@@ -1,5 +1,3 @@
-**Description**:: Potions, elixirs, and other substances with magical or practical effects.
-
 [[Equipment]]
 
 [[Foam bomb]]
@@ -92,4 +90,6 @@ Glue
 
 ---
 
-#keyword #equipment #group
+#keyword #equipment #item_group
+
+**Description**:: Potions, elixirs, and other substances with magical or practical effects.
