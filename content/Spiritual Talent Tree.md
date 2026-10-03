@@ -18,7 +18,7 @@
               - [[Spiritual Spells V]]
                 - [[Spiritual Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: General spiritual talents.
 **Group**:: [[Spiritual Talent]]
 
 ---

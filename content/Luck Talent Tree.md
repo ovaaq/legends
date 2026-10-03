@@ -3,7 +3,7 @@
     - [[Second Chance]]
       - [[Chain of Fortune]]
 
-**Theme**:: placeholder
+**Theme**:: Luck helping you and even others.
 **Group**:: [[General Talent]]
 
 ---

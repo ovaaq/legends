@@ -18,7 +18,7 @@
           - [[Wild Magic Spells V]]
             - [[Wild Magic Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Surge of magic in you bursting out.
 **Group**:: [[Innate Talent]]
 
 ---

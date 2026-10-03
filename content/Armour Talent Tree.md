@@ -7,7 +7,7 @@
     - [[Heavy Armour Training]]
       - [[Heavy Armour Master]]
 
-**Theme**:: placeholder
+**Theme**:: Effective use of armour and shields.
 **Group**:: [[Martial Talent]]
 
 ---

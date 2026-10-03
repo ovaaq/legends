@@ -9,7 +9,7 @@
     - [[Cunning Action]]
       - [[Action Surge]]
 
-**Theme**:: placeholder
+**Theme**:: Extremely fast reactions and actions.
 **Group**:: [[General Talent]]
 
 ---

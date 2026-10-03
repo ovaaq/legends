@@ -3,7 +3,7 @@
     - [[Learn Greater Metamagic Options]]
       - [[Metamagic Mastery]]
 
-**Theme**:: placeholder
+**Theme**:: Manipulating spells and modifying them.
 **Group**:: [[Spellcasting Talent]]
 
 ---

@@ -2,7 +2,7 @@
 - [[Keen Mind]]
 - [[Danger Sense]]
 
-**Theme**:: placeholder
+**Theme**:: Mental use in highest level.
 **Group**:: [[General Talent]]
 
 ---

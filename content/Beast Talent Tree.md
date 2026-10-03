@@ -18,7 +18,7 @@
           - [[Beast Spells V]]
             - [[Beast Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Living among the beasts and their animal spirits.
 **Group**:: [[Spiritual Talent]]
 
 ---

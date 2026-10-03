@@ -7,7 +7,7 @@
       - [[Elusive]]
         - [[Untouchable]]
 
-**Theme**:: placeholder
+**Theme**:: Dodging and evading attacks.
 **Group**:: [[Martial Talent]]
 
 ---

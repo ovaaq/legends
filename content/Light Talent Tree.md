@@ -18,7 +18,7 @@
           - [[Light Spells V]]
             - [[Light Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Divine followers of light and purity.
 **Group**:: [[Divine Talent]]
 
 ---

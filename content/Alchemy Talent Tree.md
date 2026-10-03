@@ -22,7 +22,7 @@
           - [[Alchemical Formulas V]]
             - [[Alchemical Formulas VI]]
 
-**Theme**:: placeholder
+**Theme**:: Creation of potions and study of formulas.
 **Group**:: [[General Talent]]
 
 ---

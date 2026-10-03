@@ -1,7 +1,7 @@
 - [[x]]
   [[Inspiring Leader]]
 
-**Theme**:: placeholder
+**Theme**:: Inspiring others to their highest potential.
 **Group**:: [[General Talent]]
 
 ---

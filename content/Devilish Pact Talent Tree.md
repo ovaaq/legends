@@ -18,7 +18,7 @@
           - [[Devil Spells V]]
             - [[Devil Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Gained powers through dealing with devil.
 **Group**:: [[Pact Talent]]
 
 ---

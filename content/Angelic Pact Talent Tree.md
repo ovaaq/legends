@@ -18,7 +18,7 @@
           - [[Angelic Spells V]]
             - [[Angelic Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Servant of and celestial being.
 **Group**:: [[Pact Talent]]
 
 ---

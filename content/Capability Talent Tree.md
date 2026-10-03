@@ -3,7 +3,7 @@
   - [[Reliable Talent]]
   - [[Jack of All Trades]]
 
-**Theme**:: placeholder
+**Theme**:: Increased skill and doing.
 **Group**:: [[General Talent]]
 
 ---

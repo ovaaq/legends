@@ -18,7 +18,7 @@
           - [[Elemental Spells V]]
             - [[Elemental Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Channelling of elemental spirits and powers.
 **Group**:: [[Spiritual Talent]]
 
 ---

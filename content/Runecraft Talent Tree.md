@@ -14,7 +14,7 @@
           - [[Runes V]]
             - [[Runes VI]]
 
-**Theme**:: placeholder
+**Theme**:: Inscribe runes to make them enchanted and powerful items.
 **Group**:: [[General Talent]]
 
 ---

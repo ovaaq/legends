@@ -18,7 +18,7 @@
           - [[Mutant Spells V]]
             - [[Mutant Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Abnormal powers from genetic mutation.
 **Group**:: [[Innate Talent]]
 
 ---

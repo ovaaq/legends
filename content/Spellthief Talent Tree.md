@@ -10,7 +10,7 @@
           - [[Spellthief Spells V]]
             - [[Spellthief Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Arcane study about cancelling spells and stealing them.
 **Group**:: [[Arcane Talent]]
 
 ---

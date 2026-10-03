@@ -18,7 +18,7 @@
           - [[Nature Spells V]]
             - [[Nature Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Communicating with nature spirits of forests and other.
 **Group**:: [[Spiritual Talent]]
 
 ---

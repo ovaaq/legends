@@ -11,7 +11,7 @@
         - [[Ki Techniques II]]
           - [[Ki Techniques III]]
 
-**Theme**:: placeholder
+**Theme**:: Understanding of Ki through martial arts.
 **Group**:: [[Martial Talent]]
 
 ---

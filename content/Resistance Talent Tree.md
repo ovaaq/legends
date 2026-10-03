@@ -3,7 +3,7 @@
     - [[Unyielding]]
       - [[Indomitable]]
 
-**Theme**:: placeholder
+**Theme**:: Resisting harm and not succumbing to it.
 **Group**:: [[General Talent]]
 
 ---

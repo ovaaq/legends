@@ -9,7 +9,7 @@
       - [[Multitasking Concentration]]
     - [[Spell Sniper]]
 
-**Theme**:: placeholder
+**Theme**:: General spellcasting talents.
 **Group**:: [[Spellcasting Talent]]
 
 ---

@@ -9,7 +9,7 @@
     - [[Juggernaut]]
       - [[Momentum]]
 
-**Theme**:: placeholder
+**Theme**:: Fast movement and specialised skills to overcome obstacles.
 **Group**:: [[General Talent]]
 
 ---

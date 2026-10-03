@@ -18,7 +18,7 @@
           - [[Afterlife Spells V]]
             - [[Afterlife Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Communicating with spirits from afterlife.
 **Group**:: [[Spiritual Talent]]
 
 ---

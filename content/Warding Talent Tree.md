@@ -10,7 +10,7 @@
           - [[Warding Spells V]]
             - [[Warding Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Arcane study of protection and warden.
 **Group**:: [[Arcane Talent]]
 
 ---

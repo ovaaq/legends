@@ -1,6 +1,6 @@
 Pact Talents are powers gained through bonds with otherworldly entities or magical pacts. They grant unique abilities and enhancements to those who make deals with forces beyond them. Each pact begins in Sub Talent Tree and after that you can expand it using [[Pact Talent Tree]] which is more general boons.
 
-| Main Pact Talent Tree                                                   |
+| Main Talent Tree                                                        |
 | ----------------------------------------------------------------------- |
 | [[Pact Talent Tree.md\|Pact Talent Tree]] |
 

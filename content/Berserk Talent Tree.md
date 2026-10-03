@@ -8,7 +8,7 @@
 
 thing that boosts str?
 
-**Theme**:: placeholder
+**Theme**:: Fighting with pure rage.
 **Group**:: [[Martial Talent]]
 
 ---

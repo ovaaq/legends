@@ -18,7 +18,7 @@
           - [[Symbiote Spells V]]
             - [[Symbiote Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Living with symbiote, a substance in you granting powers.
 **Group**:: [[Pact Talent]]
 
 ---

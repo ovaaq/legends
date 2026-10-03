@@ -18,7 +18,7 @@
           - [[Draconic Spells V]]
             - [[Draconic Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Serving a dragon of great power.
 **Group**:: [[Pact Talent]]
 
 ---

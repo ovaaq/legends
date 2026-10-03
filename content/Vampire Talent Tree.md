@@ -18,7 +18,7 @@
           - [[Blood Spells V]]
             - [[Blood Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Gained powers through transformation of vampirism.
 **Group**:: [[Innate Talent]]
 
 ---

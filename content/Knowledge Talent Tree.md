@@ -18,7 +18,7 @@
           - [[Knowledge Spells V]]
             - [[Knowledge Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Divine followers of knowledge and understanding.
 **Group**:: [[Divine Talent]]
 
 ---

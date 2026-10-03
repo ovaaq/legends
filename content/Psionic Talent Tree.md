@@ -18,7 +18,7 @@
           - [[Psionic Spells V]]
             - [[Psionic Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Psionic powers as your powerful mind manifests itself.
 **Group**:: [[Innate Talent]]
 
 ---

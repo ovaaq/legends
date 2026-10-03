@@ -9,7 +9,7 @@
     - [[Improved Recovery]]
       - [[Enduring Fortitude]]
 
-**Theme**:: placeholder
+**Theme**:: Increasing your own health, recovery and survival.
 **Group**:: [[General Talent]]
 
 ---

@@ -10,7 +10,7 @@
           - [[Wildlore Spells V]]
             - [[Wildlore Spells VI]]
 
-**Theme**:: learn spells from magical beasts, familiar bonuses, gain essesse peacefully
+**Theme**:: Arcane study inspired to learn magic through magical beasts.
 **Group**:: [[Arcane Talent]]
 
 ---

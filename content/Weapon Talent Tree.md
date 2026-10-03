@@ -20,7 +20,7 @@
     - [[Bow Master]]
     - [[Sharpshooter]]
 
-**Theme**:: placeholder
+**Theme**:: Highest level of weapon skill.
 **Group**:: [[Martial Talent]]
 
 ---

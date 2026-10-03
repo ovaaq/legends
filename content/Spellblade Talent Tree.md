@@ -10,7 +10,7 @@
           - [[Spellblade Spells V]]
             - [[Spellblade Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Arcane study inspired by martial weapons and physical combat.
 **Group**:: [[Arcane Talent]]
 
 ---

@@ -11,7 +11,7 @@
   - [[Divine Blessing]]
     - [[Holy Ceremony]]
 
-**Theme**:: placeholder
+**Theme**:: General divine talents.
 **Group**:: [[Divine Talent]]
 
 ---

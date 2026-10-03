@@ -13,7 +13,7 @@
     - [[Martial Techniques II]]
       - [[Martial Techniques III]]
 
-**Theme**:: placeholder
+**Theme**:: Fight using martial techniques.
 **Group**:: [[Martial Talent]]
 
 ---

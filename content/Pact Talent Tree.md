@@ -10,7 +10,7 @@
 - [[Bargain]]
   - [[Improved bargain]]
 
-**Theme**:: placeholder
+**Theme**:: General pact talents.
 **Group**:: [[Pact Talent]]
 
 ---

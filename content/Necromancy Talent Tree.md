@@ -10,7 +10,7 @@
           - [[Necromancy Spells V]]
             - [[Necromancy Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Arcane study focusing on death and raising undead creatures.
 **Group**:: [[Arcane Talent]]
 
 ---

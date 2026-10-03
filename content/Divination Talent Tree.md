@@ -10,7 +10,7 @@
           - [[Divination Spells V]]
             - [[Divination Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Arcane study focusing on gathering knowledge of future and past.
 **Group**:: [[Arcane Talent]]
 
 ---

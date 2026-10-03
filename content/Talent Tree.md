@@ -2,74 +2,74 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 
 ## Arcane Talent Trees
 
-- [[Arcane Talent Tree|Arcane Talent Tree]] - Generalist arcane spellcasting talents.
-- [[Dimensions Talent Tree|Dimensions Talent Tree]] - placeholder
-- [[Divination Talent Tree|Divination Talent Tree]] - placeholder
-- [[Necromancy Talent Tree|Necromancy Talent Tree]] - placeholder
-- [[Spellblade Talent Tree|Spellblade Talent Tree]] - placeholder
-- [[Spellthief Talent Tree|Spellthief Talent Tree]] - placeholder
-- [[Warding Talent Tree|Warding Talent Tree]] - placeholder
-- [[Wildlore Talent Tree|Wildlore Talent Tree]] - learn spells from magical beasts, familiar bonuses, gain essesse peacefully
+- [[Arcane Talent Tree|Arcane Talent Tree]] - General arcane studies.
+- [[Divination Talent Tree|Divination Talent Tree]] - Arcane study focusing on gathering knowledge of future and past.
+- [[Necromancy Talent Tree|Necromancy Talent Tree]] - Arcane study focusing on death and raising undead creatures.
+- [[Spacetime Talent Tree|Spacetime Talent Tree]] - Arcane study focusing on space, time and travel.
+- [[Spellblade Talent Tree|Spellblade Talent Tree]] - Arcane study inspired by martial weapons and physical combat.
+- [[Spellthief Talent Tree|Spellthief Talent Tree]] - Arcane study about cancelling spells and stealing them.
+- [[Warding Talent Tree|Warding Talent Tree]] - Arcane study of protection and warden.
+- [[Wildlore Talent Tree|Wildlore Talent Tree]] - Arcane study inspired to learn magic through magical beasts.
 
 ## Divine Talent Trees
 
-- [[Divine Talent Tree|Divine Talent Tree]] - placeholder
-- [[Harmony Talent Tree|Harmony Talent Tree]] - placeholder
-- [[Knowledge Talent Tree|Knowledge Talent Tree]] - placeholder
-- [[Light Talent Tree|Light Talent Tree]] - placeholder
-- [[War Talent Tree|War Talent Tree]] - placeholder
+- [[Divine Talent Tree|Divine Talent Tree]] - General divine talents.
+- [[Harmony Talent Tree|Harmony Talent Tree]] - Divine followers of harmony and balance.
+- [[Knowledge Talent Tree|Knowledge Talent Tree]] - Divine followers of knowledge and understanding.
+- [[Light Talent Tree|Light Talent Tree]] - Divine followers of light and purity.
+- [[War Talent Tree|War Talent Tree]] - Divine followers of war, combat and grace end.
 
 ## General Talent Trees
 
-- [[Alchemy Talent Tree|Alchemy Talent Tree]] - placeholder
-- [[Capability Talent Tree|Capability Talent Tree]] - placeholder
-- [[Haste Talent Tree|Haste Talent Tree]] - placeholder
-- [[Healer Talent Tree|Healer Talent Tree]] - placeholder
-- [[Inspirer Talent Tree|Inspirer Talent Tree]] - placeholder
-- [[Luck Talent Tree|Luck Talent Tree]] - placeholder
-- [[Mental Talent Tree|Mental Talent Tree]] - placeholder
-- [[Mobility Talent Tree|Mobility Talent Tree]] - placeholder
-- [[Resistance Talent Tree|Resistance Talent Tree]] - placeholder
-- [[Runecraft Talent Tree|Runecraft Talent Tree]] - placeholder
-- [[Vitality Talent Tree|Vitality Talent Tree]] - placeholder
+- [[Alchemy Talent Tree|Alchemy Talent Tree]] - Creation of potions and study of formulas.
+- [[Capability Talent Tree|Capability Talent Tree]] - Increased skill and doing.
+- [[Haste Talent Tree|Haste Talent Tree]] - Extremely fast reactions and actions.
+- [[Healer Talent Tree|Healer Talent Tree]] - Healing others through normal means.
+- [[Inspirer Talent Tree|Inspirer Talent Tree]] - Inspiring others to their highest potential.
+- [[Luck Talent Tree|Luck Talent Tree]] - Luck helping you and even others.
+- [[Mental Talent Tree|Mental Talent Tree]] - Mental use in highest level.
+- [[Mobility Talent Tree|Mobility Talent Tree]] - Fast movement and specialised skills to overcome obstacles.
+- [[Resistance Talent Tree|Resistance Talent Tree]] - Resisting harm and not succumbing to it.
+- [[Runecraft Talent Tree|Runecraft Talent Tree]] - Inscribe runes to make them enchanted and powerful items.
+- [[Vitality Talent Tree|Vitality Talent Tree]] - Increasing your own health, recovery and survival.
 
 ## Innate Talent Trees
 
-- [[Innate Talent Tree|Innate Talent Tree]] - placeholder
-- [[Mutant Talent Tree|Mutant Talent Tree]] - placeholder
-- [[Psionic Talent Tree|Psionic Talent Tree]] - placeholder
-- [[Vampire Talent Tree|Vampire Talent Tree]] - placeholder
-- [[Wild Magic Talent Tree|Wild Magic Talent Tree]] - placeholder
+- [[Innate Talent Tree|Innate Talent Tree]] - General innate talents.
+- [[Mutant Talent Tree|Mutant Talent Tree]] - Abnormal powers from genetic mutation.
+- [[Psionic Talent Tree|Psionic Talent Tree]] - Psionic powers as your powerful mind manifests itself.
+- [[Vampire Talent Tree|Vampire Talent Tree]] - Gained powers through transformation of vampirism.
+- [[Wild Magic Talent Tree|Wild Magic Talent Tree]] - Surge of magic in you bursting out.
 
 ## Martial Talent Trees
 
-- [[Armour Talent Tree|Armour Talent Tree]] - placeholder
-- [[Berserk Talent Tree|Berserk Talent Tree]] - placeholder
-- [[Evasion Talent Tree|Evasion Talent Tree]] - placeholder
-- [[Martial Arts Talent Tree|Martial Arts Talent Tree]] - placeholder
-- [[Martial Talent Tree|Martial Talent Tree]] - placeholder
-- [[Weapon Talent Tree|Weapon Talent Tree]] - placeholder
+- [[Armour Talent Tree|Armour Talent Tree]] - Effective use of armour and shields.
+- [[Berserk Talent Tree|Berserk Talent Tree]] - Fighting with pure rage.
+- [[Evasion Talent Tree|Evasion Talent Tree]] - Dodging and evading attacks.
+- [[Martial Arts Talent Tree|Martial Arts Talent Tree]] - Understanding of Ki through martial arts.
+- [[Martial Talent Tree|Martial Talent Tree]] - Fight using martial techniques.
+- [[Weapon Talent Tree|Weapon Talent Tree]] - Highest level of weapon skill.
 
 ## Pact Talent Trees
 
-- [[Angelic Pact Talent Tree|Angelic Pact Talent Tree]] - placeholder
-- [[Devilish Pact Talent Tree|Devilish Pact Talent Tree]] - placeholder
-- [[Draconic Pact Talent Tree|Draconic Pact Talent Tree]] - placeholder
-- [[Pact Talent Tree|Pact Talent Tree]] - placeholder
-- [[Symbiote Pact Talent Tree|Symbiote Pact Talent Tree]] - placeholder
+- [[Angelic Pact Talent Tree|Angelic Pact Talent Tree]] - Servant of and celestial being.
+- [[Devilish Pact Talent Tree|Devilish Pact Talent Tree]] - Gained powers through dealing with devil.
+- [[Draconic Pact Talent Tree|Draconic Pact Talent Tree]] - Serving a dragon of great power.
+- [[Pact Talent Tree|Pact Talent Tree]] - General pact talents.
+- [[Symbiote Pact Talent Tree|Symbiote Pact Talent Tree]] - Living with symbiote, a substance in you granting powers.
 
 ## Spellcasting Talent Trees
 
-- [[Metamagic Talent Tree|Metamagic Talent Tree]] - placeholder
-- [[Spellcasting Talent Tree|Spellcasting Talent Tree]] - placeholder
+- [[Metamagic Talent Tree|Metamagic Talent Tree]] - Manipulating spells and modifying them.
+- [[Spellcasting Talent Tree|Spellcasting Talent Tree]] - General spellcasting talents.
 
 ## Spiritual Talent Trees
 
-- [[Afterlife Talent Tree|Afterlife Talent Tree]] - placeholder
-- [[Beast Talent Tree|Beast Talent Tree]] - placeholder
-- [[Elemental Talent Tree|Elemental Talent Tree]] - placeholder
-- [[Nature Talent Tree|Nature Talent Tree]] - placeholder
-- [[Spiritual Talent Tree|Spiritual Talent Tree]] - placeholder
+- [[Afterlife Talent Tree|Afterlife Talent Tree]] - Communicating with spirits from afterlife.
+- [[Beast Talent Tree|Beast Talent Tree]] - Living among the beasts and their animal spirits.
+- [[Elemental Talent Tree|Elemental Talent Tree]] - Channelling of elemental spirits and powers.
+- [[Nature Talent Tree|Nature Talent Tree]] - Communicating with nature spirits of forests and other.
+- [[Spiritual Talent Tree|Spiritual Talent Tree]] - General spiritual talents.
 
 ---
 

@@ -8,7 +8,7 @@
           - [[Innate Spells V]]
             - [[Innate Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: General innate talents.
 **Group**:: [[Innate Talent]]
 
 ---

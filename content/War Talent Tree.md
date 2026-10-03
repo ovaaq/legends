@@ -18,7 +18,7 @@
           - [[War Spells V]]
             - [[War Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Divine followers of war, combat and grace end.
 **Group**:: [[Divine Talent]]
 
 ---

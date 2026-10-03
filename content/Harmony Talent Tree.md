@@ -18,7 +18,7 @@
           - [[Harmony Spells V]]
             - [[Harmony Spells VI]]
 
-**Theme**:: placeholder
+**Theme**:: Divine followers of harmony and balance.
 **Group**:: [[Divine Talent]]
 
 ---
