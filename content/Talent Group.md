@@ -1,4 +1,4 @@
-A Talent Tree is a structured group of related [[Talent|Talents]] arranged in a progression, where access to later Talents requires taking specific earlier Talents. Talent Trees represent focused paths of mastery that characters can follow alongside any other Talents they choose.
+Talent Groups are broad categories used to organize [[Talent Tree|Talent Trees]]. They help players quickly find [[Talent Tree|Talent Trees]] that align with their character's abilities, playstyle, or theme.
 
 | Talent Group                                                                  | Description                                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------- |

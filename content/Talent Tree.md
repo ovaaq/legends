@@ -1,4 +1,4 @@
-A Talent Tree is a structured group of [[Talent|Talents]] arranged in a progression, where access to later Talents requires taking specific earlier Talents. Talent Trees represent focused paths of mastery that characters can follow alongside any other Talents they choose.
+A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a progression, where access to later Talents requires taking specific earlier Talents. Talent Trees represent focused paths of mastery that characters can follow alongside any other Talents they choose.
 
 ## Arcane Talent Trees
 
