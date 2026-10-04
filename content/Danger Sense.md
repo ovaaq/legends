@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: e
 **Cost**:: 2 LP
 
 _Flavour text_.

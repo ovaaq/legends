@@ -1,4 +1,4 @@
-[[Rage]]
+[[Battle Rage]]
 [[Warcry]]
 [[Reckless Attack]]
 [[Relentless Rage]]

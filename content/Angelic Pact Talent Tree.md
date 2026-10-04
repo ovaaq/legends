@@ -1,4 +1,4 @@
-- [[Servant of Angel]]
+- [[Angelic Pact]]
   - [[cr1]]
     - [[cr2]]
       - [[cr3]]

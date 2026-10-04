@@ -7,7 +7,7 @@ Benefit.
 
 **Tree**:: [[Martial Arts Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Ki Unlocked]]
+**Following**:: [[Ki Techniques I]], [[Focused Aim]], [[Enduring Body]]
 
 ---
 

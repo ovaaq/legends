@@ -1,4 +1,4 @@
-**Requirements**:: [[Servant of Angel]]
+**Requirements**:: [[Angelic Pact]]
 **Cost**:: 1 LP
 
 _Flavour text_.

@@ -1,4 +1,4 @@
-**Requirements**:: [[Servant of Dragon]]
+**Requirements**:: [[Draconic Pact]]
 **Cost**:: 1 LP
 
 _Flavour text_.

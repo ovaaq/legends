@@ -1,4 +1,4 @@
-- [[Servant of Dragon]]
+- [[Draconic Pact]]
   - [[dr1]]
     - [[dr2]]
       - [[dr3]]

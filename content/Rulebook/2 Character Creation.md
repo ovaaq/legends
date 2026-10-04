@@ -16,17 +16,17 @@ If you need inspiration or help understanding the character creation process, yo
 
 You may create your character in any order, but the following sequence is recommended for clarity and convenience.
 
-[[2.1 Imagine your Character]]
+[[2.1 Character Concept]]
 [[2.2 Choose an Ancestry]]
-[[2.4 Build a Background]]
 [[2.3 Determine Attributes]]
+[[2.4 Build a Background]]
 [[2.5 Select Talents]]
 [[2.6 Buy Starting Equipment]]
 [[2.7 Calculate Stats]]
 
 ## Imagine your Character
 
-![[2.1 Imagine your Character]]
+![[2.1 Character Concept]]
 
 ## Choose an Ancestry
 
@@ -54,4 +54,4 @@ You may create your character in any order, but the following sequence is recomm
 
 ## Character Creation Summary
 
-![[2.8 Character Creation Summary]]
+![[2.8 Creation Summary]]
