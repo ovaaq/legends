@@ -14,6 +14,7 @@ The following list details each [[General Skill]] and its corresponding [[Attrib
 | [[Crafting.md\|Crafting]]               | [[Precision.md\|Precision]]       |
 | [[Deception.md\|Deception]]             | [[Charisma.md\|Charisma]]         |
 | [[History.md\|History]]                 | [[Intelligence.md\|Intelligence]] |
+| [[Initiative.md\|Initiative]]           | [[Agility.md\|Agility]]           |
 | [[Insight.md\|Insight]]                 | [[Awareness.md\|Awareness]]       |
 | [[Intimidation.md\|Intimidation]]       | [[Charisma.md\|Charisma]]         |
 | [[Investigation.md\|Investigation]]     | [[Intelligence.md\|Intelligence]] |

@@ -2,8 +2,6 @@ Agility measures reflexes and coordination. It is the primary [[Attribute]] for
 
 Characters with high [[Agility]] gain the following benefits:
 
-- **Skills:** Add Agility to [[Acrobatics]] and [[Stealth]] [[Check|Checks]].
+- **Skills:** Add Agility to [[Acrobatics]], [[Initiative]] and [[Stealth]] [[Check|Checks]].
 - **Saving Throw:** Add your Agility to [[Agility Saving Throw|Agility Saving Throws]].
 - **Dodge:** Your [[Evasion Class]] equals 10 + Agility.
-
-![[Initiative]]

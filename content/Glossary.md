@@ -155,7 +155,6 @@
 | [[Incorporeal.md\|Incorporeal]]                                                   |
 | [[Ingested Poison.md\|Ingested Poison]]                                           |
 | [[Inhaled Poison.md\|Inhaled Poison]]                                             |
-| [[Initiative.md\|Initiative]]                                                     |
 | [[Initiative Order.md\|Initiative Order]]                                         |
 | [[Innate Spell List.md\|Innate Spell List]]                                       |
 | [[Innate Spellcasting Skill.md\|Innate Spellcasting Skill]]                       |

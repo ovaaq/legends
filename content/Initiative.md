@@ -1,5 +1,7 @@
-Character's [[Initiative]] equals [[Agility]].
+**Modifier**:: [[Agility]]
+
+An **Initiative** [[Check]] covers your who goes first in encounter.
 
 ---
 
-#keyword
+#general_skill [[General Skill]]
