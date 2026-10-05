@@ -12,7 +12,7 @@ You gain 2 additional [[Spirit Point|Spirit Points]].
 **Failure:** The target is possessed for 1d4 turns.
 **Critical Failure:** The target is possessed for 1d4 + 2 turns.
 
-While possessing a [[Creature]], you merge inside its body and do not take your own independent turn; instead, you act exclusively during the possessed creature's initiative, fully dictating its movement and actions. At the end of each of its turns, the creature can repeat the [[Charisma Saving Throw]], ending the effect early on a success. If you attempt to force the creature to perform an obviously self-destructive act (such as stabbing itself, throwing itself onto hazards, or immolating itself), its survival instinct immediately snaps your control and ends the possession before the harmful act can be executed. When the possession ends by any means, you are ejected into an empty space 1 meter away from the creature.
+While possessing a [[Creature]], you merge inside its body and do not take your own independent turn; instead, you act exclusively during the possessed creature's initiative, fully dictating its movement and actions. At the end of each of its turns, the [[Creature]] can repeat the [[Charisma Saving Throw]], ending the effect early on a success. If you attempt to force the [[Creature]] to perform an obviously self-destructive act (such as stabbing itself, throwing itself onto hazards, or immolating itself), its survival instinct immediately snaps your control and ends the possession before the harmful act can be executed. When the possession ends by any means, you are ejected into an empty space 1 meter away from the [[Creature]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

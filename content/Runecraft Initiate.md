@@ -30,3 +30,4 @@ Add these [[Rune|Runes]] to your [[Rune List]]:
 
 #talent #crafting
 [[Talent]]
+[[Root Talent]]

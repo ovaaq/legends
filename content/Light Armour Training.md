@@ -7,9 +7,9 @@ Wearing [[Light Armour]] will not impose [[Untrained Armour Penalty]].
 
 **Tree**:: [[Armour Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Medium Armour Training]], [[Light Armour Master]], [[Shield Training]]
+**Following**:: [[Medium Armour Training]], [[Light Armour Master]]
 
 ---
 
 #talent #martial #defence
-[[Talent]][[Martial Talent]]
+[[Talent]][[Martial Talent]][[Root Talent]]

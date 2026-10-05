@@ -76,4 +76,4 @@ These spells are added to your [[Arcane Spell List]]:
 ---
 
 #talent #arcane
-[[Talent]]
+[[Talent]][[Root Talent]]

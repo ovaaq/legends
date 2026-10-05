@@ -14,4 +14,4 @@ _Flavour text_.
 ---
 
 #talent #pact #angelic
-[[Talent]] [[Pact Talent]]
+[[Talent]] [[Pact Talent]][[Root Talent]]

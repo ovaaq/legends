@@ -1,3 +1,5 @@
+[[Martial Technique|Martial Techniques]] that focus on helping allies and synergising with the party.
+
 | Protective Techniques                                                           | Execution                                                         | Stamina | Range     | Weapon                                                | Type                                                                      |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- | ------------------------------------------------------------------------- |
 | [[Bait and Switch.md\|Bait and Switch]]           | [[Action.md\|Action]]               | 1       | 1 metre   | None                                                  | [[Support Technique.md\|Support Technique]] |

@@ -24,4 +24,4 @@ _Flavour text_.
 ---
 
 #talent #divine
-[[Talent]][[Divine Talent]]
+[[Talent]][[Divine Talent]][[Root Talent]]

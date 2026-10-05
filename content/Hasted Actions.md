@@ -18,4 +18,4 @@ You have 2 [[Haste Point|Haste Points]]. You regain all expended [[Haste Point|H
 ---
 
 #talent #general #haste
-[[Talent]][[General Talent]]
+[[Talent]][[General Talent]][[Root Talent]]

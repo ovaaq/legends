@@ -1,3 +1,5 @@
+[[Martial Technique|Martial Techniques]] that focus on dealing damage or causing negative effects on enemies.
+
 | Protective Techniques                                                   | Execution                                                         | Stamina | Range | Weapon                                                                | Type                                                                          |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | ----- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [[Blinding Strike.md\|Blinding Strike]]   | [[Free Action]]\*                                                  | 1       | Melee | [[Heavy.md\|Heavy]]                     | [[Offensive Technique.md\|Offensive Technique]] |

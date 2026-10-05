@@ -3,10 +3,10 @@
 
 _Flavour text_.
 
-When you do the [[First Aid]] action:
+When you take the [[First Aid]] action and expend one use of a [[Healer's Kit]], replace the [[Success]] and [[Critical Success]] effects with the following effects.
 
-**Critical Success:** The creature regains 2d4 [[Hit Point|Hit Points]].
-**Success:** The creature regains 1d4 [[Hit Point|Hit Points]].
+**Critical Success:** The target regains 2d4 [[Hit Point|Hit Points]].
+**Success:** The target regains 1d4 [[Hit Point|Hit Points]].
 
 **Tree**:: [[Healer Talent Tree]]
 **Group**:: [[General Talent]]
@@ -16,3 +16,4 @@ When you do the [[First Aid]] action:
 
 #talent #general
 [[Talent]]
+[[Root Talent]]

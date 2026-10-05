@@ -13,3 +13,4 @@ Benefit.
 
 #talent
 [[Talent]]
+[[Root Talent]]

@@ -17,3 +17,4 @@ If more than one creature spends a Luck Point to influence the outcome of a roll
 
 #talent #general #luck
 [[Talent]] [[Talent]][[General Talent]]
+[[Root Talent]]

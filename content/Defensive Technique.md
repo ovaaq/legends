@@ -1,3 +1,5 @@
+[[Martial Technique|Martial Techniques]] that focus on defence and holding your ground.
+
 | Protective Techniques                                                       | Execution                                           | Stamina | Range | Weapon                                            | Type                                                                          |
 | --------------------------------------------------------------------------- | --------------------------------------------------- | ------- | ----- | ------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [[Counterbalance.md\|Counterbalance]]         | [[Reaction]]\*                                       | 1       | Self  | Any                                               | [[Defensive Technique.md\|Defensive Technique]] |

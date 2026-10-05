@@ -1,7 +1,7 @@
 **Requirements**::
 **Cost**:: 1 LP
 
-_The mark of the bite awakens your body. Thirst rises, and blood calls to you._
+_The bite awakens your body. Thirst rises, and blood calls to you._
 
 **Altered Physiology.** You no longer require air or food to sustain yourself.
 
@@ -16,8 +16,10 @@ If you go longer than 7 days without feeding, your predatory instincts begin to 
 
 **Tree**:: [[Vampire Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[Vampiric Bite]], [[Innate Spellcasting]], [[Heightened Senses]], [[Vampiric Shapeshift]]
+**Following**:: [[Vampiric Bite]], [[Heightened Senses]], [[Vampiric Shapeshift]], [[Innate Spellcasting]], [[Blood Spells I]]
 
 ---
 
 #talent #innate #vampire
+
+[[Root Talent]]

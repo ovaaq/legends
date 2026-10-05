@@ -12,4 +12,4 @@ Using [[Shield]] will not impose [[Untrained Armour Penalty]].
 ---
 
 #talent #martial #defence
-[[Talent]][[Martial Talent]]
+[[Talent]][[Martial Talent]][[Root Talent]]

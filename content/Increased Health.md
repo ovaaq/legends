@@ -22,4 +22,4 @@ Once gained, this increase to your [[Hit Point Maximum]] and your [[Hit Die]] do
 ---
 
 #talent #general #vitality
-[[Talent]][[General Talent]]
+[[Talent]][[General Talent]][[Root Talent]]

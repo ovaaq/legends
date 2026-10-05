@@ -19,4 +19,4 @@ This [[Talent]] can be taken once.
 ---
 
 #talent #martial #weapon
-[[Talent]][[Martial Talent]]
+[[Talent]][[Martial Talent]][[Root Talent]]

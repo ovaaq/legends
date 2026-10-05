@@ -1,5 +1,8 @@
 - [[Healer]]
   - [[Combat Stabilization]]
+  - [[Pain Suppression]]
+  - [[Remove Condition]]
+  - [[Help Injury]]
 
 -combat healing branch
 -resting benefits branch

@@ -13,4 +13,4 @@ This [[Talent]] can be taken 5 times.
 ---
 
 #talent #martial #evasion
-[[Talent]][[Martial Talent]]
+[[Talent]][[Martial Talent]][[Root Talent]]

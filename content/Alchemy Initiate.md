@@ -31,3 +31,5 @@ Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formul
 
 #talent #general
 [[Talent]]
+
+[[Root Talent]]

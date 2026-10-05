@@ -14,4 +14,4 @@ _Flavour text_.
 ---
 
 #talent #spiritual
-[[Talent]] [[Spiritual Talent]]
+[[Talent]] [[Spiritual Talent]][[Root Talent]]

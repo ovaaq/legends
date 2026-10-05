@@ -12,4 +12,4 @@ Increase one [[Attribute]] by 1.
 ---
 
 #talent #general
-[[Talent]][[General Talent]]
+[[Talent]][[General Talent]][[Root Talent]]

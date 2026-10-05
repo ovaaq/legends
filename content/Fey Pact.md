@@ -14,4 +14,4 @@ _Flavour text_.
 ---
 
 #talent #pact #archfey
-[[Talent]] [[Pact Talent]]
+[[Talent]] [[Pact Talent]][[Root Talent]]

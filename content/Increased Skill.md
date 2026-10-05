@@ -17,3 +17,4 @@ Choose one of the following:
 
 #talent #general
 [[Talent]][[General Talent]]
+[[Root Talent]]

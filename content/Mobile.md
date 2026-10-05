@@ -12,4 +12,4 @@ Increase your [[Walking Speed]] by 1 metre.
 ---
 
 #talent #general #mobility
-[[Talent]][[General Talent]]
+[[Talent]][[General Talent]][[Root Talent]]

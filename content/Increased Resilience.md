@@ -12,4 +12,4 @@ Increase [[Rank]] of the one [[Saving Throw]] by 1.
 ---
 
 #talent #general #resistance
-[[Talent]][[General Talent]]
+[[Talent]][[General Talent]][[Root Talent]]

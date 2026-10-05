@@ -1,3 +1,5 @@
+[[Martial Technique|Martial Techniques]] that focus on defence controlling enemies or limiting their options.
+
 | Protective Techniques                                                           | Execution                                                         | Stamina | Range     | Weapon                                                | Type                                                                      |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- | ------------------------------------------------------------------------- |
 | [[Crushing Grip.md\|Crushing Grip]]               | [[Free Action.md\|Free Action]]     | 1       | Melee     | None                                                  | [[Control Technique.md\|Control Technique]] |
