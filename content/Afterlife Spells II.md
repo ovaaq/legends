@@ -7,7 +7,28 @@ These spells are added to your [[Spiritual Spell List]]:
 
 ##### 2nd Level Spells
 
-- [[Hold Humanoid]]
+- [[Augury]]
+- [[Borrowed Knowledge]]
+- [[Darkness]]
+- [[Enthrall]]
+- [[Gentle Repose]]
+- [[Healing Spirit]]
+- [[Mind Spike]]
+- [[Phantasmal Force]]
+- [[See Invisibility]]
+- [[Shadow Blade]]
+- [[Wither and Bloom]]
+- [[Zone of Truth]]
+
+**Tree**:: [[Afterlife Talent Tree]]
+**Group**:: [[Spiritual Talent]]
+**Following**:: [[Afterlife Spells III]]
+
+---
+
+#talent
+[[Talent]]
+
 - [[Augury]]
 - [[Zone of Truth]]
 - [[Blink]]
@@ -28,12 +49,3 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Levitate]]
 - [[Gentle Repose]]
 - [[Blur]]
-
-**Tree**:: [[Afterlife Talent Tree]]
-**Group**:: [[Spiritual Talent]]
-**Following**:: [[Afterlife Spells III]]
-
----
-
-#talent
-[[Talent]]

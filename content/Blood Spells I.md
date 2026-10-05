@@ -6,7 +6,7 @@ _Flavour text_.
 Benefit.
 
 **Group**:: Innate
-**Following Abilities**::
+**Following**:: [[Blood Spells II]]
 
 ---
 
