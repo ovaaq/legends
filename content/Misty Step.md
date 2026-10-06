@@ -3,7 +3,6 @@ _[[1st Level Spell]]_
 **Casting**:: [[Action]]
 **Components**:: S
 **Mana**:: 1
-
 **Range**:: Self
 **Duration**:: Instantaneous
 
@@ -11,6 +10,8 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, the distance teleported increases by 2 metres. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Distortion Magic]]
+
 ---
 
-#spell #2nd [[Spell]]
+#spell #1st [[Spell]]

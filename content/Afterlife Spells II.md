@@ -16,7 +16,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Mind Spike]]
 - [[Phantasmal Force]]
 - [[See Invisibility]]
-- [[Shadow Blade]]
+- [[Pass Without Trace]]
 - [[Wither and Bloom]]
 - [[Zone of Truth]]
 
