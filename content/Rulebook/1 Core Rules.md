@@ -75,13 +75,13 @@ For example:
 
 [[Attack Roll]]
 
-**Weapon Attack Roll** = d20 + [[Strength]] / [[Precision]] + [[Martial Skill]] [[Rank]]
+**Weapon Attack Roll** = d20 + [[Strength]] / [[Precision]] + [[Martial]] [[Rank]]
 **Spell Attack Roll** = d20 + [[Sorcery]] + [[Spellcasting Skill]] [[Rank]]
 
 For example:
 
-- Hitting with Mace = d20 + 3([[Strength]]) + 2([[Martial Skill]] [[Rank]])
-- Stabbing with a Dagger = d20 + 2([[Precision]]) + 4([[Martial Skill]] [[Rank]])
+- Hitting with Mace = d20 + 3([[Strength]]) + 2([[Martial]] [[Rank]])
+- Stabbing with a Dagger = d20 + 2([[Precision]]) + 4([[Martial]] [[Rank]])
 - Casting Fire Bolt = d20 + 3([[Sorcery]]) + 2([[Spellcasting Skill]] [[Rank]])
 
 #### Critical Hit
