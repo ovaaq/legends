@@ -1,3 +1,0 @@
----
-
-#keyword #special_skill
