@@ -3,7 +3,7 @@
 
 _Flavour text_
 
-When your [[Attack Roll]] with [[Sword]] exceeds a target's [[Armour Class]] and [[Evasion Class]] by 5 or more, add your [[Martial Skill]] [[Rank]] to the [[Damage]] dealt.
+When your [[Attack Roll]] with [[Sword]] exceeds a target's [[Armour Class]] and [[Evasion Class]] by 5 or more, add your [[Martial]] [[Rank]] to the [[Damage]] dealt.
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]

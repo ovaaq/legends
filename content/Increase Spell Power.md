@@ -1,4 +1,4 @@
-**Requirements**:: [[Pact Spellcasting]]
+**Requirements**:: [[Pact Magic]]
 **Cost**:: 1 LP
 
 _Flavour text_.

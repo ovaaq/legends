@@ -1,4 +1,4 @@
-- [[Pact Spellcasting]]
+- [[Pact Magic]]
   - [[Pact Spellcasting Practice]]
   - [[Learn Pact Spell]]
   - [[Increase Spell Power]]

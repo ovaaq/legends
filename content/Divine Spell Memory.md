@@ -1,4 +1,4 @@
-**Requirements**:: [[Divine Spellcasting]]
+**Requirements**:: [[Divine Magic]]
 **Cost**:: 1 LP
 
 _Flavour text_.

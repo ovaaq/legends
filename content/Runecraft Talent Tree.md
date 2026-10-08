@@ -15,7 +15,7 @@
             - [[Runes VI]]
 
 **Theme**:: Inscribe runes to make them enchanted and powerful items.
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 
 ---
 

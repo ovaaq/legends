@@ -1,8 +1,8 @@
-[[Divine Spellcasting]]
-[[Arcane Spellcasting]]
-[[Pact Spellcasting]]
-[[Spiritual Spellcasting]]
-[[Innate Spellcasting]]
+[[Divine Magic]]
+[[Arcane Magic]]
+[[Pact Magic]]
+[[Spirit Magic]]
+[[Innate Magic]]
 
 ---
 

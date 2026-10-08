@@ -9,7 +9,7 @@ _Flavour text_.
 
 **Tree**:: [[Artifact Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[ar1]], [[aa1]], [[ap1]], [[Artifact Spells I]], [[Pact Spellcasting]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
+**Following**:: [[ar1]], [[aa1]], [[ap1]], [[Artifact Spells I]], [[Pact Magic]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
 
 ---
 

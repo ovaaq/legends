@@ -2,7 +2,7 @@
   - [[Vampiric Bite|Vampiric Bite]]
   - [[Heightened Senses|Heightened Senses]]
   - [[Vampiric Shapeshift|Vampiric Shapeshift]]
-  - [[Innate Spellcasting|Innate Spellcasting]]
+  - [[Innate Magic|Innate Magic]]
     - [[Innate Spellcasting Practice|Innate Spellcasting Practice]]
     - [[Learn Innate Spell|Learn Innate Spell]]
     - [[Innate Spells I|Innate Spells I]]

@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Spellcasting]]
+**Requirements**:: [[Arcane Magic]]
 **Cost**:: 2 LP
 
 _Warding is the branch of arcane study dedicated to protection and the mitigation of harm. Practitioners seek to understand how objects and creatures can better withstand damage and how to neutralize destructive spells before they manifest._

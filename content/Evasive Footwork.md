@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-**Effect**:: Your [[Evasion Class]] increases by your [[Martial Skill]] [[Rank]] until the start of your next [[Turn]].
+**Effect**:: Your [[Evasion Class]] increases by your [[Martial]] [[Rank]] until the start of your next [[Turn]].
 
 **Type**:: [[Defensive Technique]]
 

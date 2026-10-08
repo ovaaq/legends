@@ -1,11 +1,13 @@
-| Special Skills                                                                                  |
-| ----------------------------------------------------------------------------------------------- |
-| [[Arcane Spellcasting Skill.md\|Arcane Spellcasting Skill]]       |
-| [[Divine Spellcasting Skill.md\|Divine Spellcasting Skill]]       |
-| [[Innate Spellcasting Skill.md\|Innate Spellcasting Skill]]       |
-| [[Martial Skill.md\|Martial Skill]]                               |
-| [[Pact Spellcasting Skill.md\|Pact Spellcasting Skill]]           |
-| [[Spiritual Spellcasting Skill.md\|Spiritual Spellcasting Skill]] |
+| Special Skills                                                                      |
+| ----------------------------------------------------------------------------------- |
+| [[Alchemy.md\|Alchemy]]                               |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
+| [[Divine Spellcasting.md\|Divine Spellcasting]]       |
+| [[Innate Spellcasting.md\|Innate Spellcasting]]       |
+| [[Martial.md\|Martial]]                               |
+| [[Pact Spellcasting.md\|Pact Spellcasting]]           |
+| [[Runecraft.md\|Runecraft]]                           |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---
 

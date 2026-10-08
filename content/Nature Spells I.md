@@ -1,4 +1,4 @@
-**Requirements**:: [[Path of Nature]] & [[Spiritual Spellcasting]]
+**Requirements**:: [[Path of Nature]] & [[Spirit Magic]]
 **Cost**:: 1 LP
 
 _Flavour text_.

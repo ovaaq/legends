@@ -19,7 +19,7 @@ _Flavour text_.
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]
-**Following**:: [[Cure Sickness]], [[Faithful Strike]], [[Turn Unholy]], [[Divine Blessing]], [[Follower of Light]], [[Follower of Knowledge]], [[Follower of Harmony]]
+**Following**:: [[Cure Sickness]], [[Faithful Strike]], [[Turn Unholy]], [[Divine Blessing]], [[Follower of Light]], [[Follower of Knowledge]], [[Follower of Harmony]], [[Divine Magic]]
 
 ---
 

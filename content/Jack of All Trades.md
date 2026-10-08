@@ -1,4 +1,4 @@
-**Requirements**:: [[Increased Skill]]
+**Requirements**:: [[Skill Practice]]
 **Cost**:: 2 LP
 
 _Flavour text_.

@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When you miss a [[Creature]] with an [[Attack]]._
 
-**Effect**:: Add your [[Martial Skill]] [[Rank]] to the triggering [[Attack Roll]].
+**Effect**:: Add your [[Martial]] [[Rank]] to the triggering [[Attack Roll]].
 
 **Type**:: [[Offensive Technique]]
 

@@ -16,7 +16,7 @@ If you go longer than 7 days without feeding, your predatory instincts begin to 
 
 **Tree**:: [[Vampire Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[Vampiric Bite]], [[Heightened Senses]], [[Vampiric Shapeshift]], [[Innate Spellcasting]], [[Blood Spells I]]
+**Following**:: [[Vampiric Bite]], [[Heightened Senses]], [[Vampiric Shapeshift]], [[Innate Magic]], [[Blood Spells I]]
 
 ---
 

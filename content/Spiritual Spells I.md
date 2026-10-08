@@ -1,4 +1,4 @@
-**Requirements**:: [[Spiritual Spellcasting]]
+**Requirements**:: [[Spirit Magic]]
 **Cost**:: 4 LP
 
 _Flavour text_.

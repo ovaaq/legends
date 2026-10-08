@@ -4,4 +4,4 @@ Characters with high [[Intelligence]] gain the following benefits:
 
 - **Skills:** Add Intelligence to [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]] and [[Religion]] [[Check|Checks]].
 - **Saving Throw:** Add Intelligence to [[Intelligence Saving Throw|Intelligence Saving Throws]].
-- **Prepared Spells:** Increases the number of [[Prepared Spell|Prepared Spells]] in [[Arcane Spellcasting]], [[Divine Spellcasting]] and [[Spiritual Spellcasting]].
+- **Prepared Spells:** Increases the number of [[Prepared Spell|Prepared Spells]] in [[Arcane Magic]], [[Divine Magic]] and [[Spirit Magic]].

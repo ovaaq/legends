@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Spellcasting]], [[Divine Spellcasting]], [[Spiritual Spellcasting]], [[Innate Spellcasting]] or [[Pact Spellcasting]]
+**Requirements**:: [[Arcane Magic]], [[Divine Magic]], [[Spirit Magic]], [[Innate Magic]] or [[Pact Magic]]
 **Cost**:: 1 LP
 
 _Flavour text_.

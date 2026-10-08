@@ -9,7 +9,7 @@ _Flavour text_.
 
 **Tree**:: [[Archfey Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[fr1]], [[fa1]], [[fp1]], [[Fey Spells I]], [[Pact Spellcasting]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
+**Following**:: [[fr1]], [[fa1]], [[fp1]], [[Fey Spells I]], [[Pact Magic]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
 
 ---
 

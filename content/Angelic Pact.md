@@ -9,7 +9,7 @@ _Flavour text_.
 
 **Tree**:: [[Angelic Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[cr1]], [[ca1]], [[cp1]], [[Angelic Spells I]], [[Pact Spellcasting]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
+**Following**:: [[cr1]], [[ca1]], [[cp1]], [[Angelic Spells I]], [[Pact Magic]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
 
 ---
 

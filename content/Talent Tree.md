@@ -11,6 +11,12 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 - [[Warding Talent Tree|Warding Talent Tree]] - Arcane study of protection and warden.
 - [[Wildlore Talent Tree|Wildlore Talent Tree]] - Arcane study inspired to learn magic through magical beasts.
 
+### Crafting Talent Trees
+
+- [[Alchemy Talent Tree|Alchemy Talent Tree]] - Creation of potions and study of formulas.
+- [[Artificer Talent Tree|Artificer Talent Tree]] - Using harnessed arcane power you create machines or even constructs.
+- [[Runecraft Talent Tree|Runecraft Talent Tree]] - Inscribe runes to make them enchanted and powerful items.
+
 ### Divine Talent Trees
 
 - [[Divine Talent Tree|Divine Talent Tree]] - General divine talents.
@@ -21,7 +27,6 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 
 ### General Talent Trees
 
-- [[Alchemy Talent Tree|Alchemy Talent Tree]] - Creation of potions and study of formulas.
 - [[Capability Talent Tree|Capability Talent Tree]] - Increased skill and doing.
 - [[Haste Talent Tree|Haste Talent Tree]] - Extremely fast reactions and actions.
 - [[Healer Talent Tree|Healer Talent Tree]] - Healing others through normal means.
@@ -30,7 +35,6 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 - [[Mental Talent Tree|Mental Talent Tree]] - Mental use in highest level.
 - [[Mobility Talent Tree|Mobility Talent Tree]] - Fast movement and specialised skills to overcome obstacles.
 - [[Resistance Talent Tree|Resistance Talent Tree]] - Resisting harm and not succumbing to it.
-- [[Runecraft Talent Tree|Runecraft Talent Tree]] - Inscribe runes to make them enchanted and powerful items.
 - [[Vitality Talent Tree|Vitality Talent Tree]] - Increasing your own health, recovery and survival.
 
 ### Innate Talent Trees

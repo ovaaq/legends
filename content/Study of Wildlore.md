@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Spellcasting]]
+**Requirements**:: [[Arcane Magic]]
 **Cost**:: 2 LP
 
 _Lore._

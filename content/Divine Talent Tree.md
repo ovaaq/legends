@@ -1,5 +1,5 @@
 - [[Divine Acolyte]]
-  - [[Divine Spellcasting]]
+  - [[Divine Magic]]
     - [[Divine Spellcasting Practice]]
     - [[Divine Spell Memory]]
   - [[Cure Sickness]]

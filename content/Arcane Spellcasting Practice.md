@@ -1,9 +1,9 @@
-**Requirements**:: [[Arcane Spellcasting]]
+**Requirements**:: [[Arcane Magic]]
 **Cost**:: 2 LP
 
 _Flavour._
 
-Increase [[Rank]] of [[Arcane Spellcasting Skill]] by 1.
+Increase [[Rank]] of [[Arcane Spellcasting]] by 1.
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

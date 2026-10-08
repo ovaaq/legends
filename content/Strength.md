@@ -6,6 +6,6 @@ Characters with high [[Strength]] gain the following benefits:
 - **Saving Throw:** Add Strength to [[Strength Saving Throw|Strength Saving Throws]].
 - **Heavy Equipment:** Strength determines your ability to wield [[Heavy]] equipment like [[Weapon|Weapons]] and [[Armour]].
 - **Melee Combat:** Add Strength to [[Melee Weapon Attack|Melee Weapon Attacks]] and often to the [[Damage Roll|Damage Rolls]].
-- **Martial Techniques:** Your [[Martial Save DC]] equals 8 + your [[Martial Skill]] [[Rank]] + [[Strength]].
+- **Martial Techniques:** Your [[Martial Save DC]] equals 8 + your [[Martial]] [[Rank]] + [[Strength]].
 
 ![[Carrying Capacity]]

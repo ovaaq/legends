@@ -7,7 +7,7 @@ x
 
 **Tree**:: [[Mutant Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[mm1]], [[ma2]], [[mz1]], [[Innate Spellcasting]], [[Mutant Spells I]]
+**Following**:: [[mm1]], [[ma2]], [[mz1]], [[Innate Magic]], [[Mutant Spells I]]
 
 ---
 

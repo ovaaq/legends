@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Spellcasting]]
+**Requirements**:: [[Arcane Magic]]
 **Cost**:: 2 LP
 
 _Your inspiration from martial weaponry has lead to study of spellblade, branch of arcane study where  mana become extension of your arms._

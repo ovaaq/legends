@@ -1,6 +1,5 @@
 | Expert Skills                                                       |
 | ------------------------------------------------------------------- |
-| [[Alchemy.md\|Alchemy]]               |
 | [[Appraisal.md\|Appraisal]]           |
 | [[Arts.md\|Arts]]                     |
 | [[Brewing.md\|Brewing]]               |
@@ -22,7 +21,6 @@
 | [[Masonry.md\|Masonry]]               |
 | [[Military.md\|Military]]             |
 | [[Musicality.md\|Musicality]]         |
-| [[Runecraft.md\|Runecraft]]           |
 | [[Sailing.md\|Sailing]]               |
 | [[Smithing.md\|Smithing]]             |
 

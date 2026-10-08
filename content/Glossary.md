@@ -14,7 +14,7 @@
 | [[Ancestry.md\|Ancestry]]                                                         |
 | [[Arcana.md\|Arcana]]                                                             |
 | [[Arcane Spell List.md\|Arcane Spell List]]                                       |
-| [[Arcane Spellcasting Skill.md\|Arcane Spellcasting Skill]]                       |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]]                                   |
 | [[Armour.md\|Armour]]                                                             |
 | [[Armour Class.md\|Armour Class]]                                                 |
 | [[Armour Property.md\|Armour Property]]                                           |
@@ -91,7 +91,7 @@
 | [[Dismiss Spell.md\|Dismiss Spell]]                                               |
 | [[Distortion Magic.md\|Distortion Magic]]                                         |
 | [[Divine Spell List.md\|Divine Spell List]]                                       |
-| [[Divine Spellcasting Skill.md\|Divine Spellcasting Skill]]                       |
+| [[Divine Spellcasting.md\|Divine Spellcasting]]                                   |
 | [[Dodge.md\|Dodge]]                                                               |
 | [[Double Action.md\|Double Action]]                                               |
 | [[Drink Potion.md\|Drink Potion]]                                                 |
@@ -157,7 +157,7 @@
 | [[Inhaled Poison.md\|Inhaled Poison]]                                             |
 | [[Initiative Order.md\|Initiative Order]]                                         |
 | [[Innate Spell List.md\|Innate Spell List]]                                       |
-| [[Innate Spellcasting Skill.md\|Innate Spellcasting Skill]]                       |
+| [[Innate Spellcasting.md\|Innate Spellcasting]]                                   |
 | [[Inspect.md\|Inspect]]                                                           |
 | [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]                       |
 | [[Investigation.md\|Investigation]]                                               |
@@ -189,8 +189,8 @@
 | [[Magical Material.md\|Magical Material]]                                         |
 | [[Mana.md\|Mana]]                                                                 |
 | [[Mana Point Maximum.md\|Mana Point Maximum]]                                     |
+| [[Martial.md\|Martial]]                                                           |
 | [[Martial Save DC.md\|Martial Save DC]]                                           |
-| [[Martial Skill.md\|Martial Skill]]                                               |
 | [[Martial Technique.md\|Martial Technique]]                                       |
 | [[Medicine.md\|Medicine]]                                                         |
 | [[Medium.md\|Medium]]                                                             |
@@ -214,7 +214,7 @@
 | [[Offensive Action.md\|Offensive Action]]                                         |
 | [[Pack.md\|Pack]]                                                                 |
 | [[Pact Spell List.md\|Pact Spell List]]                                           |
-| [[Pact Spellcasting Skill.md\|Pact Spellcasting Skill]]                           |
+| [[Pact Spellcasting.md\|Pact Spellcasting]]                                       |
 | [[Paralyzed.md\|Paralyzed]]                                                       |
 | [[Passive Investigation.md\|Passive Investigation]]                               |
 | [[Penetrating.md\|Penetrating]]                                                   |
@@ -297,7 +297,7 @@
 | [[Spiked.md\|Spiked]]                                                             |
 | [[Spirit Point.md\|Spirit Point]]                                                 |
 | [[Spiritual Spell List.md\|Spiritual Spell List]]                                 |
-| [[Spiritual Spellcasting Skill.md\|Spiritual Spellcasting Skill]]                 |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]]                             |
 | [[Spiritual Talent.md\|Spiritual Talent]]                                         |
 | [[Sprint.md\|Sprint]]                                                             |
 | [[Stamina Point.md\|Stamina Point]]                                               |

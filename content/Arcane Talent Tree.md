@@ -1,4 +1,4 @@
-- [[Arcane Spellcasting]]
+- [[Arcane Magic]]
   - [[Arcane Spellcasting Practice]]
   - [[Learn Arcane Spell]]
   - [[Arcane Spell Memory]]

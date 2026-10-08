@@ -7,7 +7,7 @@ _The wild currents of magic swirl within you, restless and unpredictable. Each s
 
 **Tree**:: [[Wild Magic Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[Wild Magic Surge]], [[wa1]], [[Twisted Body]], [[Innate Spellcasting]], [[Wild Magic Spells I]]
+**Following**:: [[Wild Magic Surge]], [[wa1]], [[Twisted Body]], [[Innate Magic]], [[Wild Magic Spells I]]
 
 ---
 

@@ -23,7 +23,7 @@
             - [[Alchemical Formulas VI]]
 
 **Theme**:: Creation of potions and study of formulas.
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 
 ---
 

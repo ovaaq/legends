@@ -7,7 +7,7 @@ x
 
 **Tree**:: [[Psionic Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[mm1]], [[ma2]], [[mz1]], [[Innate Spellcasting]], [[Psionic Spells I]]
+**Following**:: [[mm1]], [[ma2]], [[mz1]], [[Innate Magic]], [[Psionic Spells I]]
 
 ---
 
