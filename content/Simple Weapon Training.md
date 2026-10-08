@@ -14,7 +14,7 @@ This [[Talent]] can be taken once.
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Advanced Weapon Training]], [[Martial Practice]], [[Fighting Stance Training]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
+**Following**:: [[Advanced Weapon Training]], [[Martial Practice]], [[Fighting Stances]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
 
 ---
 

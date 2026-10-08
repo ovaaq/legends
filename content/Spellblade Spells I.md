@@ -45,7 +45,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Protection from Spirits]]
 - [[Searing Blade]]
 - [[Shadow Blade]]
-- [[Shield]]
+- [[Deflect]]
 - [[Snare]]
 - [[Summon Weapon]]
 - [[Thunderous Smite]]

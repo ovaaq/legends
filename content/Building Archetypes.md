@@ -19,7 +19,7 @@ These are the martial masters that now how to use weapons and armour to the maxi
 - [[Simple Weapon Training]]
 - [[Advanced Weapon Training]]
 - [[Increased Health]]
-- [[Fighting Stance Training]]
+- [[Fighting Stances]]
 - [[Martial Techniques I]]
 - [[Increased Stamina]]
 - [[Extra Attack]]

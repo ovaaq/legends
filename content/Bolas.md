@@ -5,7 +5,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Weight**:: 1 kg
 **Cost**:: 2 gp
 **Category**:: [[Snare]]
-**Properties**:: [[Light]]. [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m)
+**Properties**:: [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m)
 **Damage**::
 
 Attacks with this weapon target only the [[Creature|Creature's]] [[Evasion Class]]. On a hit, a [[Medium]] or smaller creature becomes [[Restrained]]. [[Formless]] [[Creature|Creatures]] are [[Immune]] to this effect.

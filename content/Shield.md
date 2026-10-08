@@ -3,6 +3,7 @@
 [[Buckler]]
 [[Kite Shield]]
 [[Tower Shield]]
+[[Spiked Shield]]
 
 ---
 
