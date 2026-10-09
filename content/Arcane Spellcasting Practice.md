@@ -3,7 +3,7 @@
 
 _Flavour._
 
-Increase [[Rank]] of [[Arcane Spellcasting]] by 1.
+Increase [[Rank]] of [[Spellcraft]] by 1.
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

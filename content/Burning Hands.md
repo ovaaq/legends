@@ -24,7 +24,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 **LEVEL**: [[1st Level Spell]]
 **DURATION**: Instantaneous
 
-**EFFECT**: A thin sheet of flames shoots forth from you. Each [[Creature]] in a 6-meter [[Cone]] makes a [[Agility Saving Throw]], taking 3d6 [[Fire Damage]] damage on a failed save or half as much damage on a successful one.
+**EFFECT**: A thin sheet of flames shoots forth from you. Each [[Creature]] in a 6-meter [[Cone]] must make an [[Agility Saving Throw]], taking 3d6 [[Fire Damage]] damage on a failed save or half as much damage on a successful one.
 
 [[Flammable object|Flammable Objects]] in the [[Cone]] that aren’t being worn or carried start burning.
 

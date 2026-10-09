@@ -3,7 +3,6 @@ _[[1st Level Spell]]_
 **Casting**:: 1 minute
 **Components**:: F, V, S
 **Mana**:: 1
-
 **Range**:: 10 metres
 **Duration**:: 8 hours
 

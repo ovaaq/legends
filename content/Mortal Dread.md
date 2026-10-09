@@ -6,7 +6,7 @@ _[[Cantrip]]_
 **Range**:: 4 metres
 **Duration**:: Instant
 
-**Effect**:: You fill the target's mind with visions of death. Target one [[Creature]] you can see within range. Target makes [[Charisma Saving Throw]].
+**Effect**:: You fill the target's mind with visions of death. Target one [[Creature]] you can see within range. Target must make a [[Charisma Saving Throw]].
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d12 [[Psychic Damage]].

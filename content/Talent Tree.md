@@ -19,9 +19,12 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 
 ### Divine Talent Trees
 
+- [[Creation Talent Tree|Creation Talent Tree]] - Divine followers of Creation, combat and grace end.
+- [[Death Talent Tree|Death Talent Tree]] - Divine followers of Death, combat and grace end.
 - [[Divine Talent Tree|Divine Talent Tree]] - General divine talents.
 - [[Harmony Talent Tree|Harmony Talent Tree]] - Divine followers of harmony and balance.
 - [[Knowledge Talent Tree|Knowledge Talent Tree]] - Divine followers of knowledge and understanding.
+- [[Life Talent Tree|Life Talent Tree]] - Divine followers of Life, combat and grace end.
 - [[Light Talent Tree|Light Talent Tree]] - Divine followers of light and purity.
 - [[War Talent Tree|War Talent Tree]] - Divine followers of war, combat and grace end.
 

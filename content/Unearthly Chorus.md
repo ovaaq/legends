@@ -6,7 +6,7 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: [[Concentration]], 1 hour
 
-**Effect**:: You create music audible within range that moves with you. As an [[Action]], choose one [Creature](Creature) that can hear the music. It makes a [Charisma Saving Throw](Charisma%20Saving%20Throw). If you are fighting the target, it critically succeeds the [[Saving Throw]].
+**Effect**:: You create music audible within range that moves with you. As an [[Action]], choose one [Creature](Creature) that can hear the music. It must make a [Charisma Saving Throw](Charisma%20Saving%20Throw). If you are fighting the target, it critically succeeds the [[Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** The target becomes neutral toward you.

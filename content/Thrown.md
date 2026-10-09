@@ -3,9 +3,11 @@
 | [[Bolas.md\|Bolas]]               | [[Snare.md\|Snare]]           | -                                                  | -     | -                                         | [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m)                                           |
 | [[Dagger.md\|Dagger]]             | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[Dart.md\|Dart]]                 | [[Projectile.md\|Projectile]] | -                                                  | -     | -                                         | [[Finesse]], [[Light]], [[Ranged]] (1m / 2m), [[Thrown]]                                               |
+| [[Falchion.md\|Falchion]]         | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[Handaxe.md\|Handaxe]]           | [[Axe.md\|Axe]]               | -                                                  | -     | -                                         | [[Light.md\|Light]], [[Thrown.md\|Thrown]] |
 | [[Javelin.md\|Javelin]]           | [[Projectile.md\|Projectile]] | -                                                  | -     | -                                         | [[Heavy]] (1), [[Thrown]]                                                                              |
 | [[Light hammer.md\|Light hammer]] | [[Hammer.md\|Hammer]]         | -                                                  | -     | -                                         | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
+| [[Sabre.md\|Sabre]]               | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 
 ---
 

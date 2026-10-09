@@ -6,7 +6,7 @@ _[[1st Level Spell]]_
 **Range**:: 10 metres
 **Duration**:: 2d4 hours
 
-**Effect**:: Choose one [[Creature]] within range you can see. Target makes a [[Constitution Saving Throw]]. The [[Creature]] has [[Advantage]] on [[Saving Throw]] if its size is [[Huge]] or larger.
+**Effect**:: Choose one [[Creature]] within range you can see. Target makes a [[Constitution Saving Throw]]. The [[Creature]] has [[Advantage]] on [[Saving Throw]] if its fighting you or your allies.
 
 **Critical Success:** No effect.
 **Success:** The target is [[Drowsy]] for 1 hour.

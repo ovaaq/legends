@@ -6,7 +6,7 @@ _[[Cantrip]]_
 **Range**:: 4 metres
 **Duration**:: Instant
 
-**Effect**:: You conjure toxic substance towards your enemy. Choose one target you can see within range. Target makes [[Constitution Saving Throw]]:
+**Effect**:: You conjure toxic substance towards your enemy. Choose one target you can see within range. Target must make a [[Constitution Saving Throw]]:
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d12 [[Poison Damage]].

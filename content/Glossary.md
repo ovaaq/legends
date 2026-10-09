@@ -14,7 +14,6 @@
 | [[Ancestry.md\|Ancestry]]                                                         |
 | [[Arcana.md\|Arcana]]                                                             |
 | [[Arcane Spell List.md\|Arcane Spell List]]                                       |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]]                                   |
 | [[Armour.md\|Armour]]                                                             |
 | [[Armour Class.md\|Armour Class]]                                                 |
 | [[Armour Property.md\|Armour Property]]                                           |
@@ -294,6 +293,7 @@
 | [[Spellbook.md\|Spellbook]]                                                       |
 | [[Spellcasting.md\|Spellcasting]]                                                 |
 | [[Spellcasting Focus.md\|Spellcasting Focus]]                                     |
+| [[Spellcraft.md\|Spellcraft]]                                                     |
 | [[Spiked.md\|Spiked]]                                                             |
 | [[Spirit Point.md\|Spirit Point]]                                                 |
 | [[Spiritual Spell List.md\|Spiritual Spell List]]                                 |

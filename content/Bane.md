@@ -13,7 +13,7 @@ _[[1st Level Spell]]_
 **Failure:** The target gains 1d4 Bane Dice.
 **Critical Failure:** The target gains 1d6 Bane Dice.
 
-Whenever a target with Bane Die makes an [[Attack Roll]] or [[Saving Throw]], the target must subtract the Bane Dice from the [[Attack Roll]] or [[Saving Throw]].
+Whenever a target with Bane Die must make an [[Attack Roll]] or [[Saving Throw]], the target must subtract the Bane Dice from the [[Attack Roll]] or [[Saving Throw]].
 
 **Upcasting**:: For each additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
 

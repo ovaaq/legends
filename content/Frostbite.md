@@ -6,7 +6,7 @@ _[[Cantrip]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-**Effect**:: You freeze the air around your enemy. Choose one [[Creature]] you can see within range. Target makes [[Constitution Saving Throw]]:
+**Effect**:: You freeze the air around your enemy. Choose one [[Creature]] you can see within range. Target must make a [[Constitution Saving Throw]]:
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d10 [[Cold Damage]].

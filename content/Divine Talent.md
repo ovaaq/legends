@@ -6,8 +6,11 @@ Divine Talents are powers granted by deities. They provide strength and abilitie
 
 | Sub Talent Trees                                                                  |
 | --------------------------------------------------------------------------------- |
+| [[Creation Talent Tree.md\|Creation Talent Tree]]   |
+| [[Death Talent Tree.md\|Death Talent Tree]]         |
 | [[Harmony Talent Tree.md\|Harmony Talent Tree]]     |
 | [[Knowledge Talent Tree.md\|Knowledge Talent Tree]] |
+| [[Life Talent Tree.md\|Life Talent Tree]]           |
 | [[Light Talent Tree.md\|Light Talent Tree]]         |
 | [[War Talent Tree.md\|War Talent Tree]]             |
 

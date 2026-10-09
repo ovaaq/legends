@@ -3,7 +3,7 @@
 
 _You're a wizard._
 
-Increase [[Rank]] of [[Arcane Spellcasting]] by 1.
+Increase [[Rank]] of [[Spellcraft]] by 1.
 
 These spells are added to your [[Arcane Spell List]]:
 
@@ -55,17 +55,17 @@ These spells are added to your [[Arcane Spell List]]:
 
 **Spellbook.** You gain [[Spellbook]], which is used to record your spells. Select four [[Cantrip|Cantrips]] and two [[1st Level Spell|1st Level Spells]] from your [[Arcane Spell List]] and add them to your [[Spellbook]].
 
-**Preparing Spells.** You can prepare spells after completing a [[Long Rest]] or spending 2 hours studying your spellbook. When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Arcane Spellcasting]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]] or spending 2 hours studying your spellbook. When preparing spells, choose a number of spells from your [[Spellbook]] equal to 2 + [[Spellcraft]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Arcane Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
-> Number of Prepared Arcane Spells = 2 + [[Arcane Spellcasting]] [[Rank]] + [[Intelligence]]
+> Number of Prepared Arcane Spells = 2 + [[Spellcraft]] [[Rank]] + [[Intelligence]]
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
 **Casting Spells.** You can cast any spell listed in your [[Prepared Arcane Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Arcane Spellcasting]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Arcane Spellcasting]] [[Rank]] + [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Spellcraft]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Spellcraft]] [[Rank]] + [[Sorcery]]
 
 **Ritual Casting.** You can also cast any spell from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
 

@@ -10,7 +10,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Augury]]
 - [[Borrowed Knowledge]]
 - [[Darkness]]
-- [[Enthrall]]
+- [[Enthral]]
 - [[Gentle Repose]]
 - [[Healing Spirit]]
 - [[Mind Spike]]

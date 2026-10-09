@@ -1,16 +1,23 @@
 _[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, S
 **Mana**:: 1
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: 1 hour
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: You manipulate the emotions of [[Creature|Creatures]] within a 3-metre-radius sphere centred on a point you can see within range. Each [[Creature]] in the area must make a [[Charisma Saving Throw]]. Choose one of the following effects when you cast the spell:
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Soothe.** The target's emotions become calmer, reducing agitation, fear, and hostility.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Riot.** The target's emotions intensify, increasing irritation, anger, and aggression.
+
+**Critical Success:** The target is unaffected.
+**Success:** The target experiences a mild emotional shift for 1 minute.
+**Failure:** The target experiences a strong emotional shift for the duration.
+**Critical Failure:** The target experiences an overwhelming emotional shift for the duration.
+
+**Upcasting**:: For each additional mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Enchantment Magic]]
 

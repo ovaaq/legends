@@ -12,6 +12,7 @@
 | [[Aurora Burst.md\|Aurora Burst]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
 | [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
+| [[Borrowed Knowledge.md\|Borrowed Knowledge]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                                                   |
 | [[Burning Hands.md\|Burning Hands]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres    | Instantaneous                                                                                           |
 | [[Charm Person.md\|Charm Person]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                                                  |
@@ -30,10 +31,12 @@
 | [[Empathetic Connection.md\|Empathetic Connection]]     | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                                 |
 | [[Ensnairing Strike.md\|Ensnairing Strike]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres    | Instant                                                                                                 |
 | [[Entangle.md\|Entangle]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
+| [[Enthral.md\|Enthral]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                                                   |
 | [[Faerie Fire.md\|Faerie Fire]]                         | -                                                                | -          | \*\* 2 | \*\* 20 meters | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Feather Fall.md\|Feather Fall]]                       | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres    | 10 minutes                                                                                              |
 | [[Fog Cloud.md\|Fog Cloud]]                             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 40 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 hour</li></ul>     |
 | [[Frost Armour.md\|Frost Armour]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 hour                                                                                                  |
+| [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                                                   |
 | [[Grease.md\|Grease]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres    | 1 minute                                                                                                |
 | [[Grow bush spell.md\|Grow bush spell]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
 | [[Guidance.md\|Guidance]]                               | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch        | 8 hours                                                                                                 |
@@ -46,7 +49,7 @@
 | [[Hold Beast.md\|Hold Beast]]                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Hold Humanoid.md\|Hold Humanoid]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | Concentration, up to 1 minute                                                                           |
 | [[Inflict Wounds.md\|Inflict Wounds]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch        | Instant                                                                                                 |
-| [[Influence Emotion.md\|Influence Emotion]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres    | Instantaneous                                                                                           |
+| [[Influence Emotion.md\|Influence Emotion]]             | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 20 metres    | 1 hour                                                                                                  |
 | [[Longstrider.md\|Longstrider]]                         | [[Action.md\|Action]]               | F, V, S     | 1    | Touch        | 1 hour                                                                                                  |
 | [[Mage Armour.md\|Mage Armour]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch        | 8 hours                                                                                                 |
 | [[Magic Missile.md\|Magic Missile]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 40 metres    | Instantaneous                                                                                           |
@@ -78,6 +81,7 @@
 | [[Unearthly Chorus.md\|Unearthly Chorus]]               | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres    | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 hour</li></ul>     |
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                                                  |
 | [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                                           |
+| [[Wither and Bloom.md\|Wither and Bloom]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                                                   |
 
 [[Empathetic Connection]], two c
 [[Shared Health]]

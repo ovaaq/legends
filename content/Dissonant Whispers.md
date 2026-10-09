@@ -6,7 +6,7 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-**Effect**:: Choose one [[Creature]] within range that can hear you. The target makes a [[Charisma Saving Throw]].
+**Effect**:: Choose one [[Creature]] within range that can hear you. The target must make a [[Charisma Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** A target takes half damage.
