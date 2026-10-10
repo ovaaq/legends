@@ -2,10 +2,9 @@ _[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
-**Mana**:: 2
-
+**Mana**:: 1
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. One dart deals 1d4 + 1 [[Piercing Damage]] to its target. Make all [[Damage Roll|Damage Rolls]] separately. The darts all strike simultaneously and you can direct them to hit one creature or several.
 

@@ -4,7 +4,7 @@ _[[1st Level Spell]]_
 **Components**:: F, V, S
 **Mana**:: 1
 **Range**:: 4 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: Choose one [[Non-magical]] [[Object]] you can see within range that satisfies all of the following conditions:
 

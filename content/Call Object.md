@@ -3,9 +3,8 @@ _[[1st Level Spell]]_
 **Casting**:: [[Double Action]]
 **Components**:: V, S
 **Mana**:: 1
-
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You speak the name of an object within range. If an object matching that name is present and is not being worn, stuck or carried, it flies through the air and lands in your open hand.
 

@@ -4,7 +4,7 @@ _[[1st Level Spell]]_
 **Components**:: V
 **Mana**:: 1
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: Choose a [[Creature]] within range that you can hear you. The target regains [[Hit Point|Hit Points]] equal to 1d4 + [[Sorcery]].
 

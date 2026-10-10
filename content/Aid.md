@@ -2,10 +2,9 @@ _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
-**Mana**:: 0
-
+**Mana**:: 2
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*100 grams of [[Gold Dust]], consumed by the spell_
 

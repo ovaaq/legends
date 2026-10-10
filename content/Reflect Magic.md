@@ -2,8 +2,7 @@ _[[4th Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
-**Mana**:: 0
-
+**Mana**:: 4
 **Range**:: 20 metres
 **Duration**:: Instantaneous
 

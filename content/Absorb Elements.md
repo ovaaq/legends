@@ -3,9 +3,8 @@ _[[1st Level Spell]]_
 **Casting**:: [[Reaction]]\*
 **Components**:: F, S
 **Mana**:: 1
-
 **Range**:: 4 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*When a [[Creature]] you can see within range takes [[Elemental Damage]]._
 

@@ -3,9 +3,8 @@ _[[1st Level Spell]]_
 **Casting**:: [[Double Action]]
 **Components**:: V, S, M\*
 **Mana**:: 1
-
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*[[Crystal Ball]]_
 

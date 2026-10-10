@@ -2,10 +2,9 @@ _[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
-**Mana**:: 0
-
+**Mana**:: 1
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: For the duration, you sense the location of any [[Celestial]], [[Elemental]], [[Fey]] or [[Fiend]] within 12 meters of yourself. You also sense whether the [[Hallow]] or [[Desecrate]] spell is active there and, if so, where.
 

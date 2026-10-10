@@ -4,7 +4,7 @@ _[[1st Level Spell]]_
 **Components**:: F, V, S, M\*
 **Mana**:: 1
 **Range**:: 2 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*One gram of [[Incense]] consumed by the spell._
 

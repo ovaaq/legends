@@ -2,7 +2,7 @@ _[[4th Level Spell]]_
 
 **Casting**:: **▶▶▶⚡〇**
 **Components**:: F, V, S, M\*
-**Mana**:: 0
+**Mana**:: 4
 **Range**:: 20 metres
 **Duration**:: Instant
 

@@ -4,7 +4,7 @@ _[[1st Level Spell]]_
 **Components**:: F, V, S
 **Mana**:: 1
 **Range**:: Touch
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: A [[Creature]] you touch regains a number of [[Hit Point|Hit Points]] equal to 2d8 + [[Sorcery]].
 

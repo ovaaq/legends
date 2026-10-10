@@ -3,9 +3,8 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 1
-
 **Range**:: 20 metres
-**Duration**:: Concentration, up to 1 minute
+**Duration**:: [[Concentration]], 1 minute
 
 **Effect**:: Choose a [[Humanoid]] that you can see within range. The target must make a [[Charisma Saving Throw]]:
 
