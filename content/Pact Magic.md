@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Pact Spellcasting]] by 1.
+Increase [[Rank]] of [[Invocation]] by 1.
 
 These spells are added to your [[Innate Spell List]]:
 
@@ -21,8 +21,8 @@ These spells are added to your [[Innate Spell List]]:
 
 **Casting Spells.** You can cast any spell listed in your [[Learned Pact Spells]] list.
 
-**[[Spell Save DC]]** = 10 + [[Pact Spellcasting]] [[Rank]]
-**[[Spell Attack Modifier]]** = [[Pact Spellcasting]] [[Rank]] + 2
+**[[Spell Save DC]]** = 10 + [[Invocation]] [[Rank]]
+**[[Spell Attack Modifier]]** = [[Invocation]] [[Rank]] + 2
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]

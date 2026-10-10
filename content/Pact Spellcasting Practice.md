@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Pact Spellcasting]] by 1.
+Increase [[Rank]] of [[Invocation]] by 1.
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]

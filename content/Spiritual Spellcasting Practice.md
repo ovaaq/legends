@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Spiritual Spellcasting]] by 1.
+Increase [[Rank]] of [[Channelling]] by 1.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -3,7 +3,7 @@
 
 _Flavour text._
 
-Increase [[Rank]] of [[Spiritual Spellcasting]] by 1.
+Increase [[Rank]] of [[Channelling]] by 1.
 
 These spells are added to your [[Spiritual Spell List]]:
 
@@ -24,17 +24,17 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Unseen Servant]]
 - [[Detect Magic]]
 
-**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to 1 + [[Spiritual Spellcasting]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Spiritual Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to 1 + [[Channelling]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Spiritual Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
-> Number of Prepared Spiritual Spells = 1 + [[Spiritual Spellcasting]] [[Rank]] + [[Intelligence]]
+> Number of Prepared Spiritual Spells = 1 + [[Channelling]] [[Rank]] + [[Intelligence]]
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
 **Casting Spells.** You can cast any spell listed in your [[Prepared Spiritual Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Spiritual Spellcasting]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Spiritual Spellcasting]] [[Rank]] + [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Channelling]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Channelling]] [[Rank]] + [[Sorcery]]
 
 **Ritual Casting.** You can also cast any spell from your [[Spiritual Spell List]] as a ritual. Doing so increases the casting time by 10 minutes.
 

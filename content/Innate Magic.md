@@ -3,7 +3,7 @@
 
 _Magic flows in your blood._
 
-Increase [[Rank]] of [[Innate Spellcasting]] by 1.
+Increase [[Rank]] of [[Instinct]] by 1.
 
 These spells are added to your [[Innate Spell List]]:
 
@@ -33,8 +33,8 @@ These spells are added to your [[Innate Spell List]]:
 
 **Casting Spells.** You can cast any spell listed in your [[Learned Innate Spells]] list.
 
-**[[Spell Save DC]]** = 8 + [[Innate Spellcasting]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Innate Spellcasting]] [[Rank]] + [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Instinct]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Instinct]] [[Rank]] + [[Sorcery]]
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]

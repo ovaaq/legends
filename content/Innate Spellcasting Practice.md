@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Innate Spellcasting]] by 1.
+Increase [[Rank]] of [[Instinct]] by 1.
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]

@@ -35,6 +35,7 @@
 | [[Camp Action.md\|Camp Action]]                                                   |
 | [[Cantrip.md\|Cantrip]]                                                           |
 | [[Carry.md\|Carry]]                                                               |
+| [[Channelling.md\|Channelling]]                                                   |
 | [[Character Sheet.md\|Character Sheet]]                                           |
 | [[Charisma Saving Throw.md\|Charisma Saving Throw]]                               |
 | [[Charmed.md\|Charmed]]                                                           |
@@ -90,7 +91,6 @@
 | [[Dismiss Spell.md\|Dismiss Spell]]                                               |
 | [[Distortion Magic.md\|Distortion Magic]]                                         |
 | [[Divine Spell List.md\|Divine Spell List]]                                       |
-| [[Divine Spellcasting.md\|Divine Spellcasting]]                                   |
 | [[Dodge.md\|Dodge]]                                                               |
 | [[Double Action.md\|Double Action]]                                               |
 | [[Drink Potion.md\|Drink Potion]]                                                 |
@@ -156,11 +156,12 @@
 | [[Inhaled Poison.md\|Inhaled Poison]]                                             |
 | [[Initiative Order.md\|Initiative Order]]                                         |
 | [[Innate Spell List.md\|Innate Spell List]]                                       |
-| [[Innate Spellcasting.md\|Innate Spellcasting]]                                   |
 | [[Inspect.md\|Inspect]]                                                           |
+| [[Instinct.md\|Instinct]]                                                         |
 | [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]                       |
 | [[Investigation.md\|Investigation]]                                               |
 | [[Invisible.md\|Invisible]]                                                       |
+| [[Invocation.md\|Invocation]]                                                     |
 | [[Jump.md\|Jump]]                                                                 |
 | [[Keep Watch.md\|Keep Watch]]                                                     |
 | [[Known Spell.md\|Known Spell]]                                                   |
@@ -213,7 +214,6 @@
 | [[Offensive Action.md\|Offensive Action]]                                         |
 | [[Pack.md\|Pack]]                                                                 |
 | [[Pact Spell List.md\|Pact Spell List]]                                           |
-| [[Pact Spellcasting.md\|Pact Spellcasting]]                                       |
 | [[Paralyzed.md\|Paralyzed]]                                                       |
 | [[Passive Investigation.md\|Passive Investigation]]                               |
 | [[Penetrating.md\|Penetrating]]                                                   |
@@ -228,6 +228,7 @@
 | [[Polearm.md\|Polearm]]                                                           |
 | [[Possessed.md\|Possessed]]                                                       |
 | [[Potion.md\|Potion]]                                                             |
+| [[Prayer.md\|Prayer]]                                                             |
 | [[Prepare.md\|Prepare]]                                                           |
 | [[Prepared Spell.md\|Prepared Spell]]                                             |
 | [[Preservation Magic.md\|Preservation Magic]]                                     |
@@ -297,7 +298,6 @@
 | [[Spiked.md\|Spiked]]                                                             |
 | [[Spirit Point.md\|Spirit Point]]                                                 |
 | [[Spiritual Spell List.md\|Spiritual Spell List]]                                 |
-| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]]                             |
 | [[Spiritual Talent.md\|Spiritual Talent]]                                         |
 | [[Sprint.md\|Sprint]]                                                             |
 | [[Stamina Point.md\|Stamina Point]]                                               |

@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Divine Spellcasting]] by 1.
+Increase [[Rank]] of [[Prayer]] by 1.
 
 These spells are added to your [[Divine Spell List]]:
 
@@ -24,17 +24,17 @@ These spells are added to your [[Divine Spell List]]:
 - [[Healing Word]]
 - [[Detect Undead]]
 
-**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to 1 + [[Divine Spellcasting]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Divine Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Divine Spell List]] equal to 1 + [[Prayer]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Divine Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 > [!info] Prepared Spells
-> Number of Prepared Divine Spells = 1 + [[Divine Spellcasting]] [[Rank]] + [[Intelligence]]
+> Number of Prepared Divine Spells = 1 + [[Prayer]] [[Rank]] + [[Intelligence]]
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
 **Casting Spells.** You can cast any spell listed in your [[Prepared Divine Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Divine Spellcasting]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Divine Spellcasting]] [[Rank]] + [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Prayer]] [[Rank]] + [[Sorcery]]
+**[[Spell Attack Modifier]]** = [[Prayer]] [[Rank]] + [[Sorcery]]
 
 **Holy Symbol.** You can use a one handed [[Holy Symbol]] as a [[Simple Focus]] for your spellcasting, or or two handed [[Staff]] with [[Holy Symbol]] as an [[Advanced Focus]].
 
