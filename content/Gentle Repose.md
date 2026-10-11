@@ -1,16 +1,18 @@
 _[[1st Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S
+**Components**:: F, V, S, M\*
 **Mana**:: 1
-**Range**:: 20 metres
-**Duration**:: 24 hours
+**Range**:: Touch
+**Duration**:: Permanent
 
-**Effect**:: Target a [[Natural Beast]] that you can see within range. The target must succeed on a [[Charisma Saving Throw]] or have the [[Charmed]] condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
+_\*1 gram of [[Topaz Dust]], consumed by the spell._
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Natural Beast]]. You can upcast the spell with a maximum of 3 extra mana.
+**Effect**:: You touch a corpse or other remains. For the duration, the target is protected from decay and can't become [[Undead]].
 
-**Type**:: [[Enchantment Magic]]
+**Upcasting**:: For each additional mana spent, you can target one additional corpse. You can upcast the spell with a maximum of 3 extra mana.
+
+**Type**:: [[Warding Magic]]
 
 ---
 

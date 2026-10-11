@@ -12,7 +12,7 @@
 | [[Aurora Burst.md\|Aurora Burst]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                       |
 | [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres    | [[Concentration.md\|Concentration]], 1 minute   |
-| [[Borrowed Knowledge.md\|Borrowed Knowledge]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                         |
+| [[Borrowed Knowledge.md\|Borrowed Knowledge]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 day                                                                         |
 | [[Burning Hands.md\|Burning Hands]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres    | Instant                                                                       |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres    | Instant                                                                       |
 | [[Charm Person.md\|Charm Person]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                        |
@@ -36,7 +36,7 @@
 | [[Feather Fall.md\|Feather Fall]]                       | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres    | 10 minutes                                                                    |
 | [[Fog Cloud.md\|Fog Cloud]]                             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 40 metres    | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Frost Armour.md\|Frost Armour]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 hour                                                                        |
-| [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                         |
+| [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | Touch        | Permanent                                                                     |
 | [[Grease.md\|Grease]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres    | 1 minute                                                                      |
 | [[Grow bush spell.md\|Grow bush spell]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                 |
 | [[Guidance.md\|Guidance]]                               | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch        | 8 hours                                                                       |
@@ -68,7 +68,7 @@
 | [[Shield of Faith.md\|Shield of Faith]]                 | [[Double Action.md\|Double Action]] | V           | 1    | 20 metres    | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Silent Image.md\|Silent Image]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 10 minutes                                                                    |
 | [[Skywrite.md\|Skywrite]]                               | 10 minutes                                                        | F, S        | 1    | Sight        | 1 day                                                                         |
-| [[Sleep.md\|Sleep]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres    | 2 days, 4 hours                                                               |
+| [[Sleep.md\|Sleep]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres    | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Speak with Animals.md\|Speak with Animals]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres    | Instant                                                                       |
 | [[Summon Familiar.md\|Summon Familiar]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 2 metres     | Instant                                                                       |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres     | [[Concentration.md\|Concentration]], 10 minutes |
@@ -81,7 +81,7 @@
 | [[Unearthly Chorus.md\|Unearthly Chorus]]               | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                        |
 | [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                 |
-| [[Wither and Bloom.md\|Wither and Bloom]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                         |
+| [[Wither and Bloom.md\|Wither and Bloom]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres    | Instant                                                                       |
 
 [[Empathetic Connection]], two c
 [[Shared Health]]

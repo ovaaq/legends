@@ -3,12 +3,12 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 1
-**Range**:: 20 metres
+**Range**:: Self
 **Duration**:: 24 hours
 
-**Effect**:: Target a [[Natural Beast]] that you can see within range. The target must succeed on a [[Charisma Saving Throw]] or have the [[Charmed]] condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
+**Effect**:: You draw upon the knowledge of spirits from ages past. Choose one [[General Skill]] or [[Expert Skill]]. For the duration, your [[Rank]] in the chosen [[Skill]] becomes 2. The spell ends early if you cast it again.
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Natural Beast]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, your [[Rank]] in the chosen [[Skill]] increases by 1. You can spend a maximum of 3 additional mana on this spell.
 
 **Type**:: [[Enchantment Magic]]
 

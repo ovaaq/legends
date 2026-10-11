@@ -1,4 +1,5 @@
 - [[Alchemy Initiate]]
+  - [[Alchemy Practice]]
   - [[Learn Alchemical Formulas]]
     - [[Safety Measures]]
       - [[Improved Yield]]

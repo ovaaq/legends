@@ -227,6 +227,7 @@
 | [[Smithing Tools]]       |        |       |             |
 | [[Thieves' Tools]]       |        |       |             |
 | [[Scribe’s Supplies]]    |        |       |             |
+| [[Divination Tools]]      |        |       |             |
 
 ---
 

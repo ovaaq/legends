@@ -1,17 +1,16 @@
 _[[2nd Level Spell]]_
 
-**Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
-**Mana**:: 0
+**Casting**:: [[Double Action]]
+**Components**:: F, V, S
+**Mana**:: 2
+**Range**:: Self
+**Duration**:: [[Concentration]], 1 hour
 
-**Range**:: 20 metres
-**Duration**:: Instantaneous
+**Effect**:: A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each [[Creature]] you choose within 4 metres of you has a +5 bonus to [[Stealth]] [[Check|Checks]] and can’t be tracked except by magical means. A [[Creature]] that receives this bonus leaves behind no tracks or other traces of its passage.
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Upcasting**:: For each additional mana spent, the bonus increases by 1. You can upcast the spell with a maximum of 3 extra mana.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
-
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Type**:: [[Projection Magic]]
 
 ---
 

@@ -3,14 +3,21 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 1
-**Range**:: 20 metres
-**Duration**:: 24 hours
+**Range**:: 10 metres
+**Duration**:: Instant
 
-**Effect**:: Target a [[Natural Beast]] that you can see within range. The target must succeed on a [[Charisma Saving Throw]] or have the [[Charmed]] condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
+**Effect**:: You create a 2-metre-radius [[Sphere]] centred on a point within range. [[Non-magical]] vegetation in that area withers. Each [[Creature]] of your choice in that area must make a [[Constitution Saving Throw]]
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Natural Beast]]. You can upcast the spell with a maximum of 3 extra mana.
+**Critical Success:** No effect.
+**Success:** A target takes half damage.
+**Failure:** A target takes 1d8 [[Necrotic Damage]].
+**Critical Failure:** A target takes double damage.
 
-**Type**:: [[Enchantment Magic]]
+In addition, one [[Creature]] of your choice in that area regains [[Hit Point|Hit Points]] equalling half the total damage dealt.
+
+**Upcasting**:: For each additional two mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 4 extra mana.
+
+**Type**:: [[Distortion Magic]]
 
 ---
 

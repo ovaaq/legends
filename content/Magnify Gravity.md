@@ -10,10 +10,10 @@ _[[1st Level Spell]]_
 
 **Critical Success:** No effect.
 **Success:** A target takes half damage.
-**Failure:** A target takes takes 1d6 [[Bludgeoning Damage]] and falls [[Prone]].
+**Failure:** A target takes 1d6 [[Bludgeoning Damage]] and falls [[Prone]].
 **Critical Failure:** A target takes double damage, falls [[Prone]], and its [[Walking Speed]] becomes 0 until the spell ends.
 
-**Upcasting**:: For each additional two mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each additional 2 mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 4 extra mana.
 
 ---
 

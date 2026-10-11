@@ -6,11 +6,11 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: 1 hour
 
-**Effect**:: One [[Humanoid]] you can see within range must make a [[Charisma Saving Throw]]. It does so with [[Advantage]] if you or your allies are fighting it.
+**Effect**:: Choose one [[Humanoid]] you can see within range. The target must make a [[Charisma Saving Throw]]. It makes this save with [[Advantage]] if you or your allies are fighting it.
 
-On a failed save, the target has the [[Charmed]] condition until the spell ends or until you or your allies damage it.
+On a failed save, the target gains the [[Charmed]] condition for the duration. The spell ends early if you or your allies damage the target.
 
-The [[Charmed]] creature is [[Friendly]] to you. When the spell ends, the target knows it was [[Charmed]] by you.
+While [[Charmed]] by this spell, the target is [[Friendly]] toward you. When the spell ends, the target knows it was [[Charmed]] by you.
 
 **Upcasting**:: For each additional mana spent, you can target one additional [[Humanoid]]. You can upcast the spell with a maximum of 3 extra mana.
 
