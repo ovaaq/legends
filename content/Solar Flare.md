@@ -6,7 +6,7 @@ _[[Cantrip]]_
 **Range**:: 4 metres
 **Duration**:: Instant
 
-**Effect**:: A blinding light shoots forth from your palm. Each [[Creature]] in a 4-metre [[Cone]] must make a [[Constitution Saving Throw]]:
+**Effect**:: A blinding light shoots forth from your palm. Each [[Creature]] in a 4-metre [[Cone]] must make a [[Constitution Saving Throw]].
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d4 [[Fire Damage]].

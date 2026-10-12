@@ -5,7 +5,8 @@ _Flavour text_.
 
 x
 
-**Group**:: Pact
+**Tree**:: [[Angelic Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**::
 
 ---

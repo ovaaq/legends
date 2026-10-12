@@ -6,7 +6,8 @@ _Flavour text_.
 Benefit.
 [[3rd Level Ki Technique]]
 
-**Group**:: Martial
+**Tree**:: [[Ki Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**::
 
 ---

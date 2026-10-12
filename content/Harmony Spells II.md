@@ -1,9 +1,24 @@
 **Requirements**:: [[Harmony Spells I]]
-**Cost**:: 1 LP
+**Cost**:: 4 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Divine Spell List]].
+
+##### 2nd Level Spells
+
+- [[Aid]]
+- [[Detect Thoughts]]
+- [[Healing Spirit]]
+- [[Magic Fruit]]
+- [[Prayer of Healing]]
+- [[Silence]]
+- [[Suggestion]]
+- [[Zone of Truth]]
+- [[Negate Strike]]
+- [[Enthral]]
+- [[Hold Humanoid]]
+- [[Lesser Restoration]]
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]

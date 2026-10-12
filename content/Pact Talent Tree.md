@@ -1,5 +1,5 @@
 - [[Pact Magic]]
-  - [[Pact Spellcasting Practice]]
+  - [[Invocation Practice]]
   - [[Learn Pact Spell]]
   - [[Increase Spell Power]]
   - [[Increase Spell Slots]]

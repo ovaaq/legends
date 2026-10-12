@@ -5,8 +5,9 @@ _Flavour text_.
 
 Benefit.
 
-**Group**::
-**Following**::
+**Tree**:: [[Beast Talent Tree]]
+**Group**:: [[Spiritual Talent]]
+**Following**:: [[Beast Spells IV]]
 
 ---
 

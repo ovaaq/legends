@@ -1,0 +1,14 @@
+**Requirements**:: [[Vampire Spells IV]]
+**Cost**:: 1 LP
+
+_Flavour text_.
+
+Benefit.
+
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**:: [[Vampire Spells VI]]
+
+---
+
+#talent #innate #vampire

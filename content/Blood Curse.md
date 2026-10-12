@@ -12,8 +12,9 @@ _You don’t just cut them. You teach their blood how to escape._
 **Failure:** The creature gains [[Bleeding]] (3).
 **Critical Failure:** The creature gains [[Bleeding]] (3) and is [[Stunned]] for 1 round.
 
-**Group**:: Innate
-**Following Abilities**::
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**::
 
 ---
 

@@ -1,9 +1,24 @@
 **Requirements**:: [[Afterlife Spells II]]
-**Cost**:: 1 LP
+**Cost**:: 4 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]]:
+
+##### 3rd Level Spells
+
+- [[Speak with Dead]]
+- [[Spirit Guardians]]
+- [[Animate Dead]]
+- [[Life Steal]]
+- [[Remove Curse]]
+- [[Fear]]
+- [[Revivify]]
+- [[Phantom Steed]]
+- [[Major Image]]
+- [[Bestow Curse]]
+- [[Feign Death]]
+-
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

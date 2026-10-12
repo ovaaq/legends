@@ -12,7 +12,7 @@ If the point you choose is on an object you are holding or one that isn't being 
 
 If any of this spell's area overlaps with an area of light created by a [[Spell]] of 2nd level or lower, the spell that created the light is dispelled.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Projection Magic]]
 

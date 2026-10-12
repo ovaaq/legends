@@ -7,7 +7,8 @@ _Flavour text_.
 
 **Predator's Vision.** You gain darkvision X.
 
-**Group**:: Innate
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following Abilities**:: [[Bat Form]]
 
 ---

@@ -5,8 +5,9 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Spiritual
-**Following**::
+**Tree**:: [[Nature Talent Tree]]
+**Group**:: [[Spiritual Talent]]
+**Following**:: [[Nature Spells VI]]
 
 ---
 

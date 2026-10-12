@@ -40,7 +40,7 @@ These spells are added to your [[Spiritual Spell List]]:
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Spiritual Spellcasting Practice]], [[Spiritual Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+**Following**:: [[Channelling Practice]], [[Spiritual Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
 
 ---
 

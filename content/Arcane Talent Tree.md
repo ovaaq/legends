@@ -1,5 +1,5 @@
 - [[Arcane Magic]]
-  - [[Arcane Spellcasting Practice]]
+  - [[Spellcraft Practice]]
   - [[Learn Arcane Spell]]
   - [[Arcane Spell Memory]]
   - [[Signature Spell]]

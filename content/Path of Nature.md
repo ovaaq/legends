@@ -7,7 +7,8 @@ You gain 1 additional [[Spirit Point]].
 
 x
 
-**Group**:: Spiritual
+**Tree**:: [[Nature Talent Tree]]
+**Group**:: [[Spiritual Talent]]
 **Following**::
 
 ---

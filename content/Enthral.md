@@ -1,17 +1,15 @@
-_[[1st Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
-**Mana**:: 1
-**Range**:: 20 metres
-**Duration**:: 24 hours
+**Mana**:: 2
+**Range**:: 10 metres
+**Duration**:: 10 minutes
 
-**Effect**:: Target a [[Natural Beast]] that you can see within range. The target must succeed on a [[Charisma Saving Throw]] or have the [[Charmed]] condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
-
-**Upcasting**:: For each additional mana spent, you can target one additional [[Natural Beast]]. You can upcast the spell with a maximum of 3 extra mana.
+**Effect**:: You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
 **Type**:: [[Enchantment Magic]]
 
 ---
 
-#spell #1st  [[Spell]]
+#spell #2nd  [[Spell]]

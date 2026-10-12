@@ -1,5 +1,5 @@
 **Requirements**:: [[Afterlife Spells IV]]
-**Cost**:: 1 LP
+**Cost**:: 4 LP
 
 _Flavour text_.
 

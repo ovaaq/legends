@@ -4,7 +4,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent1|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Arcane Magic\|Arcane Magic]]|[[Arcane Talent Tree\|Arcane Talent Tree]]|4 LP|• [[Study of Spellblade\|Study of Spellblade]]  <br>• [[Study of Warding\|Study of Warding]]  <br>• [[Study of Spelltheft\|Study of Spelltheft]]  <br>• [[Study of Divination\|Study of Divination]]  <br>• [[Arcane Spells I\|Arcane Spells I]]  <br>• [[Signature Spell\|Signature Spell]]  <br>• [[Wizardly Quill\|Wizardly Quill]]  <br>• [[Awakened Spellbook\|Awakened Spellbook]]  <br>• [[Arcane Recovery\|Arcane Recovery]]  <br>• [[Arcane Spellcasting Practice\|Arcane Spellcasting Practice]]  <br>• [[Learn Arcane Spell\|Learn Arcane Spell]]  <br>• [[Arcane Spell Memory\|Arcane Spell Memory]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]|
+|[[Arcane Magic\|Arcane Magic]]|[[Arcane Talent Tree\|Arcane Talent Tree]]|4 LP|• [[Arcane Spells I\|Arcane Spells I]]  <br>• [[Signature Spell\|Signature Spell]]  <br>• [[Wizardly Quill\|Wizardly Quill]]  <br>• [[Awakened Spellbook\|Awakened Spellbook]]  <br>• [[Arcane Recovery\|Arcane Recovery]]  <br>• [[Spellcraft Practice\|Spellcraft Practice]]  <br>• [[Learn Arcane Spell\|Learn Arcane Spell]]  <br>• [[Arcane Spell Memory\|Arcane Spell Memory]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]  <br>• [[Study of Divination\|Study of Divination]]  <br>• [[Study of Necromancy\|Study of Necromancy]]  <br>• [[Study of Spacetime\|Study of Spacetime]]  <br>• [[Study of Spellblade\|Study of Spellblade]]  <br>• [[Study of Spelltheft\|Study of Spelltheft]]  <br>• [[Study of Warding\|Study of Warding]]  <br>• [[Study of Wildlore\|Study of Wildlore]]|
 
 ### Divine Talent
 
@@ -31,8 +31,8 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent5|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Innate Magic\|Innate Magic]]|[[Innate Talent Tree\|Innate Talent Tree]]|4 LP|• [[Innate Spellcasting Practice\|Innate Spellcasting Practice]]  <br>• [[Learn Innate Spell\|Learn Innate Spell]]  <br>• [[Innate Spells I\|Innate Spells I]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]|
-|[[Mark of Bite\|Mark of Bite]]|[[Vampire Talent Tree\|Vampire Talent Tree]]|1 LP|• [[Vampiric Bite\|Vampiric Bite]]  <br>• [[Heightened Senses\|Heightened Senses]]  <br>• [[Vampiric Shapeshift\|Vampiric Shapeshift]]  <br>• [[Innate Magic\|Innate Magic]]  <br>• [[Blood Spells I\|Blood Spells I]]|
+|[[Innate Magic\|Innate Magic]]|[[Innate Talent Tree\|Innate Talent Tree]]|4 LP|• [[Instinct Practice\|Instinct Practice]]  <br>• [[Learn Innate Spell\|Learn Innate Spell]]  <br>• [[Innate Spells I\|Innate Spells I]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]|
+|[[Mark of Bite\|Mark of Bite]]|[[Vampire Talent Tree\|Vampire Talent Tree]]|1 LP|• [[Vampiric Bite\|Vampiric Bite]]  <br>• [[Heightened Senses\|Heightened Senses]]  <br>• [[Vampiric Shapeshift\|Vampiric Shapeshift]]  <br>• [[Innate Magic\|Innate Magic]]  <br>• [[Vampire Spells I\|Vampire Spells I]]|
 |[[Mark of Mutant\|Mark of Mutant]]|[[Mutant Talent Tree\|Mutant Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Magic\|Innate Magic]]  <br>• [[Mutant Spells I\|Mutant Spells I]]|
 |[[Mark of Psion\|Mark of Psion]]|[[Psionic Talent Tree\|Psionic Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Magic\|Innate Magic]]  <br>• [[Psionic Spells I\|Psionic Spells I]]|
 |[[Mark of Wild Magic\|Mark of Wild Magic]]|[[Wild Magic Talent Tree\|Wild Magic Talent Tree]]|1 LP|• [[Wild Magic Surge\|Wild Magic Surge]]  <br>• [[wa1\|wa1]]  <br>• [[Twisted Body\|Twisted Body]]  <br>• [[Innate Magic\|Innate Magic]]  <br>• [[Wild Magic Spells I\|Wild Magic Spells I]]|
@@ -59,6 +59,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Spiritual Talent
 
-|Root Talent1|Tree|Cost|Unlocks|
+|Root Talent2|Tree|Cost|Unlocks|
 |---|---|---|---|
+|[[Spirit Animal\|Spirit Animal]]|[[Beast Talent Tree\|Beast Talent Tree]]|1 LP|—|
 |[[Spiritual Connection\|Spiritual Connection]]|[[Spiritual Talent Tree\|Spiritual Talent Tree]]|1 LP|• [[Spirit Magic\|Spirit Magic]]  <br>• [[Spirit Guide\|Spirit Guide]]  <br>• [[Ethereal Sight\|Ethereal Sight]]  <br>• [[Essence Flow\|Essence Flow]]  <br>• [[Turn Spirits\|Turn Spirits]]  <br>• [[Path of Beast\|Path of Beast]]  <br>• [[Path of Nature\|Path of Nature]]  <br>• [[Path of Afterlife\|Path of Afterlife]]  <br>• [[Path of Elements\|Path of Elements]]|

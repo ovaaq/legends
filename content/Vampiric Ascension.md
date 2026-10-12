@@ -13,7 +13,8 @@ _Cold and eternal, your body knows no decay. With a taste of your blood, even th
 
 **Blood Charm**. You bite a [[Humanoid]] and inject part of your blood. The creature must make a [[Charisma Saving Throw]] DC 16 or become charmed by you. A charmed creature remains under your influence for 1d4 days.
 
-**Group**:: Innate
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following Abilities**:: [[Bat Form]]
 
 ---

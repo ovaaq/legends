@@ -7,8 +7,9 @@ _Your body grows stronger and more responsive to blood, empowering your attacks 
 
 **Bloody Strike**. When you hit with a [[Melee Attack]], you may add 1 Blood Die to the damage roll.
 
-**Group**:: Innate
-**Following Abilities**:: [[Blood Siphon]]
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**:: [[Blood Siphon]]
 
 ---
 

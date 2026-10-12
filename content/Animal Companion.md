@@ -5,6 +5,7 @@ _Flavour text_.
 
 Benefit.
 
+**Tree**:: [[Beast Talent Tree]]
 **Group**:: [[Spiritual Talent]]
 **Following**::
 

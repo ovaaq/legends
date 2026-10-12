@@ -22,8 +22,9 @@ As an [[Action]], you may spend any number of Blood Dice to regain a number of H
 
 **Vital Surge ➽➽➽**
 
-**Group**:: Innate
-**Following Abilities**:: [[Blood Frenzy]]
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**:: [[Blood Frenzy]]
 
 ---
 

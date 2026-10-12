@@ -53,6 +53,7 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 - [[Armour Talent Tree|Armour Talent Tree]] - Effective use of armour and shields.
 - [[Berserk Talent Tree|Berserk Talent Tree]] - Fighting with pure rage.
 - [[Evasion Talent Tree|Evasion Talent Tree]] - Dodging and evading attacks.
+- [[Ki Talent Tree|Ki Talent Tree]] - Effective use of armour and shields.
 - [[Martial Arts Talent Tree|Martial Arts Talent Tree]] - Understanding of Ki through martial arts.
 - [[Martial Talent Tree|Martial Talent Tree]] - Fight using martial techniques.
 - [[Weapon Talent Tree|Weapon Talent Tree]] - Highest level of weapon skill.

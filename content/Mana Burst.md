@@ -5,7 +5,8 @@ _Flavour text_.
 
 when you roll nat 20 on [[Spell Attack]] you gain X mana
 
-**Group**:: Innate
+**Tree**:: [[Wild Magic Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following**::
 
 ---

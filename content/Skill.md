@@ -6,6 +6,8 @@ Skills define your character’s capabilities. They are divided into three types
 
 Each skill has a [[Rank]] that reflects your character’s level of proficiency.
 
+[[General Skill]] and [[Expert Skill]] can be improved by [[Skill Practice]] -talent. [[Special Skill]] has its own improvement talent like [[Martial Practice]] or [[Alchemy Practice]].
+
 ---
 
 #keyword

@@ -5,7 +5,8 @@ _Flavour text_.
 
 **Wild Magic Points.** You have two Wild Magic Points.
 
-**Group**:: Innate
+**Tree**:: [[Wild Magic Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following**::
 
 ---

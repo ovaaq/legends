@@ -8,7 +8,7 @@
   - [[Turn Spirits]]
     - [[s5]]
   - [[Spirit Magic]]
-    - [[Spiritual Spellcasting Practice]]
+    - [[Channelling Practice]]
     - [[Spiritual Spell Memory]]
     - [[Spiritual Spells I]]
       - [[Spiritual Spells II]]

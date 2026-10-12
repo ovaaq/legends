@@ -6,7 +6,8 @@ _Flavour text_.
 Benefit.
 [[1st Level Ki Technique]]
 
-**Group**:: Martial
+**Tree**:: [[Ki Talent Tree]]
+**Group**:: [[Martial Talent]]
 **Following**:: [[Learn Ki Technique]], [[Ki Techniques II]]
 
 ---

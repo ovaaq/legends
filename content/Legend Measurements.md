@@ -24,6 +24,7 @@ area table
 [[Cone]]: tip of the cone, cone's width
 [[Line]]: start point, length
 [[Cylinder]]: centre point, height, radius
+[[Cube]]
 
 | Duration   | Explanation          |
 | ---------- | -------------------- |

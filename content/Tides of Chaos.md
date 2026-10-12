@@ -5,7 +5,8 @@ _Flavour text_.
 
 x
 
-**Group**:: Innate
+**Tree**:: [[Wild Magic Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following**::
 
 ---

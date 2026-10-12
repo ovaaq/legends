@@ -5,8 +5,9 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Innate
-**Following**::
+**Tree**:: [[Wild Magic Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**:: [[Wild Magic Spells IV]]
 
 ---
 

@@ -5,8 +5,9 @@ _Your muscles ripple with unnatural power, allowing you to wield massive weapons
 
 You gain +1 [[Strength]] and can wield two-handed weapons in one hand without penalty. Your [[Carrying Capacity]] increases by 5 Stacks.
 
-**Group**:: Innate
-**Following Abilities**:: [[Bat Form]]
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**:: [[Bat Form]]
 
 ---
 

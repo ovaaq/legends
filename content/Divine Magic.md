@@ -40,7 +40,7 @@ These spells are added to your [[Divine Spell List]]:
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]
-**Following**:: [[Divine Spellcasting Practice]], [[Divine Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+**Following**:: [[Prayer Practice]], [[Divine Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
 
 ---
 

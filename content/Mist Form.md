@@ -5,7 +5,8 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Innate
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
 **Following**:: [[Crimson Form]]
 
 ---

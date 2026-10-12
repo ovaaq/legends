@@ -1,6 +1,6 @@
 - [[Divine Acolyte]]
   - [[Divine Magic]]
-    - [[Divine Spellcasting Practice]]
+    - [[Prayer Practice]]
     - [[Divine Spell Memory]]
   - [[Cure Sickness]]
     - [[Lay on Hands]]

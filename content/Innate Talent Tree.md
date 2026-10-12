@@ -1,5 +1,5 @@
 - [[Innate Magic]]
-  - [[Innate Spellcasting Practice]]
+  - [[Instinct Practice]]
   - [[Learn Innate Spell]]
   - [[Innate Spells I]]
     - [[Innate Spells II]]

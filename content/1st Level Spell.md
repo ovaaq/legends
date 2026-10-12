@@ -31,7 +31,6 @@
 | [[Empathetic Connection.md\|Empathetic Connection]]     | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                       |
 | [[Ensnairing Strike.md\|Ensnairing Strike]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres    | Instant                                                                       |
 | [[Entangle.md\|Entangle]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres    | Instant                                                                       |
-| [[Enthral.md\|Enthral]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 day                                                                         |
 | [[Faerie Fire.md\|Faerie Fire]]                         | -                                                                | -          | \*\* 2 | \*\* 20 meters | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Feather Fall.md\|Feather Fall]]                       | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres    | 10 minutes                                                                    |
 | [[Fog Cloud.md\|Fog Cloud]]                             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 40 metres    | [[Concentration.md\|Concentration]], 1 hour     |
@@ -47,7 +46,6 @@
 | [[Heroism.md\|Heroism]]                                 | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch        | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Hex.md\|Hex]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Hold Beast.md\|Hold Beast]]                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 minute   |
-| [[Hold Humanoid.md\|Hold Humanoid]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Inflict Wounds.md\|Inflict Wounds]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch        | Instant                                                                       |
 | [[Influence Emotion.md\|Influence Emotion]]             | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 20 metres    | 1 hour                                                                        |
 | [[Longstrider.md\|Longstrider]]                         | [[Action.md\|Action]]               | F, V, S     | 1    | Touch        | 1 hour                                                                        |

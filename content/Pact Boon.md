@@ -5,7 +5,8 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Pact
+**Tree**:: [[Pact Talent Tree]]
+**Group**:: [[Pact Talent]]
 **Following**:: [[Forbidden Knowledge]]
 
 ---

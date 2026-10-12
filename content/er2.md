@@ -5,7 +5,8 @@ _Flavour text_.
 
 Benefit.
 
-**Group**:: Spiritual
+**Tree**:: [[Elemental Talent Tree]]
+**Group**:: [[Spiritual Talent]]
 **Following**::
 
 ---

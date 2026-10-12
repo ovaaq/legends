@@ -5,8 +5,9 @@ _Time bends around you, each second stretched by unnatural swiftness. The world 
 
 You gain an additional [[Reaction]] each turn, and your [[Walking Speed]] increases by 4 meters.
 
-**Group**:: Innate
-**Following Abilities**:: [[Bat Form]]
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**::
 
 ---
 

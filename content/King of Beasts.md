@@ -6,7 +6,8 @@ _Flavour text_.
 You gain 2 additional [[Spirit Point|Spirit Points]].
 Benefit.
 
-**Group**:: Spiritual
+**Tree**:: [[Beast Talent Tree]]
+**Group**:: [[Spiritual Talent]]
 **Following**::
 
 ---

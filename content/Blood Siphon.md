@@ -7,8 +7,9 @@ _With a deliberate pull, you command the blood to leave its body_.
 
 **Crimson Blade**. Once per turn, when you hit a living creature with a [[Melee Attack]], you may spend [[Action]] to siphon its blood directly. If you do, you gain 1 Blood Die.
 
-**Group**:: Innate
-**Following Abilities**:: [[Blood Curse]]
+**Tree**:: [[Vampire Talent Tree]]
+**Group**:: [[Innate Talent]]
+**Following**:: [[Blood Curse]]
 
 ---
 

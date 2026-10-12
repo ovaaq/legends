@@ -6,16 +6,13 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: 1 hour
 
-**Effect**:: You manipulate the emotions of [[Creature|Creatures]] within a 3-metre-radius sphere centred on a point you can see within range. Each [[Creature]] in the area must make a [[Charisma Saving Throw]]. Choose one of the following effects when you cast the spell:
-
-**Soothe.** The target's emotions become calmer, reducing agitation, fear, and hostility.
-
-**Riot.** The target's emotions intensify, increasing irritation, anger, and aggression.
+**Effect**:: You soothe or riot emotions a point you can see within range. Each [[Creature]] in a 3-metre radius sphere centred on that point must make a [[Charisma Saving Throw]].
 
 **Critical Success:** The target is unaffected.
-**Success:** The target experiences a mild emotional shift for 1 minute.
+**Success:** The target experiences a mild emotional shift for 10 minutes.
 **Failure:** The target experiences a strong emotional shift for the duration.
-**Critical Failure:** The target experiences an overwhelming emotional shift for the duration.
+
+Soothe calms fear, hostility, and agitation, while Riot heightens anger, aggression, and irritation.
 
 **Upcasting**:: For each additional mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
 

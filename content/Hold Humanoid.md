@@ -1,4 +1,4 @@
-_[[1st Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
@@ -19,4 +19,4 @@ At the end of each of its turns, the target can make another [[Charisma Saving T
 
 ---
 
-#spell #1st  [[Spell]]
+#spell #2nd  [[Spell]]
