@@ -12,7 +12,6 @@
 | [[Aurora Burst.md\|Aurora Burst]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres    | Instant                                                                       |
 | [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres    | [[Concentration.md\|Concentration]], 1 minute   |
-| [[Borrowed Knowledge.md\|Borrowed Knowledge]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self         | 1 day                                                                         |
 | [[Burning Hands.md\|Burning Hands]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres    | Instant                                                                       |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres    | Instant                                                                       |
 | [[Charm Person.md\|Charm Person]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                        |
@@ -79,7 +78,6 @@
 | [[Unearthly Chorus.md\|Unearthly Chorus]]               | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres    | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres    | 1 hour                                                                        |
 | [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres    | Instantaneous                                                                 |
-| [[Wither and Bloom.md\|Wither and Bloom]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres    | Instant                                                                       |
 
 [[Empathetic Connection]], two c
 [[Shared Health]]

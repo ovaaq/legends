@@ -1,8 +1,8 @@
-_[[1st Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
-**Mana**:: 1
+**Mana**:: 2
 **Range**:: Self
 **Duration**:: 24 hours
 
@@ -14,4 +14,4 @@ _[[1st Level Spell]]_
 
 ---
 
-#spell #1st  [[Spell]]
+#spell #2nd   [[Spell]]

@@ -14,6 +14,11 @@ As an Action you can move the [[Spirit]] up to 10 metres to a space you can see.
 
 **Type**:: [[Restoration Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+| [[Harmony Spells II.md\|Harmony Spells II]]     |
+
 ---
 
 #spell #2nd [[Spell]]

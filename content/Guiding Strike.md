@@ -15,6 +15,11 @@ _\*[[Weapon]]._
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Divine Magic.md\|Divine Magic]]               |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

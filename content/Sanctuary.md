@@ -17,6 +17,11 @@ This spell doesn’t protect the warded [[Creature]] from area effects. If the w
 
 **Type**:: [[Warding Magic]]
 
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

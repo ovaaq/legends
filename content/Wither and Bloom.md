@@ -1,8 +1,8 @@
-_[[1st Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
-**Mana**:: 1
+**Mana**:: 2
 **Range**:: 10 metres
 **Duration**:: Instant
 
@@ -19,6 +19,10 @@ In addition, one [[Creature]] of your choice in that area regains [[Hit Point|Hi
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+
 ---
 
-#spell #1st  [[Spell]]
+#spell #2nd  [[Spell]]

@@ -15,7 +15,7 @@
 | [[Arcane Blast.md\|Arcane Blast]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 minutes | Instant                                                                                                 |
 | [[Arcane Mark.md\|Arcane Mark]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch      | 1 week                                                                                                  |
 | [[Chaos Burst.md\|Chaos Burst]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                                                 |
-| [[Charming Smile.md\|Charming Smile]]       | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres   | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
+| [[Charming Smile.md\|Charming Smile]]       | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres   | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
 | [[Chill Touch.md\|Chill Touch]]             | [[Double Action.md\|Double Action]] | V, S        | 0    | Touch      | Instant                                                                                                 |
 | [[Close Wounds.md\|Close Wounds]]           | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
 | [[Corrosive Shot.md\|Corrosive Shot]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |

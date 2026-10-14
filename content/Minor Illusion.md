@@ -1,3 +1,13 @@
+Create a sound or an image of an object within range that lasts for the duration. The illusion ends if you cast this spell again.
+
+The sound can be anything you choose, and can play continuously or at intervals.
+
+The image must fit within a 1-metre cube and cannot produce any sensory effects. Physical interaction reveals the image as an illusion.
+
+A creature that examines the illusion can identify it with a successful Investigation Check against your Spell Save DC. Once identified, the illusion appears faint to that creature.
+
+Upcasting. By spending 1 additional mana, the spell gains both audible and visual effects.
+
 _[[Cantrip]]_
 
 **Casting**:: [[Triple Action]]
@@ -17,6 +27,11 @@ If a creature examines the sound or image, the creature can determine that it is
 **Upcasting::** By spending 1 additional Mana, the spell gains both audible and visual effects.
 
 **Type**:: [[Projection Magic]]
+
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]         |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
 
 ---
 

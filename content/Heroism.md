@@ -12,6 +12,11 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Warding Magic]]
 
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]] |
+
 ---
 
 #spell #1st  [[Spell]]

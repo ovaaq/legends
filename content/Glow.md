@@ -14,6 +14,13 @@ If you target an [[Object]] held or worn by a hostile [[Creature]], that [[Creat
 
 **Type**:: [[Projection Magic]]
 
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]       |
+| [[Divine Magic.md\|Divine Magic]]       |
+| [[Innate Spells I.md\|Innate Spells I]] |
+| [[Light Bearer.md\|Light Bearer]]       |
+
 ---
 
 #spell #cantrip  [[Spell]]

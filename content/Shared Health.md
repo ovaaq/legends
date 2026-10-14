@@ -12,6 +12,10 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

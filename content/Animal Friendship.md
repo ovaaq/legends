@@ -14,6 +14,10 @@ While the target is [[Charmed]], you have [[Advantage]] on [[Animal Handling]] [
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+
 ---
 
 #spell #1st  [[Spell]]

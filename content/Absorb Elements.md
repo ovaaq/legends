@@ -12,6 +12,19 @@ _\*When a [[Creature]] you can see within range takes [[Elemental Damage]]._
 
 **Upcasting**:: For each additional 2 mana spent, you can target one additional creature. You can upcast the spell with a maximum of 4 extra mana.
 
+**Type**:: [[Warding Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Elemental Spells I.md\|Elemental Spells I]]   |
+| [[Innate Magic.md\|Innate Magic]]               |
+| [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]]       |
+
 ---
 
 #spell #1st [[Spell]]

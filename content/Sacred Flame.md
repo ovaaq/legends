@@ -15,6 +15,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Divine Magic.md\|Divine Magic]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

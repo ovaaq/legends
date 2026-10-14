@@ -14,6 +14,10 @@ _\*When you are hit by an [[Attack]]._
 
 **Type**:: [[Warding Magic]]
 
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Harmony Spells II.md\|Harmony Spells II]] |
+
 ---
 
 #spell #2nd  [[Spell]]

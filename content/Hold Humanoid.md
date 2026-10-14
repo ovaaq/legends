@@ -17,6 +17,14 @@ At the end of each of its turns, the target can make another [[Charisma Saving T
 
 **Upcasting**:: For each additional two mana spent, you can target one additional [[Humanoid]]. You can upcast the spell with a maximum of 4 extra mana.
 
+**Type**:: [[Enchantment Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+| [[Harmony Spells II.md\|Harmony Spells II]]     |
+
 ---
 
 #spell #2nd  [[Spell]]

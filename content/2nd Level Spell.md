@@ -12,6 +12,7 @@
 | [[Beast Sense.md\|Beast Sense]]                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                           |
 | [[Blink.md\|Blink]]                                                       | [[Reaction]]\*                                                     | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                                           |
 | [[Blur.md\|Blur]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                           |
+| [[Borrowed Knowledge.md\|Borrowed Knowledge]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 day                                                                                                   |
 | [[Calm Emotions.md\|Calm Emotions]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                           |
 | [[Conceal Magic.md\|Conceal Magic]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                                           |
 | [[Continual Flame.md\|Continual Flame]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instantaneous                                                                                           |
@@ -64,6 +65,7 @@
 | [[Summon Steed.md\|Summon Steed]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                           |
 | [[Warding Wind.md\|Warding Wind]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                           |
 | [[Web.md\|Web]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                           |
-| [[Zone of Truth.md\|Zone of Truth]]                                       | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | Instantaneous                                                                                           |
+| [[Wither and Bloom.md\|Wither and Bloom]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | Instant                                                                                                 |
+| [[Zone of Truth.md\|Zone of Truth]]                                       | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | <ul><li>[[Concentration.md\|Concentration]]</li><li>10 minutes</li></ul> |
 
 ---

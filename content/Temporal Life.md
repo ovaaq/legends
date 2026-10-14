@@ -12,6 +12,12 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Warding Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]]       |
+
 ---
 
 #spell #1st [[Spell]]

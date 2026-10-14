@@ -14,6 +14,12 @@ You can cast this spell through [[Solid]] [[Object|Objects]] if you are familiar
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]         |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Innate Magic.md\|Innate Magic]]         |
+
 ---
 
 #spell #cantrip  [[Spell]]

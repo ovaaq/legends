@@ -10,7 +10,11 @@ _[[Cantrip]]_
 
 **Upcasting**:: For each additional mana spent, spell radius increases by 50 metres. You can upcast the spell with a maximum of 3 extra mana.
 
-**Type**::
+**Type**:: [[Enchantment Magic]]
+
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Innate Spells I.md\|Innate Spells I]] |
 
 ---
 

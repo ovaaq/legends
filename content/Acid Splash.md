@@ -16,6 +16,11 @@ _[[Cantrip]]_
 
 **Type**:: [[Conjuration Magic]]
 
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]       |
+| [[Innate Spells I.md\|Innate Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]
