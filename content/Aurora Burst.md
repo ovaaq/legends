@@ -14,9 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Innate Magic.md\|Innate Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 
 ---
 

@@ -1,9 +1,24 @@
-**Requirements**:: [[Beast Spells I]]
-**Cost**:: 1 LP
+**Requirements**:: [[Beast Spells I]], [[Channelling]] [[Rank]] 2+
+**Cost**:: 4 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]]:
+
+##### 2nd Level Spells
+
+- [[Aid]]
+- [[Animal Messenger]]
+- [[Beast Sense]]
+- [[Flock of Familiars]]
+- [[Invisibility]]
+- [[Levitate]]
+- [[Locate Wildlife]]
+- [[Moonbeam]]
+- [[Pass Without Trace]]
+- [[Spider Climb]]
+- [[Summon Beast]]
+- [[Web]]
 
 **Tree**:: [[Beast Talent Tree]]
 **Group**:: [[Spiritual Talent]]

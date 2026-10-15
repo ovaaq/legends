@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Spells III]]
+**Requirements**:: [[Arcane Spells III]], [[Spellcraft]] [[Rank]] 4+
 **Cost**:: 2 LP
 
 _Flavour text_.

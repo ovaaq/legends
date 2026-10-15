@@ -25,7 +25,7 @@ Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formul
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**:: [[Learn Alchemical Formulas]],  [[Safety Measures]], [[Experimental Elixir]], [[Combat Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]]
+**Following**:: [[Learn Alchemical Formulas]],  [[Safety Measures]], [[Experimental Elixir]], [[Combat Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]], [[Alchemy Practice]]
 
 ---
 

@@ -17,6 +17,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | Related Talents                                                           |
 | ------------------------------------------------------------------------- |
 | [[Harmony Spells II.md\|Harmony Spells II]] |
+| [[Life Spells II.md\|Life Spells II]]       |
 
 ---
 

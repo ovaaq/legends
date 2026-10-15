@@ -1,4 +1,4 @@
-**Requirements**:: [[Tales from Beyond]]
+**Requirements**:: [[Tales of the Afterlife]]
 **Cost**:: 1 LP
 
 _Flavour text_.

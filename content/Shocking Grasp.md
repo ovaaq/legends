@@ -14,8 +14,8 @@ _[[Cantrip]]_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]               |
-| [[Innate Magic.md\|Innate Magic]]               |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 

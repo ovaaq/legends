@@ -1,4 +1,4 @@
-**Requirements**:: [[Path of Afterlife]]
+**Requirements**:: [[Path of Afterlife]], [[Spiritual Spellcasting]]
 **Cost**:: 4 LP
 
 _Flavour text_.

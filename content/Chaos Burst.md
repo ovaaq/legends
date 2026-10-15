@@ -29,11 +29,11 @@ Choose one of the d12s rolled. The number on that die determines the attack's [[
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                       |
-| --------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]       |
-| [[Innate Magic.md\|Innate Magic]]       |
-| [[Innate Spells I.md\|Innate Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
+| [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---
 

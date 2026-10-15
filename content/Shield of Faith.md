@@ -15,6 +15,7 @@ _[[1st Level Spell]]_
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Life Spells I.md\|Life Spells I]]       |
 
 ---
 

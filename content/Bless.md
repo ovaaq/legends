@@ -12,10 +12,11 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Divine Magic.md\|Divine Magic]]         |
-| [[Warding Spells I.md\|Warding Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
+| [[Life Spells I.md\|Life Spells I]]             |
+| [[Warding Spells I.md\|Warding Spells I]]       |
 
 ---
 

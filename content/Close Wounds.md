@@ -13,9 +13,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Restoration Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Divine Magic.md\|Divine Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
+| [[Life Spells I.md\|Life Spells I]]             |
 
 ---
 

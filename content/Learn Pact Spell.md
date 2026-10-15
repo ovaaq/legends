@@ -1,4 +1,4 @@
-**Requirements**:: [[Pact Magic]]
+**Requirements**:: [[Pact Spellcasting]]
 **Cost**: 1 Hero Point
 
 _Flavour text_.

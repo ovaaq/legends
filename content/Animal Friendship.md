@@ -16,6 +16,7 @@ While the target is [[Charmed]], you have [[Advantage]] on [[Animal Handling]] [
 
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
+| [[Beast Spells I.md\|Beast Spells I]]     |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
 
 ---

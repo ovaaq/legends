@@ -18,12 +18,13 @@ Casting this spell again does not create another familiar. Instead, it changes i
 
 **Type**:: [[Summon Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]           |
-| [[Draconic Spells I.md\|Draconic Spells I]] |
-| [[Path of Beast.md\|Path of Beast]]         |
-| [[Study of Wildlore.md\|Study of Wildlore]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Beast Spells I.md\|Beast Spells I]]           |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Path of Beast.md\|Path of Beast]]             |
+| [[Study of Wildlore.md\|Study of Wildlore]]     |
 
 ---
 

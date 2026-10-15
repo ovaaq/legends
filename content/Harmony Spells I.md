@@ -1,4 +1,4 @@
-**Requirements**:: [[Follower of Harmony]]
+**Requirements**:: [[Follower of Harmony]], [[Divine Spellcasting]]
 **Cost**:: 4 LP
 
 _Flavour text_.

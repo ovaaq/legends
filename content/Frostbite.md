@@ -16,11 +16,11 @@ _[[Cantrip]]_
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]           |
-| [[Draconic Spells I.md\|Draconic Spells I]] |
-| [[Innate Spells I.md\|Innate Spells I]]     |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---
 

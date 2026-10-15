@@ -9,7 +9,7 @@ You gain 2 additional [[Spirit Point|Spirit Points]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Haunting Dread]]
+**Following**:: [[Wraithform]]
 
 ---
 

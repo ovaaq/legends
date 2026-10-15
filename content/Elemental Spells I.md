@@ -1,4 +1,4 @@
-**Requirements**:: [[Path of Elements]]
+**Requirements**:: [[Path of Elements]], [[Spiritual Spellcasting]]
 **Cost**:: 4 LP
 
 _Flavour text_.

@@ -5,14 +5,14 @@ _Flavour text_.
 
 You gain 2 additional [[Spirit Point|Spirit Points]].
 
-**Phantom Form.** As and [[Action]], you can spend 1 [[Spirit Point]] to assume a semi-ethereal, ghostlike form, along with any items you are carrying. This form lasts for 10 minutes, until you dismiss it as a free action or become [[Unconscious]] or [[Dead]].
+**Phantom Form.** As and [[Action]], you can spend 1 [[Spirit Point]] to assume a semi-ethereal, ghostlike form, along with any items you are carrying. This form lasts for 10 minutes, until you dismiss it as a [[Free Action]] or become [[Unconscious]] or [[Dead]].
 
 While in this form:
 
 - Your [[Walking Speed]] is halved.
 - You gain [[Resistance]] to [[Physical Damage]].
 - You are [[Immune]] to being [[Grappled]], [[Restrained]], or otherwise physically bound.
-- You have disadvantage to any [[Strength]] based [[Check|Checks]], [[Saving Throw|Saving Throws]] or [[Attack|Attacks]].
+- You have disadvantage to any [[Strength]] and [[Agility]] based [[Attack|Attacks]], [[Check|Checks]] and [[Saving Throw|Saving Throws]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -7,7 +7,7 @@
     - [[Channelling Ritual]]
   - [[Turn Spirits]]
     - [[s5]]
-  - [[Spirit Magic]]
+  - [[Spiritual Spellcasting]]
     - [[Channelling Practice]]
     - [[Spiritual Spell Memory]]
     - [[Spiritual Spells I]]

@@ -14,9 +14,9 @@ You can also [[Attack]] with the flame, although doing so ends the spell. When y
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Spirit Magic.md\|Spirit Magic]] |
+| Related Talents                                                                     |
+| ----------------------------------------------------------------------------------- |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---
 

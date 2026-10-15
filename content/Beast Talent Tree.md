@@ -7,7 +7,7 @@
     - [[Bestial Fury]]
       - [[Soul Bond]]
         - [[Spirit Growth]]
-  - [[Spirit Animal]]
+  - [[Totem Animal]]
     - [[bp2]]
       - [[bp3]]
         - [[bp4]]

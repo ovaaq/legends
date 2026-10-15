@@ -17,8 +17,9 @@ _\*When someone makes an [[Attack]] towards you._
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
-| [[Arcane Magic.md\|Arcane Magic]]               |
-| [[Innate Magic.md\|Innate Magic]]               |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
+| [[Life Spells I.md\|Life Spells I]]             |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 
 ---

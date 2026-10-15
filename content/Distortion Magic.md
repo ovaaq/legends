@@ -10,6 +10,7 @@ _Strand of magic that x._
 | [[Gravity Slam.md\|Gravity Slam]]           | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres | Instant       |
 | [[Ignite.md\|Ignite]]                       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 40 metres | Instant       |
 | [[Message.md\|Message]]                     | [[Triple Action.md\|Triple Action]] | F, V        | 0    | 40 meters | 1 round       |
+| [[Tailwind Strike.md\|Tailwind Strike]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant       |
 | [[Telekinetic Throw.md\|Telekinetic Throw]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 10 metres | Instant       |
 | [[Wind Slash.md\|Wind Slash]]               | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres | Instant       |
 | [[Call Object.md\|Call Object]]             | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres | Instant       |

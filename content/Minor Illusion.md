@@ -28,10 +28,11 @@ If a creature examines the sound or image, the creature can determine that it is
 
 **Type**:: [[Projection Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]         |
-| [[Harmony Spells I.md\|Harmony Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Harmony Spells I.md\|Harmony Spells I]]       |
+| [[Life Spells I.md\|Life Spells I]]             |
 
 ---
 

@@ -14,8 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                     |
+| ------------------------------------------------------------------- |
+| [[Life Spells II.md\|Life Spells II]] |
 
 ---
 

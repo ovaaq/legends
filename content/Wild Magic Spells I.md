@@ -1,4 +1,4 @@
-**Requirements**:: [[Innate Magic]]
+**Requirements**:: [[Innate Spellcasting]]
 **Cost**:: 1 LP
 
 _Flavour text_.

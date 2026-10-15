@@ -1,4 +1,4 @@
-**Requirements**:: [[Divine Magic]]
+**Requirements**:: [[Divine Acolyte]]
 **Cost**:: 2 LP
 
 _Flavour text_.

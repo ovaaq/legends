@@ -15,6 +15,7 @@ _[[1st Level Spell]]_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Life Spells I.md\|Life Spells I]]             |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 | [[Warding Spells I.md\|Warding Spells I]]       |
 

@@ -23,8 +23,8 @@ Add these [[Rune|Runes]] to your [[Rune List]]:
 **[[Runecraft Save DC]]** = 8 + [[Runecraft]] [[Rank]] + [[Sorcery]]
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
-**Following**:: [[Learn Runes]], [[Runic Capacity]], [[Runic Shield]], [[Spell Runes]], [[Runes I]]
+**Group**:: [[Crafting Talent]]
+**Following**:: [[Learn Runes]], [[Runic Capacity]], [[Runic Shield]], [[Spell Runes]], [[Runes I]], [[Runecraft Practice]]
 
 ---
 

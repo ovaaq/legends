@@ -1,4 +1,4 @@
-**Requirements**:: [[Afterlife Spells III]]
+**Requirements**:: [[Afterlife Spells III]], [[Channelling]] [[Rank]] 4+
 **Cost**:: 4 LP
 
 _Flavour text_.

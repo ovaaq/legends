@@ -18,11 +18,11 @@ If you cast this [[Spell]] multiple times, you can have up to three of its effec
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Divine Magic.md\|Divine Magic]]           |
-| [[Path of Afterlife.md\|Path of Afterlife]] |
-| [[Spirit Magic.md\|Spirit Magic]]           |
+| Related Talents                                                                     |
+| ----------------------------------------------------------------------------------- |
+| [[Divine Spellcasting.md\|Divine Spellcasting]]       |
+| [[Path of Afterlife.md\|Path of Afterlife]]           |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---
 

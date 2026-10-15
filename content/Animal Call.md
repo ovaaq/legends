@@ -14,6 +14,7 @@ _[[Cantrip]]_
 
 | Related Talents                                                       |
 | --------------------------------------------------------------------- |
+| [[Beast Spells I.md\|Beast Spells I]]   |
 | [[Innate Spells I.md\|Innate Spells I]] |
 
 ---

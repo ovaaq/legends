@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Spells V]]
+**Requirements**:: [[Arcane Spells V]], [[Spellcraft]] [[Rank]] 6+
 **Cost**:: 2 LP
 
 _Flavour text_.

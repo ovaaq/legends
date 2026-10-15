@@ -1,4 +1,4 @@
-**Requirements**:: [[Haunting Dread]]
+**Requirements**:: [[Wraithform]]
 **Cost**:: 3 LP
 
 _Flavour text_.

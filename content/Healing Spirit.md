@@ -18,6 +18,7 @@ As an Action you can move the [[Spirit]] up to 10 metres to a space you can see.
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
 | [[Harmony Spells II.md\|Harmony Spells II]]     |
+| [[Life Spells II.md\|Life Spells II]]           |
 
 ---
 

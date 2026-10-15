@@ -12,12 +12,12 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                             |
-| --------------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]             |
-| [[Draconic Spells I.md\|Draconic Spells I]]   |
-| [[Elemental Spells I.md\|Elemental Spells I]] |
-| [[Innate Spells I.md\|Innate Spells I]]       |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Elemental Spells I.md\|Elemental Spells I]]   |
+| [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---
 

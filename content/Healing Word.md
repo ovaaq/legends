@@ -12,10 +12,11 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Restoration Magic]]
 
-| Related Talents                                                             |
-| --------------------------------------------------------------------------- |
-| [[Afterlife Spells I.md\|Afterlife Spells I]] |
-| [[Divine Magic.md\|Divine Magic]]             |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
+| [[Life Spells I.md\|Life Spells I]]             |
 
 ---
 

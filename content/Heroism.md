@@ -14,7 +14,9 @@ _[[1st Level Spell]]_
 
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
+| [[Beast Spells I.md\|Beast Spells I]]     |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Life Spells I.md\|Life Spells I]]       |
 | [[Warding Spells I.md\|Warding Spells I]] |
 
 ---

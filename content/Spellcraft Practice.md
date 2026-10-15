@@ -1,4 +1,4 @@
-**Requirements**:: [[Arcane Magic]]
+**Requirements**:: [[Arcane Spellcasting]]
 **Cost**:: 2 LP
 
 _Flavour._

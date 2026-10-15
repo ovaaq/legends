@@ -14,10 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Draconic Spells I.md\|Draconic Spells I]] |
-| [[Innate Magic.md\|Innate Magic]]           |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 
 ---
 

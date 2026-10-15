@@ -17,6 +17,7 @@ On a hit, the target takes 1d8 [[Piercing Damage]] or [[Slashing Damage]] (your 
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Beast Spells I.md\|Beast Spells I]]           |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 

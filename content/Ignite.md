@@ -12,12 +12,12 @@ _[[Cantrip]]_
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]           |
-| [[Draconic Spells I.md\|Draconic Spells I]] |
-| [[Innate Magic.md\|Innate Magic]]           |
-| [[Innate Spells I.md\|Innate Spells I]]     |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
+| [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---
 

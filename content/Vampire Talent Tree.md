@@ -5,7 +5,7 @@
         - [[Blood Curse|Blood Curse]]
   - [[Heightened Senses|Heightened Senses]]
   - [[Vampiric Shapeshift|Vampiric Shapeshift]]
-  - [[Innate Magic|Innate Magic]]
+  - [[Innate Spellcasting|Innate Spellcasting]]
     - [[Instinct Practice|Instinct Practice]]
     - [[Learn Innate Spell|Learn Innate Spell]]
     - [[Innate Spells I|Innate Spells I]]

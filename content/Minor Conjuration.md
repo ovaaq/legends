@@ -14,9 +14,9 @@ A [[Creature]] can make an [Arcana](Arcana) [Check](Check) against your [Spell S
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Divine Magic.md\|Divine Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
 
 ---
 

@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Your aura carries the distinct scent of the grave. The living feel a slight shiver when you walk past. You gain a +1d6 bonus to [[Intimidation]] [[Check|Checks]] and gain [[Resistance]] to [[Necrotic Damage]].
+Your aura carries the unmistakable haunting presence, sending a faint shiver through the living as you pass. You gain a +5 bonus to [[Intimidation]] [[Check|Checks]] and [[Resistance]] to [[Necrotic Damage]].
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -1,4 +1,5 @@
 - [[Runecraft Initiate]]
+  - [[Runecraft Practice]]
   - [[Learn Runes]]
     - [[Runic Capacity]]
       - [[Twin Runes]]

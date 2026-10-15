@@ -12,10 +12,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]] |
-| [[Innate Magic.md\|Innate Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 
 ---
 

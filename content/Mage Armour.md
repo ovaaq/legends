@@ -13,10 +13,10 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]         |
-| [[Vampire Spells I.md\|Vampire Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Vampire Spells I.md\|Vampire Spells I]]       |
 
 ---
 

@@ -20,6 +20,7 @@ This spell doesn’t protect the warded [[Creature]] from area effects. If the w
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Life Spells I.md\|Life Spells I]]       |
 | [[Warding Spells I.md\|Warding Spells I]] |
 
 ---

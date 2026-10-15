@@ -12,11 +12,11 @@ _[[Cantrip]]_
 
 **Type**:: [[Decay Magic]]
 
-| Related Talents                                                       |
-| --------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]       |
-| [[Innate Spells I.md\|Innate Spells I]] |
-| [[Spirit Magic.md\|Spirit Magic]]       |
+| Related Talents                                                                     |
+| ----------------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
+| [[Innate Spells I.md\|Innate Spells I]]               |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---
 

@@ -15,8 +15,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Beast Spells II.md\|Beast Spells II]] |
 
 ---
 

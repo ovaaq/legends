@@ -15,11 +15,12 @@ _\*When a [[Creature]] within range of you falls._
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                             |
-| --------------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]             |
-| [[Draconic Spells I.md\|Draconic Spells I]]   |
-| [[Elemental Spells I.md\|Elemental Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Beast Spells I.md\|Beast Spells I]]           |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Elemental Spells I.md\|Elemental Spells I]]   |
 
 ---
 

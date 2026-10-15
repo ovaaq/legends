@@ -15,10 +15,11 @@ The spell is blocked by 30 centimetres of stone, dirt, or wood; 2 centimetres of
 
 **Type**:: [[Revelation Magic]]
 
-| Related Talents                                                             |
-| --------------------------------------------------------------------------- |
-| [[Afterlife Spells I.md\|Afterlife Spells I]] |
-| [[Divine Magic.md\|Divine Magic]]             |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
+| [[Life Spells I.md\|Life Spells I]]             |
 
 ---
 

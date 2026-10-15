@@ -14,11 +14,11 @@ You can cast this spell through [[Solid]] [[Object|Objects]] if you are familiar
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]         |
-| [[Harmony Spells I.md\|Harmony Spells I]] |
-| [[Innate Magic.md\|Innate Magic]]         |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Harmony Spells I.md\|Harmony Spells I]]       |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 
 ---
 

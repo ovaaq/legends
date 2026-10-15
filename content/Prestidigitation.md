@@ -21,10 +21,11 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]] |
-| [[Innate Magic.md\|Innate Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
+| [[Life Spells I.md\|Life Spells I]]             |
 
 ---
 

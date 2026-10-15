@@ -1,9 +1,16 @@
-**Requirements**:: [[Beast Spells II]]
-**Cost**:: 1 LP
+**Requirements**:: [[Beast Spells II]], [[Channelling]] [[Rank]] 3+
+**Cost**:: 4 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]]:
+
+##### 3rd Level Spells
+
+- [[Fear]]
+- [[Phantom Steed]]
+- [[Spirit Guardians]]
+-
 
 **Tree**:: [[Beast Talent Tree]]
 **Group**:: [[Spiritual Talent]]

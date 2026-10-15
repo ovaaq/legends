@@ -20,8 +20,9 @@ _\*When a [[Creature]] you can see within range takes [[Elemental Damage]]._
 | [[Divination Spells I.md\|Divination Spells I]] |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
 | [[Elemental Spells I.md\|Elemental Spells I]]   |
-| [[Innate Magic.md\|Innate Magic]]               |
+| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 | [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Life Spells I.md\|Life Spells I]]             |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 | [[Warding Spells I.md\|Warding Spells I]]       |
 

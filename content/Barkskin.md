@@ -15,8 +15,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Nature Spells II.md\|Nature Spells II]] |
 
 ---
 

@@ -12,9 +12,9 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 
 ---
 

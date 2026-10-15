@@ -1,4 +1,4 @@
-- [[Innate Magic]]
+- [[Innate Spellcasting]]
   - [[Instinct Practice]]
   - [[Learn Innate Spell]]
   - [[Innate Spells I]]

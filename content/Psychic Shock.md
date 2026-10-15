@@ -16,10 +16,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents                                                       |
-| --------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]       |
-| [[Innate Spells I.md\|Innate Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---
 

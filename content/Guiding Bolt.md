@@ -12,9 +12,9 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Divine Magic.md\|Divine Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
 
 ---
 

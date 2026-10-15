@@ -1,9 +1,13 @@
-**Requirements**:: [[Nature Spells II]]
+**Requirements**:: [[Nature Spells II]], [[Channelling]] [[Rank]] 3+
 **Cost**:: 1 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]]:
+
+##### 3rd Level Spells
+
+-
 
 **Tree**:: [[Nature Talent Tree]]
 **Group**:: [[Spiritual Talent]]

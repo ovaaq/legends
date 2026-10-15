@@ -1,9 +1,13 @@
-**Requirements**:: [[Beast Spells IV]]
-**Cost**:: 1 LP
+**Requirements**:: [[Beast Spells IV]], [[Channelling]] [[Rank]] 5+
+**Cost**:: 4 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]]:
+
+##### 5th Level Spells
+
+-
 
 **Tree**:: [[Beast Talent Tree]]
 **Group**:: [[Spiritual Talent]]

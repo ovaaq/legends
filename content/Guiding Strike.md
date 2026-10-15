@@ -17,7 +17,7 @@ _\*[[Weapon]]._
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
-| [[Divine Magic.md\|Divine Magic]]               |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 
 ---

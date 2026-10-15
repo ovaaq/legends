@@ -20,6 +20,7 @@ The spell ends if you become incapacitated, if you can no longer speak, or if th
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
 | [[Harmony Spells II.md\|Harmony Spells II]]     |
+| [[Nature Spells II.md\|Nature Spells II]]       |
 
 ---
 

@@ -1,4 +1,4 @@
-**Requirements**:: [[Pact Magic]]
+**Requirements**:: [[Pact Spellcasting]]
 **Cost**:: 3 LP
 
 _You have learned that your own vitality can be sacrificed for greater power._

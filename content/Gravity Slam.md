@@ -16,9 +16,9 @@ _[[Cantrip]]_
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 
 ---
 

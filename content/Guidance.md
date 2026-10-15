@@ -12,10 +12,11 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Revelation Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Harmony Spells I.md\|Harmony Spells I]] |
-| [[Spirit Magic.md\|Spirit Magic]]         |
+| Related Talents                                                                     |
+| ----------------------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]]             |
+| [[Life Spells I.md\|Life Spells I]]                   |
+| [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---
 

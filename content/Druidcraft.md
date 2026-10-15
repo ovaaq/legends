@@ -17,8 +17,9 @@ _[[Cantrip]]_
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Nature Spells I.md\|Nature Spells I]] |
 
 ---
 

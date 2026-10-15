@@ -1,3 +1,25 @@
+- [[Humanoid]]
+  - [[Giant]]
+  - [[Dwarf]]
+  - [[Elf]]
+  - [[Human]]
+  - [[Halfling]]
+- [[Elemental]]
+- [[Construct]]
+- [[Fiend]]
+  - [[Demon]]
+  - [[Devil]]
+- [[Undead]]
+- [[Beast]]
+  - [[Natural Beast]]
+  - [[Magical Beast]]
+    - [[Dragon]]
+- [[Aberration]]
+- [[Celestial]]
+- [[Ooze]]
+- [[Plant]]
+- [[Spirit]]
+
 ---
 
 #keyword

@@ -11,7 +11,7 @@ Your soul anchor serves as a [[Spellcasting Focus]] for your spells, functioning
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Phantom Form]], [[Tales from Beyond]], [[Chilling Presence]], [[Afterlife Spells I]]
+**Following**:: [[Phantom Form]], [[Tales of the Afterlife]], [[Chilling Presence]], [[Afterlife Spells I]]
 
 ---
 

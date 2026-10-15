@@ -19,9 +19,9 @@ While animated, a piece of parchment can:
 
 **Type**:: [[Summon Magic]]
 
-| Related Talents                                                 |
-| --------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 
 ---
 

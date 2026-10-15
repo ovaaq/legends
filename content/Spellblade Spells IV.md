@@ -1,4 +1,4 @@
-**Requirements**:: [[Spellblade Spells III]]
+**Requirements**:: [[Spellblade Spells III]], [[Spellcraft]] [[Rank]] 4+
 **Cost**:: 2 LP
 
 _Flavour text_.

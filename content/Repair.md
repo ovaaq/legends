@@ -18,10 +18,10 @@ The [[Object]] is restored to its original, undamaged state. Tears seal without 
 
 **Type**:: [[Restoration Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Arcane Magic.md\|Arcane Magic]]         |
-| [[Harmony Spells I.md\|Harmony Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Harmony Spells I.md\|Harmony Spells I]]       |
 
 ---
 

@@ -5,6 +5,7 @@
 [[Mindless Rage]]
 [[Endless Rage]]
 [[Rage Beyond Death]]
+[[Rage Spellcasting]]
 
 thing that boosts str?
 

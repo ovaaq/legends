@@ -22,6 +22,7 @@ A [[Creature]] affected by this spell wakes if it takes damage, or if another [[
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Beast Spells I.md\|Beast Spells I]]           |
 | [[Divination Spells I.md\|Divination Spells I]] |
 | [[Harmony Spells I.md\|Harmony Spells I]]       |
 
