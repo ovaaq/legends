@@ -21,6 +21,13 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, you can affect one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Enchantment Magic]]
+
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Vampire Spells I.md\|Vampire Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

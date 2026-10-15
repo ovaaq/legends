@@ -15,6 +15,13 @@ The spell is blocked by 30 centimetres of stone, dirt, or wood; 2 centimetres of
 
 **Type**:: [[Revelation Magic]]
 
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]           |
+| [[Draconic Spells I.md\|Draconic Spells I]] |
+| [[Innate Magic.md\|Innate Magic]]           |
+| [[Spirit Magic.md\|Spirit Magic]]           |
+
 ---
 
 #spell #1st [[Spell]]

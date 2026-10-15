@@ -14,6 +14,15 @@ If you score a [[Critical Hit]], the target’s [[Walking Speed]] is reduced by 
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]               |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Elemental Spells I.md\|Elemental Spells I]]   |
+| [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[Spirit Magic.md\|Spirit Magic]]               |
+
 ---
 
 #spell #cantrip  [[Spell]]

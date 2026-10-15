@@ -16,6 +16,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Innate Spells I.md\|Innate Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

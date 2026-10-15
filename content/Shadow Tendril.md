@@ -12,6 +12,9 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #cantrip  [[Spell]]

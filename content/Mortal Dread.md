@@ -16,6 +16,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

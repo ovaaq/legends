@@ -15,6 +15,11 @@ On a hit, the target takes 1d8 [[Piercing Damage]] or [[Slashing Damage]] (your 
 
 **Type**:: [[Alteration Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

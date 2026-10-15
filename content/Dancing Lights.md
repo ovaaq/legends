@@ -14,6 +14,12 @@ As a [[Action]] on your turn, you can move the lights up to 20 metres to a new s
 
 **Type**:: [[Projection Magic]]
 
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]       |
+| [[Innate Magic.md\|Innate Magic]]       |
+| [[Innate Spells I.md\|Innate Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

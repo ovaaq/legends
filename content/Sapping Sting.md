@@ -12,6 +12,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Decay Magic]]
 
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

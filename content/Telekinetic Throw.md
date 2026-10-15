@@ -14,6 +14,10 @@ _\*Small Object_
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

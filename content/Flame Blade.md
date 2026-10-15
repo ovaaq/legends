@@ -14,6 +14,12 @@ _\*[[Melee Weapon]]_
 
 **Type**:: [[Alteration Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Elemental Spells II.md\|Elemental Spells II]] |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

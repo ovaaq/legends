@@ -21,6 +21,11 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 **Type**:: [[Alteration Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+| [[Innate Magic.md\|Innate Magic]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

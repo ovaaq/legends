@@ -1,12 +1,3 @@
-[[Chill Touch]]
-[[Feral Claw]]
-[[Frostbite]]
-[[Fire Bolt]]
-[[Ignite]]
-[[Flame Blade]]
-[[Venom Fang]]
-[[Wind Slash]]
-
 | Cantrip                                                                   | Casting                                                           | Components  | Mana | Range      | Duration                                                                                                |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | ---------- | ------------------------------------------------------------------------------------------------------- |
 | [[Acid Splash.md\|Acid Splash]]             | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                                                 |
@@ -68,6 +59,8 @@
 | [[Water Bolt.md\|Water Bolt]]               | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                                                                                                 |
 | [[Wind Slash.md\|Wind Slash]]               | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres  | Instant                                                                                                 |
 | [[Withering Touch.md\|Withering Touch]]     | [[Double Action.md\|Double Action]] | F, S        | 0    | Melee      | Instant                                                                                                 |
+
+---
 
 to do
 

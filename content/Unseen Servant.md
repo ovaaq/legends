@@ -17,6 +17,11 @@ As an [[Action]], you can mentally command the servant to move up to 3 metres an
 
 **Type**:: [[Summon Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+| [[Spirit Magic.md\|Spirit Magic]] |
+
 ---
 
 #spell #1st [[Spell]]

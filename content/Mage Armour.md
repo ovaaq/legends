@@ -11,6 +11,13 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, [[Armour Class]] increases by 1. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Warding Magic]]
+
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]         |
+| [[Vampire Spells I.md\|Vampire Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

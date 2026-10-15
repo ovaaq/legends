@@ -14,6 +14,13 @@ _\*When someone makes an [[Attack]] towards you._
 
 **Type**:: [[Warding Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Arcane Magic.md\|Arcane Magic]]               |
+| [[Innate Magic.md\|Innate Magic]]               |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
 ---
 
 #spell #1st   [[Spell]]

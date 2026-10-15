@@ -14,6 +14,14 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Evocation Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+| [[Innate Spells I.md\|Innate Spells I]]         |
+
 ---
 
 #spell #1st [[Spell]]

@@ -21,6 +21,10 @@ The hand can move up to 10 metres each time you control it. It cannot [[Attack]]
 
 **Type**:: [[Summon Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+
 ---
 
 #spell #cantrip [[Spell]]

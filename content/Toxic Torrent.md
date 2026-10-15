@@ -16,6 +16,9 @@ _[[Cantrip]]_
 
 **Type**:: [[Conjuration Magic]]
 
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #cantrip  [[Spell]]

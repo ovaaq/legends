@@ -13,6 +13,14 @@ _\*Which you take when you are hit by an [[Attack]] or [[Area of Effect]] that c
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Warding Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[Warding Spells II.md\|Warding Spells II]]     |
+
 ---
 
 #spell #2nd  [[Spell]]

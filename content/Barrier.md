@@ -14,6 +14,11 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 **Upcasting**:: For each additional mana spent, Hit Points increases by 10. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Warding Magic]]
+
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #2nd  [[Spell]]

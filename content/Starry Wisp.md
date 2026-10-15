@@ -12,6 +12,11 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Innate Spells I.md\|Innate Spells I]] |
+| [[Spirit Magic.md\|Spirit Magic]]       |
+
 ---
 
 #spell #cantrip  [[Spell]]

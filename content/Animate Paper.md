@@ -19,6 +19,10 @@ While animated, a piece of parchment can:
 
 **Type**:: [[Summon Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

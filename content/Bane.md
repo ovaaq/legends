@@ -19,6 +19,11 @@ Whenever a target with Bane Die must make an [[Attack Roll]] or [[Saving Throw]]
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]] |
+| [[Vampire Spells I.md\|Vampire Spells I]]     |
+
 ---
 
 #spell #1st [[Spell]]

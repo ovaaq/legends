@@ -25,6 +25,11 @@ Objects created by this spell cannot be used as the target of this spell again.
 
 **Upcasting**:: For each additional 1 mana spent, the maximum size of the creation increases by 1 cubic metre. These cubes can be stacked or arranged in any shape within reach. Maximum upcast: 4 additional mana.
 
+**Type**:: [[Conjuration Magic]]
+
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #3rd  [[Spell]]

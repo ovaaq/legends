@@ -13,6 +13,11 @@ You can bring along objects as long as their weight doesn’t exceed what you ca
 
 **Upcasting**:: For each additional mana spent, you can bring along one extra willing creature, up to a maximum of 5 additional mana.
 
+**Type**:: [[Distortion Magic]]
+
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #4th [[Spell]]

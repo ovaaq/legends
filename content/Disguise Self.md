@@ -15,6 +15,16 @@ To discern that you are disguised, a [[Creature]] must take the [[Inspect]] acti
 
 **Upcasting**:: For each additional mana spent, the [[Spell Save DC]] increases by 1. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Projection Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+| [[False Reflection.md\|False Reflection]]       |
+| [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Vampire Spells I.md\|Vampire Spells I]]       |
+
 ---
 
 #spell #1st [[Spell]]

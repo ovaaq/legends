@@ -15,6 +15,13 @@ The spell lasts until the rope is destroyed or the spell ends, at which point th
 
 **Upcasting**:: For each additional mana spent, the you can animate one additional rope. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Enchantment Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+
 ---
 
 #spell #1st  [[Spell]]

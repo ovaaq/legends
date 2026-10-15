@@ -22,6 +22,10 @@ The omen reveals the most prominent outcome. Each casting after the first before
 
 **Type**:: [[Revelation Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+
 ---
 
 #spell #2nd [[Spell]]

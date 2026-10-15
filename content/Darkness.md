@@ -16,6 +16,10 @@ If any of this spell's area overlaps with an area of light created by a [[Spell]
 
 **Type**:: [[Projection Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+
 ---
 
 #spell #2nd [[Spell]]

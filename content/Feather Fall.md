@@ -13,6 +13,14 @@ _\*When a [[Creature]] within range of you falls._
 
 **Upcasting**:: For each additional mana spent, the amount of affected [[Creature|Creatures]] increase by 5. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Distortion Magic]]
+
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]]             |
+| [[Draconic Spells I.md\|Draconic Spells I]]   |
+| [[Elemental Spells I.md\|Elemental Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

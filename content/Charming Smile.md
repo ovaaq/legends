@@ -14,6 +14,11 @@ _[[Cantrip]]_
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Innate Spells I.md\|Innate Spells I]]   |
+
 ---
 
 #spell #cantrip  [[Spell]]

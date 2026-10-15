@@ -14,6 +14,9 @@ _\*Wooden [[Club]] or [[Quarterstaff]]_
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #cantrip  [[Spell]]

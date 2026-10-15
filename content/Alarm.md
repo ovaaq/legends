@@ -14,6 +14,14 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, the range of mental alarm or the spell duration is doubled. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Revelation Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]]       |
+
 ---
 
 #spell #1st [[Spell]]

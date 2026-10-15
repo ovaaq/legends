@@ -19,6 +19,10 @@ If you cast this [[Spell]] multiple times, you can have up to three of its effec
 
 **Type**:: [[Alteration Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

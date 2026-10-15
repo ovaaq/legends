@@ -16,6 +16,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Arcane Magic.md\|Arcane Magic]] |
+
 ---
 
 #spell #cantrip  [[Spell]]

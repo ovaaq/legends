@@ -11,6 +11,13 @@ _[[1st Level Spell]]_
 
 This spell doesn't decode secret messages in a text or a glyph, such as arcane sigil, that isn't part of a written language.
 
+**Type**:: [[Revelation Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+
 ---
 
 #spell #1st  [[Spell]]

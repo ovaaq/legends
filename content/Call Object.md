@@ -14,6 +14,13 @@ The object must weigh no more than 5 kg, must be able to fit in one hand, and ca
 
 **Upcasting**:: For each additional mana spent, the range increases by 20 metres. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Distortion Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Divination Spells I.md\|Divination Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

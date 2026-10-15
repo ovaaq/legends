@@ -19,6 +19,10 @@ On a [[Failure]], the target uses its [[Reaction]], to move away from you for it
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]] |
+
 ---
 
 #spell #1st [[Spell]]

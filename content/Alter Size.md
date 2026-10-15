@@ -12,6 +12,11 @@ you can alter its [[Creature Size]] by one so [[Medium]] to [[Small]], or [[Medi
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 
+**Type**:: [[Alteration Magic]]
+
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #2nd [[Spell]]

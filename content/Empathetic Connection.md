@@ -14,6 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #1st [[Spell]]

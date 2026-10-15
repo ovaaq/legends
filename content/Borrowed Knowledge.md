@@ -12,6 +12,10 @@ _[[2nd Level Spell]]_
 
 **Type**:: [[Enchantment Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+
 ---
 
 #spell #2nd   [[Spell]]

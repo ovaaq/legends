@@ -17,6 +17,9 @@ _[[Cantrip]]_
 
 **Type**:: [[Alteration Magic]]
 
+| Related Talents |
+| --------------- |
+
 ---
 
 #spell #cantrip  [[Spell]]

@@ -12,6 +12,12 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Upcasting**:: For each additional 2 mana spent, the duration increases by one turn. You can upcast the spell with a maximum of 4 extra mana.
 
+**Type**:: [[Evocation Magic]]
+
+| Related Talents                                                 |
+| --------------------------------------------------------------- |
+| [[Innate Magic.md\|Innate Magic]] |
+
 ---
 
 #spell #1st [[Spell]]

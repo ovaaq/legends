@@ -12,6 +12,11 @@ _[[Cantrip]]_
 
 **Type**:: [[Alteration Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Draconic Spells I.md\|Draconic Spells I]]     |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
 ---
 
 #spell #cantrip  [[Spell]]
