@@ -11,5 +11,5 @@ _Flavour text_.
 
 ---
 
-#talent
+#talent #arcane #divination
 [[Talent]]
