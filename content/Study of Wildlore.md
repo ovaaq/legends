@@ -5,9 +5,9 @@ _Lore._
 
 you learn [[Summon Familiar]] and it can be any [[Magical Beast]] with [[Power Level]] of 0.
 
-**Tree**:: [[Spellblade Talent Tree]]
+**Tree**:: [[Wildlore Talent Tree]]
 **Group**:: [[Arcane Talent]]
-**Following**:: [[Bladesong]], [[Spellblade Spells I]]
+**Following**:: [[wl1]], [[Wildlore Spells I]]
 
 ---
 

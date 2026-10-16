@@ -1,4 +1,14 @@
-Extended Range\
+[[Extended Spell]]
+[[Delayed Spell]]
+[[Empathetic Spell]]
+[[Careful Spell]]
+[[Heightened Spell]]
+[[Quickened Spell]]
+[[Seeking Spell]]
+[[Subtle Spell]]
+[[Transmuted Spell]]
+[[Twinned Spell]]
+
 Touch Casting\
 Remote Casting\
 Delayed Spell\
@@ -27,4 +37,4 @@ Quickened Spell\
 Slow Release\
 Echo Casting\
 Retroactive Casting
-Emphatetic (other instead of Self)
+Empathetic (other instead of Self)

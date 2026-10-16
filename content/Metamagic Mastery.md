@@ -1,5 +1,5 @@
-**Requirements**:: [[Learn Greater Metamagic Options]]
-**Cost**:: 1 LP
+**Requirements**:: [[Greater Metamagic Options]]
+**Cost**:: 4 LP
 
 _Flavour text_.
 

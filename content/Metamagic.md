@@ -1,5 +1,5 @@
 **Requirements**:: [[Arcane Spellcasting]], [[Divine Spellcasting]], [[Spiritual Spellcasting]], [[Innate Spellcasting]] or [[Pact Spellcasting]]
-**Cost**:: 1 LP
+**Cost**:: 4 LP
 
 _Flavour text_.
 
@@ -7,7 +7,7 @@ Benefit.
 
 **Tree**:: [[Metamagic Talent Tree]]
 **Group**:: [[Spellcasting Talent]]
-**Following**:: [[Learn Metamagic Options]]
+**Following**:: [[Greater Metamagic Options]], [[Increased Metamagic]]
 
 ---
 

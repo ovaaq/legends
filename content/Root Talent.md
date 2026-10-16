@@ -64,7 +64,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Spiritual Talent
 
-|Root Talent2|Tree|Cost|Unlocks|
+|Root Talent1|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Spiritual Connection\|Spiritual Connection]]|[[Spiritual Talent Tree\|Spiritual Talent Tree]]|1 LP|• [[Spiritual Spellcasting\|Spiritual Spellcasting]]  <br>• [[Spirit Guide\|Spirit Guide]]  <br>• [[Ethereal Sight\|Ethereal Sight]]  <br>• [[Essence Flow\|Essence Flow]]  <br>• [[Turn Spirits\|Turn Spirits]]  <br>• [[Path of Beast\|Path of Beast]]  <br>• [[Path of Nature\|Path of Nature]]  <br>• [[Path of Afterlife\|Path of Afterlife]]  <br>• [[Path of Elements\|Path of Elements]]|
-|[[Totem Animal\|Totem Animal]]|[[Beast Talent Tree\|Beast Talent Tree]]|1 LP|—|

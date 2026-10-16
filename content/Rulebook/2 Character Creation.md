@@ -1,4 +1,4 @@
-In **Legends RPG**, you create a classless character. Instead of choosing a class such as fighter, wizard, or rogue, you build your character by choosing [[Talent|Talents]] from multiple [[Talent Tree|Talent Trees]]. You can combine [[Talent|Talents]] in any way you like to create unique characters, such as a potion-brewing shaman warrior or a god-devoted demon hunter.
+In **Legends RPG**, you create your classless character by choosing [[Talent|Talents]] from multiple [[Talent Tree|Talent Trees]]. You can combine [[Talent|Talents]] in any way you like to create unique characters, such as a potion-brewing shaman warrior or a god-devoted demon hunter.
 
 Each [[Talent]] has a cost in a meta currency called [[Legend Point|Legend Points]], or [[Legend Point|LP]] for short. When creating a [[Level]] 1 character, you have 20 LP. You must spend 5 LP on your [[Ancestry|Ancestry Talents]]. You can spend the remaining 15 LP on any [[Talent]] for which you meet the requirements. Each time you [[Level Up]], you gain 5 more LP.
 
