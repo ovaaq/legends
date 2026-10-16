@@ -38,9 +38,9 @@
 [[Check]]
 
 - [[General Skill]]
-- [[Expert Skill]]
+- [[Expertise]]
 
-**Check** = d20 + [[Attribute]] + [[General Skill]] [[Rank]] + possible [[Expert Skill]] [[Rank]]
+**Check** = d20 + [[Attribute]] + [[General Skill]] [[Rank]] + possible [[Expertise]] [[Rank]]
 
 For example:
 

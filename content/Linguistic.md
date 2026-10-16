@@ -2,4 +2,4 @@ Your Acrobatics check covers your attempt to stay on your feet in a tricky situ
 
 ---
 
-#expert_skill [[Expert Skill]]
+#expert_skill [[Expertise]]

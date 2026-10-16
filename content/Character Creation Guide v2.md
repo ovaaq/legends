@@ -26,4 +26,4 @@ You may create your character in any order, but the following sequence is recomm
 ![[2.3 Determine Attributes| no title]]
 
 if you need tips how to do this you can read few example characters being build
-[[Example Characters]]
+[[Building Example Characters]]

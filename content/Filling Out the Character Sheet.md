@@ -37,7 +37,7 @@ After assigning Skill Ranks, calculate the [[Modifier]] for each skill using the
 
 ### Expert Skills
 
-Each [[Expert Skill]] has a [[Rank]] ranging from 1 to 4, as shown in the table below. Record the chosen Skill Rank by colouring in the corresponding bubbles for that Expert Skill on the Character Sheet.
+Each [[Expertise]] has a [[Rank]] ranging from 1 to 4, as shown in the table below. Record the chosen Skill Rank by colouring in the corresponding bubbles for that Expert Skill on the Character Sheet.
 
 | Bubbles | Skill Rank | Modifier | Description |
 | :-----: | :--------: | :------: | :---------: |
@@ -71,12 +71,12 @@ After assigning Saving Throw Ranks, calculate the [[Saving Throw Modifier]] for 
 1. Light / Medium / Heavy Armour Training – _Colour this if you have received training from the [[Armour Talent Tree]]_
 2. Shield Training – _Colour this if you have received training from the [[Armour Talent Tree]]_
 3. Simple / Advanced Weapon Training – _Colour this if you have received training from the [[Weapon Talent Tree]]_
-4. Martial Skill Ranks – _Recorded in the same way as [[Expert Skill]]_
+4. Martial Skill Ranks – _Recorded in the same way as [[Expertise]]_
 
 ### Spellcasting Training
 
 1. Simple / Advanced Focus Training – _Colour this if you have received training from the [[Spellcasting Talent]]._
-2. Spellcasting Skill Ranks – _Recorded in the same way as [[Expert Skill|Expert Skills]]._ _Characters with multiple spellcasting skills record each one separately._
+2. Spellcasting Skill Ranks – _Recorded in the same way as [[Expertise|Expert Skills]]._ _Characters with multiple spellcasting skills record each one separately._
 
 ### Languages
 

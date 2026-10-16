@@ -26,7 +26,7 @@ Legends RPG is a passion project made for my own table and shared freely with ev
 [[0 Introduction]]
 [[1 Core Rules]]
 [[2 Character Creation]]
-[[Example Characters]]
+[[Building Example Characters]]
 
 ### Ready to Play
 

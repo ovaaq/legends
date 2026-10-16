@@ -109,7 +109,7 @@
 | [[Evasion Class.md\|Evasion Class]]                                               |
 | [[Evocation Magic.md\|Evocation Magic]]                                           |
 | [[Exhausted.md\|Exhausted]]                                                       |
-| [[Expert Skill.md\|Expert Skill]]                                                 |
+| [[Expertise.md\|Expertise]]                                                       |
 | [[Explosive.md\|Explosive]]                                                       |
 | [[Failure.md\|Failure]]                                                           |
 | [[Faith Point.md\|Faith Point]]                                                   |
