@@ -2,7 +2,7 @@ _[[Advanced Weapon]], [[Equipment]]_
 
 _Sword for war._
 
-**Weight**:: 1.5kg
+**Weight**:: 1.5 kg
 **Cost**:: 20 gp
 **Category**:: [[Sword]]
 **Properties**:: [[Vicious]], [[Versatile]] (2d8 + [[Strength]])
