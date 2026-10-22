@@ -1,4 +1,4 @@
-**Requirements**:: [[Afterlife Spells I]], [[Channelling]] [[Rank]] 2+
+**Requirements**:: [[Afterlife Spells I]] and [[Channelling]] [[Rank]] 2+
 **Cost**:: 4 LP
 
 _Flavour text_.
@@ -28,24 +28,3 @@ These spells are added to your [[Spiritual Spell List]]:
 
 #talent
 [[Talent]]
-
-- [[Augury]]
-- [[Zone of Truth]]
-- [[Blink]]
-- [[Borrowed Knowledge]]
-- [[Darkness]]
-- [[Crown of Madness]]
-- [[Enthral]]
-- [[Invisibility]]
-- [[Mind Thrust]]
-- [[Mirror Image]]
-- [[Shadow Blade]]
-- [[Suggestion]]
-- [[Healing Spirit]]
-- [[Wither and Bloom]]
-- [[See Invisibility]]
-- [[Phantasmal Force]]
-- [[Mind Spike]]
-- [[Levitate]]
-- [[Gentle Repose]]
-- [[Blur]]

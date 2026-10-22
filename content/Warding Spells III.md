@@ -1,4 +1,4 @@
-**Requirements**:: [[Warding Spells II]], [[Spellcraft]] [[Rank]] 3+
+**Requirements**:: [[Warding Spells II]] and [[Spellcraft]] [[Rank]] 3+
 **Cost**:: 2 LP
 
 _Flavour text_.

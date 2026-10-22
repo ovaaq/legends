@@ -6,7 +6,7 @@ _Flavour text_.
 You ignore one turn - Ignore smoke, gas, or suffocation effects temporarily.
 
 **Tree**:: [[Alchemy Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**::
 
 ---

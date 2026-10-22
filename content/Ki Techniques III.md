@@ -1,4 +1,4 @@
-**Requirements**:: [[Ki Techniques III]]
+**Requirements**:: [[Ki Techniques II]] and [[Martial]] [[Rank]] 3+
 **Cost**:: 1 LP
 
 _Flavour text_.

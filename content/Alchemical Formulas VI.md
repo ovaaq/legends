@@ -1,4 +1,4 @@
-**Requirements**:: [[Alchemical Formulas V]]
+**Requirements**:: [[Alchemical Formulas V]] and [[Alchemy]] [[Rank]] 6+
 **Cost**:: 2 LP
 
 _Flavour text_.
@@ -10,7 +10,7 @@ These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical 
 -
 
 **Tree**:: [[Alchemy Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**::
 
 ---

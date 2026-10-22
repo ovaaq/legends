@@ -15,9 +15,8 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Projection Magic]]
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+| Related Talents |
+| --------------- |
 
 ---
 

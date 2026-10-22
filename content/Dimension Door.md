@@ -15,8 +15,9 @@ You can bring along objects as long as their weight doesn’t exceed what you ca
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells IV.md\|Afterlife Spells IV]] |
 
 ---
 

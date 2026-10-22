@@ -1,4 +1,4 @@
-**Requirements**:: [[Spellthief Spells VI]], [[Spellcraft]] [[Rank]] 6+
+**Requirements**:: [[Spellthief Spells VI]] and [[Spellcraft]] [[Rank]] 6+
 **Cost**:: 1 LP
 
 _Flavour text_.

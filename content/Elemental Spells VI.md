@@ -1,4 +1,4 @@
-**Requirements**:: [[Elemental Spells V]], [[Channelling]] [[Rank]] 6+
+**Requirements**:: [[Elemental Spells V]] and [[Channelling]] [[Rank]] 6+
 **Cost**:: 1 LP
 
 _Flavour text_.

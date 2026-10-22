@@ -44,10 +44,11 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Martial Talent
 
-|Root Talent6|Tree|Cost|Unlocks|
+|Root Talent7|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Battle Rage\|Battle Rage]]|[[Berserk Talent Tree\|Berserk Talent Tree]]|1 LP|—|
 |[[Increased Evasion\|Increased Evasion]]|[[Evasion Talent Tree\|Evasion Talent Tree]]|1 LP|• [[Unarmoured Movement\|Unarmoured Movement]]|
+|[[Ki Unlocked\|Ki Unlocked]]|[[Ki Talent Tree\|Ki Talent Tree]]|1 LP|• [[Focused Aim\|Focused Aim]]  <br>• [[Enduring Body\|Enduring Body]]  <br>• [[Ki Techniques I\|Ki Techniques I]]|
 |[[Light Armour Training\|Light Armour Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Medium Armour Training\|Medium Armour Training]]  <br>• [[Light Armour Master\|Light Armour Master]]|
 |[[Martial Arts\|Martial Arts]]|[[Martial Arts Talent Tree\|Martial Arts Talent Tree]]|1 LP|• [[Ki Techniques I\|Ki Techniques I]]  <br>• [[Focused Aim\|Focused Aim]]  <br>• [[Enduring Body\|Enduring Body]]|
 |[[Shield Training\|Shield Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Shield Master\|Shield Master]]|

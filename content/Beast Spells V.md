@@ -1,4 +1,4 @@
-**Requirements**:: [[Beast Spells IV]], [[Channelling]] [[Rank]] 5+
+**Requirements**:: [[Beast Spells IV]] and [[Channelling]] [[Rank]] 5+
 **Cost**:: 4 LP
 
 _Flavour text_.

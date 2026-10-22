@@ -1,4 +1,4 @@
-**Requirements**:: [[Angelic Spells III]]
+**Requirements**:: [[Angelic Spells III]] and [[Invocation]] [[Rank]] 4+
 **Cost**:: 1 LP
 
 _Flavour text_.

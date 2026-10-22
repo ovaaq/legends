@@ -6,7 +6,7 @@ _Flavour text_.
 Each time you consume a [[Potion]] you gain [[Temporary Hit Point|Temporary Hit Points]] equal to your [[Alchemy]] [[Rank]].
 
 **Tree**:: [[Alchemy Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Toxic Tolerance]]
 
 ---

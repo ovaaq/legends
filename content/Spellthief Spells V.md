@@ -1,4 +1,4 @@
-**Requirements**:: [[Spellthief Spells IV]], [[Spellcraft]] [[Rank]] 5+
+**Requirements**:: [[Spellthief Spells IV]] and [[Spellcraft]] [[Rank]] 5+
 **Cost**:: 1 LP
 
 _Flavour text_.

@@ -19,7 +19,7 @@ These [[Rune|Runes]] are added to your [[Rune List]]. Additionally, choose one [
 | [[Rune of Vitality.md\|Rune of Vitality]]     | Accessories like [[Ring]], [[Necklace]], [[Bracelet]] or [[Earring]] |
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Runes II]]
 
 ---

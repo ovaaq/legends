@@ -1,4 +1,4 @@
-**Requirements**:: [[Runes V]]
+**Requirements**:: [[Runes V]] and [[Runecraft]] [[Rank]] 6+
 **Cost**:: 2 LP
 
 _Flavour text_.
@@ -7,7 +7,7 @@ Benefit.
 [[6th Level Rune]]
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**::
 
 ---

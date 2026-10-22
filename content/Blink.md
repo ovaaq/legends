@@ -1,4 +1,4 @@
-_[[2nd Level Spell]]_
+_[[3rd Level Spell]]_
 
 **Casting**:: [[Reaction]]\*
 **Components**:: F, V, S, M\*
@@ -15,9 +15,9 @@ _\*Which you take when you are hit by an [[Attack]]_
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Afterlife Spells II.md\|Afterlife Spells II]] |
+| Related Talents                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Afterlife Spells III.md\|Afterlife Spells III]] |
 
 ---
 

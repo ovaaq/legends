@@ -6,7 +6,7 @@ _Flavour text_.
 The maximum number of active [[Rune|Runes]] increases by 1.
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Twin Runes]]
 
 ---

@@ -8,7 +8,7 @@ _Flavour text_.
 **Runic Recharge.** You can use an [Action](Action.md) to convert any amount of [Mana](Mana.md) into an equal number of active [[Shield Rune|Shield Runes]].
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Shared Runes]]
 
 ---

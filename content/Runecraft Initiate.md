@@ -14,7 +14,7 @@ Add these [[Rune|Runes]] to your [[Rune List]]:
 - [[Rune of Strength]]
 - [[Rune of Vitality]]
 
-**Runic Knowledge.**  Select two [[1st Level Rune|1st Level Runes]] from your [[Rune List]] and add them to your [[Known Runes List]].
+**Runic Knowledge.** Select two [[1st Level Rune|1st Level Runes]] from your [[Rune List]] and add them to your [[Known Runes List]].
 
 **Inscribe Rune.** By spending 2 hours of work and using 1 [[Mana]] per [[Rune]] level, you can carve a [[Rune]] from [[Known Runes List]] into a [[Non-magical]] [[Object]] that meets the rune’s item description. Upon completion, the [[Object]] becomes a [[Magic Item]] that requires [[Attunement]].
 

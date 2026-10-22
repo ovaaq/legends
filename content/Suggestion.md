@@ -15,10 +15,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Afterlife Spells II.md\|Afterlife Spells II]] |
-| [[Harmony Spells II.md\|Harmony Spells II]]     |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Harmony Spells II.md\|Harmony Spells II]] |
 
 ---
 

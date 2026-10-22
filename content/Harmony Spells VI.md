@@ -1,4 +1,4 @@
-**Requirements**:: [[Harmony Spells V]], [[Prayer]] [[Rank]] 6+
+**Requirements**:: [[Harmony Spells V]] and [[Prayer]] [[Rank]] 6+
 **Cost**:: 1 LP
 
 _Flavour text_.

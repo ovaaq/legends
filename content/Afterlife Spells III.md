@@ -1,4 +1,4 @@
-**Requirements**:: [[Afterlife Spells II]], [[Channelling]] [[Rank]] 3+
+**Requirements**:: [[Afterlife Spells II]] and [[Channelling]] [[Rank]] 3+
 **Cost**:: 4 LP
 
 _Flavour text_.
@@ -18,7 +18,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Major Image]]
 - [[Bestow Curse]]
 - [[Feign Death]]
--
+- [[Blink]]
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

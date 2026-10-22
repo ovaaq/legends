@@ -42,7 +42,7 @@ These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical 
 | [[White Arsenic Formula.md\|White Arsenic Formula]]                             |
 
 **Tree**:: [[Alchemy Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Alchemical Formulas II]]
 
 ---

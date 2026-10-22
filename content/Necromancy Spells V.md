@@ -1,4 +1,4 @@
-**Requirements**:: [[Necromancy Spells IV]], [[Spellcraft]] [[Rank]] 5+
+**Requirements**:: [[Necromancy Spells IV]] and [[Spellcraft]] [[Rank]] 5+
 **Cost**:: 2 LP
 
 _Flavour text_.

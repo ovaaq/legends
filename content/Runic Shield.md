@@ -8,7 +8,7 @@ _Flavour text_.
 **Absorb Harm.** Whenever you take [Damage](Damage.md) from an attack, hazard, or spell, you can use a [Reaction](Reaction.md) to expend any number of active [[Shield Rune|Shield Runes]], rolling 1d6 for each rune expended. You subtract the total from the damage dealt by the attack, hazard, or spell.
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Runic Recharge]]
 
 ---

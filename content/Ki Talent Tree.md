@@ -1,12 +1,13 @@
-- [[Light Armour Training]]
-  - [[Light Armour Master]]
-  - [[Medium Armour Training]]
-    - [[Medium Armour Master]]
-    - [[Heavy Armour Training]]
-      - [[Heavy Armour Master]]
-
-- [[Shield Training]]
-  - [[Shield Master]]
+- [[Ki Unlocked]]
+  - [[Focused Aim]]
+    - [[Stillness of Mind]]
+      - [[Diamond Soul]]
+  - [[Enduring Body]]
+    - [[Balanced Step]]
+      - [[Perfect Form]]
+  - [[Ki Techniques I]]
+    - [[Ki Techniques II]]
+      - [[Ki Techniques III]]
 
 **Theme**:: Effective use of armour and shields.
 **Group**:: [[Martial Talent]]

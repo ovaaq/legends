@@ -1,11 +1,11 @@
-**Requirements**:: [[Martial Techniques I]]
+**Requirements**:: [[Martial Techniques I]] and [[Martial]] [[Rank]] 2+
 **Cost**:: 3 LP
 
 _Flavour text_.
 
 **New Techniques.** Select one [[2nd Level Martial technique|2nd Level Martial Techniques]] and add it to your list of [[Learned Martial Techniques]]. These techniques are listed below:
 
-| 1st Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                            | Type                                                                          |
+| 2nd Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                            | Type                                                                          |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [[Blinding Strike.md\|Blinding Strike]]           | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Coordinated Movement.md\|Coordinated Movement]] | [[Action.md\|Action]]               | 2       | 10 metres | None                                              | [[Support Technique.md\|Support Technique]]     |

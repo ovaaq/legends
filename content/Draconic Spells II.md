@@ -1,4 +1,4 @@
-**Requirements**:: [[Draconic Spells I]]
+**Requirements**:: [[Draconic Spells I]] and [[Invocation]] [[Rank]] 2+
 **Cost**:: 1 LP
 
 _Flavour text_.

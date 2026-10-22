@@ -6,7 +6,7 @@ _Flavour text_.
 You can imbue one [[Object]] with two [[Rune|Runes]] instead of one.
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**::
 
 ---

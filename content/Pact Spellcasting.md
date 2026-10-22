@@ -1,4 +1,4 @@
-**Requirements**:: Has Patron
+**Requirements**:: [[Angelic Pact]], [[Devilish Pact]], [[Draconic Pact]] or [[Symbiote Pact]]
 **Cost**:: 4 LP
 
 _Flavour text_.
@@ -21,8 +21,8 @@ These spells are added to your [[Innate Spell List]]:
 
 **Casting Spells.** You can cast any spell listed in your [[Learned Pact Spells]] list.
 
-**[[Spell Save DC]]** = 10 + [[Invocation]] [[Rank]]
-**[[Spell Attack Modifier]]** = [[Invocation]] [[Rank]] + 2
+**[[Spell Save DC]]** = 11 + [[Invocation]] [[Rank]]
+**[[Spell Attack Modifier]]** = [[Invocation]] [[Rank]] + 3
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]

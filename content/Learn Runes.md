@@ -6,7 +6,7 @@ _Flavour text_.
 Choose two [[Rune|Runes]] from the [[Rune List]] and add them to your [[Known Runes List]].
 
 **Tree**:: [[Runecraft Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**::
 
 ---

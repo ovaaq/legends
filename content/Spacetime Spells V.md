@@ -1,4 +1,4 @@
-**Requirements**:: [[Spacetime Spells IV]], [[Spellcraft]] [[Rank]] 5+
+**Requirements**:: [[Spacetime Spells IV]] and [[Spellcraft]] [[Rank]] 5+
 **Cost**:: 2 LP
 
 _Flavour text_.

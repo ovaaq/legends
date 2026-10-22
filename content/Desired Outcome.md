@@ -19,7 +19,7 @@ _Flavour text_.
 | 12  |                                                                                                            |
 
 **Tree**:: [[Alchemy Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**::
 
 ---

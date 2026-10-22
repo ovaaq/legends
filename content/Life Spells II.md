@@ -1,4 +1,4 @@
-**Requirements**:: [[Life Spells I]], [[Prayer]] [[Rank]] 2+
+**Requirements**:: [[Life Spells I]]     and [[Prayer]] [[Rank]] 2+
 **Cost**:: 4 LP
 
 _Flavour text_.

@@ -1,4 +1,4 @@
-**Requirements**:: [[Nature Spells I]], [[Channelling]] [[Rank]] 2+
+**Requirements**:: [[Nature Spells I]] and [[Channelling]] [[Rank]] 2+
 **Cost**:: 1 LP
 
 _Flavour text_.

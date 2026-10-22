@@ -129,7 +129,7 @@ Movement Types
 | [[Deliver Potion.md\|Deliver Potion]]         | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Disarm.md\|Disarm]]                         | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Dodge.md\|Dodge]]                           | [[Double Action.md\|Double Action]] | -                                                           |
-| [[01 - Projects/3 Game Master/Escape.md\|Escape]]                           | [[Double Action.md\|Double Action]] | -                                                           |
+| [[Escape.md\|Escape]]                         | [[Double Action.md\|Double Action]] | -                                                           |
 | [[First Aid.md\|First Aid]]                   | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Grapple.md\|Grapple]]                       | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Hide.md\|Hide]]                             | [[Double Action.md\|Double Action]] | -                                                           |
@@ -169,7 +169,7 @@ Movement Types
 | ------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
 | [[Carry.md\|Carry]]                   | [[Action.md\|Action]] | Carry or drag someone or something while you move. |
 | [[Dash.md\|Dash]]                     | -                                                  | -                                                 |
-| [[01 - Projects/3 Game Master/Escape.md\|Escape]]                   | -                                                  | -                                                 |
+| [[Escape.md\|Escape]]                 | -                                                  | -                                                 |
 | [[Fall Prone.md\|Fall Prone]]         | -                                                  | -                                                 |
 | [[Jump.md\|Jump]]                     | -                                                  | -                                                 |
 | [[Sprint.md\|Sprint]]                 | -                                                  | -                                                 |

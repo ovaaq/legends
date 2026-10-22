@@ -104,7 +104,7 @@
 | [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                                 |
 | [[Entangling.md\|Entangling]]                                                     |
 | [[Equipment.md\|Equipment]]                                                       |
-| [[01 - Projects/3 Game Master/Escape.md\|Escape]]                                                               |
+| [[Escape.md\|Escape]]                                                             |
 | [[Ethereal Damage.md\|Ethereal Damage]]                                           |
 | [[Evasion Class.md\|Evasion Class]]                                               |
 | [[Evocation Magic.md\|Evocation Magic]]                                           |

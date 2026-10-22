@@ -1,4 +1,4 @@
-**Requirements**:: [[Divination Spells III]], [[Spellcraft]] [[Rank]] 4+
+**Requirements**:: [[Divination Spells III]] and [[Spellcraft]] [[Rank]] 4+
 **Cost**:: 2 LP
 
 _Flavour text_.

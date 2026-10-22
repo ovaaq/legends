@@ -1,4 +1,4 @@
-**Requirements**:: [[Martial Techniques II]]
+**Requirements**:: [[Martial Techniques II]] and [[Martial]] [[Rank]] 3+
 **Cost**:: 3 LP
 
 _Flavour text_.

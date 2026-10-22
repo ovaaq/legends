@@ -1,4 +1,4 @@
-**Requirements**:: [[Elemental Spells III]], [[Channelling]] [[Rank]] 4+
+**Requirements**:: [[Elemental Spells III]] and [[Channelling]] [[Rank]] 4+
 **Cost**:: 1 LP
 
 _Flavour text_.
