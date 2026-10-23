@@ -16,6 +16,8 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Shadow of Moil]]
 - [[Sickening Radiance]]
 - [[Spirit of Death]]
+- [[Nightmare]]
+- [[Death Ward]]
 -
 
 **Tree**:: [[Afterlife Talent Tree]]

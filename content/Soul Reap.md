@@ -1,4 +1,4 @@
-**Requirements**:: [[Tales of Afterlife]]
+**Requirements**:: [[Soul Siphon]]
 **Cost**:: 1 LP
 
 _Flavour text_.

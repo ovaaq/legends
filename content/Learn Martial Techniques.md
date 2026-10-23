@@ -1,4 +1,4 @@
-**Requirements**:: [[Simple Weapon Training]]
+**Requirements**:: [[Martial Initiate]]
 **Cost**:: 1 LP
 
 _Flavour text_.

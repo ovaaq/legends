@@ -11,7 +11,7 @@ we select nice backgronud to boost those attributes
 
 ### Talents
 
-[[Simple Weapon Training]]
+[[Martial Initiate]]
 [[Advanced Weapon Training]]
 (2/15) to wield all weapons possible
 

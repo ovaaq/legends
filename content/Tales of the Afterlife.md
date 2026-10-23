@@ -5,6 +5,15 @@ _Flavour text_.
 
 Benefit.
 
+**Tale of the Brute**
+**Tale of the Traveller**
+**Tale of the Avenger**
+**Tale of the Friends**
+Tale of the Betrayed
+Tale of the Bride
+Tale of the Warrior
+Tale of the Martyr
+
 | Roll | Effect |
 | ---- | ------ |
 | 1    |        |

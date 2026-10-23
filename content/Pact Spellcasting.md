@@ -22,7 +22,7 @@ These spells are added to your [[Innate Spell List]]:
 **Casting Spells.** You can cast any spell listed in your [[Learned Pact Spells]] list.
 
 **[[Spell Save DC]]** = 11 + [[Invocation]] [[Rank]]
-**[[Spell Attack Modifier]]** = [[Invocation]] [[Rank]] + 3
+**[[Spell Attack Modifier]]** = 3 + [[Invocation]] [[Rank]]
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]

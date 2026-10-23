@@ -100,6 +100,7 @@
 | [[Dying.md\|Dying]]                                                               |
 | [[Elemental Damage.md\|Elemental Damage]]                                         |
 | [[Enchantment Magic.md\|Enchantment Magic]]                                       |
+| [[Encounter.md\|Encounter]]                                                       |
 | [[Encounter Action.md\|Encounter Action]]                                         |
 | [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                                 |
 | [[Entangling.md\|Entangling]]                                                     |

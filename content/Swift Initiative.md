@@ -5,7 +5,7 @@ _Flavour._
 
 You gain 1 additional [[Haste Point]].
 
-You gain a +3 bonus to your [[Initiative]] [[Check]] result.
+You gain 1d4 bonus to your [[Initiative]] [[Check]].
 
 **Tree**:: [[Haste Talent Tree]]
 **Group**:: [[General Talent]]

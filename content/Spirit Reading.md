@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain 2 additional [[Spirit Point|Spirit Points]].
+You gain 1 additional [[Spirit Point]].
 
 Benefit.
 

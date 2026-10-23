@@ -16,7 +16,7 @@ These are the martial masters that now how to use weapons and armour to the maxi
 - [[Medium Armour Training]]
 - [[Shield Training]]
 - [[Heavy Armour Training]]
-- [[Simple Weapon Training]]
+- [[Martial Initiate]]
 - [[Advanced Weapon Training]]
 - [[Increased Health]]
 - [[Fighting Stances]]

@@ -1,4 +1,4 @@
-[[Simple Weapon Training]] -> you can wield simple weapons
+[[Martial Initiate]] -> you can wield simple weapons
 [[Advanced Weapon Training]] -> you can wield advanced weapons
 [[Simple Focus Training]] -> you can wield 1h focus
 [[Advanced Focus Training]] -> you can wield 2h focus ( eg. staff) or 1h focus + 1h focus (eg. wand + wand)
@@ -19,28 +19,28 @@ dual wielding
 |                  Combination                  | Focus | Somatic | Magic Bonus |   Melee    |   Ranged   |                                  Required Talents                                   |
 | :-------------------------------------------: | :---: | :-----: | :---------: | :--------: | :--------: | :---------------------------------------------------------------------------------: |
 |                   2h focus                    |  Yes  |   Yes   |     +1      |     -      |     -      |                             [[Advanced Focus Training]]                             |
-|                2h melee weapon                |   -   |    -    |      -      |    hit     |     -      | [[Simple Focus Training]],[[Simple Weapon Training]], [[Advanced Weapon Training]]  |
-|               2h ranged weapon                |   -   |    -    |      -      |     -      |    hit     | [[Simple Focus Training]],[[Simple Weapon Training]], [[Advanced Weapon Training]]  |
+|                2h melee weapon                |   -   |    -    |      -      |    hit     |     -      | [[Simple Focus Training]],[[Martial Initiate]], [[Advanced Weapon Training]]  |
+|               2h ranged weapon                |   -   |    -    |      -      |     -      |    hit     | [[Simple Focus Training]],[[Martial Initiate]], [[Advanced Weapon Training]]  |
 |                 empty handed                  |   -   |   Yes   |      -      |   punch    |     -      |                                          -                                          |
 |                   1h focus                    |  Yes  |   Yes   |      -      |   punch    |     -      |                              [[Simple Focus Training]]                              |
-|             1h light melee weapon             |   -   |   Yes   |      -      | hit, punch |   throw    |              [[Simple Weapon Training]], [[Advanced Weapon Training]]               |
-|                1h melee weapon                |   -   |   Yes   |      -      | hit, punch |     -      |              [[Simple Weapon Training]], [[Advanced Weapon Training]]               |
-|               1h ranged weapon                |   -   |   Yes   |      -      |   punch    |    hit     |              [[Simple Weapon Training]], [[Advanced Weapon Training]]               |
+|             1h light melee weapon             |   -   |   Yes   |      -      | hit, punch |   throw    |              [[Martial Initiate]], [[Advanced Weapon Training]]               |
+|                1h melee weapon                |   -   |   Yes   |      -      | hit, punch |     -      |              [[Martial Initiate]], [[Advanced Weapon Training]]               |
+|               1h ranged weapon                |   -   |   Yes   |      -      |   punch    |    hit     |              [[Martial Initiate]], [[Advanced Weapon Training]]               |
 |                    Shield                     |   -   |   Yes   |      -      |   punch    |     -      |                                 [[Shield Training]]                                 |
 |              1h focus + 1h focus              |  Yes  |   Yes   |     +1      |     -      |     -      |                             [[Advanced Focus Training]]                             |
-|       1h focus + 1h light melee weapon        |  Yes  |   Yes   |      -      |    hit     |   throw    | [[Simple Focus Training]], [[Simple Weapon Training]], [[Advanced Weapon Training]] |
-|            1h focus + melee weapon            |  Yes  |   Yes   |      -      |    hit     |     -      | [[Simple Focus Training]], [[Simple Weapon Training]], [[Advanced Weapon Training]] |
-|          1h focus + 1h ranged weapon          |  Yes  |   Yes   |      -      |     -      |    hit     | [[Simple Focus Training]], [[Simple Weapon Training]], [[Advanced Weapon Training]] |
+|       1h focus + 1h light melee weapon        |  Yes  |   Yes   |      -      |    hit     |   throw    | [[Simple Focus Training]], [[Martial Initiate]], [[Advanced Weapon Training]] |
+|            1h focus + melee weapon            |  Yes  |   Yes   |      -      |    hit     |     -      | [[Simple Focus Training]], [[Martial Initiate]], [[Advanced Weapon Training]] |
+|          1h focus + 1h ranged weapon          |  Yes  |   Yes   |      -      |     -      |    hit     | [[Simple Focus Training]], [[Martial Initiate]], [[Advanced Weapon Training]] |
 |               1h focus + shield               |  Yes  |   Yes   |      -      |     -      |     -      |                   [[Simple Focus Training]], [[Shield Training]]                    |
-| 1h light melee weapon + 1h light melee weapon |   -   |    -    |      -      |    hit     |   throw    |              [[Simple Weapon Training]], [[Advanced Weapon Training]]               |
-|    1h light melee weapon + 1h melee weapon    |   -   |    -    |      -      |    hit     |   throw    |              [[Simple Weapon Training]], [[Advanced Weapon Training]]               |
-|   1h light melee weapon + 1h ranged weapon    |   -   |    -    |      -      |    hit     | throw, hit |              [[Simple Weapon Training]], [[Advanced Weapon Training]]               |
-|        1h light melee weapon + shield         |   -   |    -    |      -      |    hit     |   throw    |    [[Simple Weapon Training]], [[Advanced Weapon Training]], [[Shield Training]]    |
-|       1h melee weapon + 1h melee weapon       |   -   |    -    |      -      |    hit     |     -      |   [[Simple Weapon Training]], [[Advanced Weapon Training]], [[Twinblade Master]]    |
-|    1h melee weapon + 1h light melee weapon    |   -   |    -    |      -      |    hit     |   throw    |     [[Simple Weapon Training]], [[Advanced Weapon Training]], [[Dual Wielder]]      |
-|           1h melee weapon + shield            |   -   |    -    |      -      |    hit     |     -      |    [[Simple Weapon Training]], [[Advanced Weapon Training]], [[Shield Training]]    |
-|      1h ranged weapon + 1h ranged weapon      |   -   |    -    |      -      |     -      |    hit     |       [[Simple Weapon Training]], [[Advanced Weapon Training]], [[Arbalist]]        |
-|           1h ranged weapon + shield           |   -   |    -    |      -      |     -      |    hit     |    [[Simple Weapon Training]], [[Advanced Weapon Training]], [[Shield Training]]    |
+| 1h light melee weapon + 1h light melee weapon |   -   |    -    |      -      |    hit     |   throw    |              [[Martial Initiate]], [[Advanced Weapon Training]]               |
+|    1h light melee weapon + 1h melee weapon    |   -   |    -    |      -      |    hit     |   throw    |              [[Martial Initiate]], [[Advanced Weapon Training]]               |
+|   1h light melee weapon + 1h ranged weapon    |   -   |    -    |      -      |    hit     | throw, hit |              [[Martial Initiate]], [[Advanced Weapon Training]]               |
+|        1h light melee weapon + shield         |   -   |    -    |      -      |    hit     |   throw    |    [[Martial Initiate]], [[Advanced Weapon Training]], [[Shield Training]]    |
+|       1h melee weapon + 1h melee weapon       |   -   |    -    |      -      |    hit     |     -      |   [[Martial Initiate]], [[Advanced Weapon Training]], [[Twinblade Master]]    |
+|    1h melee weapon + 1h light melee weapon    |   -   |    -    |      -      |    hit     |   throw    |     [[Martial Initiate]], [[Advanced Weapon Training]], [[Dual Wielder]]      |
+|           1h melee weapon + shield            |   -   |    -    |      -      |    hit     |     -      |    [[Martial Initiate]], [[Advanced Weapon Training]], [[Shield Training]]    |
+|      1h ranged weapon + 1h ranged weapon      |   -   |    -    |      -      |     -      |    hit     |       [[Martial Initiate]], [[Advanced Weapon Training]], [[Arbalist]]        |
+|           1h ranged weapon + shield           |   -   |    -    |      -      |     -      |    hit     |    [[Martial Initiate]], [[Advanced Weapon Training]], [[Shield Training]]    |
 |                shield + shield                |   -   |    -    |      -      |     -      |     -      |                                 [[Shield Training]]                                 |
 
 | NA  | example                         | Combination                          | Magic                 | Melee      | Ranged     |

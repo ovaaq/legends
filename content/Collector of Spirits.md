@@ -7,7 +7,7 @@ Benefit.
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Warden of Spirits]]
+**Following**:: [[Keeper of Stories]]
 
 ---
 

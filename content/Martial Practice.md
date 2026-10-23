@@ -1,4 +1,4 @@
-**Requirements**:: [[Simple Weapon Training]]
+**Requirements**:: [[Martial Initiate]]
 **Cost**:: 2 LP
 
 _With great work you hone your skills in martial weaponry. Finding way to total mastery._

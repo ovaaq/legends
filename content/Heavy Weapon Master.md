@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Benefit.
+Once per attack you can reroll your damage roll.
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]

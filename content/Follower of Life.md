@@ -5,7 +5,7 @@ _Flavour text_.
 
 You gain 1 additional [[Faith Point]].
 
-**Divine Gift: Endless Mercy.** Whenever you deal [[Damage]], you can choose it to be [[Non-lethal Damage]].
+**Divine Gift: Endless Mercy.** When evever you heal creature to the max hit points you can choose to give overflow heal to it or you as temporary hit points.
 
 **Commandments of Harmony.** These are the commandments that every follower of Harmony must follow. Sacrilege leads to loss of powers if you do not confess and atone your disobedience in a way that pleases deity.
 

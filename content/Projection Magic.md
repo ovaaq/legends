@@ -16,8 +16,8 @@ _Strand of magic that creates observable experiences._
 | [[Animate Dead.md\|Animate Dead]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Major Image.md\|Major Image]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Phantom Steed.md\|Phantom Steed]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
-| [[Revivify.md\|Revivify]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Speak with Dead.md\|Speak with Dead]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Speak with Spirit.md\|Speak with Spirit]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Spirit Guardians.md\|Spirit Guardians]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 
 ---

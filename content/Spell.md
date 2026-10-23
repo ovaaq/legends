@@ -229,16 +229,59 @@
 | [[Negate Strike.md\|Negate Strike]]                                       | [[Reaction]]\*                                                     | F, V, S     | 3    | Self         | Instant                                                                       |
 | [[Phantom Steed.md\|Phantom Steed]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres    | Instantaneous                                                                 |
 | [[Ray of Ruin.md\|Ray of Ruin]]                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres    | Instantaneous                                                                 |
-| [[Revivify.md\|Revivify]]                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres    | Instantaneous                                                                 |
 | [[Speak with Dead.md\|Speak with Dead]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres    | Instantaneous                                                                 |
+| [[Speak with Spirit.md\|Speak with Spirit]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres    | Instantaneous                                                                 |
 | [[Spirit Guardians.md\|Spirit Guardians]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres    | Instantaneous                                                                 |
 | [[Thunder Step.md\|Thunder Step]]                                         | [[Double Action.md\|Double Action]] | V, S        | 3    | 40 metres    | Instantaneous                                                                 |
 | [[Blazing Step.md\|Blazing Step]]                                         | [[Double Action.md\|Double Action]] | V, S        | 4    | 20 metres    | Instantaneous                                                                 |
 | [[Dimension Door.md\|Dimension Door]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 4    | 40 metres    | Instantaneous                                                                 |
 | [[Reflect Magic.md\|Reflect Magic]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres    | Instantaneous                                                                 |
+| [[Revivify.md\|Revivify]]                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres    | Instantaneous                                                                 |
 | [[Time Skip Spell.md\|Time Skip Spell]]                                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres    | Instant                                                                       |
 | [[Faerie Fire.md\|Faerie Fire]]                                           | -                                                                | -          | \*\* 2 | \*\* 20 meters | [[Concentration.md\|Concentration]], 1 minute   |
 
 ---
 
 #keyword
+
+[Parasite](https://www.dandwiki.com/wiki/Blood_Parasite_\(5e_Spell\) "Blood Parasite (5e Spell)")
+[Bloody Sacrifice](https://www.dandwiki.com/wiki/Bloody_Sacrifice_\(5e_Spell\) "Bloody Sacrifice (5e Spell)")
+[Cure Disease](https://www.dandwiki.com/wiki/Cure_Disease_\(5e_Spell\) "Cure Disease (5e Spell)")
+[[Eavesdrop]]
+[[Freeze Area]]
+[Ice Spear](https://www.dandwiki.com/wiki/Ice_Spear_\(5e_Spell\) "Ice Spear (5e Spell)")
+[[Greater Familiar]]
+[[Haste]]
+[[Mana Siphon]]
+[Stasis](https://www.dandwiki.com/wiki/Stasis_\(5e_Spell\) "Stasis (5e Spell)")
+[Sunlight](https://www.dandwiki.com/wiki/Sunlight_\(5e_Spell\) "Sunlight (5e Spell)")
+[Thunder Fist](https://www.dandwiki.com/wiki/Thunder_Fist_\(5e_Spell\) "Thunder Fist (5e Spell)")
+[[Chain Lightning]]
+[Wall of Vines](https://www.dandwiki.com/wiki/Wall_of_Vines_\(5e_Spell\) "Wall of Vines (5e Spell)")
+[[Death Ward]]
+[[Flamestrike]]
+[Lava Burst](https://www.dandwiki.com/wiki/Lava_Burst_\(5e_Spell\) "Lava Burst (5e Spell)")
+[Lethargy](https://www.dandwiki.com/wiki/Lethargy_\(5e_Spell\) "Lethargy (5e Spell)")
+[Life Drain](https://www.dandwiki.com/wiki/Life_Drain_\(5e_Spell\) "Life Drain (5e Spell)")
+[[Soul Cage]]
+[[Summon Guard]]
+[[Accelerate]]
+[Arc of Lightning](https://www.dandwiki.com/wiki/Arc_of_Lightning_\(5e_Spell\) "Arc of Lightning (5e Spell)")
+[Drain](https://www.dandwiki.com/wiki/Drain_\(5e_Spell\) "Drain (5e Spell)")
+[Maelstrom](https://www.dandwiki.com/wiki/Elemental_Maelstrom_\(5e_Spell\) "Elemental Maelstrom (5e Spell)")
+[Flesh Clone](https://www.dandwiki.com/wiki/Flesh_Clone_\(5e_Spell\) "Flesh Clone (5e Spell)")
+[Permanency](https://www.dandwiki.com/wiki/Permanency_\(5e_Spell\) "Permanency (5e Spell)")
+[Acid Fog](https://www.dandwiki.com/wiki/Acid_Fog_\(5e_Spell\) "Acid Fog (5e Spell)")
+[[Erase Mind]]
+[Regeneration](https://www.dandwiki.com/wiki/Regeneration_\(5e_Spell\) "Regeneration (5e Spell)")
+[Sandstorm](https://www.dandwiki.com/wiki/Sandstorm_\(5e_Spell\) "Sandstorm (5e Spell)")
+[Alter Terrain](https://www.dandwiki.com/wiki/Alter_Terrain_\(5e_Spell\) "Alter Terrain (5e Spell)")
+[Bafflement](https://www.dandwiki.com/wiki/Bafflement_\(5e_Spell\) "Bafflement (5e Spell)")
+[Bound Item](https://www.dandwiki.com/wiki/Bound_Item_\(5e_Spell\) "Bound Item (5e Spell)")
+[[Ice Claws]]
+[[Hail]]
+[Heatvision](https://www.dandwiki.com/wiki/Heatvision_\(5e_Spell\) "Heatvision (5e Spell)")
+[Mind Whip](https://www.dandwiki.com/wiki/Mind_Whip_\(5e_Spell\) "Mind Whip (5e Spell)")
+[Omen](https://www.dandwiki.com/wiki/Omen_\(5e_Spell\) "Omen (5e Spell)")
+[[Copy Corpse]]
+[Ward](https://www.dandwiki.com/wiki/Ward_\(5e_Spell\) "Ward (5e Spell)")

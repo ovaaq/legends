@@ -3,9 +3,9 @@
 
 _Flavour text_.
 
-You gain 2 additional [[Spirit Point|Spirit Points]].
+You gain 1 additional [[Spirit Point]].
 
-**Essence Flow.** As a [[Double Action]], you touch a [[Creature]] and channel spiritual energy to restore its essence. For each [[Spirit Point]] you spend, you restore 1 [[Mana]] or 1 [[Stamina Point]] to the target.
+**Essence Flow.** As a [[Double Action]], you touch a [[Creature]] and channel spiritual energy to restore its essence. For each [[Spirit Point]] you spend, you restore 1 [[Mana]] or 2 [[Stamina Point|Stamina Points]] to the target.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -7,7 +7,7 @@ When using a [[Crossbow]], you ignore the [[Loading]] property, and shooting at 
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Crossbow Master]]
+**Following**:: [[Crossbow Master]], [[Sharpshooter]]
 
 ---
 

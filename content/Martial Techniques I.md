@@ -1,4 +1,4 @@
-**Requirements**:: [[Simple Weapon Training]]
+**Requirements**:: [[Martial Initiate]]
 **Cost**:: 3 LP
 
 _Years of training have taught you how to perform combat techniques that ordinary warriors cannot replicate._

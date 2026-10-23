@@ -10,6 +10,7 @@ _Strand of magic that x._
 | [[Healing Spirit.md\|Healing Spirit]]         | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
 | [[Lesser Restoration.md\|Lesser Restoration]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                               |
 | [[Prayer of Healing.md\|Prayer of Healing]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                               |
+| [[Revivify.md\|Revivify]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instantaneous                                                               |
 
 ---
 

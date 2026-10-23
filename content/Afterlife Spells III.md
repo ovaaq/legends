@@ -13,7 +13,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Life Steal]]
 - [[Remove Curse]]
 - [[Fear]]
-- [[Revivify]]
+- [[Speak with Spirit]]
 - [[Phantom Steed]]
 - [[Major Image]]
 - [[Bestow Curse]]

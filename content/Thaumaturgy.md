@@ -21,7 +21,6 @@ If you cast this [[Spell]] multiple times, you can have up to three of its effec
 | Related Talents                                                                     |
 | ----------------------------------------------------------------------------------- |
 | [[Divine Spellcasting.md\|Divine Spellcasting]]       |
-| [[Path of Afterlife.md\|Path of Afterlife]]           |
 | [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---

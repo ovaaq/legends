@@ -74,6 +74,7 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 ### Spiritual Talent Trees
 
 - [[Afterlife Talent Tree|Afterlife Talent Tree]] - Communicating with spirits from afterlife.
+- [[Ancestral Talent Tree|Ancestral Talent Tree]] - Communicating with past ancestry clan.
 - [[Beast Talent Tree|Beast Talent Tree]] - Living among the beasts and their animal spirits.
 - [[Elemental Talent Tree|Elemental Talent Tree]] - Channelling of elemental spirits and powers.
 - [[Nature Talent Tree|Nature Talent Tree]] - Communicating with nature spirits of forests and other.

@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain 2 additional [[Spirit Point|Spirit Points]].
+You gain 1 additional [[Spirit Point]].
 
 **Ethereal Sight.** As an [[Double Action]], you can spend 1 [[Spirit Point]] to look into the [[Ethereal Plane]] for 10 minutes. During this time, [[Invisible]] [[Spirit|Spirits]] appear ghostly and translucent within 40 meters.
 

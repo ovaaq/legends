@@ -1,4 +1,4 @@
-- [[Simple Weapon Training]]
+- [[Martial Initiate]]
   - [[Martial Practice]]
   - [[Fighting Stances]]
     - [[Advanced Fighting Stances]]

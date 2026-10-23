@@ -1,4 +1,4 @@
-**Requirements**:: [[Simple Weapon Training]]
+**Requirements**:: [[Martial Initiate]]
 **Cost**:: 4 LP
 
 _You have practised the basics of weaponry. Now, your path to martial excellence begins._
