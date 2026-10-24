@@ -1,8 +1,8 @@
-_[[X Level Spell]]_
+_[[4th Level Spell]]_
 
 **Casting**:: **▶▶▶⚡〇**
 **Components**:: F, V, S, M\*
-**Mana**:: 0
+**Mana**:: 4
 **Range**:: 20 metres
 **Duration**:: Instant
 
@@ -14,6 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Conjuration Magic]]
 
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells IV.md\|Afterlife Spells IV]] |
+
 ---
 
-#spell #template [[Spell]]
+#spell #4th [[Spell]]

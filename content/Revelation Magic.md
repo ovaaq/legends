@@ -2,6 +2,7 @@ _Strand of magic that x._
 
 | Spell                                                                           | Casting                                                           | Components  | Mana | Range     | Duration                                                                      |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ----------------------------------------------------------------------------- |
+| [[Reveal Magic.md\|Reveal Magic]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Alarm.md\|Alarm]]                               | 1 minute                                                          | F, V, S     | 1    | 10 metres | 8 hours                                                                       |
 | [[Comprehend Languages.md\|Comprehend Languages]] | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | 1 hour                                                                        |
 | [[Detect Ethereal.md\|Detect Ethereal]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
@@ -11,6 +12,7 @@ _Strand of magic that x._
 | [[Augury.md\|Augury]]                             | [[Triple Action.md\|Triple Action]] | S, M\*       | 2    | Self      | Instant                                                                       |
 | [[Detect Thoughts.md\|Detect Thoughts]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
 | [[See Invisibility.md\|See Invisibility]]         | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | 1 hour                                                                        |
+| [[Trace.md\|Trace]]                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Zone of Truth.md\|Zone of Truth]]               | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
 
 ---

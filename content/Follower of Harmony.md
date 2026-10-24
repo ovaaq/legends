@@ -15,7 +15,7 @@ You gain 1 additional [[Faith Point]].
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]
-**Following**:: [[hr1]], [[ha1]], [[hp1]], [[Harmony Spells I]]
+**Following**:: [[Voice of Reason]], [[Suppress Extremes]], [[hp1]], [[Harmony Spells I]]
 
 ---
 

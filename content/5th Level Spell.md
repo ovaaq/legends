@@ -1,6 +1,6 @@
-| Cantrip                                                         | Casting                                                           | Components  | Mana | Range     | Duration      |
-| --------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ------------- |
-| [[Resurrection.md\|Resurrection]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
-| [[Teleport.md\|Teleport]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous |
+| Cantrip                                                       | Casting                                                           | Components  | Mana | Range     | Duration      |
+| ------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ------------- |
+| [[Flamestrike.md\|Flamestrike]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant       |
+| [[Teleport.md\|Teleport]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instantaneous |
 
 ---

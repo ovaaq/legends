@@ -33,8 +33,8 @@ These spells are added to your [[Divine Spell List]]:
 
 **Casting Spells.** You can cast any spell listed in your [[Prepared Divine Spells]].
 
-**[[Spell Save DC]]** = 8 + [[Prayer]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Prayer]] [[Rank]] + [[Sorcery]]
+**[[Spell Save DC]]** = 8 + [[Sorcery]] + [[Prayer]] [[Rank]]
+**[[Spell Attack Modifier]]** = [[Sorcery]] + [[Prayer]] [[Rank]]
 
 **Holy Symbol.** You can use a one handed [[Holy Symbol]] as a [[Simple Focus]] for your spellcasting, or or two handed [[Staff]] with [[Holy Symbol]] as an [[Advanced Focus]].
 

@@ -1,8 +1,8 @@
-_[[X Level Spell]]_
+_[[3rd Level Spell]]_
 
-**Casting**:: **▶▶▶⚡〇**
+**Casting**:: [[Double Action]]
 **Components**:: F, V, S, M\*
-**Mana**:: 0
+**Mana**:: 3
 **Range**:: 20 metres
 **Duration**:: Instant
 
@@ -19,4 +19,4 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 ---
 
-#spell #template [[Spell]]
+#spell #3rd [[Spell]]

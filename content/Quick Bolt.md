@@ -14,4 +14,4 @@ _[[1st Level Spell]]_
 
 ---
 
-#spell #template [[Spell]]
+#spell #1st [[Spell]]

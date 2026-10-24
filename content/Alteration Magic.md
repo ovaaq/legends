@@ -13,6 +13,7 @@ _Strand of magic that x._
 | [[Alter Object.md\|Alter Object]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |
 | [[Alter Self.md\|Alter Self]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |
 | [[Alter Size.md\|Alter Size]]             | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
+| [[Teleport.md\|Teleport]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instantaneous                                                               |
 
 ---
 

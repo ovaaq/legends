@@ -11,6 +11,7 @@ _Strand of magic that x._
 | [[Lesser Restoration.md\|Lesser Restoration]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                               |
 | [[Prayer of Healing.md\|Prayer of Healing]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                               |
 | [[Revivify.md\|Revivify]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instantaneous                                                               |
+| [[Resurrection.md\|Resurrection]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 6    | 20 metres | Instantaneous                                                               |
 
 ---
 

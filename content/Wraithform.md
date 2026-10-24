@@ -5,7 +5,7 @@ _Flavour text_.
 
 You gain 2 additional [[Spirit Point|Spirit Points]].
 
-While your [[Ghost Form]] is active you have [[Flying Speed]] equal to your [[Walking Speed]].
+While your [[Ghost Form]] is active, you gain a [[Flying Speed]] equal to your [[Walking Speed]]. You also gain [[Darkvision]] and can see through [[Magical]] darkness.
 
 **Life Drain.** While your [[Ghost Form]] is active, you can spend 1 [[Spirit Point]] as a [[Double Action]] to drain the life force of a [[Creature]] within 1 metre of you. The target must make a [[Constitution Saving Throw]] against your [[Spiritual Save DC]].
 

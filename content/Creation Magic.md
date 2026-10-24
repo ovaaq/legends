@@ -6,6 +6,7 @@ _Definition._
 | [[Animate Paper.md\|Animate Paper]]               | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch     | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Blur.md\|Blur]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
 | [[Corrosive Shot.md\|Corrosive Shot]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres | Instant                                                                       |
+| [[Create Water.md\|Create Water]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Dancing Lights.md\|Dancing Lights]]             | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Ensnairing Strike.md\|Ensnairing Strike]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Ethereal Blade.md\|Ethereal Blade]]             | [[Action.md\|Action]]               | S           | 0    | Self      | 1 hour                                                                        |
@@ -13,6 +14,7 @@ _Definition._
 | [[Infestation.md\|Infestation]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres | Instant                                                                       |
 | [[Mage Hand.md\|Mage Hand]]                       | [[Double Action.md\|Double Action]] | V, S        | 0    | 10 metres | 1 minute                                                                      |
 | [[Magic Fruit.md\|Magic Fruit]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
+| [[Magnetize.md\|Magnetize]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Minor Illusion.md\|Minor Illusion]]             | [[Triple Action.md\|Triple Action]] | F, S        | 0    | 10 metres | 1 minute                                                                      |
 | [[Poison Spray.md\|Poison Spray]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres  | Instant                                                                       |
 | [[Produce Flame.md\|Produce Flame]]               | [[Double Action.md\|Double Action]] | V, S        | 0    | Self      | 10 minutes                                                                    |
@@ -28,8 +30,10 @@ _Definition._
 | [[Disguise Self.md\|Disguise Self]]               | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Self      | 1 hour                                                                        |
 | [[Entangle.md\|Entangle]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Fog Cloud.md\|Fog Cloud]]                       | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 40 metres | [[Concentration.md\|Concentration]], 1 hour     |
+| [[Grease.md\|Grease]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 minute                                                                      |
 | [[Longstrider.md\|Longstrider]]                   | [[Action.md\|Action]]               | F, V, S     | 1    | Touch     | 1 hour                                                                        |
 | [[Minor Conjuration.md\|Minor Conjuration]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | 8 hours                                                                       |
+| [[Shadow Cloak.md\|Shadow Cloak]]                 | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 20 metres | Instant                                                                       |
 | [[Silent Image.md\|Silent Image]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 10 minutes                                                                    |
 | [[Summon Familiar.md\|Summon Familiar]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 2 metres  | Instant                                                                       |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]] | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | [[Concentration.md\|Concentration]], 10 minutes |
@@ -39,12 +43,22 @@ _Definition._
 | [[Mirror Image.md\|Mirror Image]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 minute                                                                      |
 | [[Pass Without Trace.md\|Pass Without Trace]]     | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Animate Dead.md\|Animate Dead]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Chain Lightning.md\|Chain Lightning]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Duplicate.md\|Duplicate]]                       | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instantaneous                                                                 |
+| [[Extract Memory.md\|Extract Memory]]             | [[Double Action.md\|Double Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Greater Familiar.md\|Greater Familiar]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Haste.md\|Haste]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Ice Spear.md\|Ice Spear]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Major Image.md\|Major Image]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Mana Siphon.md\|Mana Siphon]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Phantom Steed.md\|Phantom Steed]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Speak with Dead.md\|Speak with Dead]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Speak with Spirit.md\|Speak with Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Spirit Guardians.md\|Spirit Guardians]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Death Ward.md\|Death Ward]]                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
+| [[Flamestrike.md\|Flamestrike]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
+| [[Greater Restoration.md\|Greater Restoration]]   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
+| [[Nightmare.md\|Nightmare]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 
 ---
 

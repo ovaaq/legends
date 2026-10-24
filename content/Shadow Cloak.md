@@ -1,7 +1,7 @@
-_[[1 Level Spell]]_
+_[[1st Level Spell]]_
 
-**Casting**:: **▶▶▶⚡〇**
-**Components**:: F, V, S, M\*
+**Casting**:: [[Double Action]]
+**Components**:: F, V, S
 **Mana**:: 1
 **Range**:: 20 metres
 **Duration**:: Instant
@@ -16,4 +16,4 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 ---
 
-#spell #template [[Spell]]
+#spell #1st [[Spell]]

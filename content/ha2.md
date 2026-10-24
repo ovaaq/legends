@@ -1,4 +1,4 @@
-**Requirements**:: [[ha1]]
+**Requirements**:: [[Suppress Extremes]]
 **Cost**:: 1 LP
 
 _Flavour text_.

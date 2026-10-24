@@ -1,4 +1,4 @@
-_[[X Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: **▶▶▶⚡〇**
 **Components**:: F, V, S, M\*
@@ -19,4 +19,4 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 ---
 
-#spell #template [[Spell]]
+#spell #2nd [[Spell]]
