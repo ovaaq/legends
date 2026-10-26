@@ -20,6 +20,7 @@ Soothe calms fear, hostility, and agitation, while Riot heightens anger, aggress
 
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
+| [[Elven Spells I.md\|Elven Spells I]]     |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
 
 ---

@@ -62,12 +62,12 @@ These spells are added to your [[Arcane Spell List]]:
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
-**Casting Spells.** You can cast any spell listed in your [[Prepared Arcane Spells]].
+**Casting Spells.** You can cast any [[Spell]] on your [[Prepared Arcane Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Spellcraft]] [[Rank]].
 
 **[[Spell Save DC]]** = 8 + [[Spellcraft]] [[Rank]] + [[Sorcery]]
 **[[Spell Attack Modifier]]** = [[Spellcraft]] [[Rank]] + [[Sorcery]]
 
-**Ritual Casting.** You can also cast any spell from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
+**Ritual Casting.** You can cast any spell from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

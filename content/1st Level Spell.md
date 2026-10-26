@@ -27,6 +27,7 @@
 | [[Detect Undead.md\|Detect Undead]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Disguise Self.md\|Disguise Self]]                     | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Self      | 1 hour                                                                        |
 | [[Dissonant Whispers.md\|Dissonant Whispers]]           | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres | Instant                                                                       |
+| [[Earth Tremor.md\|Earth Tremor]]                       | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
 | [[Empathetic Connection.md\|Empathetic Connection]]     | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Ensnairing Strike.md\|Ensnairing Strike]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Entangle.md\|Entangle]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
@@ -61,6 +62,7 @@
 | [[Repair.md\|Repair]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | Instant                                                                       |
 | [[Resistance spell.md\|Resistance spell]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Sanctuary.md\|Sanctuary]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 minute                                                                      |
+| [[Searing Smite.md\|Searing Smite]]                     | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
 | [[Sense Spirits.md\|Sense Spirits]]                     | [[Triple Action.md\|Triple Action]] | F, S        | 1    | Self      | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Shadow Cloak.md\|Shadow Cloak]]                       | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 20 metres | Instant                                                                       |
 | [[Shared Health.md\|Shared Health]]                     | [[Double Action.md\|Double Action]] | F, S        | 1    | 10 metres | Instant                                                                       |
@@ -80,14 +82,13 @@
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
 | [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
 
+---
+
 [[Empathetic Connection]], two c
 [[Shared Health]]
 [[Sanctuary]]
-
 [[Animate Rope]]
-
 [[Healing Word]]
-
 [[Entangle]]
 [[Command]]
 Create Water

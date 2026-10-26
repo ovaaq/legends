@@ -20,6 +20,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
+| [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---

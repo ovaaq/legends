@@ -1,4 +1,4 @@
-**Requirements**:: [[Eyes of the Grave]]
+**Requirements**:: [[x]]
 **Cost**:: 3 LP
 
 _Flavour text_.
@@ -7,7 +7,7 @@ When a living [[Humanoid]] within 4 metres of you dies, you can use your [[React
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Soul Reap]]
+**Following**:: [[y]]
 
 ---
 

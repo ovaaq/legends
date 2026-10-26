@@ -1,8 +1,8 @@
 _[[1st Level Rune]]_
 
-**Item**:: [[Weapon]]
+**Item**:: [[Object]] less than 10kg
 
-Effect.
+As an [[Action]], you can summon the [[Object]] to your hand. A [[Creature]] holding or wearing the [[Object]] must succeed on a [[Strength Saving Throw]] against your [[Runecraft Save DC]] or release it.
 
 ---
 

@@ -1,4 +1,4 @@
-**Requirements**:: [[Dwarven Spells II]]
+**Requirements**:: [[Dwarven Spells II]] and [[Instinct]] [[Rank]] 3+
 **Cost**:: 2 LP
 
 _Flavour text_.
@@ -7,6 +7,9 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 
 ##### 3rd Level Spells
 
+- [[Erupting Earth]]
+- [[Meld into Stone]]
+- [[Wall of Stone]]
 -
 
 **Tree**:: [[Dwarven Ancestry]]

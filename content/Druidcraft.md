@@ -19,6 +19,7 @@ _[[Cantrip]]_
 
 | Related Talents                                                       |
 | --------------------------------------------------------------------- |
+| [[Elven Spells I.md\|Elven Spells I]]   |
 | [[Nature Spells I.md\|Nature Spells I]] |
 
 ---

@@ -1,4 +1,4 @@
-**Requirements**:: [[Dwarven Spells V]]
+**Requirements**:: [[Dwarven Spells V]] and [[Instinct]] [[Rank]] 6+
 **Cost**:: 2 LP
 
 _Flavour text_.

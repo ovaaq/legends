@@ -17,6 +17,7 @@ _\*Small Object_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 
 ---
 

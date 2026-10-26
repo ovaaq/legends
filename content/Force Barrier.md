@@ -16,8 +16,9 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Dwarven Spells II.md\|Dwarven Spells II]] |
 
 ---
 

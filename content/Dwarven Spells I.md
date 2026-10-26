@@ -7,11 +7,25 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 
 ##### Cantrips
 
--
+- [[Shape Earth]]
+- [[Gravity Slam]]
+- [[Prismatic Ray]]
+- [[Telekinetic Throw]]
 
 ##### 1st Level Spells
 
--
+- [[Chromatic Orb]]
+- [[Ensnairing Strike]]
+- [[Mage Armour]]
+- [[Resistance spell]]
+- [[Summon Tiny Elemental]]
+- [[Earth Tremor]]
+- [[Searing Smite]]
+- [[Deflect]]
+- [[Magnify Gravity]]
+- [[Repair]]
+- [[Temporal Life]]
+- [[Burning Hands]]
 
 **Tree**:: [[Dwarven Ancestry]]
 **Group**:: [[Ancestry Talent]]

@@ -20,6 +20,7 @@ As an [[Action]], you can mentally command the servant to move up to 3 metres an
 | Related Talents                                                                     |
 | ----------------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
+| [[Elven Spells I.md\|Elven Spells I]]                 |
 | [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---

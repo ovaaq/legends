@@ -15,6 +15,7 @@ _[[Cantrip]]_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 
 ---
 

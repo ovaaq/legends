@@ -8,6 +8,7 @@ _Strand of magic that x._
 | [[Feral Claw.md\|Feral Claw]]             | [[Double Action.md\|Double Action]] | S           | 0    | Melee     | Instant                                                                     |
 | [[Flame Blade.md\|Flame Blade]]           | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch     | 1 minute                                                                    |
 | [[Prestidigitation.md\|Prestidigitation]] | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres  | 1 hour                                                                      |
+| [[Shape Earth.md\|Shape Earth]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres | Instant                                                                     |
 | [[Thaumaturgy.md\|Thaumaturgy]]           | [[Double Action.md\|Double Action]] | V           | 0    | 10 metres | 1 minute                                                                    |
 | [[Venom Fang.md\|Venom Fang]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Melee     | Instant                                                                     |
 | [[Alter Object.md\|Alter Object]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |

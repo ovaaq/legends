@@ -1,4 +1,4 @@
-**Requirements**:: [[Dwarven Spells III]]
+**Requirements**:: [[Dwarven Spells III]] and [[Instinct]] [[Rank]] 4+
 **Cost**:: 2 LP
 
 _Flavour text_.

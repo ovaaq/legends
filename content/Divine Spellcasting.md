@@ -31,7 +31,7 @@ These spells are added to your [[Divine Spell List]]:
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
-**Casting Spells.** You can cast any spell listed in your [[Prepared Divine Spells]].
+**Casting Spells.** You can cast any [[Spell]] on your [[Prepared Divine Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Prayer]] [[Rank]].
 
 **[[Spell Save DC]]** = 8 + [[Sorcery]] + [[Prayer]] [[Rank]]
 **[[Spell Attack Modifier]]** = [[Sorcery]] + [[Prayer]] [[Rank]]

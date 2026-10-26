@@ -31,12 +31,12 @@ These spells are added to your [[Spiritual Spell List]]:
 
 **Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
 
-**Casting Spells.** You can cast any spell listed in your [[Prepared Spiritual Spells]].
+**Casting Spells.** You can cast any [[Spell]] on your [[Prepared Spiritual Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Channelling]] [[Rank]].
 
 **[[Spell Save DC]]** = 8 + [[Channelling]] [[Rank]] + [[Sorcery]]
 **[[Spell Attack Modifier]]** = [[Channelling]] [[Rank]] + [[Sorcery]]
 
-**Ritual Casting.** You can also cast any spell from your [[Spiritual Spell List]] as a ritual. Doing so increases the casting time by 10 minutes.
+**Ritual Casting.** You can cast any [[Spell]] from your [[Spiritual Spell List]] as a ritual. Doing so increases the casting time by 10 minutes.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

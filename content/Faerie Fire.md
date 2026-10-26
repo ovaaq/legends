@@ -16,8 +16,9 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                     |
+| ------------------------------------------------------------------- |
+| [[Elven Spells I.md\|Elven Spells I]] |
 
 ---
 

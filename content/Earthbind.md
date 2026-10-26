@@ -17,6 +17,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Dwarven Spells II.md\|Dwarven Spells II]]     |
 | [[Elemental Spells II.md\|Elemental Spells II]] |
 | [[Nature Spells II.md\|Nature Spells II]]       |
 

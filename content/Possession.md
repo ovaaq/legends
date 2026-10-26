@@ -9,12 +9,10 @@ You gain 2 additional [[Spirit Point|Spirit Points]].
 
 **Critical Success:** The target becomes immune to your possession for 24 hours.
 **Success:** No effect.
-**Failure:** The target is possessed.
-**Critical Failure:** The target is possessed and has [[Disadvantage]] on its first [[Saving Throw]] to end the possession.
+**Failure:** The target is possessed for 1 minute
+**Critical Failure:** The target is possessed for 1 minute and has [[Disadvantage]] on its first [[Saving Throw]] to end the possession.
 
-The possession lasts for up to 1 minute. While possessing the target, you merge with its body and do not take an independent [[Turn]]. Instead, you act during the target’s [[Turn]] and control its movement, speech, and actions.
-
-You can use the target’s physical [[Attribute|Attributes]], senses, [[Speed|Speeds]], natural weapons, equipped weapons, and ordinary actions. The target remains aware of its surroundings and remembers everything that occurs while possessed, but cannot control its body.
+While possessing the target, you merge with its body and do not take an independent [[Turn]]. Instead, you act during the target’s [[Turn]] and control its movement, speech, and actions. You can use the target’s physical [[Attribute|Attributes]], senses, [[Speed|Speeds]], natural weapons, equipped weapons, and ordinary actions. The target remains aware of its surroundings and remembers everything that occurs while possessed, but cannot control its body.
 
 Whenever the target takes damage, you take half that amount as damage of the same type. This shared damage cannot be reduced or prevented.
 

@@ -5,9 +5,11 @@
 | [[Dart.md\|Dart]]                 | [[Projectile.md\|Projectile]] | -                                                  | -     | -                                         | [[Finesse]], [[Light]], [[Ranged]] (1m / 2m), [[Thrown]]                                               |
 | [[Falchion.md\|Falchion]]         | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[Handaxe.md\|Handaxe]]           | [[Axe.md\|Axe]]               | -                                                  | -     | -                                         | [[Light.md\|Light]], [[Thrown.md\|Thrown]] |
+| [[Harpoon.md\|Harpoon]]           | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[Javelin.md\|Javelin]]           | [[Projectile.md\|Projectile]] | -                                                  | -     | -                                         | [[Heavy]] (1), [[Thrown]]                                                                              |
 | [[Light hammer.md\|Light hammer]] | [[Hammer.md\|Hammer]]         | -                                                  | -     | -                                         | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[Sabre.md\|Sabre]]               | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
+| [[War Scythe.md\|War Scythe]]     | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 
 ---
 

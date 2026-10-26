@@ -16,6 +16,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
+| [[Elven Spells I.md\|Elven Spells I]]     |
 | [[Nature Spells I.md\|Nature Spells I]]   |
 | [[Warding Spells I.md\|Warding Spells I]] |
 

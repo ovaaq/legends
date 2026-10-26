@@ -1,39 +1,33 @@
 **Requirements**:: [[Path of Afterlife]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-Benefit.
+When you finish a [[Long Rest]], you can recount a tale of someone who has passed into the afterlife. Choose one Tale and one [[Willing]] [[Creature]] that hears it. The [[Creature]] remembers the Tale and can activate it once to gain its effect.
 
-**Tale of the Brute**
-**Tale of the Traveller**
-**Tale of the Avenger**
-**Tale of the Friends**
-Tale of the Betrayed
-Tale of the Bride
-Tale of the Warrior
-Tale of the Martyr
-
-| Roll | Effect |
-| ---- | ------ |
-| 1    |        |
-| 2    |        |
-| 3    |        |
-| 4    |        |
-| 5    |        |
-| 6    |        |
-| 7    |        |
-| 8    |        |
-| 9    |        |
-| 10   |        |
-| 11   |        |
-| 12   |        |
+| Tale                  | Effect |
+| --------------------- | ------ |
+| Tale of the Friends   |        |
+| Tale of the Avenger   |        |
+| Tale of the Traveller |        |
+| Tale of the Warrior   |        |
+| Tale of the Bride     |        |
+| Tale of the Martyr    |        |
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Manifest Spirit]]
+**Following**:: [[Shared Tale]]
 
 ---
 
 #talent
 [[Talent]]
+Tale of the Brute
+Tale of the Traveller
+Tale of the Avenger
+Tale of the Friends
+Tale of the Betrayed
+Tale of the Bride
+Tale of the Warrior
+Tale of the Martyr
+Tale of the Survivor

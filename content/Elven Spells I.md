@@ -7,11 +7,25 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 
 ##### Cantrips
 
--
+- [[Dancing Lights]]
+- [[Druidcraft]]
+- [[Psychic Shock]]
+- [[Starry Wisp]]
 
 ##### 1st Level Spells
 
--
+- [[Armour of Thorns]]
+- [[Charm Person]]
+- [[Disguise Self]]
+- [[Faerie Fire]]
+- [[Fog Cloud]]
+- [[Hail of Thorns]]
+- [[Influence Emotion]]
+- [[Plant Growth]]
+- [[Sleep]]
+- [[Summon Lesser Spirit]]
+- [[Unseen Servant]]
+- [[Wind Step]]
 
 **Tree**:: [[Elven Ancestry]]
 **Group**:: [[Ancestry Talent]]

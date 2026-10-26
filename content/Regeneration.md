@@ -1,12 +1,22 @@
-**CAST TIME**: ▶▶▶
-**MANA**: 0
-**RANGE**: 20 meters
-**SPELL PARTS**: F, V, S, M\*
-**LEVEL**: [[1st Level Spell]]
-**DURATION**: Instantaneous
+_[[5th Level Spell]]_
 
-**EFFECT**: You unleash a bolt of pure arcane energy at a target within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 piercing damage plus your Arcana modifier.
+**Casting**:: [[Triple Action]]
+**Components**:: F, V, S, M\*
+**Mana**:: 5
+**Range**:: 20 metres
+**Duration**:: Instant
 
-**UPCASTING**: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+_\*100 grams of [[Gold Dust]], consumed by the spell_
 
-_[[Restoration Magic]]_
+**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+
+**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+
+**Type**:: [[Conjuration Magic]]
+
+| Related Talents |
+| --------------- |
+
+---
+
+#spell #5th [[Spell]]

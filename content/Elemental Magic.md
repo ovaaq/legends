@@ -4,6 +4,5 @@
 | [[Destroy Water.md\|Destroy Water]] |
 | [[Fireball.md\|Fireball]]           |
 | [[Produce Wind.md\|Produce Wind]]   |
-| [[Shape Earth.md\|Shape Earth]]     |
 | [[Shape Water.md\|Shape Water]]     |
 | [[Static Charge.md\|Static Charge]] |

@@ -1,8 +1,8 @@
 _[[1st Level Rune]]_
 
-**Item**:: [[Weapon]]
+**Item**:: Shoes
 
-Effect.
+While wearing the shoes, your [[Walking Speed]] increases by 2 metres.
 
 ---
 

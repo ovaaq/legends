@@ -1,8 +1,8 @@
 _[[1st Level Rune]]_
 
-**Item**:: [[Weapon]]
+**Item**:: [[Bow]] or [[Crossbow]]
 
-Effect.
+The item requires no [[Ammunition]] and additionally it deal +1 damage.
 
 ---
 

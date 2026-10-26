@@ -21,6 +21,7 @@ To discern that you are disguised, a [[Creature]] must take the [[Inspect]] acti
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
+| [[Elven Spells I.md\|Elven Spells I]]           |
 | [[False Reflection.md\|False Reflection]]       |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 | [[Vampire Spells I.md\|Vampire Spells I]]       |

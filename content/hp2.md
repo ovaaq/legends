@@ -1,4 +1,4 @@
-**Requirements**:: [[hp1]]
+**Requirements**:: [[Aura of Mercy]]
 **Cost**:: 1 LP
 
 _Flavour text_.

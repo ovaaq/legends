@@ -14,6 +14,7 @@ _[[Cantrip]]_
 
 | Related Talents                                                                     |
 | ----------------------------------------------------------------------------------- |
+| [[Elven Spells I.md\|Elven Spells I]]                 |
 | [[Innate Spells I.md\|Innate Spells I]]               |
 | [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 

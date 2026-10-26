@@ -7,7 +7,7 @@ Add your [[Channelling]] [[Rank]] to [[Intimidation]] [[Check|Checks]]. You also
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Eyes of the Grave]]
+**Following**:: [[x]]
 
 ---
 

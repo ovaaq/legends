@@ -21,6 +21,7 @@ The [[Object]] is restored to its original, undamaged state. Tears seal without 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
+| [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Harmony Spells I.md\|Harmony Spells I]]       |
 
 ---

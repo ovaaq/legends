@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-**New Techniques.** Select one [[2nd Level Martial technique|2nd Level Martial Techniques]] and add it to your list of [[Learned Martial Techniques]]. These techniques are listed below:
+**New Techniques.** Select two [[2nd Level Martial technique|2nd Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below:
 
 | 2nd Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                            | Type                                                                          |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -17,6 +17,7 @@ _Flavour text_.
 | [[Mighty Blow.md\|Mighty Blow]]                   | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Obscuring Attack.md\|Obscuring Attack]]         | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Pinning Shot.md\|Pinning Shot]]                 | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Control Technique.md\|Control Technique]]     |
+| [[Power Shot.md\|Power Shot]]                     | [[Free Action.md\|Free Action]]     | 0       | Ranged    | [[Crossbow]] or [[Bow]]                           | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Ringing Strike.md\|Ringing Strike]]             | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Shake It Off.md\|Shake It Off]]                 | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Shattering Slam.md\|Shattering Slam]]           | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]] | [[Offensive Technique.md\|Offensive Technique]] |

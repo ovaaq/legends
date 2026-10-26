@@ -2,7 +2,7 @@ _[[1st Level Rune]]_
 
 **Item**:: [[Armour]]
 
-The armour gains a +1 bonus to its [Protective](Protective) property.
+The [[Armour|Armour's]] [[Protective]] property increases by 1.
 
 ---
 

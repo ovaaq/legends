@@ -1,4 +1,4 @@
-**Requirements**:: [[Dwarven Spells I]]
+**Requirements**:: [[Dwarven Spells I]] and [[Instinct]] [[Rank]] 2+
 **Cost**:: 2 LP
 
 _Flavour text_.
@@ -7,6 +7,13 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 
 ##### 2nd Level Spells
 
+- [[Arcane Shield]]
+- [[Continual Flame]]
+- [[Earthbind]]
+- [[Force Barrier]]
+- [[Heat Metal]]
+- [[Magnetize]]
+- [[Earthen Grasp]]
 -
 
 **Tree**:: [[Dwarven Ancestry]]

@@ -20,6 +20,7 @@ While [[Charmed]] by this spell, the target is [[Friendly]] toward you. When the
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
+| [[Elven Spells I.md\|Elven Spells I]]           |
 | [[Harmony Spells I.md\|Harmony Spells I]]       |
 | [[Vampire Spells I.md\|Vampire Spells I]]       |
 
