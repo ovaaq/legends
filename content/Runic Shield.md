@@ -1,5 +1,5 @@
 **Requirements**:: [[Runecraft Initiate]]
-**Cost**:: 2 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
