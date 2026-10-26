@@ -20,7 +20,7 @@ Add these [[Rune|Runes]] to your [[Rune List]]:
 
 **Rune Capacity.** You can have only one active [[Rune]] at a time. Your runes remain on the item indefinitely, but if you die, they vanish after a number of days equal to your [[Sorcery]].
 
-**[[Runecraft Save DC]]** = 8 + [[Runecraft]] [[Rank]] + [[Sorcery]]
+![[Runecraft Save DC]]
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[Crafting Talent]]
