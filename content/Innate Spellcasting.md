@@ -33,8 +33,9 @@ These spells are added to your [[Innate Spell List]]:
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Learned Innate Spells]] list. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Instinct]] [[Rank]].
 
-**[[Spell Save DC]]** = 8 + [[Instinct]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Instinct]] [[Rank]] + [[Sorcery]]
+![[Innate Spell Save DC]]
+
+![[Innate Spell Attack Modifier]]
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]

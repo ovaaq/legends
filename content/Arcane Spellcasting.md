@@ -61,8 +61,9 @@ These spells are added to your [[Arcane Spell List]]:
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Prepared Arcane Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Spellcraft]] [[Rank]].
 
-**[[Spell Save DC]]** = 8 + [[Sorcery]] + [[Spellcraft]] [[Rank]]
-**[[Spell Attack Modifier]]** = [[Sorcery]] + [[Spellcraft]] [[Rank]]
+![[Arcane Spell Save DC]]
+
+![[Arcane Spell Attack Modifier]]
 
 **Ritual Casting.** You can cast any [[Spell]] from your [[Spellbook]] as a ritual. Doing so increases the casting time by 10 minutes.
 

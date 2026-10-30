@@ -11,8 +11,9 @@ Increase [[Rank]] of [[Invocation]] by 1.
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Learned Pact Spells]].
 
-**[[Spell Save DC]]** = 11 + [[Invocation]] [[Rank]]
-**[[Spell Attack Modifier]]** = 3 + [[Invocation]] [[Rank]]
+![[Pact Spell Attack Modifier]]
+
+![[Pact Spell Save DC]]
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]

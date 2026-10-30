@@ -5,7 +5,7 @@ _Flavour text_.
 
 You gain 2 additional [[Spirit Point|Spirit Points]].
 
-**Possession.** While your [[Ghost Form]] is active, you can spend 2 [[Spirit Point|Spirit Points]] as a [[Double Action]] to attempt to possess a [[Humanoid]] within 1 metre of you. The target must make a [[Charisma Saving Throw]] against your [[Spiritual Save DC]].
+**Possession.** While your [[Ghost Form]] is active, you can spend 2 [[Spirit Point|Spirit Points]] as a [[Double Action]] to attempt to possess a [[Humanoid]] within 1 metre of you. The target must make a [[Charisma Saving Throw]] against your [[Spiritual Spell Save DC]].
 
 **Critical Success:** The target becomes immune to your possession for 24 hours.
 **Success:** No effect.

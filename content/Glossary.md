@@ -289,6 +289,7 @@
 | [[Speed.md\|Speed]]                                                               |
 | [[Spell.md\|Spell]]                                                               |
 | [[Spell Attack.md\|Spell Attack]]                                                 |
+| [[Spell Attack Modifier.md\|Spell Attack Modifier]]                               |
 | [[Spell List.md\|Spell List]]                                                     |
 | [[Spell Save DC.md\|Spell Save DC]]                                               |
 | [[Spell Slot.md\|Spell Slot]]                                                     |

@@ -33,8 +33,9 @@ These spells are added to your [[Divine Spell List]]:
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Prepared Divine Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Prayer]] [[Rank]].
 
-**[[Spell Save DC]]** = 8 + [[Sorcery]] + [[Prayer]] [[Rank]]
-**[[Spell Attack Modifier]]** = [[Sorcery]] + [[Prayer]] [[Rank]]
+![[Divine Spell Save DC]]
+
+![[Divine Spell Attack Modifier]]
 
 **Holy Symbol.** You can use a one handed [[Holy Symbol]] as a [[Simple Focus]] for your spellcasting, or or two handed [[Staff]] with [[Holy Symbol]] as an [[Advanced Focus]].
 

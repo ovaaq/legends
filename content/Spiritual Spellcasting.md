@@ -33,8 +33,9 @@ These spells are added to your [[Spiritual Spell List]]:
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Prepared Spiritual Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Channelling]] [[Rank]].
 
-**[[Spell Save DC]]** = 8 + [[Channelling]] [[Rank]] + [[Sorcery]]
-**[[Spell Attack Modifier]]** = [[Channelling]] [[Rank]] + [[Sorcery]]
+![[Spiritual Spell Save DC]]
+
+![[Spiritual Spell Attack Modifier]]
 
 **Ritual Casting.** You can cast any [[Spell]] from your [[Spiritual Spell List]] as a ritual. Doing so increases the casting time by 10 minutes.
 
