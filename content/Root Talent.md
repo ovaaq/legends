@@ -11,7 +11,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |Root Talent3|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Alchemy Initiate\|Alchemy Initiate]]|[[Alchemy Talent Tree\|Alchemy Talent Tree]]|2 LP|• [[Learn Alchemical Formulas\|Learn Alchemical Formulas]]  <br>• [[Safety Measures\|Safety Measures]]  <br>• [[Experimental Elixir\|Experimental Elixir]]  <br>• [[Combat Alchemy\|Combat Alchemy]]  <br>• [[Favourable Exposure\|Favourable Exposure]]  <br>• [[Alchemical Formulas I\|Alchemical Formulas I]]  <br>• [[Alchemy Practice\|Alchemy Practice]]|
-|[[00 - Inbox/Artificer Initiate\|Artificer Initiate]]|[[Artificer Talent Tree\|Artificer Talent Tree]]|2 LP|—|
+|[[Artificer Initiate\|Artificer Initiate]]|[[Artificer Talent Tree\|Artificer Talent Tree]]|2 LP|—|
 |[[Runecraft Initiate\|Runecraft Initiate]]|[[Runecraft Talent Tree\|Runecraft Talent Tree]]|2 LP|• [[Learn Runes\|Learn Runes]]  <br>• [[Runic Capacity\|Runic Capacity]]  <br>• [[Runic Shield\|Runic Shield]]  <br>• [[Spell Runes\|Spell Runes]]  <br>• [[Runes I\|Runes I]]  <br>• [[Rulebook/Runecraft Practice\|Runecraft Practice]]|
 
 ### Divine Talent

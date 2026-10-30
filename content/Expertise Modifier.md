@@ -1,1 +1,1 @@
-[[Expertise Modifier]] = [[Rank]] in [[Expert Skill]]
+[[Expertise Modifier]] = [[Rank]] in [[Expertise]]
