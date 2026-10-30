@@ -1,12 +1,14 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: [[Action]]
+**Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range**:: Melee
 **Weapon**:: Any
 **Duration**:: Instant
 
-**Effect**:: Until the end of your turn, your [[Walking Speed]] increases by 2 meters. If you move at least 2 meters in a straight toward a target immediately before making a [[Melee Attack]], add 1d6 to the [[Damage Roll]] on a hit.
+_\*When make an [[Attack]]._
+
+**Effect**:: As part of your [[Attack]], you can move up to 2 additional metres. If you move at least 2 metres in a straight line toward the target immediately before making a [[Melee Attack]], add 1d6 to the [[Damage Roll]] on a hit.
 
 **Type**:: [[Offensive Technique]]
 

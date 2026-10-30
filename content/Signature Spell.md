@@ -1,9 +1,9 @@
 **Requirements**:: [[Arcane Spellcasting]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
-_Flavour text_.
+_Repeatedly casting same spell to master it effectively._
 
-Benefit.
+Choose one 1st level [[Spell]] in your [[Spellbook]] that belongs to your specialization [[Strand of Magic]], which level is less than half your [[Spellcraft]] [[Rank]]. You can cast non upcasted version of the spell withouth mana cost equal times to you [[Spellcraft]] [[Rank]].
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

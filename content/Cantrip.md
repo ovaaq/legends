@@ -127,7 +127,6 @@ ideas
 | [[Ignite.md\|Ignite]]                                 |
 | [[Infestation.md\|Infestation]]                       |
 | [[Innate Spellcasting.md\|Innate Spellcasting]]       |
-| [[Learn Arcane Spell.md\|Learn Arcane Spell]]         |
 | [[Learn Innate Spell.md\|Learn Innate Spell]]         |
 | [[Lightning Lure.md\|Lightning Lure]]                 |
 | [[Mage Hand.md\|Mage Hand]]                           |
@@ -138,6 +137,7 @@ ideas
 | [[Mortal Dread.md\|Mortal Dread]]                     |
 | [[Pact Spellcasting.md\|Pact Spellcasting]]           |
 | [[Poison Spray.md\|Poison Spray]]                     |
+| [[Prepared Arcane Spells.md\|Prepared Arcane Spells]] |
 | [[Prestidigitation.md\|Prestidigitation]]             |
 | [[Prismatic Ray.md\|Prismatic Ray]]                   |
 | [[Produce Flame.md\|Produce Flame]]                   |

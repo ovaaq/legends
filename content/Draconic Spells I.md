@@ -31,7 +31,7 @@ These spells are added to your [[Pact Spell List]]:
 
 **Tree**:: [[Draconic Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[Draconic Spells II]]
+**Following**:: [[Pact Spellcasting]], [[Draconic Spells II]]
 
 ---
 

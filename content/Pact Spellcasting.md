@@ -1,19 +1,9 @@
-**Requirements**:: [[Angelic Pact]], [[Devilish Pact]], [[Draconic Pact]] or [[Symbiote Pact]]
+**Requirements**:: [[Angelic Pact]] or [[Devilish Pact]] or [[Draconic Pact]] or [[Symbiote Pact]]
 **Cost**:: 4 LP
 
-_Flavour text_.
+_Your patron has given you magical strength to cast spells._
 
 Increase [[Rank]] of [[Invocation]] by 1.
-
-These spells are added to your [[Innate Spell List]]:
-
-##### Cantrips
-
--
-
-##### 1st Level Spells
-
--
 
 **Given Power.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Pact Spell List]] and add them to your [[Learned Pact Spells]] list.
 

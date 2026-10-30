@@ -4,7 +4,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent1|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Arcane Spellcasting\|Arcane Spellcasting]]|[[Arcane Talent Tree\|Arcane Talent Tree]]|4 LP|• [[Arcane Spells I\|Arcane Spells I]]  <br>• [[Signature Spell\|Signature Spell]]  <br>• [[Wizardly Quill\|Wizardly Quill]]  <br>• [[Awakened Spellbook\|Awakened Spellbook]]  <br>• [[Arcane Recovery\|Arcane Recovery]]  <br>• [[Spellcraft Practice\|Spellcraft Practice]]  <br>• [[Learn Arcane Spell\|Learn Arcane Spell]]  <br>• [[Arcane Spell Memory\|Arcane Spell Memory]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]  <br>• [[Study of Divination\|Study of Divination]]  <br>• [[Study of Necromancy\|Study of Necromancy]]  <br>• [[Study of Spacetime\|Study of Spacetime]]  <br>• [[Study of Spellblade\|Study of Spellblade]]  <br>• [[Study of Spelltheft\|Study of Spelltheft]]  <br>• [[Study of Warding\|Study of Warding]]  <br>• [[Study of Wildlore\|Study of Wildlore]]|
+|[[Arcane Spellcasting\|Arcane Spellcasting]]|[[Arcane Talent Tree\|Arcane Talent Tree]]|4 LP|• [[Arcane Spells I\|Arcane Spells I]]  <br>• [[Signature Spell\|Signature Spell]]  <br>• [[Magical Quill\|Magical Quill]]  <br>• [[Sentient Spellbook\|Sentient Spellbook]]  <br>• [[Mana Recollection\|Mana Recollection]]  <br>• [[Spellcraft Practice\|Spellcraft Practice]]  <br>• [[Learn Arcane Spells\|Learn Arcane Spells]]  <br>• [[Arcane Spell Memory\|Arcane Spell Memory]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]  <br>• [[Study of Divination\|Study of Divination]]  <br>• [[Study of Necromancy\|Study of Necromancy]]  <br>• [[Study of Spacetime\|Study of Spacetime]]  <br>• [[Study of Spellblade\|Study of Spellblade]]  <br>• [[Study of Spelltheft\|Study of Spelltheft]]  <br>• [[Study of Warding\|Study of Warding]]  <br>• [[Study of Wildlore\|Study of Wildlore]]|
 
 ### Crafting Talent
 
@@ -46,7 +46,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent7|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Battle Rage\|Battle Rage]]|[[Berserk Talent Tree\|Berserk Talent Tree]]|1 LP|—|
+|[[Battle Rage\|Battle Rage]]|[[Berserk Talent Tree\|Berserk Talent Tree]]|3 LP|—|
 |[[Increased Evasion\|Increased Evasion]]|[[Evasion Talent Tree\|Evasion Talent Tree]]|1 LP|• [[Unarmoured Movement\|Unarmoured Movement]]|
 |[[Ki Unlocked\|Ki Unlocked]]|[[Ki Talent Tree\|Ki Talent Tree]]|1 LP|• [[Focused Aim\|Focused Aim]]  <br>• [[Enduring Body\|Enduring Body]]  <br>• [[Ki Techniques I\|Ki Techniques I]]|
 |[[Light Armour Training\|Light Armour Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Medium Armour Training\|Medium Armour Training]]  <br>• [[Light Armour Master\|Light Armour Master]]|
@@ -60,7 +60,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |---|---|---|---|
 |[[Angelic Pact\|Angelic Pact]]|[[Angelic Pact Talent Tree\|Angelic Pact Talent Tree]]|1 LP|• [[cr1\|cr1]]  <br>• [[ca1\|ca1]]  <br>• [[cp1\|cp1]]  <br>• [[Angelic Spells I\|Angelic Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 |[[Artifact Pact\|Artifact Pact]]|[[Artifact Pact Talent Tree\|Artifact Pact Talent Tree]]|1 LP|• [[ar1\|ar1]]  <br>• [[aa1\|aa1]]  <br>• [[ap1\|ap1]]  <br>• [[Artifact Spells I\|Artifact Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Draconic Pact\|Draconic Pact]]|[[Draconic Pact Talent Tree\|Draconic Pact Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[da1\|da1]]  <br>• [[dp1\|dp1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Draconic Pact\|Draconic Pact]]|[[Draconic Pact Talent Tree\|Draconic Pact Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[da1\|da1]]  <br>• [[dp1\|dp1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 |[[Fey Pact\|Fey Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 
 ### Spiritual Talent

@@ -275,6 +275,14 @@
 
 #keyword
 
+Chains of Ice
+Consume Soul
+Moonfire
+Regrowth
+Innervate
+Living Flame
+Eruption
+
 | Spell                                                                       | Casting                                                           | Components  | Mana | Range     | Duration      |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ------------- |
 | [[Accelerate.md\|Accelerate]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant       |
