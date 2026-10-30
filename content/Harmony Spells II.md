@@ -15,7 +15,7 @@ These spells are added to your [[Divine Spell List]].
 - [[Silence]]
 - [[Suggestion]]
 - [[Zone of Truth]]
-- [[Negate Strike]]
+- [[Arcane Shield]]
 - [[Enthral]]
 - [[Hold Humanoid]]
 - [[Lesser Restoration]]

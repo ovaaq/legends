@@ -24,7 +24,7 @@ Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formul
 **[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Rank]] + [[Intelligence]]
 
 **Tree**:: [[Alchemy Talent Tree]]
-**Group**:: [[General Talent]]
+**Group**:: [[Crafting Talent]]
 **Following**:: [[Learn Alchemical Formulas]],  [[Safety Measures]], [[Experimental Elixir]], [[Combat Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]], [[Alchemy Practice]]
 
 ---

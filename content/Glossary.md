@@ -107,7 +107,6 @@
 | [[Equipment.md\|Equipment]]                                                       |
 | [[Escape.md\|Escape]]                                                             |
 | [[Ethereal Damage.md\|Ethereal Damage]]                                           |
-| [[Evasion Class.md\|Evasion Class]]                                               |
 | [[Evocation Magic.md\|Evocation Magic]]                                           |
 | [[Exhausted.md\|Exhausted]]                                                       |
 | [[Expertise.md\|Expertise]]                                                       |
@@ -191,7 +190,6 @@
 | [[Mana.md\|Mana]]                                                                 |
 | [[Mana Point Maximum.md\|Mana Point Maximum]]                                     |
 | [[Martial.md\|Martial]]                                                           |
-| [[Martial Save DC.md\|Martial Save DC]]                                           |
 | [[Martial Technique.md\|Martial Technique]]                                       |
 | [[Medicine.md\|Medicine]]                                                         |
 | [[Medium.md\|Medium]]                                                             |

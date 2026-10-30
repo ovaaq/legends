@@ -8,8 +8,10 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Crafting Talent
 
-|Root Talent1|Tree|Cost|Unlocks|
+|Root Talent3|Tree|Cost|Unlocks|
 |---|---|---|---|
+|[[Alchemy Initiate\|Alchemy Initiate]]|[[Alchemy Talent Tree\|Alchemy Talent Tree]]|2 LP|• [[Learn Alchemical Formulas\|Learn Alchemical Formulas]]  <br>• [[Safety Measures\|Safety Measures]]  <br>• [[Experimental Elixir\|Experimental Elixir]]  <br>• [[Combat Alchemy\|Combat Alchemy]]  <br>• [[Favourable Exposure\|Favourable Exposure]]  <br>• [[Alchemical Formulas I\|Alchemical Formulas I]]  <br>• [[Alchemy Practice\|Alchemy Practice]]|
+|[[00 - Inbox/Artificer Initiate\|Artificer Initiate]]|[[Artificer Talent Tree\|Artificer Talent Tree]]|2 LP|—|
 |[[Runecraft Initiate\|Runecraft Initiate]]|[[Runecraft Talent Tree\|Runecraft Talent Tree]]|2 LP|• [[Learn Runes\|Learn Runes]]  <br>• [[Runic Capacity\|Runic Capacity]]  <br>• [[Runic Shield\|Runic Shield]]  <br>• [[Spell Runes\|Spell Runes]]  <br>• [[Runes I\|Runes I]]  <br>• [[Rulebook/Runecraft Practice\|Runecraft Practice]]|
 
 ### Divine Talent
@@ -20,9 +22,8 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### General Talent
 
-|Root Talent9|Tree|Cost|Unlocks|
+|Root Talent8|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Alchemy Initiate\|Alchemy Initiate]]|[[Alchemy Talent Tree\|Alchemy Talent Tree]]|2 LP|• [[Learn Alchemical Formulas\|Learn Alchemical Formulas]]  <br>• [[Safety Measures\|Safety Measures]]  <br>• [[Experimental Elixir\|Experimental Elixir]]  <br>• [[Combat Alchemy\|Combat Alchemy]]  <br>• [[Favourable Exposure\|Favourable Exposure]]  <br>• [[Alchemical Formulas I\|Alchemical Formulas I]]  <br>• [[Alchemy Practice\|Alchemy Practice]]|
 |[[Hasted Actions\|Hasted Actions]]|[[Haste Talent Tree\|Haste Talent Tree]]|3 LP|• [[Swift Initiative\|Swift Initiative]]  <br>• [[Always Prepared\|Always Prepared]]  <br>• [[Quick Hands\|Quick Hands]]|
 |[[Healer\|Healer]]|[[Healer Talent Tree\|Healer Talent Tree]]|2 LP|• [[Combat Stabilization\|Combat Stabilization]]|
 |[[Increased Attribute\|Increased Attribute]]|[[Capability Talent Tree\|Capability Talent Tree]]|3 LP|—|
@@ -44,14 +45,13 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Martial Talent
 
-|Root Talent7|Tree|Cost|Unlocks|
+|Root Talent6|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Battle Rage\|Battle Rage]]|[[Berserk Talent Tree\|Berserk Talent Tree]]|3 LP|—|
 |[[Increased Evasion\|Increased Evasion]]|[[Evasion Talent Tree\|Evasion Talent Tree]]|1 LP|• [[Unarmoured Movement\|Unarmoured Movement]]|
 |[[Ki Unlocked\|Ki Unlocked]]|[[Ki Talent Tree\|Ki Talent Tree]]|1 LP|• [[Focused Aim\|Focused Aim]]  <br>• [[Enduring Body\|Enduring Body]]  <br>• [[Ki Techniques I\|Ki Techniques I]]|
 |[[Light Armour Training\|Light Armour Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Medium Armour Training\|Medium Armour Training]]  <br>• [[Light Armour Master\|Light Armour Master]]|
-|[[Martial Arts\|Martial Arts]]|[[Martial Arts Talent Tree\|Martial Arts Talent Tree]]|1 LP|• [[Ki Techniques I\|Ki Techniques I]]  <br>• [[Focused Aim\|Focused Aim]]  <br>• [[Enduring Body\|Enduring Body]]|
-|[[Martial Initiate\|Martial Initiate]]|[[Weapon Talent Tree\|Weapon Talent Tree]]|1 LP|• [[Advanced Weapon Training\|Advanced Weapon Training]]  <br>• [[Martial Practice\|Martial Practice]]  <br>• [[Fighting Stances\|Fighting Stances]]  <br>• [[Extra Attack\|Extra Attack]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
+|[[Martial Initiate\|Martial Initiate]]|[[Martial Talent Tree\|Martial Talent Tree]]|1 LP|• [[Advanced Weapon Training\|Advanced Weapon Training]]  <br>• [[Martial Practice\|Martial Practice]]  <br>• [[Fighting Stances\|Fighting Stances]]  <br>• [[Extra Attack\|Extra Attack]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
 |[[Shield Training\|Shield Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Shield Master\|Shield Master]]|
 
 ### Pact Talent

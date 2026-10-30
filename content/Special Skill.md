@@ -1,6 +1,7 @@
 | Special Skills                                                |
 | ------------------------------------------------------------- |
 | [[Alchemy.md\|Alchemy]]         |
+| [[00 - Inbox/Artifice.md\|Artifice]]                          |
 | [[Channelling.md\|Channelling]] |
 | [[Instinct.md\|Instinct]]       |
 | [[Invocation.md\|Invocation]]   |

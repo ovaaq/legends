@@ -18,6 +18,7 @@ _\*Which you take when you are hit by an [[Attack]] or [[Area of Effect]] that c
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Dwarven Spells II.md\|Dwarven Spells II]]     |
+| [[Harmony Spells II.md\|Harmony Spells II]]     |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 | [[Warding Spells II.md\|Warding Spells II]]     |

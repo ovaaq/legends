@@ -1,12 +1,6 @@
-In **Legends RPG**, you create your character by choosing [[Talent|Talents]] from multiple [[Talent Tree|Talent Trees]]. You can combine [[Talent|Talents]] in any way you like to create unique characters.
+In **Legends RPG**, characters are primarily defined by [[Talent|Talents]] chosen from multiple [[Talent Tree|Talent Trees]]. A character is also defined by their [[Attribute|Attributes]], [[Ancestry]], [[Skill|Skills]], [[Saving Throw|Saving Throws]], and [[Equipment]], all of which are recorded on the [[Character Sheet]].
 
-[[Talent|Talents]] are the largest part of your character, but your character also has [[Attribute|Attributes]], [[Ancestry]], [[Skill|Skills]], [[Saving Throw|Saving Throws]], and [[Equipment]]. These are all recorded on your [[Character Sheet]].
-
-**Character =** [[Attribute|Attributes]] + [[Ancestry]] + [[Skill|Skills]] + [[Saving Throw|Saving Throws]] + [[Talent|Talents]] + [[Equipment]]
-
-Once you have read through this guide, see [[Filling Out the Character Sheet]] for a quick summary.
-
-If you need inspiration or help understanding the character creation process, you can follow [[Building Example Characters]] step by step.
+For a quick overview of character creation, see [[Filling Out the Character Sheet]]. For step-by-step examples, see [[Building Example Characters]].
 
 ## Steps of Character Creation
 

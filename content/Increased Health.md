@@ -7,11 +7,13 @@ Increase your [[Hit Point Maximum]] and gain one [[Hit Die]], as determined by y
 
 | Constitution | Hit Die | Hit Points |
 | :----------: | :-----: | :--------: |
-|  1 or lower  |   d4    |     3      |
+|  0 or lower  |   d4    |     2      |
+|      1       |   d4    |     3      |
 |      2       |   d6    |     4      |
 |      3       |   d8    |     5      |
 |      4       |   d10   |     6      |
-| 5 or higher  |   d12   |     7      |
+|      5       |   d12   |     7      |
+| 6 or higher  |   d12   |     8      |
 
 Once gained, this increase to your [[Hit Point Maximum]] and your [[Hit Die]] does not change if your [[Constitution]] later increases or decreases.
 

@@ -1,4 +1,4 @@
-_[[2nd Level Spell]]_
+_[[3rd Level Spell]]_
 
 **Casting**:: [[Reaction]]\*
 **Components**:: F, V, S
@@ -14,10 +14,9 @@ _\*When you are hit by an [[Attack]]._
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Harmony Spells II.md\|Harmony Spells II]] |
+| Related Talents |
+| --------------- |
 
 ---
 
-#spell #2nd  [[Spell]]
+#spell #3rd  [[Spell]]

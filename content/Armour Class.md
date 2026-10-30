@@ -1,4 +1,4 @@
-Humanoids have [[Armour Class]] of 8. [[Armour]] and [[Shield|Shields]] improve it.
+Humanoid's [[Armour Class]] is 8. Using [[Armour]] and [[Shield|Shields]] improve it.
 
 ---
 

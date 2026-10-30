@@ -1,5 +1,1 @@
-[[Saving Throw Difficulty Class]]
-
----
-
-#keyword
+[[Martial Save DC]] = 8 + [[Strength]] or [[Precision]] + [[Martial]] [[Rank]]

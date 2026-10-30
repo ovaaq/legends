@@ -1,5 +1,1 @@
-Character's [[Evasion Class]] equals 10 + [[Agility]].
-
----
-
-#keyword
+[[Evasion Class]] = 10 + [[Agility]]
