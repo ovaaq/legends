@@ -1,4 +1,4 @@
-**Requirements**:: [[Advanced Weapon Training]]
+**Requirements**:: [[Martial]] [[Rank]] 2+
 **Cost**:: 1 LP
 
 _Fast hands to lock and load._

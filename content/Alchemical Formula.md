@@ -3,6 +3,7 @@ recipe for [[Alchemical Item]].
 | ------------------------------------------------------------------------------------------------------------- |
 | [[Alchemist's Fire Formula.md\|Alchemist's Fire Formula]]                       |
 | [[Alchemist’s Frost Formula.md\|Alchemist’s Frost Formula]]                     |
+| [[Amphibian Potion Formula.md\|Amphibian Potion Formula]]                       |
 | [[Anti-Potion Formula.md\|Anti-Potion Formula]]                                 |
 | [[Beast Scent Potion Formula.md\|Beast Scent Potion Formula]]                   |
 | [[Charming Perfume Formula.md\|Charming Perfume Formula]]                       |
@@ -15,11 +16,11 @@ recipe for [[Alchemical Item]].
 | [[Disappearing Ink Formula.md\|Disappearing Ink Formula]]                       |
 | [[Dragonfire Vial Formula.md\|Dragonfire Vial Formula]]                         |
 | [[Dreamdust Formula.md\|Dreamdust Formula]]                                     |
-| [[Fire Breath Potion Formula.md\|Fire Breath Potion Formula]]                   |
+| [[Fire Breathing Potion Formula.md\|Fire Breathing Potion Formula]]             |
 | [[Flying Potion Formula.md\|Flying Potion Formula]]                             |
+| [[Foaming Acid Vial Formula.md\|Foaming Acid Vial Formula]]                     |
 | [[Freeze Powder Formula.md\|Freeze Powder Formula]]                             |
 | [[General Intelligence Potion Formula.md\|General Intelligence Potion Formula]] |
-| [[Ghost Form Potion Formula.md\|Ghost Form Potion Formula]]                     |
 | [[Glow Potion Formula.md\|Glow Potion Formula]]                                 |
 | [[Glue Formula.md\|Glue Formula]]                                               |
 | [[Greater Growth Potion Formula.md\|Greater Growth Potion Formula]]             |
@@ -35,6 +36,7 @@ recipe for [[Alchemical Item]].
 | [[Immunity Potion Formula.md\|Immunity Potion Formula]]                         |
 | [[Invisible Fire Formula.md\|Invisible Fire Formula]]                           |
 | [[Knockout Drops Formula.md\|Knockout Drops Formula]]                           |
+| [[Lifeblood Potion Formula.md\|Lifeblood Potion Formula]]                       |
 | [[Liquefy Stone Formula.md\|Liquefy Stone Formula]]                             |
 | [[Liquid Courage Formula.md\|Liquid Courage Formula]]                           |
 | [[Liquid Light Formula.md\|Liquid Light Formula]]                               |
@@ -45,6 +47,7 @@ recipe for [[Alchemical Item]].
 | [[Major Transmutation Formula.md\|Major Transmutation Formula]]                 |
 | [[Mana Potion Formula.md\|Mana Potion Formula]]                                 |
 | [[Minor Transmutation Formula.md\|Minor Transmutation Formula]]                 |
+| [[Misty Form Potion Formula.md\|Misty Form Potion Formula]]                     |
 | [[Philosopher's Stone Formula.md\|Philosopher's Stone Formula]]                 |
 | [[Recovery Potion Formula.md\|Recovery Potion Formula]]                         |
 | [[Regeneration Potion Formula.md\|Regeneration Potion Formula]]                 |
@@ -65,8 +68,11 @@ recipe for [[Alchemical Item]].
 | [[Truth Potion Formula.md\|Truth Potion Formula]]                               |
 | [[Venomous Oil Formula.md\|Venomous Oil Formula]]                               |
 | [[Vitality Potion Formula.md\|Vitality Potion Formula]]                         |
+| [[Wakefulness Potion Formula.md\|Wakefulness Potion Formula]]                   |
 | [[Water Breathing Potion Formula.md\|Water Breathing Potion Formula]]           |
+| [[Weightlessness Potion Formula.md\|Weightlessness Potion Formula]]             |
 | [[White Arsenic Formula.md\|White Arsenic Formula]]                             |
+| [[Witchsight Potion.md\|Witchsight Potion]]                                     |
 
 ---
 

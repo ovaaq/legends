@@ -8,7 +8,7 @@
 - [[Shield Training]]
   - [[Shield Master]]
 
-**Theme**:: Effective use of armour and shields.
+**Theme**:: Effective use of [[Armour]] and [[Shield|Shields]].
 **Group**:: [[Martial Talent]]
 
 ---

@@ -1,5 +1,5 @@
 **Requirements**::
-**Cost**:: 4 LP
+**Cost**:: 5 LP
 
 _You're a wizard._
 
@@ -75,7 +75,7 @@ For each level of the spell, the process takes 2 hours and uses 1 pot of [[Magic
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]
-**Following**:: [[Arcane Spells I]], [[Signature Spell]], [[Magical Quill]], [[Sentient Spellbook]], [[Mana Recollection]], [[Spellcraft Practice]], [[Learn Arcane Spells]], [[Arcane Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]], [[Study of Divination]], [[Study of Necromancy]], [[Study of Spacetime]], [[Study of Spellblade]], [[Study of Spelltheft]], [[Study of Warding]], [[Study of Wildlore]]
+**Following**:: [[Arcane Spells I]], [[Signature Spell]], [[Magical Quill]], [[Sentient Spellbook]], [[Mana Recollection]], [[Spellcraft Practice]], [[Learn Arcane Spells]], [[Arcane Spell Memory]], [[Metamagic]], [[Increased Mana]]
 
 ---
 

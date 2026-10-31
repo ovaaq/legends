@@ -1,11 +1,12 @@
 - [[Increased Evasion]]
-  - [[Unarmoured Movement]]
-    - [[Escape Artist]]
-      - [[Evasion]]
-        - [[d1]]
-    - [[Uncanny Dodge]]
-      - [[Elusive]]
-        - [[Untouchable]]
+  - [[Uncanny Dodge]]
+    - [[Elusive]]
+      - [[Untouchable]]
+
+    - [[Evasion]]
+      - [[d1]]
+
+  - [[Escape Artist]]
 
 **Theme**:: Dodging and evading attacks.
 **Group**:: [[Martial Talent]]
@@ -14,3 +15,7 @@
 
 #martial #talent_tree\
 [[Talent Tree]]
+
+```
+- [[Danger Sense]]
+```

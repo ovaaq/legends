@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain 1 additional Luck Point.
+You gain 1 additional [[Luck Point]].
 
 If you expend a Luck Point and the result is still a [[Miss]] or [[Failure]], the Luck Point is not expended.
 

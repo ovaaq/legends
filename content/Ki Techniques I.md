@@ -1,4 +1,4 @@
-**Requirements**:: [[Ki Unlocked]]
+**Requirements**:: [[Unlocked Ki]]
 **Cost**:: 1 LP
 
 _Flavour text_.

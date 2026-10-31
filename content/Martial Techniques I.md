@@ -3,13 +3,7 @@
 
 _Years of training have taught you how to perform combat techniques that ordinary warriors cannot replicate._
 
-[[Martial Technique|Martial Techniques]] are specialized combat manoeuvres learned through training and experience. Each technique belongs to one of four categories: [[Offensive Technique|Offensive]], [[Defensive Technique|Defensive]], [[Control Technique|Control]] and [[Support Technique|Support]].
-
-**Stamina.** You use [[Stamina Point|Stamina Points]] to power your techniques. Your [[Stamina Point Maximum]] equals your [[Constitution]] score. You regain all expended [[Stamina Point|Stamina Points]] after a [[Short Rest]].
-
 **Martial Techniques.** Select four [[1st Level Martial technique|1st Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below.
-
-**Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Attack]].
 
 | 1st Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                                                | Type                                                                          |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |

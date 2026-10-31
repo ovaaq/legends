@@ -1,4 +1,4 @@
-You gain 5 [[Legend Point|LP]], which you can use to buy more [[Talent|Talents]].
+Each level up grants you 5 [[Legend Point|LP]], which are used to buy more [[Talent|Talents]].
 
 ---
 

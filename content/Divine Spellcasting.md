@@ -1,5 +1,5 @@
 **Requirements**:: [[Divine Acolyte]]
-**Cost**:: 4 LP
+**Cost**:: 5 LP
 
 _Flavour text_.
 

@@ -1,31 +1,9 @@
-**Requirements**::
-**Cost**:: 4 LP
+**Requirements**:: [[Learned Innate Spells]] has [[Spell|Spells]]
+**Cost**:: 5 LP
 
 _Magic flows in your blood._
 
 Increase [[Rank]] of [[Instinct]] by 1.
-
-These spells are added to your [[Innate Spell List]]:
-
-##### Cantrips
-
-- [[Arcane Blast]]
-- [[Chaos Burst]]
-- [[Dancing Lights]]
-- [[Ignite]]
-- [[Message]]
-- [[Prestidigitation]]
-- [[Shocking Grasp]]
-- [[Thunderbolt]]
-
-##### 1st Level Spells
-
-- [[Absorb Elements]]
-- [[Alter Self]]
-- [[Aurora Burst]]
-- [[Detect Magic]]
-- [[Deflect]]
-- [[Mindward]]
 
 **Innate Ability.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Innate Spell List]] and add them to your [[Learned Innate Spells]] list.
 
@@ -39,7 +17,7 @@ These spells are added to your [[Innate Spell List]]:
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**:: [[Instinct Practice]], [[Learn Innate Spell]], [[Innate Spells I]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+**Following**:: [[Instinct Practice]], [[Learn Innate Spell]], [[Innate Spells I]], [[Metamagic]], [[Increased Mana]]
 
 ---
 

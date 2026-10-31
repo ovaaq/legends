@@ -2,7 +2,7 @@
 
 _Flavour text_
 
-Gain a +1 bonus to your [[Evasion Class]].
+Your [[Evasion Class]] increases by 1.
 
 This [[Talent]] can be taken 5 times.
 

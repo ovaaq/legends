@@ -7,7 +7,7 @@ You attempt to grapple a [[Creature]]. Make an [[Athletics]] [[Check]]. The targ
 
 **Success:** No effect.
 **Failure:** The target becomes [[Grappled]] by you.
-**Critical Failure:** The target becomes [[Grappled]] by you and has [[Disadvantage]] on first attempt to [[Escape]].
+**Critical Failure:** The target becomes [[Restrained]] by you.
 
 ---
 

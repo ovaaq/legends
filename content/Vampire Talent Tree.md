@@ -19,8 +19,6 @@
         - [[Metamagic Mastery|Metamagic Mastery]]
       - [[Increased Metamagic|Increased Metamagic]]
     - [[Increased Mana|Increased Mana]]
-    - [[Simple Focus Training|Simple Focus Training]]
-      - [[Advanced Focus Training|Advanced Focus Training]]
   - [[Vampire Spells I|Vampire Spells I]]
     - [[Vampire Spells II|Vampire Spells II]]
       - [[Vampire Spells III|Vampire Spells III]]

@@ -18,7 +18,6 @@ As a [[Action]] on your turn, you can move the lights up to 20 metres to a new s
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Elven Spells I.md\|Elven Spells I]]           |
-| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---

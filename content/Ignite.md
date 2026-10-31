@@ -16,7 +16,6 @@ _[[Cantrip]]_
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
-| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 
 ---

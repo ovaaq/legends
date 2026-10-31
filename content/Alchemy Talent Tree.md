@@ -8,7 +8,7 @@
     - [[Revised Experiment]]
       - [[Catalytic Infusion]]
         - [[Desired Outcome]]
-  - [[Combat Alchemy]]
+  - [[Improvised Alchemy]]
     - [[Expanded Splash]]
       - [[aa3]]
         - [[aa4]]
@@ -23,7 +23,7 @@
           - [[Alchemical Formulas V]]
             - [[Alchemical Formulas VI]]
 
-**Theme**:: Creation of potions and study of formulas.
+**Theme**:: Creation of [[Potion|Potions]] and [[Alchemical Item|Alchemical Items]].
 **Group**:: [[Crafting Talent]]
 
 ---

@@ -3,7 +3,7 @@
 On your [[Turn]], you have access to the following resources:
 
 - **3 Actions:** Spent to perform activities. An activity can require a [[Action]], [[Double Action]], or [[Triple Action]].
-- **Movement:** Spent to travel up to your [[Walking Speed]].
+- **Movement:** Move up to your [[Walking Speed]].
 - **1 Reaction:** Used once per [[Round]] in response to a specific trigger, even outside your turn. You regain your [[Reaction]] at the start of your next [[Turn]].
 - **Free Actions:** Minor activities that cost no actions or resources.
 
@@ -20,6 +20,7 @@ Actions are categorized by their function during combat:
 **Action ( ▶)**
 
 - [[Demoralize]]
+- [[Draw Weapons]]
 - [[Drink Potion]]
 - [[Identify Magic]]
 - [[Jump]]
@@ -117,6 +118,7 @@ Movement Types
 | [[Inspect.md\|Inspect]]                       | -                                                                | Analyse [[Creature]] or [[Object]], determine illusions etc. |
 | [[Take Cover.md\|Take Cover]]                 | -                                                                | Find cover behind [[Object]], [[Creature]] or buildings.     |
 | [[Demoralize.md\|Demoralize]]                 | [[Action.md\|Action]]               | -                                                           |
+| [[Draw Weapons.md\|Draw Weapons]]             | [[Action.md\|Action]]               | -                                                           |
 | [[Drink Potion.md\|Drink Potion]]             | [[Action.md\|Action]]               | -                                                           |
 | [[Identify Magic.md\|Identify Magic]]         | [[Action.md\|Action]]               | -                                                           |
 | [[Jump.md\|Jump]]                             | [[Action.md\|Action]]               | -                                                           |
@@ -182,6 +184,7 @@ Movement Types
 | [[Deliver Potion.md\|Deliver Potion]]         | -                                                                | -                                                           |
 | [[Demoralize.md\|Demoralize]]                 | -                                                                | -                                                           |
 | [[Disarm Trap.md\|Disarm Trap]]               | -                                                                | -                                                           |
+| [[Draw Weapons.md\|Draw Weapons]]             | -                                                                | -                                                           |
 | [[Drink Potion.md\|Drink Potion]]             | -                                                                | -                                                           |
 | [[Drop Object.md\|Drop Object]]               | -                                                                | -                                                           |
 | [[First Aid.md\|First Aid]]                   | -                                                                | -                                                           |

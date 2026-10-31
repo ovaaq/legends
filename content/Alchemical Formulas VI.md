@@ -5,9 +5,9 @@ _Flavour text_.
 
 These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]]. Additionally, choose one [[Alchemical Formula]] from this list and add it to your [[Alchemy Book]].
 
-##### 6th Level Alchemical Formulas
-
--
+| 6th Level Alchemical Formulas                                                                 |
+| --------------------------------------------------------------------------------------------- |
+| [[Philosopher's Stone Formula.md\|Philosopher's Stone Formula]] |
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[Crafting Talent]]

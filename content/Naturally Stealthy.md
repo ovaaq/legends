@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You can attempt to hide even when you are only obscured by a [[Creature]] that is at least one [[Creature Size]] larger than you.
+You can attempt to [[Hide]] even when you are only obscured by a [[Creature]] that is at least one [[Creature Size]] larger than you.
 
 **Group**:: [[Ancestry Talent]]
 **Following Talents**::

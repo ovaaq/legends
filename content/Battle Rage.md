@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Martial Initiate]]
 **Cost**:: 3 LP
 
 _Flavour text_.

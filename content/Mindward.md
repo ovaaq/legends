@@ -14,11 +14,10 @@ _\*1 gram of [[Topaz Dust]], consumed by the spell._
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Harmony Spells I.md\|Harmony Spells I]]       |
-| [[Innate Spellcasting.md\|Innate Spellcasting]] |
-| [[Warding Spells I.md\|Warding Spells I]]       |
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]] |
 
 ---
 

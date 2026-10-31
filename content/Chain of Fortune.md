@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You gain 1 additional Luck Point.
+You gain 1 additional [[Luck Point]].
 
 When you expend a Luck Point, the target gains [[Advantage]] on its next [[Attack Roll]], [[Skill]] [[Check]], or [[Saving Throw]].
 

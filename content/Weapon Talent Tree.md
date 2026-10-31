@@ -1,26 +1,31 @@
-- [[Advanced Weapon Training]]
-  - [[Polearmist]]
-    - [[Polearm Master]]
-    - [[Heavy Weapon Master]]
-  - [[Arbalist]]
-    - [[Crossbow Master]]
-    - [[Sharpshooter]]
-  - [[Axeman]]
-    - [[Axe Master]]
-    - [[Heavy Weapon Master]]
-  - [[Swordman]]
-    - [[Sword Master]]
-    - [[Heavy Weapon Master]]
-  - [[Hammerer]]
-    - [[Hammer Master]]
-    - [[Heavy Weapon Master]]
-  - [[Dual Wielder]]
-    - [[Twinblade Master]]
-  - [[Archer]]
-    - [[Bow Master]]
-    - [[Sharpshooter]]
+- [[Arbalist]]
+  - [[Crossbow Master]]
 
-**Theme**:: Highest level of weapon skill.
+- [[Archer]]
+  - [[Bow Master]]
+
+- [[Axeman]]
+  - [[Axe Master]]
+
+- [[Dual Wielder]]
+  - [[Twinblade Master]]
+
+- [[Hammerer]]
+  - [[Hammer Master]]
+
+- [[Heavy Hitter]]
+  - [[Heavy Weapon Master]]
+
+- [[Polearmist]]
+  - [[Polearm Master]]
+
+- [[Sharpshooter]]
+  - [[Marksman Master]]
+
+- [[Swordman]]
+  - [[Sword Master]]
+
+**Theme**:: Highest level of [[Weapon]] use.
 **Group**:: [[Martial Talent]]
 
 ---

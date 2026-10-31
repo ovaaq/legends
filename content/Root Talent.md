@@ -4,13 +4,13 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent1|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Arcane Spellcasting\|Arcane Spellcasting]]|[[Arcane Talent Tree\|Arcane Talent Tree]]|4 LP|• [[Arcane Spells I\|Arcane Spells I]]  <br>• [[Signature Spell\|Signature Spell]]  <br>• [[Magical Quill\|Magical Quill]]  <br>• [[Sentient Spellbook\|Sentient Spellbook]]  <br>• [[Mana Recollection\|Mana Recollection]]  <br>• [[Spellcraft Practice\|Spellcraft Practice]]  <br>• [[Learn Arcane Spells\|Learn Arcane Spells]]  <br>• [[Arcane Spell Memory\|Arcane Spell Memory]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]  <br>• [[Study of Divination\|Study of Divination]]  <br>• [[Study of Necromancy\|Study of Necromancy]]  <br>• [[Study of Spacetime\|Study of Spacetime]]  <br>• [[Study of Spellblade\|Study of Spellblade]]  <br>• [[Study of Spelltheft\|Study of Spelltheft]]  <br>• [[Study of Warding\|Study of Warding]]  <br>• [[Study of Wildlore\|Study of Wildlore]]|
+|[[Arcane Spellcasting\|Arcane Spellcasting]]|[[Arcane Talent Tree\|Arcane Talent Tree]]|5 LP|• [[Arcane Spells I\|Arcane Spells I]]  <br>• [[Signature Spell\|Signature Spell]]  <br>• [[Magical Quill\|Magical Quill]]  <br>• [[Sentient Spellbook\|Sentient Spellbook]]  <br>• [[Mana Recollection\|Mana Recollection]]  <br>• [[Spellcraft Practice\|Spellcraft Practice]]  <br>• [[Learn Arcane Spells\|Learn Arcane Spells]]  <br>• [[Arcane Spell Memory\|Arcane Spell Memory]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]|
 
 ### Crafting Talent
 
 |Root Talent3|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Alchemy Initiate\|Alchemy Initiate]]|[[Alchemy Talent Tree\|Alchemy Talent Tree]]|2 LP|• [[Learn Alchemical Formulas\|Learn Alchemical Formulas]]  <br>• [[Safety Measures\|Safety Measures]]  <br>• [[Experimental Elixir\|Experimental Elixir]]  <br>• [[Combat Alchemy\|Combat Alchemy]]  <br>• [[Favourable Exposure\|Favourable Exposure]]  <br>• [[Alchemical Formulas I\|Alchemical Formulas I]]  <br>• [[Alchemy Practice\|Alchemy Practice]]|
+|[[Alchemy Initiate\|Alchemy Initiate]]|[[Alchemy Talent Tree\|Alchemy Talent Tree]]|2 LP|• [[Learn Alchemical Formulas\|Learn Alchemical Formulas]]  <br>• [[Safety Measures\|Safety Measures]]  <br>• [[Experimental Elixir\|Experimental Elixir]]  <br>• [[Improvised Alchemy\|Improvised Alchemy]]  <br>• [[Favourable Exposure\|Favourable Exposure]]  <br>• [[Alchemical Formulas I\|Alchemical Formulas I]]  <br>• [[Alchemy Practice\|Alchemy Practice]]|
 |[[Artificer Initiate\|Artificer Initiate]]|[[Artificer Talent Tree\|Artificer Talent Tree]]|2 LP|—|
 |[[Runecraft Initiate\|Runecraft Initiate]]|[[Runecraft Talent Tree\|Runecraft Talent Tree]]|2 LP|• [[Learn Runes\|Learn Runes]]  <br>• [[Runic Capacity\|Runic Capacity]]  <br>• [[Runic Shield\|Runic Shield]]  <br>• [[Spell Runes\|Spell Runes]]  <br>• [[Runes I\|Runes I]]  <br>• [[Rulebook/Runecraft Practice\|Runecraft Practice]]|
 
@@ -35,9 +35,8 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Innate Talent
 
-|Root Talent5|Tree|Cost|Unlocks|
+|Root Talent4|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Innate Spellcasting\|Innate Spellcasting]]|[[Innate Talent Tree\|Innate Talent Tree]]|4 LP|• [[Instinct Practice\|Instinct Practice]]  <br>• [[Learn Innate Spell\|Learn Innate Spell]]  <br>• [[Innate Spells I\|Innate Spells I]]  <br>• [[Metamagic\|Metamagic]]  <br>• [[Increased Mana\|Increased Mana]]  <br>• [[Simple Focus Training\|Simple Focus Training]]|
 |[[Mark of Bite\|Mark of Bite]]|[[Vampire Talent Tree\|Vampire Talent Tree]]|1 LP|• [[Vampiric Bite\|Vampiric Bite]]  <br>• [[Heightened Senses\|Heightened Senses]]  <br>• [[Vampiric Shapeshift\|Vampiric Shapeshift]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Vampire Spells I\|Vampire Spells I]]|
 |[[Mark of Mutant\|Mark of Mutant]]|[[Mutant Talent Tree\|Mutant Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Mutant Spells I\|Mutant Spells I]]|
 |[[Mark of Psion\|Mark of Psion]]|[[Psionic Talent Tree\|Psionic Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Psionic Spells I\|Psionic Spells I]]|
@@ -45,13 +44,11 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Martial Talent
 
-|Root Talent6|Tree|Cost|Unlocks|
+|Root Talent4|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Battle Rage\|Battle Rage]]|[[Berserk Talent Tree\|Berserk Talent Tree]]|3 LP|—|
 |[[Increased Evasion\|Increased Evasion]]|[[Evasion Talent Tree\|Evasion Talent Tree]]|1 LP|• [[Unarmoured Movement\|Unarmoured Movement]]|
-|[[Ki Unlocked\|Ki Unlocked]]|[[Ki Talent Tree\|Ki Talent Tree]]|1 LP|• [[Focused Aim\|Focused Aim]]  <br>• [[Enduring Body\|Enduring Body]]  <br>• [[Ki Techniques I\|Ki Techniques I]]|
 |[[Light Armour Training\|Light Armour Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Medium Armour Training\|Medium Armour Training]]  <br>• [[Light Armour Master\|Light Armour Master]]|
-|[[Martial Initiate\|Martial Initiate]]|[[Martial Talent Tree\|Martial Talent Tree]]|1 LP|• [[Advanced Weapon Training\|Advanced Weapon Training]]  <br>• [[Martial Practice\|Martial Practice]]  <br>• [[Fighting Stances\|Fighting Stances]]  <br>• [[Extra Attack\|Extra Attack]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
+|[[Martial Initiate\|Martial Initiate]]|[[Martial Talent Tree\|Martial Talent Tree]]|3 LP|• [[Martial Practice\|Martial Practice]]  <br>• [[Fighting Stances\|Fighting Stances]]  <br>• [[Extra Attack\|Extra Attack]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
 |[[Shield Training\|Shield Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Shield Master\|Shield Master]]|
 
 ### Pact Talent

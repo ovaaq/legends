@@ -1,4 +1,4 @@
-**Requirements**:: [[Hammerer]]
+**Requirements**:: [[Hammerer]] and [[Martial]] [[Rank]] 3+
 **Cost**:: 1 LP
 
 \*Through relentless practice, you have mastered all forms of weaponry. You can now wield even the most complex weapons to your advantage.

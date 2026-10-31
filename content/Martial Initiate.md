@@ -1,20 +1,36 @@
 **Requirements**::
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
 _You have practised the basics of weaponry. Now, your path to martial excellence begins._
 
 Increase [[Rank]] of [[Martial]] by 1.
 
-Using [[Simple Weapon|Simple Weapons]] will not impose [[Untrained Weapon Penalty]].
+**Stamina.** You use [[Stamina Point|Stamina Points]] to power your [[Martial Technique|Martial Techniques]]. Your [[Stamina Point Maximum]] equals your [[Constitution]] score. You regain all expended [[Stamina Point|Stamina Points]] after a [[Short Rest]].
 
-**[[Martial Save DC]]** = 8 + [[Martial]] [[Rank]] + [[Strength]] or [[Precision]]
-**[[Weapon Attack Modifier]]** = [[Martial]] [[Rank]] + [[Strength]] or [[Precision]]
+[[Martial Technique|Martial Techniques]] are specialized combat manoeuvres learned through training and experience. Each technique belongs to one of four categories: [[Offensive Technique|Offensive]], [[Defensive Technique|Defensive]], [[Control Technique|Control]] and [[Support Technique|Support]].
+
+**Martial Techniques.** Select two [[Martial Technique|Martial Techniques]] from the list below and add them to [[Learned Martial Techniques]].
+
+##### Starter Martial Techniques
+
+- [[Parry]]
+- [[Charging Strike]]
+- [[Disarming Attack]]
+- [[Withdrawing Strike]]
+- [[Trip Attack]]
+- [[Pushing Attack]]
+
+**Perform Technique.** You may execute any of your [[Learned Martial Techniques]]. You can apply only one [[Martial Technique]] per [[Attack]].
+
+![[Martial Save DC]]
+
+![[Weapon Attack Modifier]]
 
 This [[Talent]] can be taken once.
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Advanced Weapon Training]], [[Martial Practice]], [[Fighting Stances]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
+**Following**:: [[Martial Practice]], [[Fighting Stances]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
 
 ---
 

@@ -24,7 +24,6 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
-| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 | [[Life Spells I.md\|Life Spells I]]             |
 
 ---

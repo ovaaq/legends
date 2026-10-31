@@ -13,7 +13,7 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 
 ### Crafting Talent Trees
 
-- [[Alchemy Talent Tree|Alchemy Talent Tree]] - Creation of potions and study of formulas.
+- [[Alchemy Talent Tree|Alchemy Talent Tree]] - Creation of [[Potion|Potions]] and [[Alchemical Item|Alchemical Items]].
 - [[Artificer Talent Tree|Artificer Talent Tree]] - Using harnessed arcane power you create machines or even constructs.
 - [[Runecraft Talent Tree|Runecraft Talent Tree]] - Inscribe runes to make them enchanted and powerful items.
 
@@ -50,12 +50,12 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 
 ### Martial Talent Trees
 
-- [[Armour Talent Tree|Armour Talent Tree]] - Effective use of armour and shields.
+- [[Armour Talent Tree|Armour Talent Tree]] - Effective use of [[Armour|Armour]] and [[Shield|Shields]].
 - [[Berserk Talent Tree|Berserk Talent Tree]] - Fighting with pure rage.
 - [[Evasion Talent Tree|Evasion Talent Tree]] - Dodging and evading attacks.
 - [[Ki Talent Tree|Ki Talent Tree]] - Effective use of armour and shields.
 - [[Martial Talent Tree|Martial Talent Tree]] - Fight using martial techniques.
-- [[Weapon Talent Tree|Weapon Talent Tree]] - Highest level of weapon skill.
+- [[Weapon Talent Tree|Weapon Talent Tree]] - Highest level of [[Weapon|Weapon]] use.
 
 ### Pact Talent Trees
 

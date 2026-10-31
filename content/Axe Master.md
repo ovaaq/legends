@@ -1,4 +1,4 @@
-**Requirements**:: [[Axeman]]
+**Requirements**:: [[Axeman]] and [[Martial]] [[Rank]] 3+
 **Cost**:: 1 LP
 
 \*In your hands, axes are exceptionally lethal.

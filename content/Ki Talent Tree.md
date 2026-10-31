@@ -1,4 +1,4 @@
-- [[Ki Unlocked]]
+- [[Unlocked Ki]]
   - [[Focused Aim]]
     - [[Stillness of Mind]]
       - [[Diamond Soul]]

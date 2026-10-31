@@ -1,4 +1,4 @@
-**Requirements**:: [[Advanced Weapon Training]]
+**Requirements**:: [[Martial]] [[Rank]] 2+
 **Cost**:: 1 LP
 
 _Flavour text_

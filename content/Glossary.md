@@ -93,6 +93,7 @@
 | [[Divine Spell List.md\|Divine Spell List]]                                       |
 | [[Dodge.md\|Dodge]]                                                               |
 | [[Double Action.md\|Double Action]]                                               |
+| [[Draw Weapons.md\|Draw Weapons]]                                                 |
 | [[Drink Potion.md\|Drink Potion]]                                                 |
 | [[Drop Object.md\|Drop Object]]                                                   |
 | [[Drowsy.md\|Drowsy]]                                                             |

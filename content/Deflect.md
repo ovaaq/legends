@@ -19,7 +19,6 @@ _\*When someone makes an [[Attack]] towards you._
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
-| [[Innate Spellcasting.md\|Innate Spellcasting]] |
 | [[Life Spells I.md\|Life Spells I]]             |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 

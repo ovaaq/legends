@@ -16,4 +16,4 @@ _[[3rd Level Alchemical Formula]]_
 
 ---
 
-#1st #alchemical_formula [[Alchemical Formula]]
+#3rd #alchemical_formula [[Alchemical Formula]]

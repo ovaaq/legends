@@ -1,9 +1,9 @@
 **Requirements**:: [[Uncanny Dodge]]
-**Cost**:: 1 LP
+**Cost**:: 3 LP
 
-_You have mastered the basics of weaponry. Now, your path to martial excellence begins._
+_elusive._
 
-x
+While you are not [[Restrained]] and not wearing [[Armour]] with the [[Restricting]] property, treat any [[Critical Hit]] against you as a normal hit.
 
 **Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]

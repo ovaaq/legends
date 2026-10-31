@@ -1,7 +1,7 @@
 - [[Arcane Spellcasting]]
   - [[Spellcraft Practice]]
   - [[Learn Arcane Spells]]
-  - [[Arcane Spell Memory]]
+    - [[Arcane Spell Memory]]
   - [[Magical Quill]]
   - [[Arcane Specialization]]
     - [[Signature Spell]]

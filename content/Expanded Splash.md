@@ -1,4 +1,4 @@
-**Requirements**:: [[Combat Alchemy]]
+**Requirements**:: [[Improvised Alchemy]]
 **Cost**:: 1 LP
 
 _Flavour text_.
