@@ -1,5 +1,10 @@
-**Type**:: [[Contact Poison]]
+_[[Contact Poison]]_
+
+_Is it green?_
+
+**Cost**:: 1 gp
 **Weight**:: 0.1 kg
+**Duration**:: Instant
 
 As a [[Double Action]], you can smear Sightbane on a [[Creature]]'s face, forcing it to make a DC 15 [[Constitution Saving Throw]].
 
@@ -10,4 +15,4 @@ As a [[Double Action]], you can smear Sightbane on a [[Creature]]'s face, forcin
 
 ---
 
-#alchemical_item #poison #common
+#poison

@@ -1,14 +1,13 @@
-_[[Alchemical Item]], [[Equipment]]_
+_[[Alchemical Item]]_
 
-**Duration**:: 7 days
+_Is it green?_
 
-**Effect**:: Animals won't attack the drinker
+**Cost**:: 1 gp
+**Weight**:: 0.1 kg
+**Duration**:: Instant
 
-**Critical Success:** No effect.
-**Success:** z
-**Failure:** y
-**Critical Failure:** x
+effect
 
 ---
 
-#uncommon #alchemical_item
+#alchemical_item

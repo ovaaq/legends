@@ -1,5 +1,10 @@
-**Type**:: [[Alchemical Item]]
+_[[Alchemical Item]]_
+
+_Is it green?_
+
+**Cost**:: 1 gp
 **Weight**:: 0.1 kg
+**Duration**:: Instant
 
 As a [[Double Action]], you throw the Alchemist's Fire, which shatters on impact and erupts into a 3-metre-diameter sphere. Each [[Creature]] in the area must make a DC 10 [[Agility Saving Throw]].
 
@@ -10,8 +15,8 @@ As a [[Double Action]], you throw the Alchemist's Fire, which shatters on impact
 
 This ignites the surface and burns any [[Flammable]] [[Object|Objects]] in the area that aren't being worn or carried.
 
-**Dangerous Area:** The ignited surface burns for 1 minute. A [[Creature]] takes 1d4 [[Fire Damage]] when it enters the area for the first time on a [[Turn]] or starts its [[Turn]] there.
+**Dangerous Area.** The ignited surface burns for 1 minute. A [[Creature]] takes 1d4 [[Fire Damage]] when it enters the area for the first time on a [[Turn]] or starts its [[Turn]] there.
 
 ---
 
-#alchemical_item #common
+#alchemical_item

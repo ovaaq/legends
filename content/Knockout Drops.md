@@ -1,4 +1,4 @@
-[[Alchemical Item]], [[Adventuring Item]]
+_[[Inhaled Poison]]_
 
 As a [[Double Action]], you can pour the drops onto a cloth and press it over the nose and mouth of an adjacent [[Creature]], forcing it to make a DC 15 [[Constitution Saving Throw]].
 
@@ -8,6 +8,8 @@ As a [[Double Action]], you can pour the drops onto a cloth and press it over th
 **Critical Failure:** The target becomes [[Unconscious]] for 1d4 hours.
 
 An [[Unconscious]] [[Creature]] wakes up if it takes more than 10 damage. Once awake, the [[Creature]] gains the [[Confused]] condition until its next [[Short Rest]].
+
+---
 
 As a [[Double Action]], you can pour the drops onto a cloth and press it over the nose and mouth of an adjacent [[Creature]], forcing it to make a DC 15 [[Constitution Saving Throw]].
 

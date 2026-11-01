@@ -11,18 +11,16 @@
 | [[Ghost Form Potion.md\|Ghost Form Potion]]                     |
 | [[Glow Potion.md\|Glow Potion]]                                 |
 | [[Greater Growth Potion.md\|Greater Growth Potion]]             |
-| [[Greater Healing Potion 1.md\|Greater Healing Potion 1]]       |
-| [[Greater Mana Potion 1.md\|Greater Mana Potion 1]]             |
 | [[Greater Shrink Potion.md\|Greater Shrink Potion]]             |
 | [[Greater Speed Potion.md\|Greater Speed Potion]]               |
 | [[Greater Strength Potion.md\|Greater Strength Potion]]         |
-| [[Greater Vitality Potion 1.md\|Greater Vitality Potion 1]]     |
 | [[Growth Potion.md\|Growth Potion]]                             |
 | [[Healing Potion.md\|Healing Potion]]                           |
 | [[Immunity Potion.md\|Immunity Potion]]                         |
 | [[Love Potion.md\|Love Potion]]                                 |
 | [[Luck Potion.md\|Luck Potion]]                                 |
 | [[Mana Potion.md\|Mana Potion]]                                 |
+| [[01 - Projects/3 Game Master/Potion Template.md\|Potion Template]]                           |
 | [[Recovery Potion.md\|Recovery Potion]]                         |
 | [[Regeneration Potion.md\|Regeneration Potion]]                 |
 | [[Resistance Potion.md\|Resistance Potion]]                     |

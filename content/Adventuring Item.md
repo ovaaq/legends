@@ -1,3 +1,110 @@
+- [[Object]]
+  - [[Adventuring Item]]
+    - [[Armour]]
+      - [[Light Armour]]
+      - [[Medium Armour]]
+      - [[Heavy Armour]]
+      - [[Shield]]
+    - [[Weapon]]
+    - [[Alchemical Item]]
+      - [[Potion]]
+      - [[Poison]]
+        - [[Contact Poison]]
+        - [[Ingested Poison]]
+        - [[Inhaled Poison]]
+        - [[Wound Poison]]
+    - [[Clothes]]
+    - [[Tool]]
+    - [[Container]]
+    - [[Gemstone]]
+    - [[Coin]]
+    -
+
+---
+
+Item
+├── Equipment
+│   ├── Weapon
+│   │   ├── Melee Weapon
+│   │   ├── Ranged Weapon
+│   │   ├── Thrown Weapon
+│   │   └── Improvised Weapon
+│   ├── Armour
+│   │   ├── Light Armour
+│   │   ├── Medium Armour
+│   │   ├── Heavy Armour
+│   │   └── Shield
+│   ├── Clothing
+│   │   ├── Everyday Clothing
+│   │   ├── Protective Clothing
+│   │   ├── Ceremonial Clothing
+│   │   └── Disguise or Costume
+│   └── Worn Accessory
+│
+├── Gear
+│   ├── Tool
+│   │   ├── Crafting Tool
+│   │   ├── Exploration Tool
+│   │   ├── Medical Tool
+│   │   ├── Musical Instrument
+│   │   ├── Professional Tool
+│   │   └── Thieving or Infiltration Tool
+│   ├── Container
+│   │   ├── Carried Container
+│   │   ├── Worn Container
+│   │   ├── Liquid Container
+│   │   └── Storage Container
+│   ├── Light Source
+│   ├── Camping Gear
+│   ├── Climbing Gear
+│   ├── Restraint
+│   ├── Communication Gear
+│   ├── Navigation Gear
+│   └── Adventuring Kit
+│
+├── Consumable
+│   ├── Alchemical Item
+│   │   ├── Potion
+│   │   ├── Poison
+│   │   │   ├── Contact Poison
+│   │   │   ├── Ingested Poison
+│   │   │   ├── Inhaled Poison
+│   │   │   └── Injury Poison
+│   │   ├── Antidote
+│   │   ├── Acid
+│   │   ├── Incendiary
+│   │   └── Alchemical Substance
+│   ├── Food
+│   ├── Drink
+│   ├── Medicine
+│   ├── Ammunition
+│   ├── Fuel
+│   └── Spell Consumable
+│
+├── Trade Good
+│   ├── Currency
+│   │   ├── Coin
+│   │   ├── Trade Bar
+│   │   └── Token
+│   ├── Gemstone
+│   ├── Art Object
+│   ├── Raw Material
+│   └── Commodity
+│
+├── Document
+│   ├── Book
+│   ├── Map
+│   ├── Letter
+│   ├── Permit or Credential
+│   └── Scroll
+│
+├── Treasure
+│   ├── Gemstone
+│   ├── Art Object
+│   └── Curiosity
+│
+└── Quest Item
+
 **Description**:: General gear needed for exploration, survival, and travel.
 
 [[Equipment]]
@@ -7,6 +114,7 @@
 
 | Item                                                                                    | Weight | Cost |
 | --------------------------------------------------------------------------------------- | ------ | ---- |
+| [[Adventuring Item.md\|Adventuring Item]]                 | -     | -   |
 | [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         | -     | -   |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         | -     | -   |
 | [[Appraisal Tools.md\|Appraisal Tools]]                   | -     | -   |
@@ -27,7 +135,6 @@
 | [[Charcoal Stick.md\|Charcoal Stick]]                     | -     | -   |
 | [[Chest.md\|Chest]]                                       | -     | -   |
 | [[Chisel.md\|Chisel]]                                     | -     | -   |
-| [[Common Antidote.md\|Common Antidote]]                   | -     | -   |
 | [[Compass.md\|Compass]]                                   | -     | -   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                             | -     | -   |
 | [[Crowbar.md\|Crowbar]]                                   | -     | -   |
@@ -45,7 +152,6 @@
 | [[Hooded Lantern.md\|Hooded Lantern]]                     | -     | -   |
 | [[Hunting Trap.md\|Hunting Trap]]                         | -     | -   |
 | [[Ink Bottle.md\|Ink Bottle]]                             | -     | -   |
-| [[Knockout Drops.md\|Knockout Drops]]                     | -     | -   |
 | [[Lantern.md\|Lantern]]                                   | -     | -   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]         | -     | -   |
 | [[Lock.md\|Lock]]                                         | -     | -   |
@@ -89,6 +195,7 @@
 
 | List of People                                                                          |
 | --------------------------------------------------------------------------------------- |
+| [[Adventuring Item.md\|Adventuring Item]]                 |
 | [[98 - Meta/Templates/Adventuring Item Template.md\|Adventuring Item Template]]         |
 | [[Alchemist’s Supplies.md\|Alchemist’s Supplies]]         |
 | [[Appraisal Tools.md\|Appraisal Tools]]                   |
@@ -109,7 +216,6 @@
 | [[Charcoal Stick.md\|Charcoal Stick]]                     |
 | [[Chest.md\|Chest]]                                       |
 | [[Chisel.md\|Chisel]]                                     |
-| [[Common Antidote.md\|Common Antidote]]                   |
 | [[Compass.md\|Compass]]                                   |
 | [[Cook’s Kit.md\|Cook’s Kit]]                             |
 | [[Crowbar.md\|Crowbar]]                                   |
@@ -127,7 +233,6 @@
 | [[Hooded Lantern.md\|Hooded Lantern]]                     |
 | [[Hunting Trap.md\|Hunting Trap]]                         |
 | [[Ink Bottle.md\|Ink Bottle]]                             |
-| [[Knockout Drops.md\|Knockout Drops]]                     |
 | [[Lantern.md\|Lantern]]                                   |
 | [[Leatherworking Tools.md\|Leatherworking Tools]]         |
 | [[Lock.md\|Lock]]                                         |

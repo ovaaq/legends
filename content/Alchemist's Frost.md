@@ -1,5 +1,10 @@
-**Type**:: [[Alchemical Item]]
+_[[Alchemical Item]]_
+
+_Is it green?_
+
+**Cost**:: 1 gp
 **Weight**:: 0.1 kg
+**Duration**:: Instant
 
 As a [[Double Action]], you throw the Alchemist's Frost, which shatters on impact and erupts into a 3-metre-diameter sphere. Each [[Creature]] in the area must make a DC 10 [[Constitution Saving Throw]].
 
@@ -12,4 +17,4 @@ This freezes any [[Liquid]] [[Object|Objects]] in the area that aren't being wor
 
 ---
 
-#common #alchemical_item
+#alchemical_item

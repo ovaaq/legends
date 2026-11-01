@@ -1,8 +1,10 @@
-**Type**:: [[Inhaled Poison]]
+_[[Inhaled Poison]]_
+
+**Cost**:: 1 gp
 **Weight**:: 0.1 kg
 **Duration**:: 2d4 hours
 
-As a [[Double Action]], you throw the Dreamdust, which releases misty cloud into a 3-metre-diameter sphere. Each [[Creature]] in the area must make a DC 12 [[Constitution Saving Throw]]. The target has [[Advantage]] on this [[Saving Throw]] if it is fighting you or your allies.
+As a [[Double Action]], you throw [[Dreamdust]], which releases misty cloud into a 3-metre-diameter sphere. Each [[Creature]] in the area must make a DC 12 [[Constitution Saving Throw]]. The target has [[Advantage]] on this [[Saving Throw]] if it is fighting you or your allies.
 
 **Critical Success:** No effect.
 **Success:** The target is [[Drowsy]] for 1 hour.
@@ -13,4 +15,4 @@ A [[Creature]] affected by this effect wakes up if it takes damage, or if anothe
 
 ---
 
-#alchemical_item #poison #common
+#poison

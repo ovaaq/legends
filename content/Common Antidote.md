@@ -1,12 +1,13 @@
-_[[Adventuring Item]], [[Equipment]]_
+_[[Ingested Poison]]_
 
-_Lore._
+_Is it green?_
 
-**Weight**:: 1 Stack
-**Cost**:: 2 gp
+**Cost**:: 1 gp
+**Weight**:: 0.1 kg
+**Duration**:: Instant
 
 Neutralises any [[Common]] [[Poison]] currently affecting a [[Creature]].
 
 ---
 
-#adventuring_item  #equipment
+#poison

@@ -1,4 +1,6 @@
-[[Poison]]
+_[[Poison]]_
+
+Poisons that are breathed in to take effect.
 
 ---
 
