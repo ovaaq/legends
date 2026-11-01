@@ -14,8 +14,9 @@ The spell is blocked by 30 centimetres of stone, dirt, or wood; 2.5 centimetres 
 
 **Type**:: [[Revelation Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Knowledge Spells I.md\|Knowledge Spells I]] |
 
 ---
 

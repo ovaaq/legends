@@ -15,8 +15,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**::
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Knowledge Spells II.md\|Knowledge Spells II]] |
 
 ---
 

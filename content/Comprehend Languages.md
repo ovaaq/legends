@@ -17,6 +17,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as arcane s
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
+| [[Knowledge Spells I.md\|Knowledge Spells I]]   |
 
 ---
 

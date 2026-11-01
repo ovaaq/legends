@@ -3,17 +3,17 @@
 
 _Flavour text_.
 
-**Fighting Stance.** At the start of your first [[Turn]] in a [[Encounter]], you can activate one [[Fighting Stance]] as a [[Free Action]]. You may only have one stance active at a time. You can switch your active [[Fighting Stance]] once in your [[Turn]] as a [[Free Action]].
+**Fighting Stance.** You can have one [[Fighting Stance]] active at a time. You can switch your active [[Fighting Stance]] once in your [[Turn]] as a [[Free Action]].
 
-**New Stances.** Select two [[Fighting Stance|Fighting Stances]] from the list below. You can always use any stances you have already learned.
+**New Stances.** Learn two [[Fighting Stance|Fighting Stances]] from the list below. You can always use any stances you have already learned.
 
-| Fighting Stances                                                          |
-| ------------------------------------------------------------------------- |
-| [[Aggressive Stance.md\|Aggressive Stance]] |
-| [[Balanced Stance.md\|Balanced Stance]]     |
-| [[Defensive Stance.md\|Defensive Stance]]   |
-| [[Protector Stance.md\|Protector Stance]]   |
-| [[Steady Stance.md\|Steady Stance]]         |
+| Fighting Stances                                                            |
+| --------------------------------------------------------------------------- |
+| [[Aggressive Stance.md\|Aggressive Stance]]   |
+| [[Balanced Stance.md\|Balanced Stance]]       |
+| [[Defensive Stance.md\|Defensive Stance]]     |
+| [[Interceptor Stance.md\|Interceptor Stance]] |
+| [[Steady Stance.md\|Steady Stance]]           |
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]

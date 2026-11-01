@@ -19,6 +19,7 @@ The spell is blocked by 30 centimetres of stone, dirt, or wood; 2 centimetres of
 | ----------------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
 | [[Draconic Spells I.md\|Draconic Spells I]]           |
+| [[Knowledge Spells I.md\|Knowledge Spells I]]         |
 | [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 
 ---

@@ -18,6 +18,7 @@ You can cast this spell through [[Solid]] [[Object|Objects]] if you are familiar
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Harmony Spells I.md\|Harmony Spells I]]       |
+| [[Knowledge Spells I.md\|Knowledge Spells I]]   |
 
 ---
 

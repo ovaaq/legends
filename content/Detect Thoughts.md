@@ -14,9 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Revelation Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Harmony Spells II.md\|Harmony Spells II]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Harmony Spells II.md\|Harmony Spells II]]     |
+| [[Knowledge Spells II.md\|Knowledge Spells II]] |
 
 ---
 

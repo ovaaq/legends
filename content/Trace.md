@@ -14,9 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Revelation Magic]]
 
-| Related Talents                                                     |
-| ------------------------------------------------------------------- |
-| [[Beast Spells I.md\|Beast Spells I]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Beast Spells I.md\|Beast Spells I]]           |
+| [[Knowledge Spells II.md\|Knowledge Spells II]] |
 
 ---
 

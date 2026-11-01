@@ -1,14 +1,13 @@
-_[[Potion]], [[Alchemical Item]], [[Equipment]]_
+_[[Potion]]_
 
-**Duration**:: 7 days
+_Make it big._
 
-**Effect**:: Love drinker makes [[Charisma Saving Throw]] DC 20
+**Cost**:: 1 gp
+**Weight**:: 0.1 kg
+**Duration**:: 10 minutes
 
-**Critical Success:** No effect.
-**Success:** z
-**Failure:** y
-**Critical Failure:** x
+**Effect**:: Your [[Creature Size]] decreases by one. For the duration, you gain +2 [[Agility]] and +1 [[Precision]], but suffer -2 [[Strength]] and -1 [[Constitution]]. Your [[Walking Speed]] is reduced by 2 metres.
 
 ---
 
-#rare #potion #alchemical_item
+#potion

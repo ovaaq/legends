@@ -21,6 +21,7 @@ _[[Cantrip]]_
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Elven Spells I.md\|Elven Spells I]]           |
 | [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Knowledge Spells I.md\|Knowledge Spells I]]   |
 
 ---
 

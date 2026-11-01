@@ -1,5 +1,5 @@
-**Requirements**:: [[Divine Acolyte]]
-**Cost**:: 1 LP
+**Requirements**:: [[Knowledge Spells III]] and [[Prayer]] [[Rank]] 4+
+**Cost**:: 4 LP
 
 _Flavour text_.
 

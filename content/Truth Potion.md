@@ -1,14 +1,13 @@
-_[[Potion]], [[Alchemical Item]], [[Equipment]]_
+_[[Potion]]_
 
-**Duration**:: 7 days
+_Is it green?_
 
-**Effect**:: Love drinker makes [[Charisma Saving Throw]] DC 20
+**Cost**:: 1 gp
+**Weight**:: 0.1 kg
+**Duration**:: 10 minutes
 
-**Critical Success:** No effect.
-**Success:** z
-**Failure:** y
-**Critical Failure:** x
+**Effect**:: For the duration, you cannot deliberately speak a lie. You can avoid answering questions or give evasive answers, as long as everything you say remains truthful.
 
 ---
 
-#rare #potion #alchemical_item
+#potion

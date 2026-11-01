@@ -18,6 +18,7 @@ An affected [[Creature]] is aware of the spell and can thus avoid answering ques
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
 | [[Harmony Spells II.md\|Harmony Spells II]]     |
+| [[Knowledge Spells II.md\|Knowledge Spells II]] |
 
 ---
 

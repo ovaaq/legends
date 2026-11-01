@@ -15,6 +15,7 @@ _[[2nd Level Spell]]_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
+| [[Knowledge Spells II.md\|Knowledge Spells II]] |
 
 ---
 

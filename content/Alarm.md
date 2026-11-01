@@ -20,6 +20,7 @@ _[[1st Level Spell]]_
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
+| [[Knowledge Spells I.md\|Knowledge Spells I]]   |
 | [[Warding Spells I.md\|Warding Spells I]]       |
 
 ---

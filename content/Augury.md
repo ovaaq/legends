@@ -25,6 +25,7 @@ The omen reveals the most prominent outcome. Each casting after the first before
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
+| [[Knowledge Spells II.md\|Knowledge Spells II]] |
 
 ---
 

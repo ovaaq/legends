@@ -1,7 +1,7 @@
 ![[Character Sheet]]
 
-[[Spell Sheet]]
+#### Work In Progress
 
-[[Talent Sheet]]
-
-[[Inventory Sheet]]
+- [[Spellcasting Sheet]]
+- [[Alchemy Sheet]]
+-

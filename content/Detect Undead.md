@@ -19,6 +19,7 @@ The spell is blocked by 30 centimetres of stone, dirt, or wood; 2 centimetres of
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
 | [[Divine Spellcasting.md\|Divine Spellcasting]] |
+| [[Knowledge Spells I.md\|Knowledge Spells I]]   |
 | [[Life Spells I.md\|Life Spells I]]             |
 
 ---
