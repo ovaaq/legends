@@ -3,7 +3,7 @@ publish: true
 title: Homepage
 ---
 
-**Legends RPG** is a classless d20 fantasy role-playing game where you build your character from [[Talent|Talents]] instead of choosing a class. Combine [[Talent|Talents]] freely, fight using a flexible three-action system, and create characters that don't fit into predefined roles.
+**Legends RPG** is a classless d20 fantasy role-playing game where you build your character from [[Talent|Talents]].
 
 > _Anyone can be a hero, but who will be remembered as a legend?_
 
@@ -11,7 +11,7 @@ title: Homepage
 
 #### Build Anything
 
-Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character, not a class. Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic and interesting.
+Create classic fantasy archetypes or something entirely your own. Your [[Talent|Talents]] define your character. Each level, choose where you want to grow. Combine [[Talent|Talents]] in whatever way feels thematic and interesting.
 
 #### Tactical Combat
 

@@ -5,12 +5,12 @@ _[[2nd Level Alchemical Formula]]_
 **Range**:: Touch
 **Duration**:: Instant
 
-**Ingredients**:: 1 [[Common Poisonous Reagent]], 1 [[Common Reactive Reagent]], [[Glass Vial]]
+**Ingredients**:: 1 [[Common Volatile Reagent]], 2 [[Common Reactive Reagent]], [[Glass Vial]]
 
-**Effect**:: You attempt to craft a [[Vial of Poison]]. Make an [[Crafting]] ([[Alchemy]]) [[Check]] DC 15.
+**Effect**:: You attempt to craft a [[Freeze Powder]]. Make an [[Crafting]] ([[Alchemy]]) [[Check]] DC 17.
 
-**Critical Success:** You create 2 [[Vial of Poison|Vials of Poison]] instead of 1.
-**Success:** You create 1 [[Vial of Poison]].
+**Critical Success:** You create 2 [[Freeze Powder|Freeze Powders]] instead of 1.
+**Success:** You create 1 [[Freeze Powder]].
 **Failure:** Time is wasted, but ingredients are saved.
 **Critical Failure:** Ingredients are lost. Roll 1d12 on the [[Alchemy Hazard Table]].
 
