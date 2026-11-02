@@ -29,8 +29,6 @@ These spells are added to your [[Spiritual Spell List]]:
 > [!info] Prepared Spells
 > Number of Prepared Spiritual Spells = 1 + [[Channelling]] [[Rank]] + [[Intelligence]]
 
-**Mana.** You use [[Mana|Mana Points]] to power your techniques. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana|Mana Points]] after a [[Long Rest]].
-
 **Casting Spells.** You can cast any [[Spell]] on your [[Prepared Spiritual Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Channelling]] [[Rank]].
 
 ![[Spiritual Spell Save DC]]

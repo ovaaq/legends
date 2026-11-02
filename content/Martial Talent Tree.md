@@ -1,19 +1,18 @@
 - [[Martial Initiate]]
+  - [[Increased Stamina]]
   - [[Martial Practice]]
+    - [[Extra Attack]]
   - [[Fighting Stances]]
     - [[Advanced Fighting Stances]]
-  - [[Extra Attack]]
-    - [[Triple Attack]]
   - [[Improved Critical]]
     - [[Superior Critical]]
-  - [[Martial Techniques I]]
-    - [[Learn Martial Techniques]]
-    - [[Increased Stamina]]
+  - [[Learn Martial Techniques]]
     - [[Combine two Techniques]]
+  - [[Martial Techniques I]]
     - [[Martial Techniques II]]
       - [[Martial Techniques III]]
 
-**Theme**:: Fight using martial techniques.
+**Theme**:: Martial masters with [[Martial Technique|Martial Techniques]].
 **Group**:: [[Martial Talent]]
 
 ---

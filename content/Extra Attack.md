@@ -1,13 +1,13 @@
-**Requirements**:: [[Martial Initiate]]
-**Cost**:: 4 LP
+**Requirements**:: [[Martial Initiate]] and [[Martial]] [[Rank]] 4+
+**Cost**:: 5 LP
 
-_You have practised the basics of weaponry. Now, your path to martial excellence begins._
+_More attacks more hits?_
 
-When you take the [[Attack]] action to make a [[Weapon Attack]] or an [[Unarmed Strike]], you can make two attacks instead of one.
+When you take the [[Attack]] action to make a [[Weapon Attack]] or [[Unarmed Strike]], make two [[Attack|Attacks]] instead of one. Both [[Attack|Attacks]] must use the same [[Weapon]] or [[Unarmed Strike]].
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Triple Attack]]
+**Following**::
 
 ---
 

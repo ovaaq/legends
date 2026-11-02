@@ -1,5 +1,5 @@
 **Requirements**:: [[Angelic Pact]] or [[Devilish Pact]] or [[Draconic Pact]] or [[Symbiote Pact]]
-**Cost**:: 5 LP
+**Cost**:: 4 LP
 
 _Your patron has given you magical strength to cast spells._
 
@@ -9,7 +9,7 @@ Increase [[Rank]] of [[Invocation]] by 1.
 
 **Spell Slots.** Pact spellcasting uses [[Spell Slot|Spell Slots]] instead of [[Mana]]. You have two 1st level [[Spell Slot|Spell Slots]]. You regain all expended [[Spell Slot|Spell Slots]] when you finish a [[Long Rest]]. [[Cantrip|Cantrips]] do not consume [[Spell Slot|Spell Slots]]. To cast a [[Spell]], you must expend a [[Spell Slot]] equal to or higher than the [[Spell|Spell's]] [[Mana]] cost. If you use a higher-level [[Spell Slot]], the difference upcasts the spell.
 
-**Casting Spells.** You can cast any [[Spell]] on your [[Learned Pact Spells]].
+**Casting Spells.** You can cast any [[Spell]] on your [[Learned Pact Spells]]. [[Object]] that your patron has given works as [[Spellcasting Focus]].
 
 ![[Pact Spell Attack Modifier]]
 
@@ -17,7 +17,7 @@ Increase [[Rank]] of [[Invocation]] by 1.
 
 **Tree**:: [[Pact Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[Invocation Practice]], [[Learn Pact Spell]], [[Increased Spell Slots]], [[Metamagic]], [[Simple Focus Training]]
+**Following**:: [[Invocation Practice]], [[Learn Pact Spell]], [[Increased Spell Slots]], [[Metamagic]]
 
 ---
 

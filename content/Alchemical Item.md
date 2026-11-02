@@ -13,6 +13,7 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         | 1 gp | 0.1 kg | Instant  |
 | [[Freeze Powder.md\|Freeze Powder]]             | 1 gp | 0.1 kg | Instant  |
 | [[Glue Vial.md\|Glue Vial]]                     | 1 gp | 0.1 kg | Instant  |
+| [[Leidenfrost.md\|Leidenfrost]]                 | 1 gp | 0.1 kg | Instant  |
 | [[Liquid Lightning.md\|Liquid Lightning]]       | 1 gp | 0.1 kg | Instant  |
 | [[Magical Ink.md\|Magical Ink]]                 | 1 gp | 0.1 kg | Instant  |
 | [[Oil Flask.md\|Oil Flask]]                     | 1 gp | 0.1 kg | Instant  |
@@ -82,6 +83,7 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         |
 | [[Freeze Powder.md\|Freeze Powder]]             |
 | [[Glue Vial.md\|Glue Vial]]                     |
+| [[Leidenfrost.md\|Leidenfrost]]                 |
 | [[Liquid Lightning.md\|Liquid Lightning]]       |
 | [[Magical Ink.md\|Magical Ink]]                 |
 | [[Oil Flask.md\|Oil Flask]]                     |

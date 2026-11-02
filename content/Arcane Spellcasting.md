@@ -57,8 +57,6 @@ These spells are added to your [[Arcane Spell List]]:
 
 **Preparing Spells.** You can prepare [[Spell|Spells]] after completing a [[Long Rest]] or spending 2 hours studying your [[Spellbook]]. When preparing spells, choose a number of [[Spell|Spells]] from your [[Spellbook]] equal to 2 + [[Intelligence]] + [[Spellcraft]] [[Rank]] and add them to your [[Prepared Arcane Spells]]. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
-**Mana.** You use [[Mana]] to power your [[Spell]]. Your [[Mana Point Maximum]] equals your [[Sorcery]] score. You regain all expended [[Mana]] after a [[Long Rest]].
-
 **Casting Spells.** You can cast any [[Spell]] on your [[Prepared Arcane Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Spellcraft]] [[Rank]].
 
 ![[Arcane Spell Save DC]]

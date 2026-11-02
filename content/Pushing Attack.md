@@ -3,7 +3,7 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range**:: Melee
-**Weapon**:: [[Heavy]]
+**Weapon**:: [[Heavy]] or [[Polearm]]
 **Duration**:: Instant
 
 _\*When your [[Attack]] hits a [[Creature]]._

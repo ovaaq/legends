@@ -30,7 +30,7 @@ This [[Talent]] can be taken once.
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Martial Practice]], [[Fighting Stances]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
+**Following**:: [[Martial Practice]], [[Increased Stamina]], [[Fighting Stances]], [[Extra Attack]], [[Improved Critical]], [[Martial Techniques I]]
 
 ---
 
