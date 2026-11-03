@@ -1,7 +1,7 @@
 _[[2nd Level Martial technique]]_
 
 **Execution**:: [[Free Action]]\*
-**Stamina**:: 1
+**Stamina**:: 2
 **Range**:: Melee
 **Weapon**:: Slashing or Piercing
 **Duration**:: Instant

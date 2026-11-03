@@ -31,7 +31,17 @@ _Strand of magic that x._
 | [[Enthral.md\|Enthral]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 10 minutes                                                                    |
 | [[Fire Breath.md\|Fire Breath]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
 | [[Phantasmal Force.md\|Phantasmal Force]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Conjure Building.md\|Conjure Building]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Dispel Magic.md\|Dispel Magic]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Fast Friends.md\|Fast Friends]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Fear.md\|Fear]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Fly.md\|Fly]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Hypnotic Pattern.md\|Hypnotic Pattern]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Lightning Arrow.md\|Lightning Arrow]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Melt into Stone.md\|Melt into Stone]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Pulse.md\|Pulse]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Sending.md\|Sending]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Tongues.md\|Tongues]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 
 ---
 

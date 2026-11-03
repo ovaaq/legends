@@ -19,7 +19,9 @@ _Strand of magic that x._
 | [[Temporal Life.md\|Temporal Life]]                     | [[Action.md\|Action]]               | V, S        | 1    | Self      | 1 hour                                                                        |
 | [[Aid.md\|Aid]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Arcane Shield.md\|Arcane Shield]]                     | [[Reaction]]\*                                                     | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
+| [[Chains of Ice.md\|Chains of Ice]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Force Barrier.md\|Force Barrier]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
+| [[Moonfire.md\|Moonfire]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Negate Strike.md\|Negate Strike]]                     | [[Reaction]]\*                                                     | F, V, S     | 3    | Self      | Instant                                                                       |
 
 ---

@@ -1,6 +1,6 @@
 _[[2nd Level Martial technique]]_
 
-**Execution**:: [[Triple Action]]
+**Execution**:: [[Free Action]]
 **Stamina**:: 2
 **Range**:: Melee
 **Weapon**:: Slashing

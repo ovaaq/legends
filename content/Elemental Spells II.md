@@ -10,7 +10,7 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Earthbind]]
 - [[Fire Breath]]
 - [[Fire Speak]]
-- [[Fireball but freeses lower level]]
+- [[Icewind]]
 - [[Gust of Wind]]
 - [[Scorching Ray]]
 - [[Warding Wind]]

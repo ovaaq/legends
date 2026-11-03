@@ -40,7 +40,7 @@ _Years of training have taught you how to perform combat techniques that ordinar
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Martial Techniques II]], [[Increased Stamina]], [[Learn Martial Techniques]]
+**Following**:: [[Martial Techniques II]]
 
 ---
 

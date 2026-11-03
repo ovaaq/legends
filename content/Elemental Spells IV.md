@@ -3,7 +3,14 @@
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]].
+
+##### 3rd Level Spells
+
+- [[Wall of Fire]]
+- [[Living Flame]]
+- [[Sandstorm]]
+-
 
 **Tree**:: [[Elemental Talent Tree]]
 **Group**:: [[Spiritual Talent]]

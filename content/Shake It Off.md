@@ -1,14 +1,12 @@
 _[[2nd Level Martial technique]]_
 
-**Execution**:: [[Free Action]]\*
-**Stamina**:: 1
-**Range**:: Melee
-**Weapon**:: [[Heavy]]
+**Execution**:: [[Action]]
+**Stamina**:: 2
+**Range**:: Self
+**Weapon**:: None
 **Duration**:: Instant
 
-_\*When your [[Attack]] hits a [[Creature]]._
-
-**Effect**:: Remove Frightened, Prone, Grappled, etc.
+**Effect**:: You can remove one of the following conditions [[Confused]], [[Dazed]], [[Feeble]] or [[Frightened]].
 
 **Type**:: [[Defensive Technique]]
 

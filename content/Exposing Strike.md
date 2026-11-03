@@ -1,9 +1,9 @@
 _[[2nd Level Martial technique]]_
 
 **Execution**:: [[Free Action]]\*
-**Stamina**:: 1
-**Range**:: Melee
-**Weapon**:: [[Heavy]]
+**Stamina**:: 2
+**Range**::
+**Weapon**::
 **Duration**:: Instant
 
 _\*When your [[Attack]] hits a [[Creature]]._

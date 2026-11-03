@@ -1,12 +1,12 @@
 _[[2nd Level Martial technique]]_
 
-**Execution**:: [[Free Action]]\*
-**Stamina**:: 1
-**Range**:: Melee
-**Weapon**:: [[Heavy]]
+**Execution**:: [[Reaction]]
+**Stamina**:: 0
+**Range**:: 10 metres
+**Weapon**:: None
 **Duration**:: Instant
 
-_\*When your [[Attack]] hits a [[Creature]]._
+_\*When enemy's [[Attack]] hits a [[Creature]]._
 
 **Effect**:: The target gains [[Martial]] [[Rank]] to its [[Evasion Class]] against the triggering [[Attack]].
 

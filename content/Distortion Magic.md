@@ -19,9 +19,9 @@ _Strand of magic that x._
 | [[Shared Health.md\|Shared Health]]         | [[Double Action.md\|Double Action]] | F, S        | 1    | 10 metres | Instant       |
 | [[Mind Spike.md\|Mind Spike]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | Instant       |
 | [[Wither and Bloom.md\|Wither and Bloom]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | Instant       |
+| [[Blazing Step.md\|Blazing Step]]           | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instantaneous |
 | [[Blink.md\|Blink]]                         | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self      | Instantaneous |
 | [[Immovable Object.md\|Immovable Object]]   | [[Triple Action.md\|Triple Action]] | F, S        | 3    | 4 metres  | 1 hour        |
-| [[Blazing Step.md\|Blazing Step]]           | [[Double Action.md\|Double Action]] | V, S        | 4    | 20 metres | Instantaneous |
 | [[Dimension Door.md\|Dimension Door]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 4    | 40 metres | Instantaneous |
 
 ---

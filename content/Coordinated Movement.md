@@ -1,7 +1,7 @@
 _[[2nd Level Martial technique]]_
 
 **Execution**:: [[Action]]
-**Stamina**:: 2
+**Stamina**:: 0
 **Range**:: 10 metres
 **Weapon**:: None
 **Duration**:: Instant

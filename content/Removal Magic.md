@@ -7,6 +7,7 @@ _Strand of magic that x._
 | [[Counterspell.md\|Counterspell]]     | [[Reaction]]\*                                                     | F, V, S, M\* | 3    | 20 metres | Instantaneous |
 | [[Destroy Object.md\|Destroy Object]] | [[Reaction]]\*                                                     | F, V, S, M\* | 3    | 20 metres | Instantaneous |
 | [[Life Steal.md\|Life Steal]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous |
+| [[Mana Burn.md\|Mana Burn]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant       |
 
 ---
 

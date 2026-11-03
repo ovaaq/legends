@@ -1,29 +1,18 @@
 _[[2nd Level Martial technique]]_
 
-**Execution**:: [[Free Action]]\*
+**Execution**:: [[Reaction]]\*
 **Stamina**:: 2
 **Range**:: Melee
-**Weapon**::
+**Weapon**:: Any
 **Duration**:: Instant
 
-_\*When your [[Attack]] hits a [[Creature]]._
+_\*When a [[Creature]]'s [[Melee Attack]] misses you._
 
-**Effect**:: Add 1d8 [[Damage]] to the [[Damage Roll]].
+**Effect**:: Make one [[Melee Attack]] against that [[Creature]]. The [[Melee Attack]] resolves immediately before the [[Creature]] continues its [[Turn]].
 
 **Type**:: [[Offensive Technique]]
 
 ---
 
 #martial_technique #2nd\
-[[Martial Technique]]
-
-_[[2nd Level Martial technique]]_
-
-/\* When you get hit by melee attack
-
-When someone hits you you can react to hit back
-
----
-
-#martial_technique #2nd
 [[Martial Technique]]

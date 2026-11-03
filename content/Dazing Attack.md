@@ -1,16 +1,16 @@
 _[[2nd Level Martial technique]]_
 
 **Execution**:: [[Free Action]]\*
-**Stamina**:: 1
-**Range**:: Melee
-**Weapon**:: [[Heavy]]
+**Stamina**:: 2
+**Range**::
+**Weapon**::
 **Duration**:: Instant
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
 **Effect**:: Add 1d8 [[Damage]] to the [[Damage Roll]].
 
-**Type**:: [[Control Technique]]
+**Type**:: [[Offensive Technique]]
 
 ---
 

@@ -2,7 +2,6 @@
 | ----------------------------------------------------------------- |
 | [[Burning Hands.md\|Burning Hands]] |
 | [[Destroy Water.md\|Destroy Water]] |
-| [[Fireball.md\|Fireball]]           |
 | [[Produce Wind.md\|Produce Wind]]   |
 | [[Shape Water.md\|Shape Water]]     |
 | [[Static Charge.md\|Static Charge]] |
