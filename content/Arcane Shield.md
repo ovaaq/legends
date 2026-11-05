@@ -21,6 +21,7 @@ _\*Which you take when you are hit by an [[Attack]] or [[Area of Effect]] that c
 | [[Harmony Spells II.md\|Harmony Spells II]]     |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[War Spells II.md\|War Spells II]]             |
 | [[Warding Spells II.md\|Warding Spells II]]     |
 
 ---

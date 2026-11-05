@@ -5,9 +5,10 @@ _[[Offensive Action]]_
 
 You attempt to grapple a [[Creature]]. Make an [[Athletics]] [[Check]]. The target must make an [[Agility Saving Throw]] or [[Strength Saving Throw]] against the result of your [[Athletics]] [[Check]].
 
-**Success:** No effect.
-**Failure:** The target becomes [[Grappled]] by you.
-**Critical Failure:** The target becomes [[Restrained]] by you.
+**Critical Success:** No effect.
+**Success:** The target becomes [[Stuck]] by you.
+**Failure:** The target becomes [[Restrained]] by you.
+**Critical Failure:** The target becomes [[Immobilized]] by you.
 
 ---
 

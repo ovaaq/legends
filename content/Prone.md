@@ -1,4 +1,4 @@
-A prone creature's only movement option is to crawl, each metre of movement costs 1 extra metre.
+**Prone.** A [[Prone]] [[Creature]] can only move by crawling. Each metre crawled costs 1 additional metre of movement. Prone ends when the [[Creature]] uses an [[Action]] to [[Stand Up]].
 
 ---
 

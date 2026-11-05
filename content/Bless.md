@@ -16,6 +16,7 @@ _[[1st Level Spell]]_
 | ----------------------------------------------------------------------------- |
 | [[Divine Spellcasting.md\|Divine Spellcasting]] |
 | [[Life Spells I.md\|Life Spells I]]             |
+| [[War Spells I.md\|War Spells I]]               |
 | [[Warding Spells I.md\|Warding Spells I]]       |
 
 ---

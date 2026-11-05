@@ -1,356 +1,351 @@
-| Glossary                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Acid Damage.md\|Acid Damage]]                                                   |
-| [[Action.md\|Action]]                                                             |
-| [[Advanced Focus.md\|Advanced Focus]]                                             |
-| [[Advanced Weapon.md\|Advanced Weapon]]                                           |
-| [[Advantage.md\|Advantage]]                                                       |
-| [[Adventuring Item.md\|Adventuring Item]]                                         |
-| [[Agility Saving Throw.md\|Agility Saving Throw]]                                 |
-| [[Alchemical Formula.md\|Alchemical Formula]]                                     |
-| [[Alchemical Item.md\|Alchemical Item]]                                           |
-| [[Alteration Magic.md\|Alteration Magic]]                                         |
-| [[Ammunition.md\|Ammunition]]                                                     |
-| [[Ancestry.md\|Ancestry]]                                                         |
-| [[Arcana.md\|Arcana]]                                                             |
-| [[Arcane Spell List.md\|Arcane Spell List]]                                       |
-| [[Armour.md\|Armour]]                                                             |
-| [[Armour Class.md\|Armour Class]]                                                 |
-| [[Armour Property.md\|Armour Property]]                                           |
-| [[Arrow.md\|Arrow]]                                                               |
-| [[Asleep.md\|Asleep]]                                                             |
-| [[Attack.md\|Attack]]                                                             |
-| [[Attack Roll.md\|Attack Roll]]                                                   |
-| [[Attribute.md\|Attribute]]                                                       |
-| [[Axe.md\|Axe]]                                                                   |
-| [[98 - Meta/Archive/Legends Old/Background.md\|Background]]                                                     |
-| [[Bleeding.md\|Bleeding]]                                                         |
-| [[Blinded.md\|Blinded]]                                                           |
-| [[Blood Dice.md\|Blood Dice]]                                                     |
-| [[Bloodied.md\|Bloodied]]                                                         |
-| [[Bludgeoning Damage.md\|Bludgeoning Damage]]                                     |
-| [[Bolt.md\|Bolt]]                                                                 |
-| [[Bow.md\|Bow]]                                                                   |
-| [[Burning.md\|Burning]]                                                           |
-| [[Camp Action.md\|Camp Action]]                                                   |
-| [[Cantrip.md\|Cantrip]]                                                           |
-| [[Carry.md\|Carry]]                                                               |
-| [[Channelling.md\|Channelling]]                                                   |
-| [[Character Sheet.md\|Character Sheet]]                                           |
-| [[Charisma Saving Throw.md\|Charisma Saving Throw]]                               |
-| [[Charmed.md\|Charmed]]                                                           |
-| [[Check.md\|Check]]                                                               |
-| [[Climbing.md\|Climbing]]                                                         |
-| [[Clothing.md\|Clothing]]                                                         |
-| [[Coat Weapon.md\|Coat Weapon]]                                                   |
-| [[Cold Damage.md\|Cold Damage]]                                                   |
-| [[Common Curative Reagent.md\|Common Curative Reagent]]                           |
-| [[Common Essence.md\|Common Essence]]                                             |
-| [[Common Inert Reagent.md\|Common Inert Reagent]]                                 |
-| [[Common Poisonous Reagent.md\|Common Poisonous Reagent]]                         |
-| [[Common Reactive Reagent.md\|Common Reactive Reagent]]                           |
-| [[Common Reagent.md\|Common Reagent]]                                             |
-| [[Common Volatile Reagent.md\|Common Volatile Reagent]]                           |
-| [[Conceal the Camp.md\|Conceal the Camp]]                                         |
-| [[Condition.md\|Condition]]                                                       |
-| [[Conducting.md\|Conducting]]                                                     |
-| [[Confused.md\|Confused]]                                                         |
-| [[Conjuration Magic.md\|Conjuration Magic]]                                       |
-| [[Constitution Saving Throw.md\|Constitution Saving Throw]]                       |
-| [[Contact Poison.md\|Contact Poison]]                                             |
-| [[Cook Meals.md\|Cook Meals]]                                                     |
-| [[Craft Items.md\|Craft Items]]                                                   |
-| [[Crafting.md\|Crafting]]                                                         |
-| [[Crawling.md\|Crawling]]                                                         |
-| [[Creation Magic.md\|Creation Magic]]                                             |
-| [[Creature.md\|Creature]]                                                         |
-| [[Creature Size.md\|Creature Size]]                                               |
-| [[Critical Failure.md\|Critical Failure]]                                         |
-| [[Critical Hit.md\|Critical Hit]]                                                 |
-| [[Critical Success.md\|Critical Success]]                                         |
-| [[Crossbow.md\|Crossbow]]                                                         |
-| [[Cursed.md\|Cursed]]                                                             |
-| [[Damage Modifiers.md\|Damage Modifiers]]                                         |
-| [[Damage Roll.md\|Damage Roll]]                                                   |
-| [[Damage Type.md\|Damage Type]]                                                   |
-| [[Dash.md\|Dash]]                                                                 |
-| [[Dazed.md\|Dazed]]                                                               |
-| [[Dazed (conflict 2026-09-08-19-36-08).md\|Dazed (conflict 2026-09-08-19-36-08)]] |
-| [[Dead.md\|Dead]]                                                                 |
-| [[Deafened.md\|Deafened]]                                                         |
-| [[Death Saving Throw.md\|Death Saving Throw]]                                     |
-| [[Decay Magic.md\|Decay Magic]]                                                   |
-| [[Defensive Action.md\|Defensive Action]]                                         |
-| [[Deliver Potion.md\|Deliver Potion]]                                             |
-| [[Demoralize.md\|Demoralize]]                                                     |
-| [[Destruction Magic.md\|Destruction Magic]]                                       |
-| [[Difficult Class.md\|Difficult Class]]                                           |
-| [[Difficult Terrain.md\|Difficult Terrain]]                                       |
-| [[Disarm.md\|Disarm]]                                                             |
-| [[Disarm Trap.md\|Disarm Trap]]                                                   |
-| [[Dismiss Spell.md\|Dismiss Spell]]                                               |
-| [[Distortion Magic.md\|Distortion Magic]]                                         |
-| [[Divine Spell List.md\|Divine Spell List]]                                       |
-| [[Dodge.md\|Dodge]]                                                               |
-| [[Double Action.md\|Double Action]]                                               |
-| [[Draw Weapons.md\|Draw Weapons]]                                                 |
-| [[Drink Potion.md\|Drink Potion]]                                                 |
-| [[Drop Object.md\|Drop Object]]                                                   |
-| [[Drowsy.md\|Drowsy]]                                                             |
-| [[01 - Projects/3 Game Master/Dwarf.md\|Dwarf]]                                                                 |
-| [[Dying.md\|Dying]]                                                               |
-| [[Elemental Damage.md\|Elemental Damage]]                                         |
-| [[Enchantment Magic.md\|Enchantment Magic]]                                       |
-| [[Encounter.md\|Encounter]]                                                       |
-| [[Encounter Action.md\|Encounter Action]]                                         |
-| [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                                 |
-| [[Entangling.md\|Entangling]]                                                     |
-| [[Equipment.md\|Equipment]]                                                       |
-| [[Escape.md\|Escape]]                                                             |
-| [[Ethereal Damage.md\|Ethereal Damage]]                                           |
-| [[Evocation Magic.md\|Evocation Magic]]                                           |
-| [[Exhausted.md\|Exhausted]]                                                       |
-| [[Expertise.md\|Expertise]]                                                       |
-| [[Explosive.md\|Explosive]]                                                       |
-| [[Failure.md\|Failure]]                                                           |
-| [[Faith Point.md\|Faith Point]]                                                   |
-| [[Fall Prone.md\|Fall Prone]]                                                     |
-| [[Falling Damage.md\|Falling Damage]]                                             |
-| [[Feeble.md\|Feeble]]                                                             |
-| [[Fighting Stance.md\|Fighting Stance]]                                           |
-| [[Finesse.md\|Finesse]]                                                           |
-| [[Fire Damage.md\|Fire Damage]]                                                   |
-| [[First Aid.md\|First Aid]]                                                       |
-| [[Flammable.md\|Flammable]]                                                       |
-| [[Flat-Footed.md\|Flat-Footed]]                                                   |
-| [[Flying.md\|Flying]]                                                             |
-| [[Forage.md\|Forage]]                                                             |
-| [[Fortify the Camp.md\|Fortify the Camp]]                                         |
-| [[Free Action.md\|Free Action]]                                                   |
-| [[Friendly.md\|Friendly]]                                                         |
-| [[Frightened.md\|Frightened]]                                                     |
-| [[Gemstone.md\|Gemstone]]                                                         |
-| [[01 - Projects/3 Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                                       |
-| [[General Skill.md\|General Skill]]                                               |
-| [[General Skill Modifier.md\|General Skill Modifier]]                             |
-| [[Good Rest.md\|Good Rest]]                                                       |
-| [[Grapple.md\|Grapple]]                                                           |
-| [[Grappled.md\|Grappled]]                                                         |
-| [[Greater Resistance.md\|Greater Resistance]]                                     |
-| [[Hammer.md\|Hammer]]                                                             |
-| [[Haste Point.md\|Haste Point]]                                                   |
-| [[Heavy.md\|Heavy]]                                                               |
-| [[Heavy Armour.md\|Heavy Armour]]                                                 |
-| [[Hide.md\|Hide]]                                                                 |
-| [[History.md\|History]]                                                           |
-| [[Hit Die.md\|Hit Die]]                                                           |
-| [[Hit Point.md\|Hit Point]]                                                       |
-| [[Hit Point Maximum.md\|Hit Point Maximum]]                                       |
-| [[Hostile.md\|Hostile]]                                                           |
-| [[Identify Magic.md\|Identify Magic]]                                             |
-| [[Immobilized.md\|Immobilized]]                                                   |
-| [[Immune.md\|Immune]]                                                             |
-| [[Improve Comfort.md\|Improve Comfort]]                                           |
-| [[Incapacitated.md\|Incapacitated]]                                               |
-| [[Incorporeal.md\|Incorporeal]]                                                   |
-| [[Ingested Poison.md\|Ingested Poison]]                                           |
-| [[Inhaled Poison.md\|Inhaled Poison]]                                             |
-| [[Initiative Order.md\|Initiative Order]]                                         |
-| [[Innate Spell List.md\|Innate Spell List]]                                       |
-| [[Inspect.md\|Inspect]]                                                           |
-| [[Instinct.md\|Instinct]]                                                         |
-| [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]                       |
-| [[Investigation.md\|Investigation]]                                               |
-| [[Invisible.md\|Invisible]]                                                       |
-| [[Invocation.md\|Invocation]]                                                     |
-| [[Jump.md\|Jump]]                                                                 |
-| [[Keep Watch.md\|Keep Watch]]                                                     |
-| [[Known Spell.md\|Known Spell]]                                                   |
-| [[Learned Martial Techniques.md\|Learned Martial Techniques]]                     |
-| [[Legend Point.md\|Legend Point]]                                                 |
-| [[Legendary Curative Reagent.md\|Legendary Curative Reagent]]                     |
-| [[Legendary Essence.md\|Legendary Essence]]                                       |
-| [[Legendary Inert Reagent.md\|Legendary Inert Reagent]]                           |
-| [[Legendary Poisonous Reagent.md\|Legendary Poisonous Reagent]]                   |
-| [[Legendary Reactive Reagent.md\|Legendary Reactive Reagent]]                     |
-| [[Legendary Reagent.md\|Legendary Reagent]]                                       |
-| [[Legendary Volatile Reagent.md\|Legendary Volatile Reagent]]                     |
-| [[Level.md\|Level]]                                                               |
-| [[Level Up.md\|Level Up]]                                                         |
-| [[Light.md\|Light]]                                                               |
-| [[Light Armour.md\|Light Armour]]                                                 |
-| [[Lightning Damage.md\|Lightning Damage]]                                         |
-| [[Liquid.md\|Liquid]]                                                             |
-| [[Loading.md\|Loading]]                                                           |
-| [[Long Rest.md\|Long Rest]]                                                       |
-| [[Loud.md\|Loud]]                                                                 |
-| [[Magical.md\|Magical]]                                                           |
-| [[Magical Action.md\|Magical Action]]                                             |
-| [[01 - Projects/3 Game Master/Magical Essence.md\|Magical Essence]]                                             |
-| [[Magical Material.md\|Magical Material]]                                         |
-| [[Mana.md\|Mana]]                                                                 |
-| [[Mana Point Maximum.md\|Mana Point Maximum]]                                     |
-| [[Martial.md\|Martial]]                                                           |
-| [[Martial Technique.md\|Martial Technique]]                                       |
-| [[Medicine.md\|Medicine]]                                                         |
-| [[Medium.md\|Medium]]                                                             |
-| [[Medium Armour.md\|Medium Armour]]                                               |
-| [[Melee Attack.md\|Melee Attack]]                                                 |
-| [[Melee Spell Attack.md\|Melee Spell Attack]]                                     |
-| [[Melee Weapon Attack.md\|Melee Weapon Attack]]                                   |
-| [[Mental Attribute.md\|Mental Attribute]]                                         |
-| [[Metallic.md\|Metallic]]                                                         |
-| [[Movement Action.md\|Movement Action]]                                           |
-| [[Muted.md\|Muted]]                                                               |
-| [[Natural 1.md\|Natural 1]]                                                       |
-| [[Natural 20.md\|Natural 20]]                                                     |
-| [[Nature.md\|Nature]]                                                             |
-| [[Necrotic Damage.md\|Necrotic Damage]]                                           |
-| [[Neutral.md\|Neutral]]                                                           |
-| [[Non-magical.md\|Non-magical]]                                                   |
-| [[Object.md\|Object]]                                                             |
-| [[Object Interaction.md\|Object Interaction]]                                     |
-| [[Object Property.md\|Object Property]]                                           |
-| [[Offensive Action.md\|Offensive Action]]                                         |
-| [[Pack.md\|Pack]]                                                                 |
-| [[Pact Spell List.md\|Pact Spell List]]                                           |
-| [[Paralyzed.md\|Paralyzed]]                                                       |
-| [[Passive Investigation.md\|Passive Investigation]]                               |
-| [[Penetrating.md\|Penetrating]]                                                   |
-| [[Petrified.md\|Petrified]]                                                       |
-| [[Physical Attribute.md\|Physical Attribute]]                                     |
-| [[Physical Damage.md\|Physical Damage]]                                           |
-| [[Pick Lock.md\|Pick Lock]]                                                       |
-| [[Piercing Damage.md\|Piercing Damage]]                                           |
-| [[Pinned.md\|Pinned]]                                                             |
-| [[Poison Damage.md\|Poison Damage]]                                               |
-| [[Poisoned.md\|Poisoned]]                                                         |
-| [[Polearm.md\|Polearm]]                                                           |
-| [[Possessed.md\|Possessed]]                                                       |
-| [[Potion.md\|Potion]]                                                             |
-| [[Prayer.md\|Prayer]]                                                             |
-| [[Prepare.md\|Prepare]]                                                           |
-| [[Prepared Spell.md\|Prepared Spell]]                                             |
-| [[Preservation Magic.md\|Preservation Magic]]                                     |
-| [[Projectile.md\|Projectile]]                                                     |
-| [[Projection Magic.md\|Projection Magic]]                                         |
-| [[Prone.md\|Prone]]                                                               |
-| [[Protective.md\|Protective]]                                                     |
-| [[Psychic Damage.md\|Psychic Damage]]                                             |
-| [[Radiant Damage.md\|Radiant Damage]]                                             |
-| [[Raise Shield.md\|Raise Shield]]                                                 |
-| [[Ranged.md\|Ranged]]                                                             |
-| [[Ranged Attack.md\|Ranged Attack]]                                               |
-| [[Ranged Spell Attack.md\|Ranged Spell Attack]]                                   |
-| [[Ranged Weapon Attack.md\|Ranged Weapon Attack]]                                 |
-| [[Rank.md\|Rank]]                                                                 |
-| [[Rare Curative Reagent.md\|Rare Curative Reagent]]                               |
-| [[Rare Essence.md\|Rare Essence]]                                                 |
-| [[Rare Inert Reagent.md\|Rare Inert Reagent]]                                     |
-| [[Rare Poisonous Reagent.md\|Rare Poisonous Reagent]]                             |
-| [[Rare Reactive Reagent.md\|Rare Reactive Reagent]]                               |
-| [[Rare Reagent.md\|Rare Reagent]]                                                 |
-| [[Rare Volatile Reagent.md\|Rare Volatile Reagent]]                               |
-| [[Reach.md\|Reach]]                                                               |
-| [[Reaction.md\|Reaction]]                                                         |
-| [[Reagent.md\|Reagent]]                                                           |
-| [[Recall Knowledge.md\|Recall Knowledge]]                                         |
-| [[Religion.md\|Religion]]                                                         |
-| [[Removal Magic.md\|Removal Magic]]                                               |
-| [[Repair Gear.md\|Repair Gear]]                                                   |
-| [[Research.md\|Research]]                                                         |
-| [[Resistance.md\|Resistance]]                                                     |
-| [[Resource.md\|Resource]]                                                         |
-| [[Rest.md\|Rest]]                                                                 |
-| [[Resting.md\|Resting]]                                                           |
-| [[Restoration Magic.md\|Restoration Magic]]                                       |
-| [[Restrained.md\|Restrained]]                                                     |
-| [[Restricting.md\|Restricting]]                                                   |
-| [[Revelation Magic.md\|Revelation Magic]]                                         |
-| [[Saving Throw.md\|Saving Throw]]                                                 |
-| [[Saving Throw Difficulty Class.md\|Saving Throw Difficulty Class]]               |
-| [[Scout the Perimeter.md\|Scout the Perimeter]]                                   |
-| [[Search.md\|Search]]                                                             |
-| [[Set Traps.md\|Set Traps]]                                                       |
-| [[Shadow Damage.md\|Shadow Damage]]                                               |
-| [[Shield.md\|Shield]]                                                             |
-| [[Shield Rune.md\|Shield Rune]]                                                   |
-| [[Short Rest.md\|Short Rest]]                                                     |
-| [[Shove.md\|Shove]]                                                               |
-| [[Simple Focus.md\|Simple Focus]]                                                 |
-| [[Skill.md\|Skill]]                                                               |
-| [[Slashing Damage.md\|Slashing Damage]]                                           |
-| [[Small.md\|Small]]                                                               |
-| [[Snare.md\|Snare]]                                                               |
-| [[Solid.md\|Solid]]                                                               |
-| [[Special.md\|Special]]                                                           |
-| [[Special Skill.md\|Special Skill]]                                               |
-| [[Speed.md\|Speed]]                                                               |
-| [[Spell.md\|Spell]]                                                               |
-| [[Spell Attack.md\|Spell Attack]]                                                 |
-| [[Spell Attack Modifier.md\|Spell Attack Modifier]]                               |
-| [[Spell List.md\|Spell List]]                                                     |
-| [[Spell Save DC.md\|Spell Save DC]]                                               |
-| [[Spell Slot.md\|Spell Slot]]                                                     |
-| [[Spellbook.md\|Spellbook]]                                                       |
-| [[Spellcasting.md\|Spellcasting]]                                                 |
-| [[Spellcasting Focus.md\|Spellcasting Focus]]                                     |
-| [[Spellcraft.md\|Spellcraft]]                                                     |
-| [[Spiked.md\|Spiked]]                                                             |
-| [[Spirit Point.md\|Spirit Point]]                                                 |
-| [[Spiritual Spell List.md\|Spiritual Spell List]]                                 |
-| [[Spiritual Talent.md\|Spiritual Talent]]                                         |
-| [[Sprint.md\|Sprint]]                                                             |
-| [[Stamina Point.md\|Stamina Point]]                                               |
-| [[Stand Up.md\|Stand Up]]                                                         |
-| [[Strand of Magic.md\|Strand of Magic]]                                           |
-| [[Strength Saving Throw.md\|Strength Saving Throw]]                               |
-| [[Stunned.md\|Stunned]]                                                           |
-| [[Success.md\|Success]]                                                           |
-| [[Summon Magic.md\|Summon Magic]]                                                 |
-| [[Swimming.md\|Swimming]]                                                         |
-| [[Sword.md\|Sword]]                                                               |
-| [[Take Cover.md\|Take Cover]]                                                     |
-| [[Talent.md\|Talent]]                                                             |
-| [[Talent Group.md\|Talent Group]]                                                 |
-| [[Talent Tree.md\|Talent Tree]]                                                   |
-| [[Temporary Hit Point.md\|Temporary Hit Point]]                                   |
-| [[Thrown.md\|Thrown]]                                                             |
-| [[Too Heavy Penalty.md\|Too Heavy Penalty]]                                       |
-| [[Tool.md\|Tool]]                                                                 |
-| [[Touch Attack.md\|Touch Attack]]                                                 |
-| [[Touch Spell Attack.md\|Touch Spell Attack]]                                     |
-| [[Touch Weapon Attack.md\|Touch Weapon Attack]]                                   |
-| [[Transformation Magic.md\|Transformation Magic]]                                 |
-| [[Trap.md\|Trap]]                                                                 |
-| [[Treat Wounds.md\|Treat Wounds]]                                                 |
-| [[Trip.md\|Trip]]                                                                 |
-| [[Triple Action.md\|Triple Action]]                                               |
-| [[Turn.md\|Turn]]                                                                 |
-| [[Two‑Handed.md\|Two‑Handed]]                                                     |
-| [[Unarmed Strike.md\|Unarmed Strike]]                                             |
-| [[Uncommon Curative Reagent.md\|Uncommon Curative Reagent]]                       |
-| [[Uncommon Essence.md\|Uncommon Essence]]                                         |
-| [[Uncommon Inert Reagent.md\|Uncommon Inert Reagent]]                             |
-| [[Uncommon Poisonous Reagent.md\|Uncommon Poisonous Reagent]]                     |
-| [[Uncommon Reactive Reagent.md\|Uncommon Reactive Reagent]]                       |
-| [[Uncommon Reagent.md\|Uncommon Reagent]]                                         |
-| [[Uncommon Volatile Reagent.md\|Uncommon Volatile Reagent]]                       |
-| [[Unconscious.md\|Unconscious]]                                                   |
-| [[Untrained Armour Penalty.md\|Untrained Armour Penalty]]                         |
-| [[Untrained Weapon Penalty.md\|Untrained Weapon Penalty]]                         |
-| [[Utility Action.md\|Utility Action]]                                             |
-| [[Versatile.md\|Versatile]]                                                       |
-| [[Vicious.md\|Vicious]]                                                           |
-| [[Visible.md\|Visible]]                                                           |
-| [[Vulnerable.md\|Vulnerable]]                                                     |
-| [[Warding Magic.md\|Warding Magic]]                                               |
-| [[Weakness.md\|Weakness]]                                                         |
-| [[Weapon.md\|Weapon]]                                                             |
-| [[Weapon Attack.md\|Weapon Attack]]                                               |
-| [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]                             |
-| [[Weapon Category.md\|Weapon Category]]                                           |
-| [[Weapon Property.md\|Weapon Property]]                                           |
-| [[Willing.md\|Willing]]                                                           |
-| [[Winded.md\|Winded]]                                                             |
-| [[Wound Poison.md\|Wound Poison]]                                                 |
+| Glossary                                                                                          |
+| ------------------------------------------------------------------------------------------------- |
+| [[Acid Damage.md\|Acid Damage]]                                     |
+| [[Action.md\|Action]]                                               |
+| [[Advantage.md\|Advantage]]                                         |
+| [[Adventuring Item.md\|Adventuring Item]]                           |
+| [[Agility Saving Throw.md\|Agility Saving Throw]]                   |
+| [[Alchemical Formula.md\|Alchemical Formula]]                       |
+| [[Alchemical Item.md\|Alchemical Item]]                             |
+| [[Alteration Magic.md\|Alteration Magic]]                           |
+| [[Ammunition.md\|Ammunition]]                                       |
+| [[Ancestry.md\|Ancestry]]                                           |
+| [[Arcana.md\|Arcana]]                                               |
+| [[Arcane Spell List.md\|Arcane Spell List]]                         |
+| [[Armour.md\|Armour]]                                               |
+| [[Armour Class.md\|Armour Class]]                                   |
+| [[Armour Property.md\|Armour Property]]                             |
+| [[Arrow.md\|Arrow]]                                                 |
+| [[Asleep.md\|Asleep]]                                               |
+| [[Attack.md\|Attack]]                                               |
+| [[Attack Roll.md\|Attack Roll]]                                     |
+| [[Attribute.md\|Attribute]]                                         |
+| [[Axe.md\|Axe]]                                                     |
+| [[98 - Meta/Archive/Legends Old/Background.md\|Background]]                                       |
+| [[Bleeding.md\|Bleeding]]                                           |
+| [[Blinded.md\|Blinded]]                                             |
+| [[Blood Dice.md\|Blood Dice]]                                       |
+| [[Bloodied.md\|Bloodied]]                                           |
+| [[Bludgeoning Damage.md\|Bludgeoning Damage]]                       |
+| [[Bolt.md\|Bolt]]                                                   |
+| [[Bow.md\|Bow]]                                                     |
+| [[Burning.md\|Burning]]                                             |
+| [[Camp Action.md\|Camp Action]]                                     |
+| [[Cantrip.md\|Cantrip]]                                             |
+| [[Carry.md\|Carry]]                                                 |
+| [[Channelling.md\|Channelling]]                                     |
+| [[Character Sheet.md\|Character Sheet]]                             |
+| [[Charisma Saving Throw.md\|Charisma Saving Throw]]                 |
+| [[Charmed.md\|Charmed]]                                             |
+| [[Check.md\|Check]]                                                 |
+| [[Climbing.md\|Climbing]]                                           |
+| [[Clothing.md\|Clothing]]                                           |
+| [[Coat Weapon.md\|Coat Weapon]]                                     |
+| [[Cold Damage.md\|Cold Damage]]                                     |
+| [[Common Curative Reagent.md\|Common Curative Reagent]]             |
+| [[Common Essence.md\|Common Essence]]                               |
+| [[Common Inert Reagent.md\|Common Inert Reagent]]                   |
+| [[Common Poisonous Reagent.md\|Common Poisonous Reagent]]           |
+| [[Common Reactive Reagent.md\|Common Reactive Reagent]]             |
+| [[Common Reagent.md\|Common Reagent]]                               |
+| [[Common Volatile Reagent.md\|Common Volatile Reagent]]             |
+| [[Conceal the Camp.md\|Conceal the Camp]]                           |
+| [[Condition.md\|Condition]]                                         |
+| [[Conducting.md\|Conducting]]                                       |
+| [[Confused.md\|Confused]]                                           |
+| [[Conjuration Magic.md\|Conjuration Magic]]                         |
+| [[Constitution Saving Throw.md\|Constitution Saving Throw]]         |
+| [[Contact Poison.md\|Contact Poison]]                               |
+| [[Cook Meals.md\|Cook Meals]]                                       |
+| [[Craft Items.md\|Craft Items]]                                     |
+| [[Crafting.md\|Crafting]]                                           |
+| [[Crawling.md\|Crawling]]                                           |
+| [[Creation Magic.md\|Creation Magic]]                               |
+| [[Creature.md\|Creature]]                                           |
+| [[Creature Size.md\|Creature Size]]                                 |
+| [[Critical Failure.md\|Critical Failure]]                           |
+| [[Critical Hit.md\|Critical Hit]]                                   |
+| [[Critical Success.md\|Critical Success]]                           |
+| [[Crossbow.md\|Crossbow]]                                           |
+| [[Cursed.md\|Cursed]]                                               |
+| [[Damage Modifiers.md\|Damage Modifiers]]                           |
+| [[Damage Roll.md\|Damage Roll]]                                     |
+| [[Damage Type.md\|Damage Type]]                                     |
+| [[Dash.md\|Dash]]                                                   |
+| [[Dazed.md\|Dazed]]                                                 |
+| [[Dead.md\|Dead]]                                                   |
+| [[Deafened.md\|Deafened]]                                           |
+| [[Death Saving Throw.md\|Death Saving Throw]]                       |
+| [[Decay Magic.md\|Decay Magic]]                                     |
+| [[Defensive Action.md\|Defensive Action]]                           |
+| [[Deliver Potion.md\|Deliver Potion]]                               |
+| [[Demoralize.md\|Demoralize]]                                       |
+| [[Destruction Magic.md\|Destruction Magic]]                         |
+| [[Difficult Class.md\|Difficult Class]]                             |
+| [[Difficult Terrain.md\|Difficult Terrain]]                         |
+| [[Disarm.md\|Disarm]]                                               |
+| [[Disarm Trap.md\|Disarm Trap]]                                     |
+| [[Dismiss Spell.md\|Dismiss Spell]]                                 |
+| [[Distortion Magic.md\|Distortion Magic]]                           |
+| [[Divine Spell List.md\|Divine Spell List]]                         |
+| [[Dodge.md\|Dodge]]                                                 |
+| [[Double Action.md\|Double Action]]                                 |
+| [[Draw Weapons.md\|Draw Weapons]]                                   |
+| [[Drink Potion.md\|Drink Potion]]                                   |
+| [[Drop Object.md\|Drop Object]]                                     |
+| [[Drowsy.md\|Drowsy]]                                               |
+| [[01 - Projects/3 Game Master/Dwarf.md\|Dwarf]]                                                   |
+| [[Dying.md\|Dying]]                                                 |
+| [[Elemental Damage.md\|Elemental Damage]]                           |
+| [[Enchantment Magic.md\|Enchantment Magic]]                         |
+| [[Encounter.md\|Encounter]]                                         |
+| [[Encounter Action.md\|Encounter Action]]                           |
+| [[98 - Meta/Templates/Encounter Action Template.md\|Encounter Action Template]]                   |
+| [[Entangling.md\|Entangling]]                                       |
+| [[Equipment.md\|Equipment]]                                         |
+| [[Escape.md\|Escape]]                                               |
+| [[Ethereal Damage.md\|Ethereal Damage]]                             |
+| [[Evocation Magic.md\|Evocation Magic]]                             |
+| [[Exhausted.md\|Exhausted]]                                         |
+| [[Expertise.md\|Expertise]]                                         |
+| [[Explosive.md\|Explosive]]                                         |
+| [[Failure.md\|Failure]]                                             |
+| [[Faith Point.md\|Faith Point]]                                     |
+| [[Fall Prone.md\|Fall Prone]]                                       |
+| [[Falling Damage.md\|Falling Damage]]                               |
+| [[Feeble.md\|Feeble]]                                               |
+| [[Fighting Stance.md\|Fighting Stance]]                             |
+| [[Finesse.md\|Finesse]]                                             |
+| [[Fire Damage.md\|Fire Damage]]                                     |
+| [[First Aid.md\|First Aid]]                                         |
+| [[Flammable.md\|Flammable]]                                         |
+| [[Flat-Footed.md\|Flat-Footed]]                                     |
+| [[Flying.md\|Flying]]                                               |
+| [[Forage.md\|Forage]]                                               |
+| [[Fortify the Camp.md\|Fortify the Camp]]                           |
+| [[Free Action.md\|Free Action]]                                     |
+| [[Friendly.md\|Friendly]]                                           |
+| [[Frightened.md\|Frightened]]                                       |
+| [[Gemstone.md\|Gemstone]]                                           |
+| [[01 - Projects/3 Game Master/Gemstones of Magic.md\|Gemstones of Magic]]                         |
+| [[General Skill.md\|General Skill]]                                 |
+| [[General Skill Modifier.md\|General Skill Modifier]]               |
+| [[Good Rest.md\|Good Rest]]                                         |
+| [[Grapple.md\|Grapple]]                                             |
+| [[Greater Resistance.md\|Greater Resistance]]                       |
+| [[Hammer.md\|Hammer]]                                               |
+| [[Haste Point.md\|Haste Point]]                                     |
+| [[Heavy.md\|Heavy]]                                                 |
+| [[Heavy Armour.md\|Heavy Armour]]                                   |
+| [[Hide.md\|Hide]]                                                   |
+| [[History.md\|History]]                                             |
+| [[Hit Die.md\|Hit Die]]                                             |
+| [[Hit Point.md\|Hit Point]]                                         |
+| [[Hit Point Maximum.md\|Hit Point Maximum]]                         |
+| [[Hostile.md\|Hostile]]                                             |
+| [[Identify Magic.md\|Identify Magic]]                               |
+| [[Immobilized.md\|Immobilized]]                                     |
+| [[Immune.md\|Immune]]                                               |
+| [[Improve Comfort.md\|Improve Comfort]]                             |
+| [[Incapacitated.md\|Incapacitated]]                                 |
+| [[Incorporeal.md\|Incorporeal]]                                     |
+| [[Ingested Poison.md\|Ingested Poison]]                             |
+| [[Inhaled Poison.md\|Inhaled Poison]]                               |
+| [[Initiative Order.md\|Initiative Order]]                           |
+| [[Innate Spell List.md\|Innate Spell List]]                         |
+| [[Inspect.md\|Inspect]]                                             |
+| [[Instinct.md\|Instinct]]                                           |
+| [[Intelligence Saving Throw.md\|Intelligence Saving Throw]]         |
+| [[Investigation.md\|Investigation]]                                 |
+| [[Invisible.md\|Invisible]]                                         |
+| [[Invocation.md\|Invocation]]                                       |
+| [[Jump.md\|Jump]]                                                   |
+| [[Keep Watch.md\|Keep Watch]]                                       |
+| [[Known Spell.md\|Known Spell]]                                     |
+| [[Learned Martial Techniques.md\|Learned Martial Techniques]]       |
+| [[Legend Point.md\|Legend Point]]                                   |
+| [[Legendary Curative Reagent.md\|Legendary Curative Reagent]]       |
+| [[Legendary Essence.md\|Legendary Essence]]                         |
+| [[Legendary Inert Reagent.md\|Legendary Inert Reagent]]             |
+| [[Legendary Poisonous Reagent.md\|Legendary Poisonous Reagent]]     |
+| [[Legendary Reactive Reagent.md\|Legendary Reactive Reagent]]       |
+| [[Legendary Reagent.md\|Legendary Reagent]]                         |
+| [[Legendary Volatile Reagent.md\|Legendary Volatile Reagent]]       |
+| [[Level.md\|Level]]                                                 |
+| [[Level Up.md\|Level Up]]                                           |
+| [[Light.md\|Light]]                                                 |
+| [[Light Armour.md\|Light Armour]]                                   |
+| [[Lightning Damage.md\|Lightning Damage]]                           |
+| [[Liquid.md\|Liquid]]                                               |
+| [[Loading.md\|Loading]]                                             |
+| [[Long Rest.md\|Long Rest]]                                         |
+| [[Loud.md\|Loud]]                                                   |
+| [[Magical.md\|Magical]]                                             |
+| [[Magical Action.md\|Magical Action]]                               |
+| [[01 - Projects/3 Game Master/Magical Essence.md\|Magical Essence]]                               |
+| [[Magical Material.md\|Magical Material]]                           |
+| [[Mana.md\|Mana]]                                                   |
+| [[Mana Point Maximum.md\|Mana Point Maximum]]                       |
+| [[Martial.md\|Martial]]                                             |
+| [[Martial Technique.md\|Martial Technique]]                         |
+| [[Medicine.md\|Medicine]]                                           |
+| [[Medium.md\|Medium]]                                               |
+| [[Medium Armour.md\|Medium Armour]]                                 |
+| [[Melee Attack.md\|Melee Attack]]                                   |
+| [[Melee Spell Attack.md\|Melee Spell Attack]]                       |
+| [[Melee Weapon Attack.md\|Melee Weapon Attack]]                     |
+| [[Mental Attribute.md\|Mental Attribute]]                           |
+| [[Metallic.md\|Metallic]]                                           |
+| [[Movement Action.md\|Movement Action]]                             |
+| [[Muted.md\|Muted]]                                                 |
+| [[Natural 1.md\|Natural 1]]                                         |
+| [[Natural 20.md\|Natural 20]]                                       |
+| [[Nature.md\|Nature]]                                               |
+| [[Necrotic Damage.md\|Necrotic Damage]]                             |
+| [[Neutral.md\|Neutral]]                                             |
+| [[Non-magical.md\|Non-magical]]                                     |
+| [[Object.md\|Object]]                                               |
+| [[Object Interaction.md\|Object Interaction]]                       |
+| [[Object Property.md\|Object Property]]                             |
+| [[Offensive Action.md\|Offensive Action]]                           |
+| [[Pack.md\|Pack]]                                                   |
+| [[Pact Spell List.md\|Pact Spell List]]                             |
+| [[Paralyzed.md\|Paralyzed]]                                         |
+| [[Passive Investigation.md\|Passive Investigation]]                 |
+| [[Penetrating.md\|Penetrating]]                                     |
+| [[Petrified.md\|Petrified]]                                         |
+| [[Physical Attribute.md\|Physical Attribute]]                       |
+| [[Physical Damage.md\|Physical Damage]]                             |
+| [[Pick Lock.md\|Pick Lock]]                                         |
+| [[Piercing Damage.md\|Piercing Damage]]                             |
+| [[Poison Damage.md\|Poison Damage]]                                 |
+| [[Poisoned.md\|Poisoned]]                                           |
+| [[Polearm.md\|Polearm]]                                             |
+| [[Possessed.md\|Possessed]]                                         |
+| [[Potion.md\|Potion]]                                               |
+| [[Prayer.md\|Prayer]]                                               |
+| [[Prepare.md\|Prepare]]                                             |
+| [[Prepared Spell.md\|Prepared Spell]]                               |
+| [[Preservation Magic.md\|Preservation Magic]]                       |
+| [[Projectile.md\|Projectile]]                                       |
+| [[Projection Magic.md\|Projection Magic]]                           |
+| [[Prone.md\|Prone]]                                                 |
+| [[Protective.md\|Protective]]                                       |
+| [[Psychic Damage.md\|Psychic Damage]]                               |
+| [[Radiant Damage.md\|Radiant Damage]]                               |
+| [[Raise Shield.md\|Raise Shield]]                                   |
+| [[Ranged.md\|Ranged]]                                               |
+| [[Ranged Attack.md\|Ranged Attack]]                                 |
+| [[Ranged Spell Attack.md\|Ranged Spell Attack]]                     |
+| [[Ranged Weapon Attack.md\|Ranged Weapon Attack]]                   |
+| [[Rank.md\|Rank]]                                                   |
+| [[Rare Curative Reagent.md\|Rare Curative Reagent]]                 |
+| [[Rare Essence.md\|Rare Essence]]                                   |
+| [[Rare Inert Reagent.md\|Rare Inert Reagent]]                       |
+| [[Rare Poisonous Reagent.md\|Rare Poisonous Reagent]]               |
+| [[Rare Reactive Reagent.md\|Rare Reactive Reagent]]                 |
+| [[Rare Reagent.md\|Rare Reagent]]                                   |
+| [[Rare Volatile Reagent.md\|Rare Volatile Reagent]]                 |
+| [[Reach.md\|Reach]]                                                 |
+| [[Reaction.md\|Reaction]]                                           |
+| [[Reagent.md\|Reagent]]                                             |
+| [[Recall Knowledge.md\|Recall Knowledge]]                           |
+| [[Religion.md\|Religion]]                                           |
+| [[Removal Magic.md\|Removal Magic]]                                 |
+| [[Repair Gear.md\|Repair Gear]]                                     |
+| [[Research.md\|Research]]                                           |
+| [[Resistance.md\|Resistance]]                                       |
+| [[Resource.md\|Resource]]                                           |
+| [[Rest.md\|Rest]]                                                   |
+| [[Resting.md\|Resting]]                                             |
+| [[Restoration Magic.md\|Restoration Magic]]                         |
+| [[Restrained.md\|Restrained]]                                       |
+| [[Restricting.md\|Restricting]]                                     |
+| [[Revelation Magic.md\|Revelation Magic]]                           |
+| [[Saving Throw.md\|Saving Throw]]                                   |
+| [[Saving Throw Difficulty Class.md\|Saving Throw Difficulty Class]] |
+| [[Scout the Perimeter.md\|Scout the Perimeter]]                     |
+| [[Search.md\|Search]]                                               |
+| [[Set Traps.md\|Set Traps]]                                         |
+| [[Shadow Damage.md\|Shadow Damage]]                                 |
+| [[Shield.md\|Shield]]                                               |
+| [[Shield Rune.md\|Shield Rune]]                                     |
+| [[Short Rest.md\|Short Rest]]                                       |
+| [[Shove.md\|Shove]]                                                 |
+| [[Skill.md\|Skill]]                                                 |
+| [[Slashing Damage.md\|Slashing Damage]]                             |
+| [[Small.md\|Small]]                                                 |
+| [[Snare.md\|Snare]]                                                 |
+| [[Solid.md\|Solid]]                                                 |
+| [[Special.md\|Special]]                                             |
+| [[Special Skill.md\|Special Skill]]                                 |
+| [[Speed.md\|Speed]]                                                 |
+| [[Spell.md\|Spell]]                                                 |
+| [[Spell Attack.md\|Spell Attack]]                                   |
+| [[Spell Attack Modifier.md\|Spell Attack Modifier]]                 |
+| [[Spell List.md\|Spell List]]                                       |
+| [[Spell Save DC.md\|Spell Save DC]]                                 |
+| [[Spell Slot.md\|Spell Slot]]                                       |
+| [[Spellbook.md\|Spellbook]]                                         |
+| [[Spellcasting.md\|Spellcasting]]                                   |
+| [[Spellcasting Focus.md\|Spellcasting Focus]]                       |
+| [[Spellcraft.md\|Spellcraft]]                                       |
+| [[Spiked.md\|Spiked]]                                               |
+| [[Spirit Point.md\|Spirit Point]]                                   |
+| [[Spiritual Spell List.md\|Spiritual Spell List]]                   |
+| [[Spiritual Talent.md\|Spiritual Talent]]                           |
+| [[Sprint.md\|Sprint]]                                               |
+| [[Stamina Point.md\|Stamina Point]]                                 |
+| [[Stand Up.md\|Stand Up]]                                           |
+| [[Strand of Magic.md\|Strand of Magic]]                             |
+| [[Strength Saving Throw.md\|Strength Saving Throw]]                 |
+| [[Stuck.md\|Stuck]]                                                 |
+| [[Stunned.md\|Stunned]]                                             |
+| [[Success.md\|Success]]                                             |
+| [[Summon Magic.md\|Summon Magic]]                                   |
+| [[Swimming.md\|Swimming]]                                           |
+| [[Sword.md\|Sword]]                                                 |
+| [[Take Cover.md\|Take Cover]]                                       |
+| [[Talent.md\|Talent]]                                               |
+| [[Talent Group.md\|Talent Group]]                                   |
+| [[Talent Tree.md\|Talent Tree]]                                     |
+| [[Temporary Hit Point.md\|Temporary Hit Point]]                     |
+| [[Thrown.md\|Thrown]]                                               |
+| [[Too Heavy Penalty.md\|Too Heavy Penalty]]                         |
+| [[Tool.md\|Tool]]                                                   |
+| [[Touch Attack.md\|Touch Attack]]                                   |
+| [[Touch Spell Attack.md\|Touch Spell Attack]]                       |
+| [[Touch Weapon Attack.md\|Touch Weapon Attack]]                     |
+| [[Transformation Magic.md\|Transformation Magic]]                   |
+| [[Trap.md\|Trap]]                                                   |
+| [[Treat Wounds.md\|Treat Wounds]]                                   |
+| [[Trip.md\|Trip]]                                                   |
+| [[Triple Action.md\|Triple Action]]                                 |
+| [[Turn.md\|Turn]]                                                   |
+| [[Two‑Handed.md\|Two‑Handed]]                                       |
+| [[Unarmed Strike.md\|Unarmed Strike]]                               |
+| [[Uncommon Curative Reagent.md\|Uncommon Curative Reagent]]         |
+| [[Uncommon Essence.md\|Uncommon Essence]]                           |
+| [[Uncommon Inert Reagent.md\|Uncommon Inert Reagent]]               |
+| [[Uncommon Poisonous Reagent.md\|Uncommon Poisonous Reagent]]       |
+| [[Uncommon Reactive Reagent.md\|Uncommon Reactive Reagent]]         |
+| [[Uncommon Reagent.md\|Uncommon Reagent]]                           |
+| [[Uncommon Volatile Reagent.md\|Uncommon Volatile Reagent]]         |
+| [[Unconscious.md\|Unconscious]]                                     |
+| [[Untrained Armour Penalty.md\|Untrained Armour Penalty]]           |
+| [[Untrained Weapon Penalty.md\|Untrained Weapon Penalty]]           |
+| [[Utility Action.md\|Utility Action]]                               |
+| [[Versatile.md\|Versatile]]                                         |
+| [[Vicious.md\|Vicious]]                                             |
+| [[Visible.md\|Visible]]                                             |
+| [[Vulnerable.md\|Vulnerable]]                                       |
+| [[Warding Magic.md\|Warding Magic]]                                 |
+| [[Weakness.md\|Weakness]]                                           |
+| [[Weapon.md\|Weapon]]                                               |
+| [[Weapon Attack.md\|Weapon Attack]]                                 |
+| [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]               |
+| [[Weapon Category.md\|Weapon Category]]                             |
+| [[Weapon Property.md\|Weapon Property]]                             |
+| [[Willing.md\|Willing]]                                             |
+| [[Winded.md\|Winded]]                                               |
+| [[Wound Poison.md\|Wound Poison]]                                   |

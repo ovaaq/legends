@@ -21,6 +21,7 @@ _\*When someone makes an [[Attack]] towards you._
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Life Spells I.md\|Life Spells I]]             |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[War Spells I.md\|War Spells I]]               |
 
 ---
 

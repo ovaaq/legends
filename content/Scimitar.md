@@ -1,4 +1,4 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _yes._
 
@@ -12,5 +12,4 @@ _yes._
 
 ---
 
-#simple #weapon #equipment
-[[Weapon]]
+#equipment #weapon

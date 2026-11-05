@@ -1,4 +1,4 @@
-_[[Simple Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Shooting is easy way to harm._
 
@@ -12,5 +12,5 @@ _Shooting is easy way to harm._
 
 ---
 
-#simple #weapon #equipment
+#equipment #weapon
 [[Weapon]]

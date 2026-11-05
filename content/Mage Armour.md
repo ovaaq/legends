@@ -18,6 +18,7 @@ _[[1st Level Spell]]_
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Vampire Spells I.md\|Vampire Spells I]]       |
+| [[War Spells I.md\|War Spells I]]               |
 
 ---
 

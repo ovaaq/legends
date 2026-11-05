@@ -1,12 +1,11 @@
-- Confused creature cannot use [[Reaction|Reactions]].
-- At the start of confused creatures turn, roll 1d6 which determines action
+**Confused.** A [[Confused]] [[Creature]] cannot use [[Reaction|Reactions]]. At the start of each of its [[Turn|Turns]], roll 1d6 to determine how it acts.
 
-| Result | Action                           |
-| ------ | -------------------------------- |
-| 1      | Attack nearest creature          |
-| 2-3    | Move full speed random direction |
-| 4-5    | Freeze, do nothing               |
-| 6      | Act Normally                     |
+| 1d6 | Effect                                             |
+| --- | -------------------------------------------------- |
+| 1   | [[Attack]] the nearest [[Creature]].               |
+| 2–3 | Move your [[Walking Speed]] in a random direction. |
+| 4–5 | Do nothing.                                        |
+| 6   | Act normally.                                      |
 
 ---
 

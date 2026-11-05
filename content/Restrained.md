@@ -1,6 +1,4 @@
-- A restrained [[Creature]]’s [[Walking Speed]] becomes 0, and it can’t benefit from any bonus to its speed.
-- [[Attack Roll]] against the [[Creature]] have [[Advantage]], and the [[Creature]]’s [[Attack Roll]] have [[Disadvantage]].
-- The [[Creature]] has [[Disadvantage]] on [[Agility Saving Throw]].
+**Restrained.** A [[Restrained]] [[Creature]] has a [[Walking Speed]] of 0. Its [[Attack|Attacks]] and [[Agility Saving Throw|Agility Saving Throws]] have [[Disadvantage]], and [[Attack|Attacks]] against it have [[Advantage]].
 
 ---
 

@@ -11,6 +11,8 @@ Increase [[Rank]] of [[Invocation]] by 1.
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Learned Pact Spells]]. [[Object]] that your patron has given works as [[Spellcasting Focus]].
 
+**Pact Charm.** You can use a [[Pact Charm]] as a [[Spellcasting Focus]] for your spells.
+
 ![[Pact Spell Attack Modifier]]
 
 ![[Pact Spell Save DC]]

@@ -23,6 +23,7 @@ Whenever a target with Bane Die must make an [[Attack Roll]] or [[Saving Throw]]
 | --------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]] |
 | [[Vampire Spells I.md\|Vampire Spells I]]     |
+| [[War Spells I.md\|War Spells I]]             |
 
 ---
 

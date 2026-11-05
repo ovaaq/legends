@@ -1,11 +1,11 @@
 **Requirements**::
 **Cost**:: 2 LP
 
-_You're an alchemist._
+_You're a starting alchemist. As you appear to understand now basics of alchemy._
 
 Increase [[Rank]] of [[Alchemy]] by 1.
 
-Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formula List]]:
+Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formula List]].
 
 ##### 1st Level Alchemical Formulas
 
@@ -19,17 +19,17 @@ Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formul
 - [[Venomous Oil Formula]]
 - [[White Arsenic Formula]]
 
-**Research Journal.** You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]]. Select four [[1st Level Alchemical Formula|1st Level Alchemical Formulas]] from your [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
+**Alchemy Book.** You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]] that you have created. Select four [[1st Level Alchemical Formula|1st Level Alchemical Formulas]] from your [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
 
-**[[Alchemy Save DC]]** = 8 + [[Alchemy]] [[Rank]] + [[Intelligence]]
+**Copying Alchemical Formula.** You can use ink to copy any formula to your [[Alchemy Book]] you can freely study. Copying takes 1 hour per [[Alchemical Formula]] level.
+
+![[Alchemy Save DC]]
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[Crafting Talent]]
-**Following**:: [[Learn Alchemical Formulas]],  [[Safety Measures]], [[Experimental Elixir]], [[Improvised Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]], [[Alchemy Practice]]
+**Following**:: [[Alchemy Practice]], [[Learn Alchemical Formulas]], [[Experimental Elixir]], [[Improvised Alchemy]], [[Favourable Exposure]], [[Alchemical Formulas I]]
 
 ---
 
-#talent #general
+#talent #crafting
 [[Talent]]
-
-[[Root Talent]]

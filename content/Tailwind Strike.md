@@ -19,6 +19,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | [[Beast Spells I.md\|Beast Spells I]]           |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[War Spells I.md\|War Spells I]]               |
 
 ---
 

@@ -1,5 +1,6 @@
-[[Simple Focus]] -> fulfils F component in spells
-[[Advanced Focus]] -> +1 to DC and +1 to Attack Roll
+fulfils F component in spells
+
+2h focus that grants +1 to [[Spellcasting]] [[Check]] and [[Spell Save DC]].
 
 ---
 

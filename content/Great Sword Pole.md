@@ -1,4 +1,4 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _bonk with spikes._
 
@@ -12,7 +12,7 @@ _bonk with spikes._
 
 ---
 
-#advanced #weapon #equipment
+#equipment #weapon
 [[Weapon]]
 
 ![[99 - Files/Pasted image 20261008184835.png]]

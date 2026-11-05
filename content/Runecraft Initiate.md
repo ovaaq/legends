@@ -24,7 +24,7 @@ Add these [[Rune|Runes]] to your [[Rune List]]:
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[Crafting Talent]]
-**Following**:: [[Learn Runes]], [[Runic Capacity]], [[Runic Shield]], [[Spell Runes]], [[Runes I]], [[Runecraft Practice]]
+**Following**:: [[Runecraft Practice]], [[Learn Runes]], [[Runic Capacity]], [[Runic Shield]], [[Spell Runes]], [[Runes I]]
 
 ---
 

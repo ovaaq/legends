@@ -1,4 +1,4 @@
-_[[Simple Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Thief's basic need._
 
@@ -12,5 +12,5 @@ _Thief's basic need._
 
 ---
 
-#simple #weapon #equipment
+#equipment #weapon
 [[Weapon]]

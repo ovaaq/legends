@@ -1,3 +1,1 @@
-[[Saving Throw Difficulty Class]]
-
----
+[[Alchemy Save DC]] = 8 + [[Intelligence]] + [[Alchemy]] [[Rank]]

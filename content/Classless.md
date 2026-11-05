@@ -429,8 +429,6 @@ Combat Medicine -> manual healing and other
 Art of Evasion -> unarmored defence, rogue dodges, etc.
 Cunning Action -> sneaks, quick actions, etc.
 
-Simple Weapon Training
-Martial Weapon Training
 Hammer Mastery
 Sword Mastery
 Axe Mastery

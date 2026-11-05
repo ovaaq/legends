@@ -35,7 +35,7 @@ These spells are added to your [[Divine Spell List]]:
 
 ![[Divine Spell Attack Modifier]]
 
-**Holy Symbol.** You can use a one handed [[Holy Symbol]] as a [[Simple Focus]] for your spellcasting, or or two handed [[Staff]] with [[Holy Symbol]] as an [[Advanced Focus]].
+**Holy Symbol.** You can use a [[Holy Symbol]] as a [[Spellcasting Focus]] for [[Divine Spellcasting]].
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]

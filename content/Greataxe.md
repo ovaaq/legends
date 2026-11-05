@@ -1,4 +1,4 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Big axe._
 
@@ -12,5 +12,5 @@ _Big axe._
 
 ---
 
-#advanced #weapon #equipment
+#equipment #weapon
 [[Weapon]]

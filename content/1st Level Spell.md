@@ -72,6 +72,7 @@
 | [[Sleep.md\|Sleep]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Speak with Animals.md\|Speak with Animals]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Familiar.md\|Summon Familiar]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 2 metres  | Instant                                                                       |
+| [[Summon Greater Familiar.md\|Summon Greater Familiar]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 2 metres  | Instant                                                                       |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Summon Tiny Beast.md\|Summon Tiny Beast]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
 | [[Summon Tiny Construct.md\|Summon Tiny Construct]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |

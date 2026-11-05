@@ -1,6 +1,4 @@
-You [[Walking Speed]] is reduced by X.
-
-If you gain [[Winded]] again, increase X by the new value unless the effect states otherwise.
+**Winded (X).** A [[Winded]] [[Creature]] has its [[Walking Speed]] reduced by X. If it gains [[Winded]] again, add the new [[Winded]] value to X.
 
 ---
 

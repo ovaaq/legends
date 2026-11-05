@@ -14,8 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Removal Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                     |
+| ------------------------------------------------------------------- |
+| [[War Spells III.md\|War Spells III]] |
 
 ---
 

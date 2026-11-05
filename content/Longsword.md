@@ -1,4 +1,4 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Sword for war._
 
@@ -12,5 +12,5 @@ _Sword for war._
 
 ---
 
-#advanced #weapon #equipment
+#equipment #weapon
 [[Weapon]]

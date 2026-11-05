@@ -1,4 +1,4 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Piercing through._
 
@@ -12,5 +12,5 @@ _Piercing through._
 
 ---
 
-#advanced #weapon #equipment
+#equipment #weapon
 [[Weapon]]

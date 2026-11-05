@@ -22,6 +22,7 @@ A [[Flammable]] [[Object]] hit by this spell ignites if it isn’t being worn or
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Elemental Spells III.md\|Elemental Spells III]] |
+| [[War Spells III.md\|War Spells III]]             |
 
 ---
 

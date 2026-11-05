@@ -25,7 +25,7 @@ Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formul
 
 **Tree**:: [[Artificer Talent Tree]]
 **Group**:: [[Crafting Talent]]
-**Following**::
+**Following**:: [[Artifice Practice]], [[Learn Schemas]], [[art1]], [[Schemas I]]
 
 ---
 

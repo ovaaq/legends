@@ -8,9 +8,9 @@ _[[1st Level Martial technique]]_
 
 _\*When you successfully [[Grapple]] a target._
 
-**Effect**:: You tighten your hold. The [[Grappled]] creature has [[Disadvantage]] on attempts to escape your grapple.
+**Effect**:: You tighten your hold. The [[Stuck]] creature has [[Disadvantage]] on attempts to escape your grapple.
 
-At the start of each of its turns while [[Grappled]], it takes 1d6 + [[Strength]] [[Bludgeoning Damage]].
+At the start of each of its turns while [[Stuck]], it takes 1d6 + [[Strength]] [[Bludgeoning Damage]].
 
 **Type**:: [[Control Technique]]
 

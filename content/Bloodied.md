@@ -1,4 +1,4 @@
-- Bloodied creature has less than half [[Hit Point]] of [[Hit Point Maximum]].
+**Bloodied.** A [[Bloodied]] [[Creature]] has fewer than half of its [[Hit Point Maximum|maximum Hit Points]].
 
 ---
 

@@ -3,11 +3,11 @@
 
 _Flavour text_.
 
-Benefit.
+**Magic Awareness.** You have always [[Detect Magic]] on active.
 
 **Tree**:: [[Wild Magic Talent Tree]]
 **Group**:: [[Innate Talent]]
-**Following**::
+**Following**:: [[Unstable Aura]]
 
 ---
 

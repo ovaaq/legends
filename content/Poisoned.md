@@ -1,4 +1,4 @@
-[[Disadvantage]] on [[Skill Check]], [[Attack Roll]], etc.
+**Poisoned.** A [[Poisoned]] [[Creature]] has [[Disadvantage]] on all [[Skill Check|Skill Checks]] and [[Attack Roll|Attack Rolls]].
 
 ---
 

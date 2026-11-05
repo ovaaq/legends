@@ -17,6 +17,7 @@ _[[1st Level Spell]]_
 | [[Beast Spells I.md\|Beast Spells I]]     |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
 | [[Life Spells I.md\|Life Spells I]]       |
+| [[War Spells I.md\|War Spells I]]         |
 | [[Warding Spells I.md\|Warding Spells I]] |
 
 ---

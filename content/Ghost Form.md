@@ -11,7 +11,7 @@ While [[Ghost Form]] is active:
 
 - Your [[Walking Speed]] is halved.
 - You gain [[Resistance]] to [[Physical Damage]].
-- You are [[Immune]] to being [[Grappled]], [[Restrained]], or otherwise physically bound.
+- You are [[Immune]] to being [[Stuck]], [[Restrained]], or otherwise physically bound.
 - You have disadvantage to any [[Strength]], [[Agility]], [[Precision]] based [[Attack|Attacks]], [[Check|Checks]] and [[Saving Throw|Saving Throws]].
 
 **Tree**:: [[Afterlife Talent Tree]]

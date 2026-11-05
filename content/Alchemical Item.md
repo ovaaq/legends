@@ -6,10 +6,10 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 
 | Alchemical Item                                                               | Cost | Weight | Duration |
 | ----------------------------------------------------------------------------- | ---- | ------ | -------- |
-| [[Acid Vial.md\|Acid Vial]]                     | 1 gp | 0.1 kg | Instant  |
 | [[98 - Meta/Templates/Alchemical Item Template.md\|Alchemical Item Template]] | 1 gp | 0.1 kg | Instant  |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]       | 1 gp | 0.1 kg | Instant  |
 | [[Alchemist's Frost.md\|Alchemist's Frost]]     | 1 gp | 0.1 kg | Instant  |
+| [[Common Acid.md\|Common Acid]]                 | 1 gp | 0.1 kg | Instant  |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         | 1 gp | 0.1 kg | Instant  |
 | [[Freeze Powder.md\|Freeze Powder]]             | 1 gp | 0.1 kg | Instant  |
 | [[Glue Vial.md\|Glue Vial]]                     | 1 gp | 0.1 kg | Instant  |
@@ -76,10 +76,10 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 
 | Alchemical Items                                                              |
 | ----------------------------------------------------------------------------- |
-| [[Acid Vial.md\|Acid Vial]]                     |
 | [[98 - Meta/Templates/Alchemical Item Template.md\|Alchemical Item Template]] |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]       |
 | [[Alchemist's Frost.md\|Alchemist's Frost]]     |
+| [[Common Acid.md\|Common Acid]]                 |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         |
 | [[Freeze Powder.md\|Freeze Powder]]             |
 | [[Glue Vial.md\|Glue Vial]]                     |
@@ -101,7 +101,7 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 [[Smoke Powder]]
 [[Thunderboom Stick]]
 [[Skyflare]]
-[[Acid Vial]]
+[[Common Acid]]
 [[Glue Vial]]
 
 [[Common Reagent]]

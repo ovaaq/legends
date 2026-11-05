@@ -3,7 +3,7 @@
 
 _Lore._
 
-you learn [[Summon Familiar]] and it can be any [[Magical Beast]] with [[Power Level]] of 0.
+you learn [[Summon Familiar]] and it can be any [[Magical Beast]] with [[Threat Level]] of 0.
 
 **Tree**:: [[Wildlore Talent Tree]]
 **Group**:: [[Arcane Talent]]

@@ -1,5 +1,4 @@
-- Creature that falls asleep becomes [[Unconscious]].
-- Loud noise, shaking up or taking damage wakes up the asleep creature.
+**Asleep.** An [[Asleep]] [[Creature]] is [[Unconscious]]. It awakens if it takes damage, another creature wakes it, or a sufficiently loud disturbance occurs nearby.
 
 ---
 

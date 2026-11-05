@@ -24,6 +24,7 @@ You can bring objects with you as long as their total weight does not exceed wha
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Elemental Spells III.md\|Elemental Spells III]] |
+| [[War Spells III.md\|War Spells III]]             |
 
 ---
 

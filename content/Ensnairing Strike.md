@@ -18,6 +18,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | ----------------------------------------------------------------------- |
 | [[Dwarven Spells I.md\|Dwarven Spells I]] |
 | [[Nature Spells I.md\|Nature Spells I]]   |
+| [[War Spells I.md\|War Spells I]]         |
 | [[Warding Spells I.md\|Warding Spells I]] |
 
 ---

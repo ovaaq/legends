@@ -8,7 +8,7 @@
       - [[Soul Bond]]
         - [[Spirit Growth]]
   - [[Totem Animal]]
-    - [[bp2]]
+    - [[Aspect of the Beast]]
       - [[bp3]]
         - [[bp4]]
   - [[Beast Spells I]]

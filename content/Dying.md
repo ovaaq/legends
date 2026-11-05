@@ -1,4 +1,6 @@
-When your [[Hit Point|Hit Points]] drop to 0, you fall [[Unconscious]] and gain the [[Dying]] condition.
+When your [[Hit Point|Hit Points]] drop to 0 with regular damage you gain the [[Dying]] condition.
+
+- [[Dying]] creature drops [[Prone]] and [[Unconscious]].
 
 At the start of your [[Turn]], make a DC 17 [[Death Saving Throw]] (1d20 + [[Constitution]]).
 

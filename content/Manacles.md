@@ -1,7 +1,7 @@
 **Cost**: 1 Gold
 **Weight**: 1 Stack
 
-As a [[Double Action]], you can use Manacles to bind an unwilling [[Small]] or [[Medium]] [[Creature]] within 1 metre of yourself that has the [[Grappled]], [[Incapacitated]] or [[Restrained]] condition if you succeed on a DC 13 [[Sleight of Hand]] [[Check]].
+As a [[Double Action]], you can use Manacles to bind an unwilling [[Small]] or [[Medium]] [[Creature]] within 1 metre of yourself that has the [[Stuck]], [[Incapacitated]] or [[Restrained]] condition if you succeed on a DC 13 [[Sleight of Hand]] [[Check]].
 
 While bound, a [[Creature]] has [[Disadvantage]] on [[Attack Roll|Attack Rolls]], and the [[Creature]] is [[Restrained]] if the Manacles are attached to a chain or hook that is fixed in place.
 

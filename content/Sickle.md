@@ -1,4 +1,4 @@
-_[[Simple Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
 
@@ -11,5 +11,5 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 
 ---
 
-#simple #weapon #equipment
+#equipment #weapon
 [[Weapon]]

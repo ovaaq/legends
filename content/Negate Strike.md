@@ -14,8 +14,9 @@ _\*When you are hit by an [[Attack]]._
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                     |
+| ------------------------------------------------------------------- |
+| [[War Spells III.md\|War Spells III]] |
 
 ---
 

@@ -1,4 +1,4 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Short blade nice nice._
 
@@ -12,5 +12,5 @@ _Short blade nice nice._
 
 ---
 
-#advanced #weapon #equipment
+#equipment #weapon
 [[Weapon]]

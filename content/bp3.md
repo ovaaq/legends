@@ -1,4 +1,4 @@
-**Requirements**:: [[bp2]]
+**Requirements**:: [[Aspect of the Beast]]
 **Cost**:: 1 LP
 
 _Flavour text_.

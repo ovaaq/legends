@@ -1,0 +1,3 @@
+[[Creature]]
+[[Natural Beast]]
+[[Insect]]

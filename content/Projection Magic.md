@@ -15,6 +15,8 @@ _Strand of magic that creates observable experiences._
 | [[Mirror Image.md\|Mirror Image]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 minute                                                                      |
 | [[Pass Without Trace.md\|Pass Without Trace]] | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Animate Dead.md\|Animate Dead]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Bestow Curse.md\|Bestow Curse]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
+| [[Feign Death.md\|Feign Death]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Major Image.md\|Major Image]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Phantom Steed.md\|Phantom Steed]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |
 | [[Speak with Dead.md\|Speak with Dead]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                 |

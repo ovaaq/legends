@@ -1,9 +1,10 @@
-_[[Advanced Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
 
 **Weight**:: 1 kg
 **Cost**:: 2 gp
+**Rank**:: 2
 **Category**:: [[Snare]]
 **Properties**:: [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m)
 **Damage**::
@@ -16,5 +17,5 @@ Attacks with this weapon target only the [[Creature|Creature's]] [[Evasion Class
 
 ---
 
-#advanced #weapon #equipment
+#equipment #weapon
 [[Weapon]]

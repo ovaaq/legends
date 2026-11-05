@@ -1,9 +1,9 @@
-**Requirements**:: [[Advanced Focus Training]]
-**Cost**:: 1 LP
+**Requirements**:: [[Spellcasting]] [[Rank]] 4+
+**Cost**:: 3 LP
 
-_You have practised the basics of weaponry. Now, your path to martial excellence begins._
+_More attacks more hits?_
 
-x
+Add your [[Spellcasting]] [[Rank]] [[Cantrip]] damage.
 
 **Tree**:: [[Spellcasting Talent Tree]]
 **Group**:: [[Spellcasting Talent]]

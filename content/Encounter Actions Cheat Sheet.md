@@ -34,7 +34,7 @@ For example, you can use your [[Reaction]] to wait until a [[Creature]] enters y
 | [[Deliver Potion]] | Feed a [[Potion]] to a willing [[Creature]].                                     |
 |     [[Disarm]]     | Make an [[Athletics]] or [[Sleight of Hand]] [[Check]] to disarm a [[Creature]]. |
 |     [[Dodge]]      | Increase your [[Evasion Class]] by 5 until the start of your next [[Turn]].      |
-|     [[Escape]]     | Make an [[Athletics]] or [[Acrobatics]] [[Check]] to escape being [[Grappled]].  |
+|     [[Escape]]     | Make an [[Athletics]] or [[Acrobatics]] [[Check]] to escape being [[Stuck]].  |
 |   [[First Aid]]    | Make a DC 10 [[Medicine]] [[Check]] to help a [[Dying]] [[Creature]].            |
 |    [[Grapple]]     | Make an [[Athletics]] [[Check]] to [[Grapple]] a [[Creature]].                   |
 |      [[Hide]]      | Make a [[Stealth]] [[Check]] to become hidden.                                   |

@@ -19,6 +19,7 @@ _\*When someone makes an [[Attack]] towards you._
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Elemental Spells I.md\|Elemental Spells I]]   |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[War Spells I.md\|War Spells I]]               |
 
 ---
 

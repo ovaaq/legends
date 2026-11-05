@@ -7,10 +7,10 @@ _[[1st Level Alchemical Formula]]_
 
 **Ingredients**:: 1 [[Common Volatile Reagent]], 1 [[Common Reactive Reagent]], [[Glass Vial]]
 
-**Effect**:: You attempt to craft a [[Vial of Acid]]. Make an [[Crafting]] ([[Alchemy]]) [[Check]] DC 15.
+**Effect**:: You attempt to craft a [[Common Acid]]. Make an [[Crafting]] ([[Alchemy]]) [[Check]] DC 15.
 
-**Critical Success:** You create two [[Vial of Acid|Vials of Acid]].
-**Success:** You create one [[Vial of Acid]].
+**Critical Success:** You create two [[Common Acid|Common Acids]].
+**Success:** You create one [[Common Acid]].
 **Failure:** Time is wasted, but ingredients are saved.
 **Critical Failure:** Ingredients are lost. Roll 1d12 on the [[Alchemy Hazard Table]].
 

@@ -10,6 +10,7 @@
 | [[Light hammer.md\|Light hammer]] | [[Hammer.md\|Hammer]]         | -                                                  | -     | -                                         | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[Sabre.md\|Sabre]]               | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
 | [[War Scythe.md\|War Scythe]]     | [[Sword.md\|Sword]]           | [[Action.md\|Action]] | 1d4    | [[Slashing Damage]] or [[Piercing Damage]] | [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)                                                          |
+| [[Whip.md\|Whip]]                 | [[Projectile.md\|Projectile]] | -                                                  | -     | -                                         | [[Finesse]], [[Light]], [[Ranged]] (1m / 2m), [[Thrown]]                                               |
 
 ---
 

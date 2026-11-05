@@ -1,4 +1,4 @@
-_[[Simple Weapon]], [[Equipment]]_
+_[[Weapon]]_
 
 _Hammer for war._
 
@@ -12,5 +12,4 @@ _Hammer for war._
 
 ---
 
-#simple #weapon #equipment
-[[Weapon]]
+#equipment #weapon n|]]

@@ -73,7 +73,7 @@ For each level of the spell, the process takes 2 hours and uses 1 pot of [[Magic
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]
-**Following**:: [[Arcane Spells I]], [[Signature Spell]], [[Magical Quill]], [[Sentient Spellbook]], [[Mana Recollection]], [[Spellcraft Practice]], [[Learn Arcane Spells]], [[Arcane Spell Memory]], [[Metamagic]], [[Increased Mana]]
+**Following**:: [[Spellcraft Practice]], [[Learn Arcane Spells]], [[Arcane Specialization]], [[Magical Quill]], [[Mana Recollection]], [[Arcane Spells I]]
 
 ---
 

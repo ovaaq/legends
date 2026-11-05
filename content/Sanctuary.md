@@ -6,7 +6,7 @@ _[[1st Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: 1 minute
 
-**Effect**:: You ward a [[Creature]] within range. Any [[Creature]] that [[Attack|Attacks]] the warded [[Creature]] or targets it with a harmful Spell must first make a [[Charisma Saving Throw]].
+**Effect**:: You ward a [[Willing]] [[Creature]] within range. Any [[Creature]] that [[Attack|Attacks]] the warded [[Creature]] or targets it with a harmful [[Spell]] must first make a [[Charisma Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** The attack is made with [[Disadvantage]]. If it is a [[Saving Throw]], the warded creature has [[Advantage]] on that save.

@@ -1,7 +1,4 @@
-- A feeble creature can’t take [[Reaction|Reactions]] and has only 1 [[Action]] per [[Turn]].
-- A feeble creature drops [[Prone]] and cannot [[Stand Up]].
-
-Condition ends if creature receives more than 5 [[Hit Point|Hit Points]] or has [[Short Rest]] or [[Long Rest]].
+**Feeble.** A [[Feeble]] [[Creature]] cannot use [[Reaction|Reactions]], has only 1 [[Action]] per [[Turn]], falls [[Prone]], and cannot [[Stand Up]]. [[Feeble]] ends when the [[Creature]] regains more than 5 [[Hit Point|Hit Points]] or completes a [[Short Rest]] or [[Long Rest]].
 
 ---
 
