@@ -1,4 +1,0 @@
----
-
-#keyword #condition
-[[Condition]]
