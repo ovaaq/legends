@@ -8,7 +8,7 @@ This [[Talent]] can be taken 5 times.
 
 **Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Unarmoured Movement]]
+**Following**:: [[Uncanny Dodge]], [[Escape Artist]]
 
 ---
 

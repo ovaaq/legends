@@ -1,4 +1,4 @@
-- An incapacitated creature can’t take [[Action|Actions]] or [[Reaction|Reactions]].
+**Incapacitated.** An [[Incapacitated]] [[Creature]] cannot use [[Action|Actions]] or [[Reaction|Reactions]].
 
 ---
 

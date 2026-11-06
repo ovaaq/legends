@@ -3,7 +3,7 @@
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._
 
-Ignore difficult terrain caused by obstacles
+Ignore [[Difficult Terrain]] caused by obstacles
 
 **Tree**:: [[Mobility Talent Tree]]
 **Group**:: [[General Talent]]

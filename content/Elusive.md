@@ -3,7 +3,7 @@
 
 _elusive._
 
-While you are not [[Restrained]] and not wearing [[Armour]] with the [[Restricting]] property, treat any [[Critical Hit]] against you as a normal hit.
+While you are not [[Restrained]] or wearing [[Armour]] with the [[Restricting]] property, treat any [[Critical Hit]] against you as a normal hit.
 
 **Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]

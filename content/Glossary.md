@@ -134,6 +134,7 @@
 | [[Grapple.md\|Grapple]]                                             |
 | [[Greater Resistance.md\|Greater Resistance]]                       |
 | [[Hammer.md\|Hammer]]                                               |
+| [[Handcuffed.md\|Handcuffed]]                                       |
 | [[Haste Point.md\|Haste Point]]                                     |
 | [[Heavy.md\|Heavy]]                                                 |
 | [[Heavy Armour.md\|Heavy Armour]]                                   |

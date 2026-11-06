@@ -3,8 +3,8 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Action]]
 **Stamina**:: 1
 **Range**:: Self
-**Weapon**:: Any
-**Duration**:: Instant
+**Weapon**:: None
+**Duration**:: 1 [[Turn]]
 
 **Effect**:: Your [[Evasion Class]] increases by your [[Martial]] [[Rank]] until the start of your next [[Turn]].
 

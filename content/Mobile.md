@@ -5,6 +5,8 @@ _You have mastered the basics of weaponry. Now, your path to martial excellence 
 
 Increase your [[Walking Speed]] by 1 metre.
 
+This [[Talent]] can be taken 3 times.
+
 **Tree**:: [[Mobility Talent Tree]]
 **Group**:: [[General Talent]]
 **Following**:: [[Fancy Footwork]], [[Slip Through]], [[Explosive Dash]]

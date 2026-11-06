@@ -19,6 +19,7 @@ Still under work: [[Blinded]], [[Dying]], [[Frightened]]
 | [[Feeble.md\|Feeble]]               |
 | [[Flat-Footed.md\|Flat-Footed]]     |
 | [[Frightened.md\|Frightened]]       |
+| [[Handcuffed.md\|Handcuffed]]       |
 | [[Immobilized.md\|Immobilized]]     |
 | [[Incapacitated.md\|Incapacitated]] |
 | [[Invisible.md\|Invisible]]         |

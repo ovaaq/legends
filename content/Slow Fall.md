@@ -3,7 +3,7 @@
 
 _You have mastered the basics of weaponry. Now, your path to martial excellence begins._
 
-negate fall damage, land on feet
+negate [[Falling Damage]], land on feet
 
 **Tree**:: [[Mobility Talent Tree]]
 **Group**:: [[General Talent]]

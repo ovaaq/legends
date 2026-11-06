@@ -1,18 +1,25 @@
 _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 2
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: 10 metres
+**Duration**:: [[Concentration]], 1 minute
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+Choose a [[Creature]] that you can see within range. The target must make a [[Agility Saving Throw]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Critical Success:** No effect.
+**Success:** The target is [[Stuck]] until the start of your turn.
+**Failure:** The target is [[Restrained]] and takes 1d6 [[Cold Damage]] at the start of each of its [[Turn]].
+**Critical Failure:** The target is [[Restrained]] and takes double damage at the start of each of its [[Turn]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+At the end of each of its turns, the target can make [[Strength Saving Throw]]. On a success, the spell ends on the target.
 
-**Type**:: [[Warding Magic]]
+As an [[Action]] you can pull [[Restrained]] [[Creature]] 2 metres towards you.
+
+**Upcasting**:: For each additional two mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
+
+**Type**:: [[Conjuration Magic]]
 
 | Related Talents                                                   |
 | ----------------------------------------------------------------- |

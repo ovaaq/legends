@@ -3,7 +3,7 @@
 
 _Dodging._
 
-**Uncanny Dodge.** When an [[Attack]] hits you while you are not wearing [[Armour]] that has the [[Restricting]] property, you can use your [[Reaction]] to halve the damage you take from the [[Attack]].
+**Uncanny Dodge.** When an [[Attack]] hits you, provided you are not [[Restrained]] or wearing [[Armour]] with the [[Restricting]] property, you can use your [[Reaction]] to halve the damage taken.
 
 **Tree**:: [[Evasion Talent Tree]]
 **Group**:: [[Martial Talent]]
