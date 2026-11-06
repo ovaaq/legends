@@ -11,6 +11,7 @@ _Flavour text_.
 | [[Daring Rescue.md\|Daring Rescue]]           | -        | -      | -    | -     |
 | [[Destructive Strike.md\|Destructive Strike]] | -        | -      | -    | -     |
 | [[Knock Out.md\|Knock Out]]                   | -        | -      | -    | -     |
+| [[Meat Shield.md\|Meat Shield]]               | -        | -      | -    | -     |
 | [[Misdirection.md\|Misdirection]]             | -        | -      | -    | -     |
 | [[Vorpal Strike.md\|Vorpal Strike]]           | -        | -      | -    | -     |
 
@@ -22,3 +23,5 @@ _Flavour text_.
 
 #talent #martial
 [[Talent]] [[Talent]][[Martial Talent]]
+
+[[Meat Shield]]

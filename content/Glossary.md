@@ -94,7 +94,6 @@
 | [[Drink Potion.md\|Drink Potion]]                                   |
 | [[Drop Object.md\|Drop Object]]                                     |
 | [[Drowsy.md\|Drowsy]]                                               |
-| [[01 - Projects/3 Game Master/Dwarf.md\|Dwarf]]                                                   |
 | [[Dying.md\|Dying]]                                                 |
 | [[Elemental Damage.md\|Elemental Damage]]                           |
 | [[Enchantment Magic.md\|Enchantment Magic]]                         |

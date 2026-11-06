@@ -8,6 +8,7 @@
 | [[Corrected Strike.md\|Corrected Strike]]           |
 | [[Counterbalance.md\|Counterbalance]]               |
 | [[Crushing Grip.md\|Crushing Grip]]                 |
+| [[Deafening Strike.md\|Deafening Strike]]           |
 | [[Dirty Hit.md\|Dirty Hit]]                         |
 | [[Disarming Attack.md\|Disarming Attack]]           |
 | [[Distracting Strike.md\|Distracting Strike]]       |
@@ -25,8 +26,11 @@
 | [[Quick Coating.md\|Quick Coating]]                 |
 | [[Rally.md\|Rally]]                                 |
 | [[Riposte.md\|Riposte]]                             |
+| [[Silencing Strike.md\|Silencing Strike]]           |
 | [[Slashing Strike.md\|Slashing Strike]]             |
+| [[Slowing Strike.md\|Slowing Strike]]               |
 | [[Sneak Attack.md\|Sneak Attack]]                   |
+| [[Spring Up.md\|Spring Up]]                         |
 | [[Taunting Strike.md\|Taunting Strike]]             |
 | [[Trick Shot.md\|Trick Shot]]                       |
 | [[Trip Attack.md\|Trip Attack]]                     |

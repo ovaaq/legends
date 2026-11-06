@@ -9,3 +9,4 @@
 | [[Intimidating Command.md\|Intimidating Command]] | [[Double Action.md\|Double Action]] | 1       | 10 metres | None                                                  | [[Control Technique.md\|Control Technique]] |
 | [[Opportunity Attack.md\|Opportunity Attack]]     | [[Reaction]]\*                                                     | 1       | Melee     | Melee                                                 | [[Control Technique.md\|Control Technique]] |
 | [[Pinning Strike.md\|Pinning Strike]]             | [[Free Action.md\|Free Action]]     | 1       | Melee     | Piercing                                              | [[Control Technique.md\|Control Technique]] |
+| [[Slowing Strike.md\|Slowing Strike]]             | [[Free Action]]\*                                                  | 1       | Any       | Any                                                   | [[Control Technique.md\|Control Technique]] |

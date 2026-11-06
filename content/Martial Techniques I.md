@@ -15,6 +15,7 @@ _Years of training have taught you how to perform combat techniques that ordinar
 | [[Corrected Strike.md\|Corrected Strike]]         | [[Free Action]]\*                                                  | 1       | Any       | Any                                                   | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Counterbalance.md\|Counterbalance]]             | [[Reaction]]\*                                                     | 1       | Self      | Any                                                   | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Crushing Grip.md\|Crushing Grip]]               | [[Free Action.md\|Free Action]]     | 1       | Melee     | None                                                  | [[Control Technique.md\|Control Technique]]     |
+| [[Deafening Strike.md\|Deafening Strike]]         | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                   | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Dirty Hit.md\|Dirty Hit]]                       | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                   | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Disarming Attack.md\|Disarming Attack]]         | [[Free Action]]\*                                                  | 1       | Any       | Any                                                   | [[Control Technique.md\|Control Technique]]     |
 | [[Distracting Strike.md\|Distracting Strike]]     | [[Free Action]]\*                                                  | 1       | Any       | Any                                                   | [[Control Technique.md\|Control Technique]]     |
@@ -31,8 +32,11 @@ _Years of training have taught you how to perform combat techniques that ordinar
 | [[Quick Coating.md\|Quick Coating]]               | [[Action.md\|Action]]               | 0       | Melee     | Piercing or Slashing                                  | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Rally.md\|Rally]]                               | [[Action.md\|Action]]               | 1       | 10 metres | None                                                  | [[Support Technique.md\|Support Technique]]     |
 | [[Riposte.md\|Riposte]]                           | [[Free Action]]\*                                                  | 1       | Melee     | [[Finesse.md\|Finesse]] | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Silencing Strike.md\|Silencing Strike]]         | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                   | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Slashing Strike.md\|Slashing Strike]]           | [[Action.md\|Action]]               | 1       | Melee     | Slashing                                              | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Slowing Strike.md\|Slowing Strike]]             | [[Free Action]]\*                                                  | 1       | Any       | Any                                                   | [[Control Technique.md\|Control Technique]]     |
 | [[Sneak Attack.md\|Sneak Attack]]                 | [[Free Action]]\*                                                  | 0       | Any       | [[Finesse.md\|Finesse]] | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Spring Up.md\|Spring Up]]                       | [[Free Action.md\|Free Action]]     | 1       | Self      | None                                                  | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Taunting Strike.md\|Taunting Strike]]           | [[Free Action]]\*                                                  | 1       | 4 metres  | Any                                                   | [[Support Technique.md\|Support Technique]]     |
 | [[Trick Shot.md\|Trick Shot]]                     | [[Action.md\|Action]]               | 1       | Range     | [[Ranged]] or [[Thrown]]                              | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Trip Attack.md\|Trip Attack]]                   | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                   | [[Offensive Technique.md\|Offensive Technique]] |
@@ -46,3 +50,12 @@ _Years of training have taught you how to perform combat techniques that ordinar
 
 #talent #martial
 [[Talent]] [[Talent]][[Martial Talent]]
+[[Spring Up]]
+
+[[Blinding Strike]]
+[[Deafening Strike]]
+
+[[Silencing Strike]]
+[[Slowing Strike]]
+
+[[Dazing Strike]]

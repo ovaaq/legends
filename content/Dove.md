@@ -1,14 +1,14 @@
-_[[Medium]] [[Natural Beast]]_
+_[[Tiny]] [[Natural Beast]]_
 
-**Threat**::
-**HP**::
-**Armour**::
-**Evasion**::
-**Speed**::
+**Threat**:: 0
+**HP**:: 2
+**Armour**:: 8
+**Evasion**:: 15
+**Speed**:: 25
 
 | Strength | Agility | Precision | Constitution | Awareness | Charisma | Intelligence | Sorcery |
 | :------: | :-----: | :-------: | :----------: | :-------: | :------: | :----------: | :-----: |
-|          |         |           |              |           |          |              |         |
+|    -5    |         |           |              |           |          |              |         |
 |          |         |           |              |           |          |              |         |
 
 **Attack.**
