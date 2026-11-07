@@ -15,4 +15,5 @@ Block Ki - cannot use mana for one turn
 ---
 
 #talent #martial #ki
-[[Talent]] [[Talent]][[Martial Talent]]
+[[Talent]]
+[[Martial Talent]]

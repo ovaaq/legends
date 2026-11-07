@@ -1,4 +1,6 @@
 - [[Unlocked Ki]]
+  - [[Increased Ki]]
+  - [[Learn Ki Techniques]]
   - [[Focused Aim]]
     - [[Stillness of Mind]]
       - [[Diamond Soul]]

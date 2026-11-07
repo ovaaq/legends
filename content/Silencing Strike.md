@@ -4,13 +4,13 @@ _[[1st Level Martial technique]]_
 **Stamina**:: 1
 **Range**:: Melee
 **Weapon**:: Any
-**Duration**:: Instant
+**Duration**:: 1 [[Turn]]
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: Immediately after the [[Attack]], move up to half your [[Walking Speed]].
+**Effect**:: The target becomes [[Muted]] until the start of your next [[Turn]].
 
-**Type**:: [[Defensive Technique]]
+**Type**:: [[Control Technique]]
 
 ---
 

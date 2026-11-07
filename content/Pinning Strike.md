@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: The [[Attack]] deals no damage. Instead, the target's [[Walking Speed]] becomes 0 until the start of your next [[Turn]].
+**Effect**:: The [[Attack]] deals half [[Damage]], and the target's [[Walking Speed]] is reduced to 0 until the start of your next [[Turn]].
 
 **Type**:: [[Control Technique]]
 

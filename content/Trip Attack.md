@@ -8,12 +8,12 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: You strike at a balance point to force it to make a [[Agility Saving Throw]]:
+**Effect**:: The target must make a [[Agility Saving Throw]].
 
 **Critical Success:** No effect.\
-**Success:** Target [[Walking Speed]] is halved until the end of its next [[Turn]].
-**Failure:** Target falls [[Prone]].
-**Critical Failure:** Target falls [[Prone]], and takes 1d6 [[Bludgeoning Damage]].
+**Success:** The target's [[Walking Speed]] is halved until the end of its next [[Turn]].
+**Failure:** The target falls [[Prone]].
+**Critical Failure:** The target falls [[Prone]], and takes 1d6 [[Bludgeoning Damage]].
 
 **Type**:: [[Offensive Technique]]
 

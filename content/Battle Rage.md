@@ -5,7 +5,7 @@ _Flavour text_.
 
 Benefit.
 
-**Tree**:: [[Berserk Talent Tree]]
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

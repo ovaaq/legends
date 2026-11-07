@@ -12,4 +12,5 @@ Benefit.
 ---
 
 #talent #martial #ki
-[[Talent]] [[Talent]][[Martial Talent]]
+[[Talent]]
+[[Martial Talent]]

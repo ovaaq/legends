@@ -3,12 +3,12 @@ _[[1st Level Martial technique]]_
 **Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range**:: Any
-**Weapon**:: [[Advanced Weapon]]
+**Weapon**:: Any
 **Duration**:: Instant
 
-_\*When you make an [[Attack Roll]] against a [[Creature]]_
+_\*When you make an [[Attack]] against a [[Creature]]._
 
-**Effect**:: You have [[Advantage]] on the [[Attack Roll]].
+**Effect**:: You have [[Advantage]] on the [[Attack]].
 
 **Type**:: [[Offensive Technique]]
 

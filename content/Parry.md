@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When someone makes a [[Melee Attack]] towards you._
 
-**Effect**:: Reduce the incoming [[Attack Roll]] by your [[Martial]] [[Rank]].
+**Effect**:: Reduce the incoming [[Attack]] by your [[Martial]] [[Rank]].
 
 **Type**:: [[Defensive Technique]]
 

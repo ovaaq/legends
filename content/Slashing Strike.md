@@ -1,6 +1,6 @@
 _[[1st Level Martial technique]]_
 
-**Execution**:: [[Action]]
+**Execution**:: [[Free Action]]\*
 **Stamina**:: 1
 **Range**:: Melee
 **Weapon**:: Slashing
@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: Hit two targets that are in your melee range and nothing is between them.
+**Effect**:: Make an additional [[Attack]] against a [[Creature]] adjacent to the target you just hit.
 
 **Type**:: [[Offensive Technique]]
 

@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: [[Ranged]] or [[Thrown]]
 **Duration**:: Instant
 
-**Effect**:: Next [[Attack Roll]] you make does not have [[Disadvantage]], and it ignores [[Cover]], so long as it can ricochet off a single surface and hit a target. On hit, add your [[Martial]] [[Rank]] to the [[Damage Roll]].
+**Effect**:: Next [[Attack]] you make does not have [[Disadvantage]] nor [[Advantage]], and it ignores [[Cover]], so long as it can ricochet off a single surface and hit a target. On hit, add your [[Martial]] [[Rank]] to the [[Damage Roll]].
 
 **Type**:: [[Offensive Technique]]
 

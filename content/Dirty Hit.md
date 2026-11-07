@@ -8,12 +8,12 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: You strike at a vulnerable point and force the target to make a [[Constitution Saving Throw]].
+**Effect**:: You strike a vulnerable point. The target must make a [[Constitution Saving Throw]].
 
 **Critical Success:** No effect.
-**Success:** The target's [[Walking Speed]] is halved until the end of its next [[Turn]].
-**Failure:** The target falls [[Prone]] and cannot take [[Reaction]]s until the end of its next [[Turn]].
-**Critical Failure:** The target falls [[Prone]], its [[Walking Speed]] becomes 0, and it cannot take [[Reaction]]s until the end of its next [[Turn]].
+**Success:** The target's [[Walking Speed]] is halved until the start of your next [[Turn]].
+**Failure:** The target falls [[Prone]] and cannot take [[Reaction]]s until the start of your next [[Turn]].
+**Critical Failure:** The target falls [[Prone]], its [[Walking Speed]] becomes 0, and it cannot take [[Reaction]]s until the start of your next [[Turn]].
 
 **Type**:: [[Offensive Technique]]
 

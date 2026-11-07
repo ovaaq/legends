@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-_\*When make an [[Attack]]._
+_\*When you make an [[Attack]] against a [[Creature]]._
 
 **Effect**:: As part of your [[Attack]], you can move up to 2 additional metres. If you move at least 2 metres in a straight line toward the target immediately before making a [[Melee Attack]], add 1d6 to the [[Damage Roll]] on a hit.
 

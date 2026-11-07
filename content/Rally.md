@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: None
 **Duration**:: Instant
 
-**Effect**:: Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [[Temporary Hit Point|Temporary Hit Points]] equal to the [[Martial]] [[Rank]] +  2.
+**Effect**:: Choose an ally within range who can see or hear you. The ally gains [[Temporary Hit Point|Temporary Hit Points]] equal to 2 + your [[Martial]] [[Rank]].
 
 **Type**:: [[Support Technique]]
 

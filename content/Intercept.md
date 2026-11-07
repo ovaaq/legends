@@ -1,18 +1,18 @@
-_[[1st Level Martial technique]]_
+_[[2nd Level Martial technique]]_
 
 **Execution**:: [[Reaction]]\*
-**Stamina**:: 1
+**Stamina**:: 2
 **Range**:: Melee
-**Weapon**:: [[Polearm]]
+**Weapon**:: Any
 **Duration**:: Instant
 
-\*\*When [[Creature]] enters your [[Melee Range]].
+_\*When a [[Creature]] within your [[Melee Range]] casts a [[Spell]]._
 
-**Effect**:: Make one [[Attack]] against the triggering [[Creature]].
+**Effect**:: Make an [[Attack]] against the triggering [[Creature]].
 
 **Type**:: [[Control Technique]]
 
 ---
 
-#martial_technique #1st\
+#martial_technique #2nd\
 [[Martial Technique]]

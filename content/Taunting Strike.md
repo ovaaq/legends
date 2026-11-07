@@ -4,9 +4,9 @@ _[[1st Level Martial technique]]_
 **Stamina**:: 1
 **Range**:: 4 metres
 **Weapon**:: Any
-**Duration**:: Instant
+**Duration**:: 1 [[Turn]]
 
-_\*When you hit a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
+_\*When your [[Attack]] hits a [[Creature]]._
 
 **Effect**:: The [[Creature]] has [[Disadvantage]] on [[Attack|Attacks]] against targets other than you until the end of it's next [[Turn]].
 

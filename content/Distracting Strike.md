@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: The next [[Attack Roll]] against the target made by a [[Creature]] other than you has [[Advantage]] if the [[Attack]] is made before the start of your next [[Turn]].
+**Effect**:: The next [[Attack]] made against the target by a [[Creature]] other than you has [[Advantage]]. This effect ends at the start of your next [[Turn]].
 
 **Type**:: [[Control Technique]]
 

@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: None
 **Duration**:: Instant
 
-**Effect**:: You jump up, removing the [[Prone]] condition.
+**Effect**:: Remove the [[Prone]] condition from yourself.
 
 **Type**:: [[Defensive Technique]]
 

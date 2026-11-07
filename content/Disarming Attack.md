@@ -8,7 +8,7 @@ _[[1st Level Martial technique]]_
 
 _\*When your [[Attack]] hits a [[Creature]]._
 
-**Effect**:: You strike at an [[Object]] the target is holding, forcing it to make a [[Strength Saving Throw]].
+**Effect**:: Choose an [[Object]] held by the target. The target makes a [[Strength Saving Throw]].
 
 **Critical Success:** No effect.\
 **Success:** The target cannot take [[Reaction|Reactions]] until the end of its next [[Turn]].

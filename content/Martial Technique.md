@@ -5,7 +5,6 @@
 | [[Brute Strike.md\|Brute Strike]]                   |
 | [[Charging Strike.md\|Charging Strike]]             |
 | [[Commander’s Strike.md\|Commander’s Strike]]       |
-| [[Corrected Strike.md\|Corrected Strike]]           |
 | [[Counterbalance.md\|Counterbalance]]               |
 | [[Crushing Grip.md\|Crushing Grip]]                 |
 | [[Deafening Strike.md\|Deafening Strike]]           |
@@ -15,7 +14,6 @@
 | [[Evasive Footwork.md\|Evasive Footwork]]           |
 | [[Feinting Attack.md\|Feinting Attack]]             |
 | [[Glancing Blow.md\|Glancing Blow]]                 |
-| [[Intercept.md\|Intercept]]                         |
 | [[Intimidating Command.md\|Intimidating Command]]   |
 | [[98 - Meta/Templates/Martial Technique Template.md\|Martial Technique Template]] |
 | [[Opportunity Attack.md\|Opportunity Attack]]       |

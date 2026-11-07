@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Piercing or Slashing
 **Duration**:: Instant
 
-**Effect**:: You do [[Coat Weapon]] action fast. Applying the coat.
+**Effect**:: You perform the [[Coat Weapon]] action.
 
 **Type**:: [[Offensive Technique]]
 

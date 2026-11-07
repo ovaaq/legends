@@ -6,9 +6,9 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-_\*When your [[Attack]] misses a [[Creature]]._
+_\*When you miss a [[Creature]] with an [[Attack]]._
 
-**Effect**:: Immediately make the same [[Attack]] against a different target within the reach of your [[Melee Weapon]].
+**Effect**:: Make the same [[Attack]] against a different [[Creature]] within your weapon’s reach.
 
 **Type**:: [[Offensive Technique]]
 

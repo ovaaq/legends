@@ -8,9 +8,10 @@ Benefit.
 
 **Tree**:: [[Ki Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Learn Ki Technique]], [[Ki Techniques II]]
+**Following**:: [[Ki Techniques II]]
 
 ---
 
 #talent #martial #ki
-[[Talent]] [[Talent]][[Martial Talent]]
+[[Talent]]
+[[Martial Talent]]

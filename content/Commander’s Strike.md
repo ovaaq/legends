@@ -6,7 +6,7 @@ _[[1st Level Martial technique]]_
 **Weapon**:: Any
 **Duration**:: Instant
 
-**Effect**:: Choose a [[Willing]] [[Creature]] within range that can see or hear you. That [[Creature]] may immediately use its [[Reaction]] to make one [[Attack]] with a Weapon or [[Unarmed Strike]].
+**Effect**:: Choose a [[Willing]] [[Creature]] within range that can see or hear you. That [[Creature]] may immediately use its [[Reaction]] to make one [[Weapon Attack]] or [[Unarmed Strike]].
 
 **Type**:: [[Support Technique]]
 

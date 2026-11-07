@@ -6,9 +6,9 @@ _[[1st Level Martial technique]]_
 **Weapon**:: [[Finesse]]
 **Duration**:: Instant
 
-_\*When you miss a [[Creature]] with a [[Weapon Attack]] or [[Unarmed Strike]]._
+_\*When you miss a [[Creature]] with an [[Attack]]._
 
-**Effect**:: Make a new [[Attack Roll]] against the target.
+**Effect**:: Make a new [[Attack]] against the target.
 
 **Type**:: [[Offensive Technique]]
 
