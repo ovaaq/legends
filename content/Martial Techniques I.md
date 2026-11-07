@@ -3,7 +3,7 @@
 
 _Years of training have taught you how to perform combat techniques that ordinary warriors cannot replicate._
 
-The following [[1st Level Martial technique|1st Level Martial techniques]] are unlocked. Select two and add them to your [[Learned Martial Techniques]].
+The following [[1st Level Martial Technique|1st Level Martial techniques]] are unlocked. Select two and add them to your [[Learned Martial Techniques]].
 
 | 1st Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                                | Type                                                                          |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -25,7 +25,6 @@ The following [[1st Level Martial technique|1st Level Martial techniques]] are u
 | [[Opportunity Attack.md\|Opportunity Attack]]     | [[Reaction]]\*                                                     | 1       | Melee     | Any                                                   | [[Control Technique.md\|Control Technique]]     |
 | [[Parry.md\|Parry]]                               | [[Reaction]]\*                                                     | 1       | Melee     | Any                                                   | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Pinning Strike.md\|Pinning Strike]]             | [[Free Action.md\|Free Action]]     | 1       | Melee     | Piercing                                              | [[Control Technique.md\|Control Technique]]     |
-| [[Push the Limit.md\|Push the Limit]]             | [[Action.md\|Action]]               | 0       | Self      | None                                                  | [[Defensive Technique.md\|Defensive Technique]] |
 | [[Pushing Attack.md\|Pushing Attack]]             | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy]] or [[Polearm]]                              | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Quick Coating.md\|Quick Coating]]               | [[Action.md\|Action]]               | 0       | Melee     | Piercing or Slashing                                  | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Rally.md\|Rally]]                               | [[Action.md\|Action]]               | 1       | 10 metres | None                                                  | [[Support Technique.md\|Support Technique]]     |

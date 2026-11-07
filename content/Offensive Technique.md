@@ -18,6 +18,7 @@
 | [[Obscuring Attack.md\|Obscuring Attack]] | [[Free Action]]\*                                              | 1       | Melee  | [[Heavy.md\|Heavy]]     | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Pinning Shot.md\|Pinning Shot]]         | [[Free Action]]\*                                              | 2       | -     | -                                                    | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Power Shot.md\|Power Shot]]             | [[Free Action.md\|Free Action]] | 0       | Ranged | [[Crossbow]] or [[Bow]]                               | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Push the Limit.md\|Push the Limit]]     | [[Free Action.md\|Free Action]] | 0       | Self   | None                                                  | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Pushing Attack.md\|Pushing Attack]]     | [[Free Action]]\*                                              | 1       | Melee  | [[Heavy]] or [[Polearm]]                              | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Quick Coating.md\|Quick Coating]]       | [[Action.md\|Action]]           | 0       | Melee  | Piercing or Slashing                                  | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Ringing Strike.md\|Ringing Strike]]     | [[Free Action]]\*                                              | 1       | Melee  | [[Heavy.md\|Heavy]]     | [[Offensive Technique.md\|Offensive Technique]] |

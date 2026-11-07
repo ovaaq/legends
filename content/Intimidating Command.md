@@ -1,4 +1,4 @@
-_[[1st Level Martial technique]]_
+_[[1st Level Martial Technique]]_
 
 **Execution**:: [[Double Action]]
 **Stamina**:: 1

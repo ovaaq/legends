@@ -11,12 +11,12 @@ Increase your [[Martial]] [[Rank]] by 1.
 
 Select two [[Martial Technique|Martial Techniques]] from the following list and add them to your [[Learned Martial Techniques]].
 
-- [[Parry]]
 - [[Charging Strike]]
 - [[Disarming Attack]]
-- [[Withdrawing Strike]]
-- [[Trip Attack]]
+- [[Parry]]
 - [[Pushing Attack]]
+- [[Trip Attack]]
+- [[Withdrawing Strike]]
 
 **Perform Technique.** You can perform any of your [[Learned Martial Techniques]] by paying its [[Stamina Point]] cost. You can apply only one [[Martial Technique]] to each [[Attack]].
 

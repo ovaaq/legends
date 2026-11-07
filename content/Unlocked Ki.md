@@ -21,7 +21,7 @@ Select two [[Ki Technique|Ki Techniques]] from the following list and add them t
 
 **Tree**:: [[Ki Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Learn Ki Techniques]], [[Focused Aim]], [[Enduring Body]], [[Ki Techniques I]]
+**Following**:: [[Increased Ki]], [[Learn Ki Techniques]], [[Rapid Strikes]], [[Enduring Body]], [[Ki Techniques I]]
 
 ---
 

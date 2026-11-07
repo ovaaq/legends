@@ -19,7 +19,6 @@
 | [[Opportunity Attack.md\|Opportunity Attack]]       |
 | [[Parry.md\|Parry]]                                 |
 | [[Pinning Strike.md\|Pinning Strike]]               |
-| [[Push the Limit.md\|Push the Limit]]               |
 | [[Pushing Attack.md\|Pushing Attack]]               |
 | [[Quick Coating.md\|Quick Coating]]                 |
 | [[Rally.md\|Rally]]                                 |

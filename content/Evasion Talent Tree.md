@@ -6,12 +6,10 @@
     - [[Danger Sense]]
       - [[Evasion]]
 
-**Theme**:: Dodging and evading attacks.
+**Theme**:: Evading incoming attacks and area effects.
 **Group**:: [[Martial Talent]]
 
 ---
 
 #martial #talent_tree\
 [[Talent Tree]]
-
-- [[d1]]

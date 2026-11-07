@@ -1,3 +1,15 @@
-[[Weapon]], [[Equipment]]
+_[[Shield]]_
 
-+2 [[Armour Class]], [[Heavy]] (1)
+_Extra protection._
+
+**Weight**:: 4 kg
+**Cost**:: 5 gp
+**Armour**:: +2
+**Properties**:: [[Heavy]] (1)
+
+---
+
+#shield #armour #equipment
+[[Armour]]
+[[Equipment]]
+[[Shield]]

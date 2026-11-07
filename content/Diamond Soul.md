@@ -1,4 +1,4 @@
-**Requirements**:: [[Stillness of Mind]]
+**Requirements**:: [[Iron Fists]]
 **Cost**:: 1 LP
 
 _Flavour text_.

@@ -1,12 +1,12 @@
 **Requirements**:: [[Ki Techniques I]] and [[Martial]] [[Rank]] 2+
-**Cost**:: 1 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-Benefit.
-[[2nd Level Ki Technique]]
+The following [[2nd Level Ki technique|2nd Level Ki techniques]] are unlocked. Select two and add them to your [[Learned Ki Techniques]].
 
-Block Ki - cannot use mana for one turn
+| 2nd Level Ki Techniques | Execution | Ki | Range |
+| ----------------------- | --------- | -- | ----- |
 
 **Tree**:: [[Ki Talent Tree]]
 **Group**:: [[Martial Talent]]

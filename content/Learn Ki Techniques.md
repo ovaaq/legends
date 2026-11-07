@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Benefit.
+Select two unlocked [[Ki Technique|Ki Techniques]] and add them to your [[Learned Ki Techniques]].
 
 **Tree**:: [[Ki Talent Tree]]
 **Group**:: [[Martial Talent]]
