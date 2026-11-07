@@ -3,8 +3,7 @@
 
 _Flavour text_.
 
-- 1 additional hp per hit dice rolled in long rest
-- 1 additional hit dice per long rest
+**Improved Recovery.** When you finish a [[Long Rest]], gain additional [[Hit Point]]s equal to your [[Constitution]] and 1 additional [[Hit Die]].
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]

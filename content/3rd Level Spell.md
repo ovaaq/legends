@@ -45,7 +45,7 @@
 | [[Summon Elemental.md\|Summon Elemental]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                         |
 | [[Summon Spirit.md\|Summon Spirit]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                                         |
 | [[Sunlight.md\|Sunlight]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
-| [[Thunder Step.md\|Thunder Step]]           | [[Double Action.md\|Double Action]] | V, S        | 3    | 40 metres | Instantaneous                                                                                         |
+| [[Thunder Step.md\|Thunder Step]]           | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instantaneous                                                                                         |
 | [[Tongues.md\|Tongues]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instantaneous                                                                                         |
 | [[Wall of Vines.md\|Wall of Vines]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 

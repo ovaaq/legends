@@ -3,9 +3,9 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Prayer]] by 1.
+Increase your [[Prayer]] [[Rank]] by 1.
 
-These spells are added to your [[Divine Spell List]]:
+These spells are added to your [[Divine Spell List]].
 
 ##### Cantrips
 
@@ -39,7 +39,7 @@ These spells are added to your [[Divine Spell List]]:
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]
-**Following**:: [[Prayer Practice]], [[Divine Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+**Following**:: [[Prayer Practice]], [[Divine Spell Memory]], [[Metamagic]]
 
 ---
 

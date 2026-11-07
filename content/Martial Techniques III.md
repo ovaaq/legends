@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-**New Techniques.** Select one [[3rd Level Martial technique|3rd Level Martial Techniques]] and add it to your list of [[Learned Martial Techniques]]. These techniques are listed below:
+The following [[3rd Level Martial technique|3rd Level Martial techniques]] are unlocked. Select two and add them to your [[Learned Martial Techniques]].
 
 | 3rd Level Martial Techniques                                                | Execution | Stamina | Range | Weapon |
 | --------------------------------------------------------------------------- | --------- | ------- | ----- | ------ |
@@ -22,6 +22,5 @@ _Flavour text_.
 ---
 
 #talent #martial
-[[Talent]] [[Talent]][[Martial Talent]]
-
-[[Meat Shield]]
+[[Talent]]
+[[Martial Talent]]

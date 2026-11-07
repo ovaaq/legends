@@ -3,13 +3,14 @@
 
 _You have practised the basics of weaponry. Now, your path to martial excellence begins._
 
-Your [[Weapon Attack|Weapon Attacks]] score a [[Critical Hit]] on a roll of 18 to 20.
+**Improved Critical.** Your [[Weapon Attack|Weapon Attacks]] and [[Unarmed Strike|Unarmed Strikes]] score a [[Critical Hit]] on a roll of 18, 19 and 20.
 
 **Tree**:: [[Weapon Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**:: [[Triple Attack]]
+**Following**:: [[Brutal Critical]]
 
 ---
 
-#talent #martial #weapon
-[[Talent]][[Martial Talent]]
+#talent #martial
+[[Talent]]
+[[Martial Talent]]

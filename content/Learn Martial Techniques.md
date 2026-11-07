@@ -3,13 +3,14 @@
 
 _Flavour text_.
 
-Learn 2 [[Martial Technique|Martial Techniques]] that you have unlocked.
+Select two unlocked [[Martial Technique|Martial Techniques]] and add them to your [[Learned Martial Techniques]].
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**::
+**Following**:: [[Compound Technique]]
 
 ---
 
 #talent #martial
-[[Talent]] [[Talent]][[Martial Talent]]
+[[Talent]]
+[[Martial Talent]]

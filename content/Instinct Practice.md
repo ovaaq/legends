@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Instinct]] by 1.
+Increase your [[Instinct]] [[Rank]] by 1.
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]

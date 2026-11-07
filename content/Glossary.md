@@ -113,7 +113,6 @@
 | [[Fall Prone.md\|Fall Prone]]                                       |
 | [[Falling Damage.md\|Falling Damage]]                               |
 | [[Feeble.md\|Feeble]]                                               |
-| [[Fighting Stance.md\|Fighting Stance]]                             |
 | [[Finesse.md\|Finesse]]                                             |
 | [[Fire Damage.md\|Fire Damage]]                                     |
 | [[First Aid.md\|First Aid]]                                         |

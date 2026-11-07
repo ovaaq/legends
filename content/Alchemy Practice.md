@@ -3,7 +3,7 @@
 
 _Work, work, work._
 
-Increase the [[Rank]] of [[Alchemy]] by 1.
+Increase your [[Alchemy]] [[Rank]] by 1.
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[Crafting Talent]]

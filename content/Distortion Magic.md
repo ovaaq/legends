@@ -22,6 +22,7 @@ _Strand of magic that x._
 | [[Blazing Step.md\|Blazing Step]]           | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instantaneous |
 | [[Blink.md\|Blink]]                         | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self      | Instantaneous |
 | [[Immovable Object.md\|Immovable Object]]   | [[Triple Action.md\|Triple Action]] | F, S        | 3    | 4 metres  | 1 hour        |
+| [[Thunder Step.md\|Thunder Step]]           | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instantaneous |
 | [[Dimension Door.md\|Dimension Door]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 4    | 40 metres | Instantaneous |
 
 ---

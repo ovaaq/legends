@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Channelling]] by 1.
+Increase your [[Channelling]] [[Rank]] by 1.
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]

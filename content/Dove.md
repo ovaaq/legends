@@ -4,7 +4,7 @@ _[[Tiny]] [[Natural Beast]]_
 **HP**:: 2
 **Armour**:: 8
 **Evasion**:: 15
-**Speed**:: 25
+**Speed**:: 25 [[Flying Speed]]
 
 | Strength | Agility | Precision | Constitution | Awareness | Charisma | Intelligence | Sorcery |
 | :------: | :-----: | :-------: | :----------: | :-------: | :------: | :----------: | :-----: |

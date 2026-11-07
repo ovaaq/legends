@@ -48,7 +48,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |---|---|---|---|
 |[[Increased Evasion\|Increased Evasion]]|[[Evasion Talent Tree\|Evasion Talent Tree]]|1 LP|• [[Uncanny Dodge\|Uncanny Dodge]]  <br>• [[Escape Artist\|Escape Artist]]|
 |[[Light Armour Training\|Light Armour Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Medium Armour Training\|Medium Armour Training]]  <br>• [[Light Armour Master\|Light Armour Master]]|
-|[[Martial Initiate\|Martial Initiate]]|[[Martial Talent Tree\|Martial Talent Tree]]|3 LP|• [[Martial Practice\|Martial Practice]]  <br>• [[Increased Stamina\|Increased Stamina]]  <br>• [[Fighting Stances\|Fighting Stances]]  <br>• [[Extra Attack\|Extra Attack]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
+|[[Martial Initiate\|Martial Initiate]]|[[Martial Talent Tree\|Martial Talent Tree]]|3 LP|• [[Martial Practice\|Martial Practice]]  <br>• [[Learn Martial Techniques\|Learn Martial Techniques]]  <br>• [[Increased Stamina\|Increased Stamina]]  <br>• [[Fighting Stance\|Fighting Stance]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
 |[[Shield Training\|Shield Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Shield Master\|Shield Master]]|
 
 ### Pact Talent

@@ -5,7 +5,7 @@ _Flavour text_.
 
 Every time you take [[Physical Damage]], subtract 1 point before applying damage.
 
-This Talent can only be selected once.
+This [[Talent]] can only be selected once.
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]

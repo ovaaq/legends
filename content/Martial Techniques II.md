@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-**New Techniques.** Select two [[2nd Level Martial technique|2nd Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below:
+The following [[2nd Level Martial technique|2nd Level Martial techniques]] are unlocked. Select two and add them to your [[Learned Martial Techniques]].
 
 | 2nd Level Martial Techniques                                                    | Execution                                                     | Stamina | Range     | Weapon                                            | Type                                                                          |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------- | --------- | ------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -35,4 +35,5 @@ _Flavour text_.
 ---
 
 #talent #martial
-[[Talent]] [[Talent]][[Martial Talent]]
+[[Talent]]
+[[Martial Talent]]

@@ -3,7 +3,7 @@
 
 _Years of training have taught you how to perform combat techniques that ordinary warriors cannot replicate._
 
-**Martial Techniques.** Select four [[1st Level Martial technique|1st Level Martial Techniques]] and add them to your list of [[Learned Martial Techniques]]. These techniques are listed below.
+The following [[1st Level Martial technique|1st Level Martial techniques]] are unlocked. Select two and add them to your [[Learned Martial Techniques]].
 
 | 1st Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                                | Type                                                                          |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -49,6 +49,9 @@ _Years of training have taught you how to perform combat techniques that ordinar
 ---
 
 #talent #martial
+[[Talent]]
+[[Martial Talent]]
+
 [[Talent]] [[Talent]][[Martial Talent]]
 [[Spring Up]]
 

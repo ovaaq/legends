@@ -3,7 +3,7 @@
 
 _Magic flows in your blood._
 
-Increase [[Rank]] of [[Instinct]] by 1.
+Increase your [[Instinct]] [[Rank]] by 1.
 
 **Innate Ability.** Select two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from your [[Innate Spell List]] and add them to your [[Learned Innate Spells]] list.
 

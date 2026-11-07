@@ -3,7 +3,7 @@
 
 _You're a wizard._
 
-Increase [[Rank]] of [[Spellcraft]] by 1.
+Increase your [[Spellcraft]] [[Rank]] by 1.
 
 These spells are added to your [[Arcane Spell List]]:
 

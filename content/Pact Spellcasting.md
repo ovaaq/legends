@@ -3,7 +3,7 @@
 
 _Your patron has given you magical strength to cast spells._
 
-Increase [[Rank]] of [[Invocation]] by 1.
+Increase your [[Invocation]] [[Rank]] by 1.
 
 **Given Power.** Select two [[Cantrip|Cantrips]] from your [[Pact Spell List]] and add them to your [[Learned Pact Spells]] list.
 

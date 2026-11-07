@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Runecraft]] by 1.
+Increase your [[Runecraft]] [[Rank]] by 1.
 
 Add these [[Rune|Runes]] to your [[Rune List]]:
 

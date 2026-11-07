@@ -1,16 +1,16 @@
 **Requirements**:: [[Martial Initiate]]
 **Cost**:: 2 LP
 
-_With great work you hone your skills in martial weaponry. Finding way to total mastery._
+_You continue honing your skills toward martial mastery._
 
-Increase the [[Rank]] of [[Martial]] by 1.
+Increase your [[Martial]] [[Rank]] by 1.
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
-**Following**::
+**Following**:: [[Extra Attack]]
 
 ---
 
 #talent #martial
-
 [[Talent]]
+[[Martial Talent]]

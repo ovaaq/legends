@@ -8,7 +8,7 @@ Benefit.
 
 **Tree**:: [[Beast Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Wings of the Wild]]
+**Following**:: [[Aerial Form]]
 
 ---
 

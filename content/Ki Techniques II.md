@@ -6,6 +6,8 @@ _Flavour text_.
 Benefit.
 [[2nd Level Ki Technique]]
 
+Block Ki - cannot use mana for one turn
+
 **Tree**:: [[Ki Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Ki Techniques III]]

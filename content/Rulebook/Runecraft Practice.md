@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Runecraft]] by 1.
+Increase your [[Runecraft]] [[Rank]] by 1.
 
 **Tree**:: [[Runecraft Talent Tree]]
 **Group**:: [[Crafting Talent]]

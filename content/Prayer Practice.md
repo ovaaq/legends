@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of [[Prayer]] by 1.
+Increase your [[Prayer]] [[Rank]] by 1.
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]

@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-When you take damage, you may divide it in half, taking half immediately and the remaining half at the start of your next turn. Once you use this talent, you must finish a [[Long Rest]] before using it again.
+**Borrowed Time.** When you take damage, you may divide it in half, taking half immediately and the remaining half at the start of your next [[Turn]]. Once you use this [[Talent]], you must finish a [[Long Rest]] before using it again.
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]

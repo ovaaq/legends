@@ -1,9 +1,9 @@
-**Requirements**:: [[Martial Initiate]] and [[Martial]] [[Rank]] 4+
+**Requirements**:: [[Martial Practice]] and [[Martial]] [[Rank]] 4+
 **Cost**:: 5 LP
 
-_More attacks more hits?_
+_More attacks, more hits._
 
-When you take the [[Attack]] action to make a [[Weapon Attack]] or [[Unarmed Strike]], make two [[Attack|Attacks]] instead of one. Both [[Attack|Attacks]] must use the same [[Weapon]] or [[Unarmed Strike]].
+When you take the [[Attack]] action to make a [[Weapon Attack]] or [[Unarmed Strike]], make two [[Attack|Attacks]] instead of one.
 
 **Tree**:: [[Martial Talent Tree]]
 **Group**:: [[Martial Talent]]
@@ -11,5 +11,6 @@ When you take the [[Attack]] action to make a [[Weapon Attack]] or [[Unarmed Str
 
 ---
 
-#talent #martial #weapon
-[[Talent]][[Martial Talent]]
+#talent #martial
+[[Talent]]
+[[Martial Talent]]

@@ -3,7 +3,7 @@
 
 _You're a starting alchemist. As you appear to understand now basics of alchemy._
 
-Increase [[Rank]] of [[Alchemy]] by 1.
+Increase your [[Alchemy]] [[Rank]] by 1.
 
 Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formula List]].
 
