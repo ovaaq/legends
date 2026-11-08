@@ -3,9 +3,11 @@
 
 _Flavour text_.
 
-while raging You have resistance to bludgeoning, piercing, and slashing damage
+You gain 1 additional [[Rage Point]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**Feel No Pain.** While raging, you have [[Resistance]] to [[Bludgeoning Damage|Bludgeoning]], [[Piercing Damage|Piercing]], and [[Slashing Damage]].
+
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Relentless Rage]]
 

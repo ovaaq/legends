@@ -3,11 +3,11 @@
 
 _Flavour text_.
 
-You gain 1 additional [[Rage Dice|Rage Die]].
+You gain 1 additional [[Rage Point]].
 
-First time per encounter you can enter rage as [[Free Action]], while you do so you can also move half of you [[Walking Speed]].
+**Explosive Rage.** The first time you enter a rage during each [[Encounter]], you can do so as a [[Free Action]]. When you do, you can immediately move up to half your [[Walking Speed]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[War Cry]]
 

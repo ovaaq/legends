@@ -3,9 +3,11 @@
 
 _Flavour text_.
 
+You gain 1 additional [[Rage Point]].
+
 [[Strength]] +2 while raging
 
-**Tree**:: [[Berserk Talent Tree]]
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

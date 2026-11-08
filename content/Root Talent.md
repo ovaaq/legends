@@ -27,7 +27,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Hasted Actions\|Hasted Actions]]|[[Haste Talent Tree\|Haste Talent Tree]]|3 LP|• [[Swift Initiative\|Swift Initiative]]  <br>• [[Always Prepared\|Always Prepared]]  <br>• [[Quick Hands\|Quick Hands]]|
 |[[Healer\|Healer]]|[[Healer Talent Tree\|Healer Talent Tree]]|2 LP|• [[Combat Stabilization\|Combat Stabilization]]|
 |[[Increased Attribute\|Increased Attribute]]|[[Capability Talent Tree\|Capability Talent Tree]]|3 LP|—|
-|[[Increased Health\|Increased Health]]|[[Vitality Talent Tree\|Vitality Talent Tree]]|1 LP|• [[Second Wind\|Second Wind]]  <br>• [[Defy Death\|Defy Death]]  <br>• [[Healthy Body\|Healthy Body]]|
+|[[Increased Health\|Increased Health]]|[[Vitality Talent Tree\|Vitality Talent Tree]]|1 LP|• [[Second Wind\|Second Wind]]  <br>• [[Survival Instinct\|Survival Instinct]]  <br>• [[Healthy Body\|Healthy Body]]|
 |[[Increased Resilience\|Increased Resilience]]|[[Resistance Talent Tree\|Resistance Talent Tree]]|2 LP|• [[Defensive Brace\|Defensive Brace]]|
 |[[Lucky\|Lucky]]|[[Luck Talent Tree\|Luck Talent Tree]]|4 LP|• [[Shared Luck\|Shared Luck]]|
 |[[Mobile\|Mobile]]|[[Mobility Talent Tree\|Mobility Talent Tree]]|2 LP|• [[Fancy Footwork\|Fancy Footwork]]  <br>• [[Slip Through\|Slip Through]]  <br>• [[Explosive Dash\|Explosive Dash]]|
@@ -44,13 +44,12 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Martial Talent
 
-|Root Talent5|Tree|Cost|Unlocks|
+|Root Talent4|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Increased Evasion\|Increased Evasion]]|[[Evasion Talent Tree\|Evasion Talent Tree]]|1 LP|• [[Uncanny Dodge\|Uncanny Dodge]]  <br>• [[Escape Artist\|Escape Artist]]|
 |[[Light Armour Training\|Light Armour Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Medium Armour Training\|Medium Armour Training]]  <br>• [[Light Armour Master\|Light Armour Master]]|
 |[[Martial Initiate\|Martial Initiate]]|[[Martial Talent Tree\|Martial Talent Tree]]|3 LP|• [[Martial Practice\|Martial Practice]]  <br>• [[Learn Martial Techniques\|Learn Martial Techniques]]  <br>• [[Increased Stamina\|Increased Stamina]]  <br>• [[Fighting Stance\|Fighting Stance]]  <br>• [[Improved Critical\|Improved Critical]]  <br>• [[Martial Techniques I\|Martial Techniques I]]|
 |[[Shield Training\|Shield Training]]|[[Armour Talent Tree\|Armour Talent Tree]]|1 LP|• [[Shield Master\|Shield Master]]|
-|[[Terrifying Cry\|Terrifying Cry]]|[[Berserk Talent Tree\|Berserk Talent Tree]]|3 LP|—|
 
 ### Pact Talent
 

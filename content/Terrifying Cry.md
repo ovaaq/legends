@@ -1,11 +1,13 @@
-**Requirements**::
-**Cost**:: 3 LP
+**Requirements**:: [[War Cry]]
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-When you use [[War Cry]], nearby enemies must make a [[Saving Throw]] or become [[Frightened]].
+You gain 1 additional [[Rage Point]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**Terrifying Cry.** When you use [[War Cry]], all enemies within 20 metres who can see or hear you must make a [[Saving Throw]] against your [[Martial Save DC]]. On a failure, they become [[Frightened]] until the start of your next [[Turn]].
+
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

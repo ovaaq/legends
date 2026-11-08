@@ -3,9 +3,9 @@
 
 _Flavour text_.
 
-**Rage Spellcasting.** You can cast [[Spell|Spells]] while affected by [[Battle Rage]], but you cannot cast spells that require [[Concentration]].
+**Rage Spellcasting.** You can cast [[Spell|Spells]] while raging, but you cannot cast [[Spell|Spells]] that require [[Concentration]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**::
 

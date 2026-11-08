@@ -3,7 +3,9 @@
 
 _Flavour text_.
 
-**Tree**:: [[Berserk Talent Tree]]
+You gain 1 additional [[Rage Point]].
+
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Rage Beyond Death]]
 

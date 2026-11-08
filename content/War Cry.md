@@ -1,11 +1,13 @@
 **Requirements**:: [[Explosive Rage]]
-**Cost**:: 3 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-allies have [[Advantage]] on [[Attack Roll|Attack Rolls]]
+You gain 1 additional [[Rage Point]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**War Cry.** When you enter a rage, all allies within 20 metres who can see or hear you have [[Advantage]] on [[Attack Roll|Attack Rolls]] until the start of your next [[Turn]].
+
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Terrifying Cry]]
 

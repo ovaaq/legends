@@ -1,11 +1,13 @@
 **Requirements**:: [[Battle Rage]]
-**Cost**:: 3 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+You gain 1 additional [[Rage Point]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**Reckless Attack.** When you make your first [[Attack]] on your [[Turn]], you can choose to attack recklessly. Until the end of that Turn, you have [[Advantage]] on [[Melee Attack|Melee Attacks]] using [[Strength]]. However, [[Attack|Attacks]] against you have [[Advantage]] until the start of your next [[Turn]].
+
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[Savage Might]]
 

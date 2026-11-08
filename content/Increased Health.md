@@ -19,7 +19,7 @@ Once gained, this increase to your [[Hit Point Maximum]] and your [[Hit Die]] do
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**:: [[Second Wind]], [[Defy Death]], [[Healthy Body]]
+**Following**:: [[Second Wind]], [[Survival Instinct]], [[Healthy Body]]
 
 ---
 

@@ -3,9 +3,11 @@
 
 _Flavour text_.
 
-[[Strength]] +2 while raging
+You gain 1 additional [[Rage Point]].
 
-**Tree**:: [[Berserk Talent Tree]]
+**Savage Might.** While raging, your [[Strength]] is increased by 2.
+
+**Tree**:: [[Rage Talent Tree]]
 **Group**:: [[Martial Talent]]
 **Following**:: [[rage bonus]]
 
