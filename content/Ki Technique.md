@@ -13,6 +13,8 @@
 [[Ki Orb]]
 [[Ki Shackles]]
 
+[[Ki Protection Form]]
+
 [[multimissile]]
 [[inflate muscles]]
 

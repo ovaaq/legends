@@ -1,7 +1,7 @@
 **Requirements**::
 **Cost**:: 3 LP
 
-_You have mastered the fundamentals of weaponry. Your path to martial excellence begins._
+_You have learned the fundamentals of weaponry. Your path to martial excellence begins._
 
 Increase your [[Martial]] [[Rank]] by 1.
 
