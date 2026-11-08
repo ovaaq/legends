@@ -27,7 +27,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Hasted Actions\|Hasted Actions]]|[[Haste Talent Tree\|Haste Talent Tree]]|3 LP|• [[Swift Initiative\|Swift Initiative]]  <br>• [[Always Prepared\|Always Prepared]]  <br>• [[Quick Hands\|Quick Hands]]|
 |[[Healer\|Healer]]|[[Healer Talent Tree\|Healer Talent Tree]]|2 LP|• [[Combat Stabilization\|Combat Stabilization]]|
 |[[Increased Attribute\|Increased Attribute]]|[[Capability Talent Tree\|Capability Talent Tree]]|3 LP|—|
-|[[Increased Health\|Increased Health]]|[[Vitality Talent Tree\|Vitality Talent Tree]]|1 LP|• [[Rapid Recovery\|Rapid Recovery]]  <br>• [[Durable\|Durable]]  <br>• [[Robust Physiology\|Robust Physiology]]|
+|[[Increased Health\|Increased Health]]|[[Vitality Talent Tree\|Vitality Talent Tree]]|1 LP|• [[Second Wind\|Second Wind]]  <br>• [[Defy Death\|Defy Death]]  <br>• [[Healthy Body\|Healthy Body]]|
 |[[Increased Resilience\|Increased Resilience]]|[[Resistance Talent Tree\|Resistance Talent Tree]]|2 LP|• [[Defensive Brace\|Defensive Brace]]|
 |[[Lucky\|Lucky]]|[[Luck Talent Tree\|Luck Talent Tree]]|4 LP|• [[Shared Luck\|Shared Luck]]|
 |[[Mobile\|Mobile]]|[[Mobility Talent Tree\|Mobility Talent Tree]]|2 LP|• [[Fancy Footwork\|Fancy Footwork]]  <br>• [[Slip Through\|Slip Through]]  <br>• [[Explosive Dash\|Explosive Dash]]|

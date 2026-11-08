@@ -14,7 +14,7 @@
 
 **Construct**: [[Immune]] to [[Charmed]] effects, [[Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
 
-**Papery**. [[Vulnerable]] to [[Slashing Damage]].
+**Papery**. [[Vulnerability]] to [[Slashing Damage]].
 
 **Paper Cut.** [[Melee Weapon Attack]]: +3 to hit, reach 1m., one target. 1 [[Slashing Damage]].
 

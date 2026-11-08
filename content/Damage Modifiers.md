@@ -2,7 +2,7 @@
 [[Greater Resistance]]
 [[Resistance]]
 [[Weakness]]
-[[Vulnerable]]
+[[Vulnerability]]
 
 ---
 

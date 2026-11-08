@@ -7,7 +7,7 @@ _Flavour text_.
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**::
+**Following**:: [[Defy Death]]
 
 ---
 

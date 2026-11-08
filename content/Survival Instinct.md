@@ -3,11 +3,11 @@
 
 _Flavour text_.
 
-You have [[Advantage]] on [[Constitution]] [[Saving Throw|Saving Throws]] against the [[Dying]] condition.
+**Survival Instinct.** You have [[Advantage]] on [[Death Saving Throw|Death Saving Throws]].
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]
-**Following**:: [[Durable]]
+**Following**:: [[Defy Death]]
 
 ---
 

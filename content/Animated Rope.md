@@ -14,7 +14,7 @@
 
 **Construct**: [[Immune]] to [[Charmed]] effects, [[Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
 
-**Ropy**. [[Vulnerable]] to [[Slashing Damage]].
+**Ropy**. [[Vulnerability]] to [[Slashing Damage]].
 
 **Constrict**: Select 1 [[Creature]] within 1 metre. That [[Creature]] must make a DC 13 [[Strength Saving Throw]]:
 
@@ -29,7 +29,7 @@
 
 Construct. Immune to [[Charmed]] effects, [[Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
 
-Ropy. [[Vulnerable]] to [[Slashing Damage]].
+Ropy. [[Vulnerability]] to [[Slashing Damage]].
 
 Constrict: Select 1 [[Creature]] within 1 metre. That [[Creature]] must make a DC 13 [[Strength Saving Throw]]:
 

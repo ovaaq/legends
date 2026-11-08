@@ -81,8 +81,8 @@
 | [[Deliver Potion.md\|Deliver Potion]]                               |
 | [[Demoralize.md\|Demoralize]]                                       |
 | [[Destruction Magic.md\|Destruction Magic]]                         |
-| [[Difficult Class.md\|Difficult Class]]                             |
 | [[Difficult Terrain.md\|Difficult Terrain]]                         |
+| [[Difficulty Class.md\|Difficulty Class]]                           |
 | [[Disarm.md\|Disarm]]                                               |
 | [[Disarm Trap.md\|Disarm Trap]]                                     |
 | [[Dismiss Spell.md\|Dismiss Spell]]                                 |
@@ -337,7 +337,7 @@
 | [[Versatile.md\|Versatile]]                                         |
 | [[Vicious.md\|Vicious]]                                             |
 | [[Visible.md\|Visible]]                                             |
-| [[Vulnerable.md\|Vulnerable]]                                       |
+| [[Vulnerability.md\|Vulnerability]]                                 |
 | [[Warding Magic.md\|Warding Magic]]                                 |
 | [[Weakness.md\|Weakness]]                                           |
 | [[Weapon.md\|Weapon]]                                               |
