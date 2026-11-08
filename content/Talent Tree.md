@@ -51,10 +51,10 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 ### Martial Talent Trees
 
 - [[Armour Talent Tree|Armour Talent Tree]] - Effective use of [[Armour|Armour]] and [[Shield|Shields]].
+- [[Berserk Talent Tree|Berserk Talent Tree]] - Fighting with pure rage.
 - [[Evasion Talent Tree|Evasion Talent Tree]] - Evading incoming attacks and area effects.
 - [[Ki Talent Tree|Ki Talent Tree]] - Harnessing Ki to enhance martial prowess.
 - [[Martial Talent Tree|Martial Talent Tree]] - Martial masters with [[Martial Technique|Martial Techniques]].
-- [[Rage Talent Tree|Rage Talent Tree]] - Fighting with pure rage.
 - [[Weapon Talent Tree|Weapon Talent Tree]] - Highest level of [[Weapon|Weapon]] use.
 
 ### Pact Talent Trees
