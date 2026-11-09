@@ -1,4 +1,4 @@
-- [[Battle Rage]]
+- [[Battle Rager]]
   - [[Explosive Rage]]
     - [[War Cry]]
       - [[Terrifying Cry]]

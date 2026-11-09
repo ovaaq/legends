@@ -24,6 +24,8 @@ _Strand of magic that x._
 | [[Faerie Fire.md\|Faerie Fire]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres  | [[Concentration.md\|Concentration]], 1 minute |
 | [[Guiding Bolt.md\|Guiding Bolt]]     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 40 meters  | Instant                                                                     |
 | [[Quick Bolt.md\|Quick Bolt]]         | [[Action.md\|Action]]               | F, V, S     | 1    | 10 metres  | Instant                                                                     |
+| [[Scorching Ray.md\|Scorching Ray]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres  | Instant                                                                     |
+| [[Shatter.md\|Shatter]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                     |
 | [[Fireball.md\|Fireball]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 40 metres  | Instant                                                                     |
 
 ---

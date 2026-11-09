@@ -3,7 +3,7 @@
 **RANGE**: 20 meters
 **SPELL PARTS**: F, V, S, M\*
 **LEVEL**: [[1st Level Spell]]
-**DURATION**: Instantaneous
+**DURATION**: Instant
 
 **EFFECT**: For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 12 meters of yourself. You sense the kind of poison, creature, or contagion in each case.
 

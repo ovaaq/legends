@@ -1,13 +1,18 @@
-_[[1st Level Ki Technique]]_
+_[[2nd Level Martial technique]]_
 
-**Execution**:: [[Double Action]]
-**Ki**:: 1
-**Range**:: 20 metres
+**Execution**:: [[Reaction]]\*
+**Stamina**:: 2
+**Range**:: Any
+**Weapon**:: Any
 **Duration**:: Instant
 
-**Effect**:: You blast Ki at a [[Creature]] within range. Make a [[Ranged Attack]] against the target. On a hit, the target takes 3d8 [[Bludgeoning Damage]].
+_\*When you make an [[Ranged Attack]] against a [[Creature]]._
+
+**Effect**:: Add your [[Martial]] [[Rank]] to the [[Attack]].
+
+**Type**:: [[Offensive Technique]]
 
 ---
 
-#ki_technique #1st
+#martial_technique #2nd\
 [[Martial Technique]]

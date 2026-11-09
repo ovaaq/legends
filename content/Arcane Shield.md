@@ -3,9 +3,8 @@ _[[2nd Level Spell]]_
 **Casting**:: [[Reaction]]\*
 **Components**:: F, V, S, M\*
 **Mana**:: 2
-
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*Which you take when you are hit by an [[Attack]] or [[Area of Effect]] that causes damage_
 

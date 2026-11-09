@@ -5,6 +5,7 @@
 | [[Anti-Potion.md\|Anti-Potion]]                                 |
 | [[Beast Scent Potion.md\|Beast Scent Potion]]                   |
 | [[Darkvision Potion.md\|Darkvision Potion]]                     |
+| [[Elixir of Life.md\|Elixir of Life]]                           |
 | [[Fire Breath Potion.md\|Fire Breath Potion]]                   |
 | [[Flying Potion.md\|Flying Potion]]                             |
 | [[General Intelligence Potion.md\|General Intelligence Potion]] |
@@ -20,7 +21,8 @@
 | [[Love Potion.md\|Love Potion]]                                 |
 | [[Luck Potion.md\|Luck Potion]]                                 |
 | [[Mana Potion.md\|Mana Potion]]                                 |
-| [[01 - Projects/3 Game Master/Potion Template.md\|Potion Template]]                           |
+| [[Panacea.md\|Panacea]]                                         |
+| [[98 - Meta/Templates/Potion Template.md\|Potion Template]]                                   |
 | [[Recovery Potion.md\|Recovery Potion]]                         |
 | [[Regeneration Potion.md\|Regeneration Potion]]                 |
 | [[Resistance Potion.md\|Resistance Potion]]                     |

@@ -4,7 +4,7 @@ _[[5th Level Spell]]_
 **Components**:: F, V, S, M\*
 **Mana**:: 5
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*100 grams of [[Gold Dust]], consumed by the spell_
 

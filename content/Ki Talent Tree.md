@@ -1,7 +1,7 @@
 - [[Unlocked Ki]]
   - [[Increased Ki]]
   - [[Learn Ki Techniques]]
-  - [[Rapid Strikes]]
+  - [[Rapid Punches]]
     - [[Iron Fists]]
       - [[Diamond Soul]]
   - [[Enduring Body]]

@@ -4,7 +4,7 @@ _[[3rd Level Spell]]_
 **Components**:: F, V, S
 **Mana**:: 3
 **Range**:: Self
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
 

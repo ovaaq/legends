@@ -2,7 +2,6 @@ _Strand of magic that x._
 
 | Spell                                                                                 | Casting                                                           | Components  | Mana | Range     | Duration                                                                      |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ----------------------------------------------------------------------------- |
-| [[Barkskin.md\|Barkskin]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
 | [[Absorb Elements.md\|Absorb Elements]]                 | [[Reaction]]\*                                                     | F, S        | 1    | 4 metres  | Instant                                                                       |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Deflect.md\|Deflect]]                                 | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
@@ -18,10 +17,13 @@ _Strand of magic that x._
 | [[Shield of Faith.md\|Shield of Faith]]                 | [[Double Action.md\|Double Action]] | V           | 1    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Temporal Life.md\|Temporal Life]]                     | [[Action.md\|Action]]               | V, S        | 1    | Self      | 1 hour                                                                        |
 | [[Aid.md\|Aid]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
-| [[Arcane Shield.md\|Arcane Shield]]                     | [[Reaction]]\*                                                     | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
-| [[Force Barrier.md\|Force Barrier]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
+| [[Arcane Shield.md\|Arcane Shield]]                     | [[Reaction]]\*                                                     | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Barkskin.md\|Barkskin]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Force Barrier.md\|Force Barrier]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Moonfire.md\|Moonfire]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Warding Wind.md\|Warding Wind]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Negate Strike.md\|Negate Strike]]                     | [[Reaction]]\*                                                     | F, V, S     | 3    | Self      | Instant                                                                       |
+| [[Containment.md\|Containment]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 5    | 20 metres | Instant                                                                       |
 
 ---
 

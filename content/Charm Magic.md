@@ -1,3 +1,2 @@
-| List of Charm Spells                                                |
-| ------------------------------------------------------------------- |
-| [[Compelled Duel.md\|Compelled Duel]] |
+| List of Charm Spells |
+| -------------------- |

@@ -12,9 +12,8 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                             |
-| --------------------------------------------------------------------------- |
-| [[Elemental Spells I.md\|Elemental Spells I]] |
+| Related Talents |
+| --------------- |
 
 ---
 

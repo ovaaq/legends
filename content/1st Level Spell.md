@@ -5,19 +5,20 @@
 | [[Alarm.md\|Alarm]]                                     | 1 minute                                                          | F, V, S     | 1    | 10 metres | 8 hours                                                                       |
 | [[Alter Object.md\|Alter Object]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Alter Self.md\|Alter Self]]                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
-| [[Alter Sky.md\|Alter Sky]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
+| [[Alter Sky.md\|Alter Sky]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Animal Friendship.md\|Animal Friendship]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 day                                                                         |
 | [[Animate Rope.md\|Animate Rope]]                       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 1    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
-| [[Armour of Thorns.md\|Armour of Thorns]]               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Aurora Burst.md\|Aurora Burst]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Bark Armour.md\|Bark Armour]]                         | [[Double Action.md\|Double Action]] | F, V, S     | 1    | Self      | 1 minute                                                                      |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Burning Hands.md\|Burning Hands]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres | Instant                                                                       |
+| [[Call to Duel.md\|Call to Duel]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Charm Person.md\|Charm Person]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
 | [[Chromatic Orb.md\|Chromatic Orb]]                     | [[Double Action.md\|Double Action]] | V, S, M\*    | 1    | 20 metres | Instant                                                                       |
 | [[Colour Spray.md\|Colour Spray]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
-| [[Command.md\|Command]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | Instantaneous                                                                 |
+| [[Command.md\|Command]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | Instant                                                                       |
 | [[Comprehend Languages.md\|Comprehend Languages]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | 1 hour                                                                        |
 | [[Cure Wounds.md\|Cure Wounds]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant                                                                       |
 | [[Deflect.md\|Deflect]]                                 | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
@@ -37,25 +38,26 @@
 | [[Frost Armour.md\|Frost Armour]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | 1 hour                                                                        |
 | [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | Touch     | Permanent                                                                     |
 | [[Grease.md\|Grease]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 minute                                                                      |
-| [[Grow bush spell.md\|Grow bush spell]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
+| [[Grow bush spell.md\|Grow bush spell]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Guidance.md\|Guidance]]                               | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | 8 hours                                                                       |
 | [[Guiding Bolt.md\|Guiding Bolt]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 40 meters | Instant                                                                       |
-| [[Hail of Thorns.md\|Hail of Thorns]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
+| [[Hail of Thorns.md\|Hail of Thorns]]                   | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 2 metres  | Instant                                                                       |
 | [[Healing Word.md\|Healing Word]]                       | [[Action.md\|Action]]               | V           | 1    | 20 metres | Instant                                                                       |
 | [[Hellish rebuke.md\|Hellish rebuke]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Heroism.md\|Heroism]]                                 | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Hex.md\|Hex]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Hold Beast.md\|Hold Beast]]                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Hunter's Mark.md\|Hunter's Mark]]                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Inflict Wounds.md\|Inflict Wounds]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant                                                                       |
 | [[Influence Emotion.md\|Influence Emotion]]             | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 20 metres | 1 hour                                                                        |
 | [[Longstrider.md\|Longstrider]]                         | [[Action.md\|Action]]               | F, V, S     | 1    | Touch     | 1 hour                                                                        |
 | [[Mage Armour.md\|Mage Armour]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | 8 hours                                                                       |
 | [[Magic Missile.md\|Magic Missile]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 40 metres | Instant                                                                       |
-| [[Magnify Gravity.md\|Magnify Gravity]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | 1 turn                                                                        |
+| [[Magnify Gravity.md\|Magnify Gravity]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 turn                                                                        |
 | [[Mindward.md\|Mindward]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 10 metres | 1 hour                                                                        |
 | [[Minor Conjuration.md\|Minor Conjuration]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | 8 hours                                                                       |
-| [[Misty Step.md\|Misty Step]]                           | [[Action.md\|Action]]               | S           | 1    | Self      | Instantaneous                                                                 |
-| [[Plant Growth.md\|Plant Growth]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
+| [[Misty Step.md\|Misty Step]]                           | [[Action.md\|Action]]               | S           | 1    | Self      | Instant                                                                       |
+| [[Plant Growth.md\|Plant Growth]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Protection from Spirits.md\|Protection from Spirits]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | Touch     | 1 hour                                                                        |
 | [[Quick Bolt.md\|Quick Bolt]]                           | [[Action.md\|Action]]               | F, V, S     | 1    | 10 metres | Instant                                                                       |
 | [[Ray of Sickness.md\|Ray of Sickness]]                 | [[Double Action.md\|Double Action]] | F, S        | 1    | 20 metres | Instant                                                                       |
@@ -72,16 +74,16 @@
 | [[Sleep.md\|Sleep]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Speak with Animals.md\|Speak with Animals]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Familiar.md\|Summon Familiar]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 2 metres  | Instant                                                                       |
-| [[Summon Greater Familiar.md\|Summon Greater Familiar]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 2 metres  | Instant                                                                       |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | [[Concentration.md\|Concentration]], 10 minutes |
-| [[Summon Tiny Beast.md\|Summon Tiny Beast]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
-| [[Summon Tiny Construct.md\|Summon Tiny Construct]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
-| [[Summon Tiny Elemental.md\|Summon Tiny Elemental]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
+| [[Summon Tiny Beast.md\|Summon Tiny Beast]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
+| [[Summon Tiny Construct.md\|Summon Tiny Construct]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
+| [[Summon Tiny Elemental.md\|Summon Tiny Elemental]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Tailwind Strike.md\|Tailwind Strike]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Temporal Life.md\|Temporal Life]]                     | [[Action.md\|Action]]               | V, S        | 1    | Self      | 1 hour                                                                        |
+| [[Thunderwave.md\|Thunderwave]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Unearthly Chorus.md\|Unearthly Chorus]]               | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
-| [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                                 |
+| [[Wind Step.md\|Wind Step]]                             | [[Reaction.md\|Reaction]]           | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 
 ---
 

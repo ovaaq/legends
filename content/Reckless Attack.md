@@ -1,4 +1,4 @@
-**Requirements**:: [[Battle Rage]]
+**Requirements**:: [[Battle Rager]]
 **Cost**:: 2 LP
 
 _Flavour text_.

@@ -14,7 +14,7 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 
 ##### 1st Level Spells
 
-- [[Armour of Thorns]]
+- [[Bark Armour]]
 - [[Charm Person]]
 - [[Disguise Self]]
 - [[Faerie Fire]]

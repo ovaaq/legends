@@ -3,7 +3,7 @@
 **RANGE**: 20 meters
 **SPELL PARTS**: F, V, S, M\*
 **LEVEL**: [[2st Level Spell]]
-**DURATION**: Instantaneous
+**DURATION**: Instant
 
 **EFFECT**: Add [[Strength]]
 

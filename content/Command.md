@@ -3,9 +3,8 @@ _[[1st Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 1
-
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You speak a one-word command to a [[Creature]] you can see within range. The target must succeed on a [[Charisma Saving Throw]] or follow the command on its next turn. Choose the command from these options:
 

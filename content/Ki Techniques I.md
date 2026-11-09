@@ -8,7 +8,6 @@ The following [[1st Level Ki technique|1st Level Ki techniques]] are unlocked. S
 | 1st Level Ki Techniques                                                     | Execution                                                         | Ki | Range     |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | -- | --------- |
 | [[Block Ki.md\|Block Ki]]                     | [[Double Action.md\|Double Action]] | 1  | 20 metres |
-| [[Deflect Missile.md\|Deflect Missile]]       | [[Double Action.md\|Double Action]] | 1  | 20 metres |
 | [[Flight.md\|Flight]]                         | [[Double Action.md\|Double Action]] | 1  | 20 metres |
 | [[Flurry of Blows.md\|Flurry of Blows]]       | [[Double Action.md\|Double Action]] | 1  | 20 metres |
 | [[following beam.md\|following beam]]         | [[Double Action.md\|Double Action]] | 1  | 20 metres |

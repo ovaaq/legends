@@ -2,9 +2,9 @@ _[[3rd Level Spell]]_
 
 **Casting**:: [[Reaction]]\*
 **Components**:: F, V, S, M\*
-**Mana**:: 0
+**Mana**:: 3
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*100 grams of [[Gold Dust]], consumed by the spell_
 

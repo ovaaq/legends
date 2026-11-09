@@ -33,6 +33,7 @@ recipe for [[Alchemical Item]].
 | [[Growth Potion Formula.md\|Growth Potion Formula]]                             |
 | [[Healing Potion Formula.md\|Healing Potion Formula]]                           |
 | [[Healing Salve Formula.md\|Healing Salve Formula]]                             |
+| [[Homonculus Formula.md\|Homonculus Formula]]                                   |
 | [[Immunity Potion Formula.md\|Immunity Potion Formula]]                         |
 | [[Invisible Fire Formula.md\|Invisible Fire Formula]]                           |
 | [[Knockout Drops Formula.md\|Knockout Drops Formula]]                           |

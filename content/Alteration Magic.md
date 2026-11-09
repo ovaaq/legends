@@ -3,7 +3,6 @@ _Strand of magic that x._
 | Spell                                                                   | Casting                                                           | Components  | Mana | Range     | Duration                                                                    |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | --------------------------------------------------------------------------- |
 | [[Arcane Mark.md\|Arcane Mark]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch     | 1 week                                                                      |
-| [[Beast Sense.md\|Beast Sense]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instantaneous                                                               |
 | [[Druidcraft.md\|Druidcraft]]             | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres  | 1 hour                                                                      |
 | [[Feral Claw.md\|Feral Claw]]             | [[Double Action.md\|Double Action]] | S           | 0    | Melee     | Instant                                                                     |
 | [[Flame Blade.md\|Flame Blade]]           | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch     | 1 minute                                                                    |
@@ -14,9 +13,10 @@ _Strand of magic that x._
 | [[Alter Object.md\|Alter Object]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |
 | [[Alter Self.md\|Alter Self]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |
 | [[Alter Size.md\|Alter Size]]             | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
-| [[Consume Soul.md\|Consume Soul]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instantaneous                                                               |
-| [[Scrying.md\|Scrying]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instantaneous                                                               |
-| [[Teleport.md\|Teleport]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instantaneous                                                               |
+| [[Beast Sense.md\|Beast Sense]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
+| [[Consume Soul.md\|Consume Soul]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
+| [[Scrying.md\|Scrying]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
+| [[Teleport.md\|Teleport]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
 
 ---
 

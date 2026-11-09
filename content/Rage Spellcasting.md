@@ -1,4 +1,4 @@
-**Requirements**:: [[Battle Rage]] and [[Spellcasting]]
+**Requirements**:: [[Battle Rager]] and [[Spellcasting]]
 **Cost**:: 2 LP
 
 _Flavour text_.

@@ -3,7 +3,7 @@
 **RANGE**: 20 meters
 **SPELL PARTS**: F, V, S, M\*
 **LEVEL**: [[1st Level Spell]]
-**DURATION**: Instantaneous
+**DURATION**: Instant
 
 **EFFECT**: Max 10 days, body intact
 

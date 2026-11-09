@@ -3,7 +3,7 @@
 **RANGE**: Self
 **SPELL PARTS**: F, V, S, M\*
 **LEVEL**: [[1st Level Spell]]
-**DURATION**: Instantaneous
+**DURATION**: Instant
 
 **EFFECT**: Invoking darkness, you cause tendrils to erupt from yourself. Each [[Creature]] within 4-meter range from you makes a [[Strength Saving Throw]]. On a failed save, a target takes 2d6 [[Necrotic Damage]] and can’t take [[Reaction|Reactions]] until the start of its next turn. On a successful save, a target takes half as much damage only.
 

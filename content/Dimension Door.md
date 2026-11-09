@@ -3,9 +3,8 @@ _[[4th Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 4
-
 **Range**:: 40 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as “40 metres straight downward” or “upward to the northwest at a 45-degree angle, 120 metres.”
 

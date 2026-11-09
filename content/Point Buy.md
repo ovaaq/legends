@@ -10,3 +10,21 @@ You have 40 points to spend on your [[Attribute|Attributes]]. The cost of each [
 |    +2     |  6   |
 |    +3     |  8   |
 |    +4     |  11  |
+
+str +4
+agi +4
+con +3
+sor +2
+awa -2
+cha -2
+pre -2
+int -2
+
+str
+agi
+pre
+con
+awa
+cha
+sor
+int

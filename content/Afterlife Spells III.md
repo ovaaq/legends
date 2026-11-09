@@ -13,12 +13,12 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Life Steal]]
 - [[Remove Curse]]
 - [[Fear]]
-- [[Speak with Spirit]]
 - [[Phantom Steed]]
 - [[Major Image]]
 - [[Bestow Curse]]
 - [[Feign Death]]
 - [[Blink]]
+- [[Summon Spirit]]
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

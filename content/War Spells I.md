@@ -11,7 +11,7 @@ These spells are added to your [[Divine Spell List]].
 
 ##### 1st Level Spells
 
-- [[Armour of Thorns]]
+- [[Bark Armour]]
 - [[Bless]]
 - [[Bane]]
 - [[Deflect]]
@@ -25,6 +25,8 @@ These spells are added to your [[Divine Spell List]].
 - [[Searing Smite]]
 - [[Tailwind Strike]]
 - [[Temporal Life]]
+- [[Call to Duel]]
+- [[Hunter's Mark]]
 
 **Tree**:: [[War Talent Tree]]
 **Group**:: [[Divine Talent]]

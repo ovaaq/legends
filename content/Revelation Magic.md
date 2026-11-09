@@ -10,7 +10,7 @@ _Strand of magic that x._
 | [[Detect Undead.md\|Detect Undead]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Guidance.md\|Guidance]]                         | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | 8 hours                                                                       |
 | [[Augury.md\|Augury]]                             | [[Triple Action.md\|Triple Action]] | S, M\*       | 2    | Self      | Instant                                                                       |
-| [[Detect Thoughts.md\|Detect Thoughts]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instantaneous                                                                 |
+| [[Detect Thoughts.md\|Detect Thoughts]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[See Invisibility.md\|See Invisibility]]         | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | 1 hour                                                                        |
 | [[Trace.md\|Trace]]                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Zone of Truth.md\|Zone of Truth]]               | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |

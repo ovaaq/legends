@@ -19,7 +19,6 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Fog Cloud]]
 - [[Summon Tiny Elemental]]
 - [[Wind Step]]
-- [[Acid Stream]]
 - [[Frost Armour]]
 - [[Earth Tremor]]
 - [[Feather Fall]]

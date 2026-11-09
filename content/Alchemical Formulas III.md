@@ -13,6 +13,7 @@ These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical 
 | [[General Intelligence Potion Formula.md\|General Intelligence Potion Formula]] |
 | [[Greater Strength Potion Formula.md\|Greater Strength Potion Formula]]         |
 | [[Greater Vitality Potion Formula.md\|Greater Vitality Potion Formula]]         |
+| [[Homonculus Formula.md\|Homonculus Formula]]                                   |
 | [[Luck Potion Formula.md\|Luck Potion Formula]]                                 |
 | [[Major Transmutation Formula.md\|Major Transmutation Formula]]                 |
 | [[Resistance Potion Formula.md\|Resistance Potion Formula]]                     |

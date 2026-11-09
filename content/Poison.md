@@ -1,14 +1,15 @@
 Poison have four different types. [[Contact Poison]], [[Ingested Poison]], [[Inhaled Poison]] and [[Wound Poison]]. They are applied differently. Here full list of poison currently written.
 
-| Poison                                                                | Type | Duration        |
-| --------------------------------------------------------------------- | ---- | --------------- |
-| [[Common Antidote.md\|Common Antidote]] | -   | Instant         |
-| [[Common Poison.md\|Common Poison]]     | -   | Instant         |
-| [[Dreamdust.md\|Dreamdust]]             | -   | 2 days, 4 hours |
-| [[Knockout Drops.md\|Knockout Drops]]   | -   | Instant         |
-| [[98 - Meta/Templates/Poison Template.md\|Poison Template]]           | -   | Instant         |
-| [[Sightbane.md\|Sightbane]]             | -   | Instant         |
-| [[Venomous Oil.md\|Venomous Oil]]       | -   | 1 minute        |
+| Poison                                                                  | Type | Duration        |
+| ----------------------------------------------------------------------- | ---- | --------------- |
+| [[Common Antidote.md\|Common Antidote]]   | -   | Instant         |
+| [[Common Poison.md\|Common Poison]]       | -   | Instant         |
+| [[Dreamdust.md\|Dreamdust]]               | -   | 2 days, 4 hours |
+| [[Knockout Drops.md\|Knockout Drops]]     | -   | Instant         |
+| [[Oil of Confusion.md\|Oil of Confusion]] | -   | Instant         |
+| [[98 - Meta/Templates/Poison Template.md\|Poison Template]]             | -   | Instant         |
+| [[Sightbane.md\|Sightbane]]               | -   | Instant         |
+| [[Venomous Oil.md\|Venomous Oil]]         | -   | 1 minute        |
 
 ---
 

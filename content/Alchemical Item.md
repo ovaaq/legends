@@ -9,6 +9,7 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[98 - Meta/Templates/Alchemical Item Template.md\|Alchemical Item Template]] | 1 gp | 0.1 kg | Instant  |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]       | 1 gp | 0.1 kg | Instant  |
 | [[Alchemist's Frost.md\|Alchemist's Frost]]     | 1 gp | 0.1 kg | Instant  |
+| [[Alkahest.md\|Alkahest]]                       | 1 gp | 0.1 kg | Instant  |
 | [[Common Acid.md\|Common Acid]]                 | 1 gp | 0.1 kg | Instant  |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         | 1 gp | 0.1 kg | Instant  |
 | [[Freeze Powder.md\|Freeze Powder]]             | 1 gp | 0.1 kg | Instant  |
@@ -22,21 +23,23 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[Solvent.md\|Solvent]]                         | 1 gp | 0.1 kg | Instant  |
 | [[Thunderboom Stick.md\|Thunderboom Stick]]     | 1 gp | 0.1 kg | Instant  |
 
-| Poison & Antidote                                                     | Cost | Weight | Duration        |
-| --------------------------------------------------------------------- | ---- | ------ | --------------- |
-| [[Common Antidote.md\|Common Antidote]] | 1 gp | 0.1 kg | Instant         |
-| [[Common Poison.md\|Common Poison]]     | 1 gp | 0.1 kg | Instant         |
-| [[Dreamdust.md\|Dreamdust]]             | 1 gp | 0.1 kg | 2 days, 4 hours |
-| [[Knockout Drops.md\|Knockout Drops]]   | 1 gp | 0.1 kg | Instant         |
-| [[98 - Meta/Templates/Poison Template.md\|Poison Template]]           | 1 gp | 0.1 kg | Instant         |
-| [[Sightbane.md\|Sightbane]]             | 1 gp | 0.1 kg | Instant         |
-| [[Venomous Oil.md\|Venomous Oil]]       | 1 gp | 0.1 kg | 1 minute        |
+| Poison & Antidote                                                       | Cost | Weight | Duration        |
+| ----------------------------------------------------------------------- | ---- | ------ | --------------- |
+| [[Common Antidote.md\|Common Antidote]]   | 1 gp | 0.1 kg | Instant         |
+| [[Common Poison.md\|Common Poison]]       | 1 gp | 0.1 kg | Instant         |
+| [[Dreamdust.md\|Dreamdust]]               | 1 gp | 0.1 kg | 2 days, 4 hours |
+| [[Knockout Drops.md\|Knockout Drops]]     | 1 gp | 0.1 kg | Instant         |
+| [[Oil of Confusion.md\|Oil of Confusion]] | 1 gp | 0.1 kg | Instant         |
+| [[98 - Meta/Templates/Poison Template.md\|Poison Template]]             | 1 gp | 0.1 kg | Instant         |
+| [[Sightbane.md\|Sightbane]]               | 1 gp | 0.1 kg | Instant         |
+| [[Venomous Oil.md\|Venomous Oil]]         | 1 gp | 0.1 kg | 1 minute        |
 
 | Potion                                                                                        | Cost | Weight | Duration   |
 | --------------------------------------------------------------------------------------------- | ---- | ------ | ---------- |
 | [[Anti-Potion.md\|Anti-Potion]]                                 | -   | -     | 1 week     |
 | [[Beast Scent Potion.md\|Beast Scent Potion]]                   | -   | -     | 1 week     |
 | [[Darkvision Potion.md\|Darkvision Potion]]                     | -   | -     | 1 week     |
+| [[Elixir of Life.md\|Elixir of Life]]                           | 1 gp | 0.1 kg | Instant    |
 | [[Fire Breath Potion.md\|Fire Breath Potion]]                   | -   | -     | 1 week     |
 | [[Flying Potion.md\|Flying Potion]]                             | -   | -     | 1 week     |
 | [[General Intelligence Potion.md\|General Intelligence Potion]] | -   | -     | 1 week     |
@@ -52,7 +55,8 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[Love Potion.md\|Love Potion]]                                 | -   | -     | 1 week     |
 | [[Luck Potion.md\|Luck Potion]]                                 | -   | -     | 1 week     |
 | [[Mana Potion.md\|Mana Potion]]                                 | -   | -     | 1 week     |
-| [[01 - Projects/3 Game Master/Potion Template.md\|Potion Template]]                           | 1 gp | 0.1 kg | Instant    |
+| [[Panacea.md\|Panacea]]                                         | 1 gp | 0.1 kg | Instant    |
+| [[98 - Meta/Templates/Potion Template.md\|Potion Template]]                                   | 1 gp | 0.1 kg | Instant    |
 | [[Recovery Potion.md\|Recovery Potion]]                         | -   | 0.1 kg | Instant    |
 | [[Regeneration Potion.md\|Regeneration Potion]]                 | -   | -     | 1 week     |
 | [[Resistance Potion.md\|Resistance Potion]]                     | -   | -     | 1 week     |
@@ -79,6 +83,7 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[98 - Meta/Templates/Alchemical Item Template.md\|Alchemical Item Template]] |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]       |
 | [[Alchemist's Frost.md\|Alchemist's Frost]]     |
+| [[Alkahest.md\|Alkahest]]                       |
 | [[Common Acid.md\|Common Acid]]                 |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         |
 | [[Freeze Powder.md\|Freeze Powder]]             |

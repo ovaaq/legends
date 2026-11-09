@@ -14,7 +14,7 @@ These spells are added to your [[Spiritual Spell List]]:
 
 ##### 1st Level Spells
 
-- [[Armour of Thorns]]
+- [[Bark Armour]]
 - [[Cure Wounds]]
 - [[Ensnairing Strike]]
 - [[Entangle]]

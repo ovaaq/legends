@@ -11,7 +11,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Frost Armour]]
 - [[Absorb Elements]]
 - [[Alarm]]
-- [[Armour of Thorns]]
+- [[Bark Armour]]
 - [[Command]]
 - [[Ensnairing Strike]]
 - [[Temporal Life]]

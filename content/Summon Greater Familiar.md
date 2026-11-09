@@ -23,4 +23,4 @@ Casting [[Summon Familiar]] again does not create another familiar. Instead, it 
 
 ---
 
-#spell #1st [[Spell]]
+#spell #3rd [[Spell]]

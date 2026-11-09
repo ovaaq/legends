@@ -155,7 +155,6 @@ ideas
 | [[Solar Flare.md\|Solar Flare]]                       |
 | [[Spectral Grasp.md\|Spectral Grasp]]                 |
 | [[Spectral Reach.md\|Spectral Reach]]                 |
-| [[Spell.md\|Spell]]                                   |
 | [[Spell Duelist.md\|Spell Duelist]]                   |
 | [[Spiritual Spellcasting.md\|Spiritual Spellcasting]] |
 | [[Starry Wisp.md\|Starry Wisp]]                       |

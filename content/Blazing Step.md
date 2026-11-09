@@ -4,7 +4,7 @@ _[[3rd Level Spell]]_
 **Components**:: V, S
 **Mana**:: 3
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You teleport to an unoccupied space you can see within range. Immediately after you disappear, a blaze erupts in your previous location. Each [[Creature]] in a 2-metre radius sphere centred on that point must make a [[Agility Saving Throw]].
 

@@ -1,4 +1,4 @@
-**Requirements**:: [[Fighting Stance]]
+**Requirements**:: [[Advanced Fighting Stance]]
 **Cost**:: 2 LP
 
 _Create your own personal stance by combining two into one._

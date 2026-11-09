@@ -5,7 +5,7 @@ _[[2nd Level Spell]]_
 **Mana**:: 0
 
 **Range**:: 20 metres
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*100 grams of [[Gold Dust]], consumed by the spell_
 

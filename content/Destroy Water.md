@@ -26,7 +26,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 **RANGE**: 20 meters
 **SPELL PARTS**: F, V, S, M\*
 **LEVEL**: [[1st Level Spell]]
-**DURATION**: Instantaneous
+**DURATION**: Instant
 
 **EFFECT**: You do one of the following:
 

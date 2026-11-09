@@ -3,9 +3,8 @@ _[[3rd Level Spell]]_
 **Casting**:: 10 minutes
 **Components**:: F, V, S, M\*
 **Mana**:: 3
-
 **Range**:: Touch
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 _\*Varying amounts of [[Emerald Dust]], consumed by the spell_
 

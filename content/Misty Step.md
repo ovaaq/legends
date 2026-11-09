@@ -4,7 +4,7 @@ _[[1st Level Spell]]_
 **Components**:: S
 **Mana**:: 1
 **Range**:: Self
-**Duration**:: Instantaneous
+**Duration**:: Instant
 
 **Effect**:: You vanish into a silvery mist and teleport up to 4 meters to an unoccupied space you can see.
 
