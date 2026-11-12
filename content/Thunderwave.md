@@ -14,7 +14,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 **Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 
-**Type**:: [[Conjuration Magic]]
+**Type**:: [[Evocation Magic]]
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |

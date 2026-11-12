@@ -1,4 +1,4 @@
-**Confused.** A [[Confused]] [[Creature]] cannot use [[Reaction|Reactions]]. At the start of each of its [[Turn|Turns]], roll 1d6 to determine how it acts.
+A [[Confused]] [[Creature]] cannot use [[Reaction|Reactions]]. At the start of each of its [[Turn|Turns]], roll 1d6 to determine how it acts.
 
 | 1d6 | Effect                                             |
 | --- | -------------------------------------------------- |

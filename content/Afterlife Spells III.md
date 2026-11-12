@@ -3,21 +3,21 @@
 
 _Flavour text_.
 
-These spells are added to your [[Spiritual Spell List]]:
+These spells are added to your [[Spiritual Spell List]].
 
 ##### 3rd Level Spells
 
+- [[Animate Dead]]
+- [[Bestow Curse]]
+- [[Blink]]
+- [[Fear]]
+- [[Feign Death]]
+- [[Life Steal]]
+- [[Major Image]]
+- [[Phantom Steed]]
+- [[Remove Curse]]
 - [[Speak with Dead]]
 - [[Spirit Guardians]]
-- [[Animate Dead]]
-- [[Life Steal]]
-- [[Remove Curse]]
-- [[Fear]]
-- [[Phantom Steed]]
-- [[Major Image]]
-- [[Bestow Curse]]
-- [[Feign Death]]
-- [[Blink]]
 - [[Summon Spirit]]
 
 **Tree**:: [[Afterlife Talent Tree]]

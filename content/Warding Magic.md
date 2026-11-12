@@ -23,6 +23,7 @@ _Strand of magic that x._
 | [[Moonfire.md\|Moonfire]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Warding Wind.md\|Warding Wind]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Negate Strike.md\|Negate Strike]]                     | [[Reaction]]\*                                                     | F, V, S     | 3    | Self      | Instant                                                                       |
+| [[Death Ward.md\|Death Ward]]                           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Containment.md\|Containment]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 5    | 20 metres | Instant                                                                       |
 
 ---

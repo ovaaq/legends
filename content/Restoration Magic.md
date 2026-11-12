@@ -12,6 +12,7 @@ _Strand of magic that x._
 | [[Lesser Restoration.md\|Lesser Restoration]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
 | [[Prayer of Healing.md\|Prayer of Healing]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
 | [[Greater Restoration.md\|Greater Restoration]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
+| [[Healing Wave.md\|Healing Wave]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 4 metres  | Instant                                                                     |
 | [[Revivify.md\|Revivify]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
 | [[Regeneration.md\|Regeneration]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
 | [[Resurrection.md\|Resurrection]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 6    | 20 metres | Instant                                                                     |

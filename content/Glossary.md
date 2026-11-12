@@ -345,6 +345,7 @@
 | [[Weapon Attack Modifier.md\|Weapon Attack Modifier]]               |
 | [[Weapon Category.md\|Weapon Category]]                             |
 | [[Weapon Property.md\|Weapon Property]]                             |
+| [[Wet.md\|Wet]]                                                     |
 | [[Willing.md\|Willing]]                                             |
 | [[Winded.md\|Winded]]                                               |
 | [[Wound Poison.md\|Wound Poison]]                                   |

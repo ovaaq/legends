@@ -1,4 +1,4 @@
-**Stuck.** A [[Stuck]] [[Creature]] has a [[Walking Speed]] of 0.
+A [[Stuck]] [[Creature]] has a [[Walking Speed]] of 0.
 
 ---
 

@@ -1,21 +1,22 @@
 _[[3rd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 3
 **Range**:: 20 metres
 **Duration**:: Instant
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Make a [[Ranged Spell Attack]] against one [[Creature]] within range. On a hit, it takes 3d8 [[Lightning Damage]], and the lightning chains to a new [[Creature]] within 3 metres. Repeat the attack against each new target until an attack misses or five different [[Creature|Creatures]] have been hit. Each [[Creature]] can be hit only once.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+You have [[Advantage]] against [[Creature|Creatures]] wearing [[Metallic]] [[Armour]] or carrying a significant amount of [[Metal]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the damage increases by 1d4. You can upcast the spell with a maximum of 3 extra mana.
 
-**Type**:: [[Conjuration Magic]]
+**Type**:: [[Evocation Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Elemental Spells III.md\|Elemental Spells III]] |
 
 ---
 

@@ -1,16 +1,16 @@
 _[[3rd Level Spell]]_
 
 **Casting**:: [[Reaction]]\*
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 3
 **Range**:: 20 metres
 **Duration**:: Instant
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+_\*You see or hear a [[Creature]] within range casting a [[Spell]]._
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Effect**:: You attempt to interrupt the triggering [[Spell]]. A [[3rd Level Spell]] or lower fails and has no effect. For a [[4th Level Spell]] or higher, make a [[Spellcasting]] [[Check]] against a DC of 12 + the [[Spell|Spell’s]] level. On a success, the [[Spell]] fails and has no effect.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the maximum level of [[Spell]] automatically interrupted increases by 1. You can spend a maximum of 3 additional mana in this way.
 
 **Type**:: [[Removal Magic]]
 

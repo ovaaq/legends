@@ -1,4 +1,4 @@
-**Deafened.** A [[Deafened]] [[Creature]] cannot hear.
+A [[Deafened]] [[Creature]] cannot hear.
 
 ---
 

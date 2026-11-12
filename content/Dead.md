@@ -1,4 +1,4 @@
-- Creature's soul has left the body.
+- Creature's soul has left the body and corpse starts decaying.
 
 ---
 

@@ -1,4 +1,4 @@
-**Asleep.** An [[Asleep]] [[Creature]] is [[Unconscious]]. It awakens if it takes damage, another creature wakes it, or a sufficiently loud disturbance occurs nearby.
+An [[Asleep]] [[Creature]] is [[Unconscious]]. It awakens if it takes damage, another [[Creature]] wakes it, or a sufficiently loud disturbance occurs nearby.
 
 ---
 

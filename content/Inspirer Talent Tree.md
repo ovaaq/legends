@@ -8,3 +8,5 @@
 
 #talent_tree #general
 [[Talent Tree]]
+
+Svales with charisma

@@ -9,26 +9,26 @@ Each spell has between one and four components. A spellcaster must fulfil all of
 | --------------------------------------------------------------------- | ----------- |
 | [[Cantrip.md\|Cantrip]]                 | 60          |
 | [[1st Level Spell.md\|1st Level Spell]] | 84          |
-| [[2nd Level Spell.md\|2nd Level Spell]] | 74          |
-| [[3rd Level Spell.md\|3rd Level Spell]] | 49          |
-| [[4th Level Spell.md\|4th Level Spell]] | 12          |
+| [[2nd Level Spell.md\|2nd Level Spell]] | 73          |
+| [[3rd Level Spell.md\|3rd Level Spell]] | 50          |
+| [[4th Level Spell.md\|4th Level Spell]] | 20          |
 | [[5th Level Spell.md\|5th Level Spell]] | 7           |
-| [[6th Level Spell.md\|6th Level Spell]] | 1           |
+| [[6th Level Spell.md\|6th Level Spell]] | 3           |
 
 | Type                                                                      | Spell Count |
 | ------------------------------------------------------------------------- | ----------- |
-| [[Conjuration Magic.md\|Conjuration Magic]] | 52          |
-| [[Enchantment Magic.md\|Enchantment Magic]] | 42          |
-| [[Evocation Magic.md\|Evocation Magic]]     | 25          |
-| [[Distortion Magic.md\|Distortion Magic]]   | 23          |
-| [[Warding Magic.md\|Warding Magic]]         | 22          |
-| [[Projection Magic.md\|Projection Magic]]   | 19          |
+| [[Conjuration Magic.md\|Conjuration Magic]] | 41          |
+| [[Enchantment Magic.md\|Enchantment Magic]] | 39          |
+| [[Evocation Magic.md\|Evocation Magic]]     | 30          |
+| [[Distortion Magic.md\|Distortion Magic]]   | 27          |
+| [[Warding Magic.md\|Warding Magic]]         | 23          |
+| [[Projection Magic.md\|Projection Magic]]   | 17          |
 | [[Alteration Magic.md\|Alteration Magic]]   | 15          |
+| [[Decay Magic.md\|Decay Magic]]             | 15          |
 | [[Summon Magic.md\|Summon Magic]]           | 15          |
-| [[Restoration Magic.md\|Restoration Magic]] | 13          |
-| [[Revelation Magic.md\|Revelation Magic]]   | 12          |
-| [[Decay Magic.md\|Decay Magic]]             | 6           |
-| [[Removal Magic.md\|Removal Magic]]         | 6           |
+| [[Restoration Magic.md\|Restoration Magic]] | 14          |
+| [[Revelation Magic.md\|Revelation Magic]]   | 14          |
+| [[Removal Magic.md\|Removal Magic]]         | 10          |
 
 Here is every spell listed in alphabetical order.
 
@@ -50,6 +50,8 @@ Here is every spell listed in alphabetical order.
 | [[Animate Dead.md\|Animate Dead]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Animate Paper.md\|Animate Paper]]                                                             | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch      | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Animate Rope.md\|Animate Rope]]                                                               | [[Double Action.md\|Double Action]] | F, V, S, M\* | 1    | 10 metres  | [[Concentration.md\|Concentration]], 10 minutes |
+| [[00 - Inbox/Anti Heal spell.md\|Anti Heal spell]]                                                                            | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
+| [[Antimagic Field.md\|Antimagic Field]]                                                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 6    | 20 metres  | Instant                                                                       |
 | [[Arcane Anchor.md\|Arcane Anchor]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Arcane Blast.md\|Arcane Blast]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 minutes | Instant                                                                       |
 | [[Arcane Mark.md\|Arcane Mark]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Touch      | 1 week                                                                        |
@@ -64,6 +66,7 @@ Here is every spell listed in alphabetical order.
 | [[Bestow Curse.md\|Bestow Curse]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Blazing Step.md\|Blazing Step]]                                                               | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres  | Instant                                                                       |
 | [[Bless.md\|Bless]]                                                                             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres  | [[Concentration.md\|Concentration]], 1 minute   |
+| [[00 - Inbox/Blight.md\|Blight]]                                                                                              | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Blink.md\|Blink]]                                                                             | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self       | Instant                                                                       |
 | [[Blur.md\|Blur]]                                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Borrowed Knowledge.md\|Borrowed Knowledge]]                                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self       | 1 day                                                                         |
@@ -71,7 +74,7 @@ Here is every spell listed in alphabetical order.
 | [[Call Object.md\|Call Object]]                                                                 | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres  | Instant                                                                       |
 | [[Call to Duel.md\|Call to Duel]]                                                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
 | [[Calm Emotions.md\|Calm Emotions]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
-| [[Chain Lightning.md\|Chain Lightning]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
+| [[Chain Lightning.md\|Chain Lightning]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 20 metres  | Instant                                                                       |
 | [[Chains of Ice.md\|Chains of Ice]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres  | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Chaos Burst.md\|Chaos Burst]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                       |
 | [[Charm Person.md\|Charm Person]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres  | 1 hour                                                                        |
@@ -89,7 +92,7 @@ Here is every spell listed in alphabetical order.
 | [[Containment.md\|Containment]]                                                                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 5    | 20 metres  | Instant                                                                       |
 | [[Continual Flame.md\|Continual Flame]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres  | Instant                                                                       |
 | [[Corrosive Shot.md\|Corrosive Shot]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                       |
-| [[Counterspell.md\|Counterspell]]                                                               | [[Reaction]]\*                                                     | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
+| [[Counterspell.md\|Counterspell]]                                                               | [[Reaction]]\*                                                     | F, V, S     | 3    | 20 metres  | Instant                                                                       |
 | [[Create Water.md\|Create Water]]                                                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
 | [[Crimson Cut.md\|Crimson Cut]]                                                                 | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres  | Instant                                                                       |
 | [[Cure Wounds.md\|Cure Wounds]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch      | Instant                                                                       |
@@ -107,6 +110,7 @@ Here is every spell listed in alphabetical order.
 | [[Dimension Door.md\|Dimension Door]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 4    | 40 metres  | Instant                                                                       |
 | [[Disarm Weapons.md\|Disarm Weapons]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Disguise Self.md\|Disguise Self]]                                                             | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Self       | 1 hour                                                                        |
+| [[Disintegrate.md\|Disintegrate]]                                                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 6    | 20 metres  | Instant                                                                       |
 | [[Dispel Magic.md\|Dispel Magic]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Displace Object.md\|Displace Object]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Dissonant Whispers.md\|Dissonant Whispers]]                                                   | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres  | Instant                                                                       |
@@ -143,6 +147,7 @@ Here is every spell listed in alphabetical order.
 | [[Force Barrier.md\|Force Barrier]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Force Wave.md\|Force Wave]]                                                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                       |
 | [[Fortune's Favour.md\|Fortune's Favour]]                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
+| [[00 - Inbox/Frailty.md\|Frailty]]                                                                                            | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Freeze Area.md\|Freeze Area]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Frost Armour.md\|Frost Armour]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self       | 1 hour                                                                        |
 | [[Frostbite.md\|Frostbite]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres  | Instant                                                                       |
@@ -161,6 +166,7 @@ Here is every spell listed in alphabetical order.
 | [[Hail of Thorns.md\|Hail of Thorns]]                                                           | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 2 metres   | Instant                                                                       |
 | [[Haste.md\|Haste]]                                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Healing Spirit.md\|Healing Spirit]]                                                           | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres  | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Healing Wave.md\|Healing Wave]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 4 metres   | Instant                                                                       |
 | [[Healing Word.md\|Healing Word]]                                                               | [[Action.md\|Action]]               | V           | 1    | 20 metres  | Instant                                                                       |
 | [[Heat Metal.md\|Heat Metal]]                                                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Hellish rebuke.md\|Hellish rebuke]]                                                           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres  | Instant                                                                       |
@@ -217,6 +223,8 @@ Here is every spell listed in alphabetical order.
 | [[Moonbeam.md\|Moonbeam]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Moonfire.md\|Moonfire]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Mortal Dread.md\|Mortal Dread]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres   | Instant                                                                       |
+| [[00 - Inbox/Necrosis.md\|Necrosis]]                                                                                          | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
+| [[00 - Inbox/Necrotic Bolt.md\|Necrotic Bolt]]                                                                                | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Negate Strike.md\|Negate Strike]]                                                             | [[Reaction]]\*                                                     | F, V, S     | 3    | Self       | Instant                                                                       |
 | [[Nightmare.md\|Nightmare]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Obscure Senses.md\|Obscure Senses]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
@@ -236,6 +244,7 @@ Here is every spell listed in alphabetical order.
 | [[Pulse.md\|Pulse]]                                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Quick Bolt.md\|Quick Bolt]]                                                                   | [[Action.md\|Action]]               | F, V, S     | 1    | 10 metres  | Instant                                                                       |
 | [[Raise Undead.md\|Raise Undead]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
+| [[00 - Inbox/Ray of Enfeeblement.md\|Ray of Enfeeblement]]                                                                    | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Ray of Frost.md\|Ray of Frost]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                       |
 | [[Ray of Ruin.md\|Ray of Ruin]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Ray of Sickness.md\|Ray of Sickness]]                                                         | [[Double Action.md\|Double Action]] | F, S        | 1    | 20 metres  | Instant                                                                       |
@@ -248,6 +257,7 @@ Here is every spell listed in alphabetical order.
 | [[Reveal Magic.md\|Reveal Magic]]                                                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
 | [[Revivify.md\|Revivify]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Rope Trick.md\|Rope Trick]]                                                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
+| [[00 - Inbox/Rotting Flesh.md\|Rotting Flesh]]                                                                                | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Sacred Flame.md\|Sacred Flame]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                       |
 | [[Sanctuary.md\|Sanctuary]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres  | 1 minute                                                                      |
 | [[Sandstorm.md\|Sandstorm]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
@@ -266,13 +276,13 @@ Here is every spell listed in alphabetical order.
 | [[Shield of Faith.md\|Shield of Faith]]                                                         | [[Double Action.md\|Double Action]] | V           | 1    | 20 metres  | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Shillelagh.md\|Shillelagh]]                                                                   | [[Action.md\|Action]]               | V, S, M\*    | 0    | Touch      | 1 minute                                                                      |
 | [[Shocking Grasp.md\|Shocking Grasp]]                                                           | [[Double Action.md\|Double Action]] | V, S,       | 0    | Touch      | Instant                                                                       |
-| [[Silence.md\|Silence]]                                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
+| [[Silence.md\|Silence]]                                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Silent Image.md\|Silent Image]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres  | 10 minutes                                                                    |
 | [[Skywrite.md\|Skywrite]]                                                                       | 10 minutes                                                        | F, S        | 1    | Sight      | 1 day                                                                         |
 | [[Sleep.md\|Sleep]]                                                                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres  | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Solar Flare.md\|Solar Flare]]                                                                 | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 4 metres   | Instant                                                                       |
 | [[Speak with Animals.md\|Speak with Animals]]                                                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
-| [[Speak with Dead.md\|Speak with Dead]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
+| [[Speak with Dead.md\|Speak with Dead]]                                                         | [[Triple Action.md\|Triple Action]] | V, S, M\*    | 3    | 2 metres   | Instant                                                                       |
 | [[Speak with Spirit.md\|Speak with Spirit]]                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Spectral Grasp.md\|Spectral Grasp]]                                                           | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres  | Instant                                                                       |
 | [[Speed Armour.md\|Speed Armour]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres  | Instant                                                                       |
@@ -348,7 +358,6 @@ Eruption
 | [[Earth Wall.md\|Earth Wall]]                                 | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Everfire.md\|Everfire]]                                     | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Fiery Resurrect.md\|Fiery Resurrect]]                       | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
-| [[Healing Wave.md\|Healing Wave]]                             | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Identify Magic 1.md\|Identify Magic 1]]                     | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Lightning Steed.md\|Lightning Steed]]                       | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Mass Healing Word.md\|Mass Healing Word]]                   | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
@@ -362,6 +371,7 @@ Eruption
 | [[Swap Places Teleport.md\|Swap Places Teleport]]             | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Temporal Stasis.md\|Temporal Stasis]]                       | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Time Warp.md\|Time Warp]]                                   | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
+| [[Tornado.md\|Tornado]]                                       | **▶▶▶⚡〇** | F, V, S, M\* | 0    | 20 metres | Instant  |
 
 [[Stasis]]
 

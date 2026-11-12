@@ -6,7 +6,7 @@ _[[2nd Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-**Effect**:: 3 bolts of 4d4 [[Fire Damage]]
+**Effect**:: 3 bolts of 3d4 [[Fire Damage]]
 
 **Upcasting**:: For each additional 2 mana spent, the one bolt more. You can upcast the spell with a maximum of 4 extra mana.
 

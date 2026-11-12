@@ -6,7 +6,7 @@ _[[Cantrip]]_
 **Range**:: 1 metre
 **Duration**:: Instant
 
-**Effect**:: You burst flames in every direction. Every target within range must make [[Agility Saving Throw]]:
+**Effect**:: You burst flames in every direction. Every target within range must make [[Agility Saving Throw]].
 
 **Success:** Target takes no damage.
 **Failure:** Target takes 2d4 [[Fire Damage]].

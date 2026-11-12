@@ -1,19 +1,17 @@
-When your [[Hit Point|Hit Points]] drop to 0 with regular damage you gain the [[Dying]] condition.
+When damage other than [[Non-lethal Damage]] reduces your [[Hit Point|Hit Points]] to 0, you fall [[Prone]], become [[Unconscious]], drop everything you are holding. You gain the [[Dying]] condition and [[Exhausted]] (1).
 
-- [[Dying]] creature drops [[Prone]] and [[Unconscious]].
+At the start of each of your [[Turn|Turns]], make a DC 17 [[Death Saving Throw]]. (1d20 + [[Constitution]])
 
-At the start of your [[Turn]], make a DC 17 [[Death Saving Throw]] (1d20 + [[Constitution]]).
-
-**Critical Success:** You gain 1 [[Hit Point]] and lose the [[Dying]] condition.
-**Success:** You gain 1 [[Hit Point]], and your [[Dying]] condition is replaced with the [[Feeble]] condition.
+**Critical Success:** You regain 1 [[Hit Point]] and lose the [[Dying]] condition.
+**Success:** You regain 1 [[Hit Point]], and your [[Dying]] condition is replaced by the [[Feeble]] condition.
 **Failure:** Your [[Dying]] level increases by 1.
 **Critical Failure:** Your [[Dying]] level increases by 2.
 
-**Healing.** The [[Dying]] condition is removed if you receive at least 1 [[Hit Point]] of healing.
+**Healing.** If you regain 1–4 [[Hit Point|Hit Points]] while [[Dying]], your [[Dying]] condition is replaced by the [[Feeble]] condition. If you regain 5 or more [[Hit Point|Hit Points]], you lose the [[Dying]] condition instead.
 
-**Taking Damage.** If you take damage while [[Dying]], your [[Dying]] level automatically increases by 1.
+**Taking Damage.** When you take damage while [[Dying]], your [[Dying]] level increases by 1.
 
-**Death.** If your [[Dying]] level reaches 4, you die and gain the [[Dead]] condition.
+**Death.** When your [[Dying]] level reaches 4, you die and gain the [[Dead]] condition.
 
 ---
 

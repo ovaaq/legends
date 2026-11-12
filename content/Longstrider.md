@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, [[Walking Speed]] increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
 
-**Type**:: [[Conjuration Magic]]
+**Type**:: [[Enchantment Magic]]
 
 ---
 

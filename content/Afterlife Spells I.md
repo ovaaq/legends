@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-These spells are added to your [[Spiritual Spell List]]:
+These spells are added to your [[Spiritual Spell List]].
 
 ##### Cantrips
 

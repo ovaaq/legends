@@ -10,7 +10,7 @@ _[[2nd Level Spell]]_
 
 **Upcasting**:: For each additional mana spent, your [[Rank]] in the chosen [[Skill]] increases by 1. You can spend a maximum of 3 additional mana on this spell.
 
-**Type**:: [[Enchantment Magic]]
+**Type**:: [[Revelation Magic]]
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |

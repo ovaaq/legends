@@ -5,7 +5,7 @@ _Flavour text._
 
 Increase your [[Channelling]] [[Rank]] by 1.
 
-These spells are added to your [[Spiritual Spell List]]:
+These spells are added to your [[Spiritual Spell List]].
 
 ##### Cantrips
 
@@ -24,10 +24,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Unseen Servant]]
 - [[Detect Magic]]
 
-**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to 1 + [[Channelling]] [[Rank]] + [[Intelligence]] and add them to your [[Prepared Spiritual Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
-
-> [!info] Prepared Spells
-> Number of Prepared Spiritual Spells = 1 + [[Channelling]] [[Rank]] + [[Intelligence]]
+**Preparing Spells.** You can prepare spells after completing a [[Long Rest]]. When preparing spells, choose a number of spells from your [[Spiritual Spell List]] equal to 1 + [[Intelligence]] + [[Channelling]] [[Rank]] and add them to your [[Prepared Spiritual Spells]] list. You can prepare two [[Cantrip|Cantrips]] in place of one prepared [[Spell]].
 
 **Casting Spells.** You can cast any [[Spell]] on your [[Prepared Spiritual Spells]]. The maximum amount of [[Mana]] you can spend on a [[Spell]] equals your [[Channelling]] [[Rank]].
 
@@ -39,7 +36,7 @@ These spells are added to your [[Spiritual Spell List]]:
 
 **Tree**:: [[Spiritual Talent Tree]]
 **Group**:: [[Spiritual Talent]]
-**Following**:: [[Channelling Practice]], [[Spiritual Spell Memory]], [[Metamagic]], [[Increased Mana]], [[Simple Focus Training]]
+**Following**:: [[Channelling Practice]], [[Spiritual Spell Memory]]
 
 ---
 

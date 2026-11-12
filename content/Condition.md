@@ -33,6 +33,7 @@ Still under work: [[Blinded]], [[Dying]], [[Frightened]]
 | [[Stuck.md\|Stuck]]                 |
 | [[Stunned.md\|Stunned]]             |
 | [[Unconscious.md\|Unconscious]]     |
+| [[Wet.md\|Wet]]                     |
 | [[Winded.md\|Winded]]               |
 
 ---

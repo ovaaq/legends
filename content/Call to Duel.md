@@ -14,7 +14,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 **Upcasting**:: For each additional mana spent, you can target one additional [[Humanoid]]. You can upcast the spell with a maximum of 3 extra mana.
 
-**Type**:: [[Conjuration Magic]]
+**Type**:: [[Enchantment Magic]]
 
 | Related Talents                                                 |
 | --------------------------------------------------------------- |

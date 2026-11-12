@@ -25,6 +25,7 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Water Breathing]]
 - [[Water Walk]]
 - [[Wind Wall]]
+- [[Chain Lightning]]
 
 **Tree**:: [[Elemental Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -16,3 +16,4 @@
 
 #talent_tree #general
 [[Talent Tree]]
+Scales with health or con?
