@@ -12,7 +12,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Earthbind]]
 - [[Enthral]]
 - [[Lesser Restoration]]
-- [[Life Drain]]
+- [[Drain Life]]
 - [[Magic Fruit]]
 - [[Web]]
 -

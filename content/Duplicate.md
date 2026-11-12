@@ -6,19 +6,19 @@ _[[3rd Level Spell]]_
 **Range**:: Touch
 **Duration**:: Instant
 
-_\*Varying amounts of [[Emerald Dust]], consumed by the spell_
+_\*Varying amounts of [[Emerald]], consumed by the spell._
 
 **Effect**:: You create an exact duplicate of a non-magical object that fits within a 1-metre cube. The duplicate appears in an unoccupied space within reach.
 
-For each gram of [[Emerald Dust]] used, the spell can produce up to:
+For each [[Karat]] of [[Emerald]] used, the spell can produce up to.
 
-|     Type of Material     | Weight |
-| :----------------------: | :----: |
-|  Stone, Plant, Ceramics  |  10kg  |
-| Wood, Leather, Parchment |  1kg   |
-|      Common Metals       | 0.1kg  |
-|       Rare Metals        |  10g   |
-|        Gemstones         |   1g   |
+|     Type of Material     |   Weight    |
+| :----------------------: | :---------: |
+|  Stone, Plant, Ceramics  |    10kg     |
+| Wood, Leather, Parchment |     1kg     |
+|      Common Metals       |    0.1kg    |
+|       Rare Metals        |     10g     |
+|        Gemstones         | 1 [[Karat]] |
 
 Objects created by this spell cannot be used as the target of this spell again.
 

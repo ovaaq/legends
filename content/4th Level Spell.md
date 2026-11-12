@@ -14,7 +14,6 @@
 | [[Necrotic Bolt.md\|Necrotic Bolt]]                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Nightmare.md\|Nightmare]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Parasite.md\|Parasite]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
-| [[Ray of Enfeeblement.md\|Ray of Enfeeblement]]                                                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Reflect Magic.md\|Reflect Magic]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Rotting Flesh.md\|Rotting Flesh]]                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Sandstorm.md\|Sandstorm]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |

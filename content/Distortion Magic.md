@@ -29,6 +29,7 @@ _Strand of magic that x._
 | [[Melt into Stone.md\|Melt into Stone]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant    |
 | [[Thunder Step.md\|Thunder Step]]           | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instant    |
 | [[Dimension Door.md\|Dimension Door]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 4    | 40 metres | Instant    |
+| [[Teleport.md\|Teleport]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant    |
 
 ---
 

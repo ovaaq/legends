@@ -1,16 +1,14 @@
 _[[3rd Level Spell]]_
 
-**Casting**:: [[Reaction]]\*
+**Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
 **Mana**:: 3
-**Range**:: 20 metres
+**Range**:: touch
 **Duration**:: Instant
 
-_\*[[Onyx]]_
+_\*2 [[Karat|Karats]] of [[Onyx]]._
 
-**Effect**:: you remove minor curses, if you cannot remove the curse you learn what is needed to lift the curse.
-
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Effect**:: You touch a [[Cursed]] [[Creature]] or [[Object]] and attempt to break its curse. Minor curses end immediately. If a curse is too powerful to remove, you instead learn what is required to break it. If the target is a [[Cursed]] [[Object]], its curse remains, but its bond to its owner ends, allowing the item to be removed or discarded.
 
 **Type**:: [[Removal Magic]]
 

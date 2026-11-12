@@ -1,16 +1,21 @@
-_[[4th Level Spell]]_
+_[[3rd Level Spell]]_
 
-**Casting**:: **▶▶▶⚡〇**
-**Components**:: F, V, S, M\*
-**Mana**:: 4
-**Range**:: 20 metres
+**Casting**:: [[Double Action]]
+**Components**:: F, V, S
+**Mana**:: 3
+**Range**:: 10 metres
 **Duration**:: Instant
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: A black beam of enervating energy springs from your finger toward a [[Creature]] within range. The target must make a [[Constitution Saving Throw]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Critical Success:** No effect.
+**Success:** The target gains [[Exhausted]] (1).
+**Failure:** The target gains [[Exhausted]] (1) and [[Feeble]].
+**Critical Failure:** The target gains [[Exhausted]] (2) and [[Feeble]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+At the end of each of its [[Turn|Turns]], the target can repeat the [[Constitution Saving Throw]]. On a success, [[Feeble]] ends.
+
+**Upcasting**:: For 3 additional mana spent you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Decay Magic]]
 
@@ -19,4 +24,4 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 ---
 
-#spell #4th [[Spell]]
+#spell #3rd[[Spell]]

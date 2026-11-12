@@ -16,7 +16,6 @@ _Strand of magic that x._
 | [[Beast Sense.md\|Beast Sense]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
 | [[Consume Soul.md\|Consume Soul]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
 | [[Scrying.md\|Scrying]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
-| [[Teleport.md\|Teleport]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
 
 ---
 

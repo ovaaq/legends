@@ -9,9 +9,9 @@ Each spell has between one and four components. A spellcaster must fulfil all of
 | --------------------------------------------------------------------- | ----------- |
 | [[Cantrip.md\|Cantrip]]                 | 60          |
 | [[1st Level Spell.md\|1st Level Spell]] | 84          |
-| [[2nd Level Spell.md\|2nd Level Spell]] | 73          |
-| [[3rd Level Spell.md\|3rd Level Spell]] | 50          |
-| [[4th Level Spell.md\|4th Level Spell]] | 20          |
+| [[2nd Level Spell.md\|2nd Level Spell]] | 72          |
+| [[3rd Level Spell.md\|3rd Level Spell]] | 51          |
+| [[4th Level Spell.md\|4th Level Spell]] | 19          |
 | [[5th Level Spell.md\|5th Level Spell]] | 7           |
 | [[6th Level Spell.md\|6th Level Spell]] | 3           |
 
@@ -20,12 +20,12 @@ Each spell has between one and four components. A spellcaster must fulfil all of
 | [[Conjuration Magic.md\|Conjuration Magic]] | 41          |
 | [[Enchantment Magic.md\|Enchantment Magic]] | 39          |
 | [[Evocation Magic.md\|Evocation Magic]]     | 30          |
-| [[Distortion Magic.md\|Distortion Magic]]   | 27          |
+| [[Distortion Magic.md\|Distortion Magic]]   | 28          |
 | [[Warding Magic.md\|Warding Magic]]         | 23          |
 | [[Projection Magic.md\|Projection Magic]]   | 17          |
-| [[Alteration Magic.md\|Alteration Magic]]   | 15          |
 | [[Decay Magic.md\|Decay Magic]]             | 15          |
 | [[Summon Magic.md\|Summon Magic]]           | 15          |
+| [[Alteration Magic.md\|Alteration Magic]]   | 14          |
 | [[Restoration Magic.md\|Restoration Magic]] | 14          |
 | [[Revelation Magic.md\|Revelation Magic]]   | 14          |
 | [[Removal Magic.md\|Removal Magic]]         | 10          |
@@ -114,6 +114,7 @@ Here is every spell listed in alphabetical order.
 | [[Dispel Magic.md\|Dispel Magic]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Displace Object.md\|Displace Object]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Dissonant Whispers.md\|Dissonant Whispers]]                                                   | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres  | Instant                                                                       |
+| [[Drain Life.md\|Drain Life]]                                                                   | [[Triple Action.md\|Triple Action]] | V, S        | 3    | touch      | Instant                                                                       |
 | [[Druidcraft.md\|Druidcraft]]                                                                   | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres   | 1 hour                                                                        |
 | [[Duplicate.md\|Duplicate]]                                                                     | 10 minutes                                                        | F, V, S, M\* | 3    | Touch      | Instant                                                                       |
 | [[Earth Tremor.md\|Earth Tremor]]                                                               | [[Reaction]]\*                                                     | V, S        | 1    | Self       | Instant                                                                       |
@@ -187,8 +188,6 @@ Here is every spell listed in alphabetical order.
 | [[Lesser Restoration.md\|Lesser Restoration]]                                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Lethargy.md\|Lethargy]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Levitate.md\|Levitate]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
-| [[Life Drain.md\|Life Drain]]                                                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
-| [[Life Steal.md\|Life Steal]]                                                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Life Transfer.md\|Life Transfer]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
 | [[Lightning Arrow.md\|Lightning Arrow]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Lightning Lure.md\|Lightning Lure]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres  | Instant                                                                       |
@@ -244,13 +243,13 @@ Here is every spell listed in alphabetical order.
 | [[Pulse.md\|Pulse]]                                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Quick Bolt.md\|Quick Bolt]]                                                                   | [[Action.md\|Action]]               | F, V, S     | 1    | 10 metres  | Instant                                                                       |
 | [[Raise Undead.md\|Raise Undead]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres  | Instant                                                                       |
-| [[Ray of Enfeeblement.md\|Ray of Enfeeblement]]                                                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
+| [[Ray of Enfeeblement.md\|Ray of Enfeeblement]]                                                 | [[Double Action.md\|Double Action]] | F, V, S     | 3    | 10 metres  | Instant                                                                       |
 | [[Ray of Frost.md\|Ray of Frost]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres  | Instant                                                                       |
 | [[Ray of Ruin.md\|Ray of Ruin]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
 | [[Ray of Sickness.md\|Ray of Sickness]]                                                         | [[Double Action.md\|Double Action]] | F, S        | 1    | 20 metres  | Instant                                                                       |
 | [[Reflect Magic.md\|Reflect Magic]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres  | Instant                                                                       |
 | [[Regeneration.md\|Regeneration]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres  | Instant                                                                       |
-| [[Remove Curse.md\|Remove Curse]]                                                               | [[Reaction]]\*                                                     | F, V, S, M\* | 3    | 20 metres  | Instant                                                                       |
+| [[Remove Curse.md\|Remove Curse]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | touch      | Instant                                                                       |
 | [[Repair.md\|Repair]]                                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres   | Instant                                                                       |
 | [[Resistance spell.md\|Resistance spell]]                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres  | Instant                                                                       |
 | [[Resurrection.md\|Resurrection]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 6    | 20 metres  | Instant                                                                       |
