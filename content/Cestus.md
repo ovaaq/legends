@@ -1,0 +1,1 @@
+A **cestus** (or _caestus_, plural _cesti_) is ==an ancient leather fighting glove or hand-wrap originally used in Greek and Roman combat sports and gladiatorial events==. \[[1](https://en.wikipedia.org/wiki/Cestus_\(boxing\))]
