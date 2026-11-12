@@ -58,7 +58,7 @@ _Definition._
 | [[Conjure Building.md\|Conjure Building]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Duplicate.md\|Duplicate]]                             | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instant                                                                       |
 | [[Extract Memory.md\|Extract Memory]]                   | [[Double Action.md\|Double Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
-| [[Feign Death.md\|Feign Death]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Feign Death.md\|Feign Death]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | touch     | 1 hour                                                                        |
 | [[Freeze Area.md\|Freeze Area]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Greater Familiar.md\|Greater Familiar]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Ice Spear.md\|Ice Spear]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |

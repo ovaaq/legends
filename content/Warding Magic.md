@@ -16,7 +16,7 @@ _Strand of magic that x._
 | [[Searing Smite.md\|Searing Smite]]                     | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
 | [[Shield of Faith.md\|Shield of Faith]]                 | [[Double Action.md\|Double Action]] | V           | 1    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Temporal Life.md\|Temporal Life]]                     | [[Action.md\|Action]]               | V, S        | 1    | Self      | 1 hour                                                                        |
-| [[Aid.md\|Aid]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Aid.md\|Aid]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 8 hours                                                                       |
 | [[Arcane Shield.md\|Arcane Shield]]                     | [[Reaction]]\*                                                     | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Barkskin.md\|Barkskin]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Force Barrier.md\|Force Barrier]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |

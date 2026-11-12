@@ -1,16 +1,14 @@
 _[[2nd Level Spell]]_
 
-**Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Casting**:: 10 minutes
+**Components**:: F, V, S
 **Mana**:: 2
-**Range**:: 20 metres
+**Range**:: 2 metres
 **Duration**:: Instant
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Each [[Creature]] of your choice within range regains [[Hit Point|Hit Points]] equal to 2d6 + [[Sorcery]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
-
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the healing increases by 1d4. You can upcast the spell with a maximum of 3 extra mana.
 
 **Type**:: [[Restoration Magic]]
 

@@ -8,7 +8,7 @@ _[[Small]] [[Natural Beast]]_
 
 | Strength | Agility | Precision | Constitution | Awareness | Charisma | Intelligence | Sorcery |
 | :------: | :-----: | :-------: | :----------: | :-------: | :------: | :----------: | :-----: |
-|    -1    |   +3    |    -2     |      0       |    +1     |    -2    |      -4      |   -4    |
+|    -1    |   +3    |    +2     |      0       |    +1     |    -2    |      -4      |   -4    |
 |    -1    |   +4    |           |      +1      |           |    -2    |      -4      |         |
 **Bite.**
 

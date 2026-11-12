@@ -11,7 +11,7 @@ At the start of each of your [[Turn|Turns]], make a DC 17 [[Death Saving Throw]]
 
 **Taking Damage.** When you take damage while [[Dying]], your [[Dying]] level increases by 1.
 
-**Death.** When your [[Dying]] level reaches 4, you die and gain the [[Dead]] condition.
+**Death.** When your [[Dying]] level reaches 4, you die and become [[Corpse]].
 
 ---
 

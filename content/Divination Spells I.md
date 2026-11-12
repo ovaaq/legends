@@ -21,7 +21,6 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Frost Armour]]
 - [[Grease]]
 - [[Hold Beast]]
-- [[Hold Humanoid]]
 - [[Ice Knife]]
 - [[Identify]]
 - [[Illusory Script]]

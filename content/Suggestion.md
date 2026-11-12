@@ -1,17 +1,20 @@
 _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
-**Mana**:: 0
+**Components**:: F, V, S
+**Mana**:: 2
+**Range**:: 10 metres
+**Duration**:: 8 hours
 
-**Range**:: 20 metres
-**Duration**:: Instant
+**Effect**:: You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be [charmed](https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_2) are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a [knight](https://roll20.net/compendium/dnd5e/Monsters:Knight?expansion=34047#content) give her [warhorse](https://roll20.net/compendium/dnd5e/Monsters:Warhorse?expansion=34047#content) to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+If you or any of your companions damage the target, the spell ends.
+
+**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
 
 **Type**:: [[Enchantment Magic]]
 

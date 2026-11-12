@@ -59,6 +59,6 @@ Natural beasts are ordinary beast without any magical powers or effects. These l
 | [[01 - Projects/3 Game Master/Whale.md\|Whale]]                       | -     | - | -     | -      | -                  |
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
 | [[Wolf.md\|Wolf]]                       | 0      | 10 | 8      | 13      | 7 metres            |
-| [[Dire Wolf.md\|Dire Wolf]]             | 1      | 45 | 8      | 12      | 12 metres           |
+| [[Dire Wolf.md\|Dire Wolf]]             | 2      | 45 | 8      | 12      | 12 metres           |
 
 ---

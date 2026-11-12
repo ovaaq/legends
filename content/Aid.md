@@ -1,16 +1,14 @@
 _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 2
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: 10 metres
+**Duration**:: 8 hour
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Your spell bolsters your allies with toughness and resolve. Choose up to three [[Creature|Creatures]] within range. Each target's [[Hit Point Maximum]] and current [[Hit Point|Hit Points]] increase by 5 for the duration.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
-
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 2 additional mana spent, the [[Hit Point Maximum]] increases by 5. You can upcast the spell with a maximum of 4 extra mana.
 
 **Type**:: [[Warding Magic]]
 

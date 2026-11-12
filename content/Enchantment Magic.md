@@ -15,7 +15,6 @@ _Strand of magic that x._
 | [[Speak with Animals.md\|Speak with Animals]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Speed Armour.md\|Speed Armour]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Spider Climb.md\|Spider Climb]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
-| [[Suggestion.md\|Suggestion]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Animal Friendship.md\|Animal Friendship]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 day                                                                         |
 | [[Animate Rope.md\|Animate Rope]]                   | [[Double Action.md\|Double Action]] | F, V, S, M\* | 1    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Bane.md\|Bane]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
@@ -34,6 +33,7 @@ _Strand of magic that x._
 | [[Enthral.md\|Enthral]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 10 minutes                                                                    |
 | [[Fire Breath.md\|Fire Breath]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Phantasmal Force.md\|Phantasmal Force]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Suggestion.md\|Suggestion]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 8 hours                                                                       |
 | [[Fast Friends.md\|Fast Friends]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Fear.md\|Fear]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Hypnotic Pattern.md\|Hypnotic Pattern]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |

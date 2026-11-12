@@ -9,8 +9,8 @@ _Strand of magic that x._
 | [[Magic Limb.md\|Magic Limb]]                   | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
 | [[Repair.md\|Repair]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | Instant                                                                     |
 | [[Healing Spirit.md\|Healing Spirit]]           | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
-| [[Lesser Restoration.md\|Lesser Restoration]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
-| [[Prayer of Healing.md\|Prayer of Healing]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
+| [[Lesser Restoration.md\|Lesser Restoration]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | touch     | Instant                                                                     |
+| [[Prayer of Healing.md\|Prayer of Healing]]     | 10 minutes                                                        | F, V, S     | 2    | 2 metres  | Instant                                                                     |
 | [[Greater Restoration.md\|Greater Restoration]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
 | [[Healing Wave.md\|Healing Wave]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 4 metres  | Instant                                                                     |
 | [[Revivify.md\|Revivify]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
