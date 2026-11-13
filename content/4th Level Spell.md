@@ -10,11 +10,14 @@
 | [[Greater Restoration.md\|Greater Restoration]]                                                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Healing Wave.md\|Healing Wave]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 4 metres  | Instant  |
 | [[Living Flame.md\|Living Flame]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
+| [[Magic Contract.md\|Magic Contract]]                                                           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Necrosis.md\|Necrosis]]                                                                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Necrotic Bolt.md\|Necrotic Bolt]]                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Nightmare.md\|Nightmare]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Parasite.md\|Parasite]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
+| [[Polymorph.md\|Polymorph]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Reflect Magic.md\|Reflect Magic]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
+| [[Reverse Gravity.md\|Reverse Gravity]]                                                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Rotting Flesh.md\|Rotting Flesh]]                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Sandstorm.md\|Sandstorm]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Time Skip Spell.md\|Time Skip Spell]]                                                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |

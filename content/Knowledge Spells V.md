@@ -5,6 +5,8 @@ _Flavour text_.
 
 Benefit.
 
+[[Legend Lore]]
+
 **Tree**:: [[Knowledge Talent Tree]]
 **Group**:: [[Divine Talent]]
 **Following**:: [[Knowledge Spells VI]]

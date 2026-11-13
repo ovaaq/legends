@@ -7,7 +7,6 @@ _Strand of magic that summons spirits and creatures._
 | [[Summon Beast.md\|Summon Beast]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Construct.md\|Summon Construct]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Elemental.md\|Summon Elemental]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
-| [[Summon Spirit.md\|Summon Spirit]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Steed.md\|Summon Steed]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Tiny Beast.md\|Summon Tiny Beast]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Summon Tiny Construct.md\|Summon Tiny Construct]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
@@ -18,6 +17,7 @@ _Strand of magic that summons spirits and creatures._
 | [[Animate Dead.md\|Animate Dead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Phantom Steed.md\|Phantom Steed]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Summon Greater Familiar.md\|Summon Greater Familiar]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 2 metres  | Instant                                                                       |
+| [[Summon Spirit.md\|Summon Spirit]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | 1 hour                                                                        |
 
 ---
 

@@ -9,8 +9,11 @@ _Strand of magic that creates things from nothing._
 | [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self      | 1 hour                                                                      |
 | [[Hunter's Mark.md\|Hunter's Mark]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Infestation.md\|Infestation]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres | Instant                                                                     |
+| [[Magic Contract.md\|Magic Contract]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Poison Spray.md\|Poison Spray]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres  | Instant                                                                     |
+| [[Polymorph.md\|Polymorph]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Produce Flame.md\|Produce Flame]]         | [[Double Action.md\|Double Action]] | V, S        | 0    | Self      | 10 minutes                                                                  |
+| [[Reverse Gravity.md\|Reverse Gravity]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Spiritual Weapon.md\|Spiritual Weapon]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Thorn Dart.md\|Thorn Dart]]               | [[Triple Action.md\|Triple Action]] | F, S, M\*    | 0    | 10 metres | Instant                                                                     |
 | [[Toxic Torrent.md\|Toxic Torrent]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 4 metres  | Instant                                                                     |

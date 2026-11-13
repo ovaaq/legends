@@ -3,7 +3,7 @@
 
 \*In your hands, axes are exceptionally lethal.
 
-When you deal damage with an [[Axe]], its weapon damage die increases by one tier:
+When you deal damage with an [[Axe]], its weapon damage die increases by one tier.
 
 - 1d4 becomes 1d6
 - 1d6 becomes 1d8

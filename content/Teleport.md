@@ -14,8 +14,9 @@ _\*3 [[Karat]] of [[Amethyst|Amethysts]], consumed by the [[Spell]]._
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Spacetime Spells V.md\|Spacetime Spells V]] |
 
 ---
 

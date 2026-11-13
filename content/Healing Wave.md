@@ -14,8 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Restoration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Harmony Spells IV.md\|Harmony Spells IV]] |
 
 ---
 

@@ -2,6 +2,7 @@ _Strand of magic that x._
 
 | Spell                                                                           | Casting                                                           | Components  | Mana | Range     | Duration                                                                      |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ----------------------------------------------------------------------------- |
+| [[Legend Lore.md\|Legend Lore]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Reveal Magic.md\|Reveal Magic]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Alarm.md\|Alarm]]                               | 1 minute                                                          | F, V, S     | 1    | 10 metres | 8 hours                                                                       |
 | [[Comprehend Languages.md\|Comprehend Languages]] | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | 1 hour                                                                        |

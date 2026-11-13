@@ -1,5 +1,5 @@
 **Requirements**:: [[Voice of Reason]]
-**Cost**:: 3 LP
+**Cost**:: 2 LP
 
 _Flavour text_.
 

@@ -1,3 +1,5 @@
+_[[Equipment]]_
+
 _In case you need some protection..._
 
 **Description**:: Protective gear that reduces damage and increases survivability in combat.
@@ -31,4 +33,4 @@ _In case you need some protection..._
 
 ---
 
-#keyword #equipment #item_group
+#keyword #equipment #armour #group

@@ -14,8 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Spacetime Spells V.md\|Spacetime Spells V]] |
 
 ---
 

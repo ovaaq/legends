@@ -8,17 +8,17 @@ These spells are added to your [[Divine Spell List]].
 ##### 2nd Level Spells
 
 - [[Aid]]
+- [[Confusion]]
 - [[Detect Thoughts]]
+- [[Enthral]]
+- [[Protective Dome]]
 - [[Healing Spirit]]
-- [[Magic Fruit]]
+- [[Hold Humanoid]]
+- [[Lesser Restoration]]
 - [[Prayer of Healing]]
 - [[Silence]]
 - [[Suggestion]]
 - [[Zone of Truth]]
-- [[Arcane Shield]]
-- [[Enthral]]
-- [[Hold Humanoid]]
-- [[Lesser Restoration]]
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]

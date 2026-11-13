@@ -14,8 +14,9 @@ _\*jar expensive_
 
 **Type**:: [[Warding Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Spacetime Spells V.md\|Spacetime Spells V]] |
 
 ---
 

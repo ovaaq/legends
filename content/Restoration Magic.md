@@ -4,6 +4,7 @@ _Strand of magic that x._
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | --------------------------------------------------------------------------- |
 | [[Cleanse.md\|Cleanse]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Close Wounds.md\|Close Wounds]]               | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres | Instant                                                                     |
+| [[Mass Healing Word.md\|Mass Healing Word]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Cure Wounds.md\|Cure Wounds]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant                                                                     |
 | [[Healing Word.md\|Healing Word]]               | [[Action.md\|Action]]               | V           | 1    | 20 metres | Instant                                                                     |
 | [[Repair.md\|Repair]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | Instant                                                                     |

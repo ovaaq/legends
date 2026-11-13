@@ -11,7 +11,7 @@ These spells are added to your [[Divine Spell List]].
 - [[Blur]]
 - [[Chains of Ice]]
 - [[Disarm Weapons]]
-- [[Force Barrier]]
+- [[Protective Dome]]
 - [[Magic Weapon]]
 - [[Scorching Ray]]
 - [[Shatter]]

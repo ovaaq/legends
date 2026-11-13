@@ -21,10 +21,9 @@ _[[2nd Level Spell]]_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Harmony Spells II.md\|Harmony Spells II]] |
-| [[Nature Spells II.md\|Nature Spells II]]   |
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Nature Spells II.md\|Nature Spells II]] |
 
 ---
 

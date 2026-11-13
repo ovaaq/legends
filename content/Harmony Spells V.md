@@ -1,9 +1,15 @@
 **Requirements**:: [[Harmony Spells IV]] and [[Prayer]] [[Rank]] 5+
-**Cost**:: 1 LP
+**Cost**:: 4 LP
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Divine Spell List]].
+
+##### 5th Level Spells
+
+- [[Modify Memory]]
+- [[Dominate Humanoid]]
+-
 
 **Tree**:: [[Harmony Talent Tree]]
 **Group**:: [[Divine Talent]]

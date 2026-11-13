@@ -40,7 +40,7 @@
 - [[General Skill]]
 - [[Expertise]]
 
-**Check** = d20 + [[Attribute]] + [[General Skill]] + relevant [[Expertise]]
+**[[Skill Check]]** = d20 + [[Attribute]] + [[General Skill]] + relevant [[Expertise]]
 
 For example:
 

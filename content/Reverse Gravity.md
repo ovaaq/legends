@@ -1,4 +1,4 @@
-_[[X Level Spell]]_
+_[[4th Level Spell]]_
 
 **Casting**:: **▶▶▶⚡〇**
 **Components**:: F, V, S, M\*
@@ -14,9 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Spacetime Spells IV.md\|Spacetime Spells IV]] |
 
 ---
 
-#spell #template [[Spell]]
+#spell #4th [[Spell]]

@@ -1,3 +1,5 @@
+_[[Equipment]]_
+
 _Some times you need to hurt someone, real bad..._
 
 Weapons have [[Weapon Property]], they consist of damage types typically [[Physical Damage]]. They have 1-3 actions to attack. and they belong at least one [[Weapon Category]].
@@ -41,7 +43,7 @@ Weapons have [[Weapon Property]], they consist of damage types typically [[Physi
 
 ---
 
-#equipment #weapon oup
+#equipment #weapon
 [[Weapon]]
 **Description**:: Melee and ranged arms used for combat or hunting.
 

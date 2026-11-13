@@ -9,7 +9,6 @@ These spells are added to your [[Spiritual Spell List]].
 
 - [[Animate Dead]]
 - [[Bestow Curse]]
-- [[Vanish]]
 - [[Drain Life]]
 - [[Fear]]
 - [[Feign Death]]
@@ -19,6 +18,7 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Speak with Dead]]
 - [[Spirit Guardians]]
 - [[Summon Spirit]]
+- [[Vanish]]
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

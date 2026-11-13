@@ -2,6 +2,7 @@ Purchasable equipment is divided into categories, shown in the table below.
 
 | Equipment Group                                         | Description                                                                                |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [[Armour.md\|Armour]]     | Protective gear that reduces damage and increases survivability in combat.                 |
 | [[Clothing.md\|Clothing]] | Everyday attire and specialized garments used for travel, social interaction, performance. |
 | [[Weapon.md\|Weapon]]     | Melee and ranged arms used for combat or hunting.                                          |
 

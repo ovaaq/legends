@@ -1,10 +1,10 @@
 _[[6th Level Spell]]_
 
-**Casting**:: [[Triple Action]]
+**Casting**:: 1 minute
 **Components**:: F, V, S, M\*
-**Mana**:: 5
+**Mana**:: 6
 **Range**:: 20 metres
-**Duration**:: Instant
+**Duration**:: 10 minutes
 
 _\*100 grams of [[Gold Dust]], consumed by the spell_
 

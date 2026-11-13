@@ -19,8 +19,9 @@ At the end of each of its [[Turn|Turns]], the target can repeat the [[Constituti
 
 **Type**:: [[Decay Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Harmony Spells IV.md\|Harmony Spells IV]] |
 
 ---
 

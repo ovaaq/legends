@@ -17,6 +17,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Elemental Spells IV.md\|Elemental Spells IV]] |
+| [[Harmony Spells IV.md\|Harmony Spells IV]]     |
 
 ---
 

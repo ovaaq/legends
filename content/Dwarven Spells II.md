@@ -10,7 +10,7 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 - [[Arcane Shield]]
 - [[Continual Flame]]
 - [[Earthbind]]
-- [[Force Barrier]]
+- [[Protective Dome]]
 - [[Heat Metal]]
 - [[Magnetize]]
 - [[Earthen Grasp]]
