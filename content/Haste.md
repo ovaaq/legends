@@ -14,9 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                                     |
-| ------------------------------------------------------------------- |
-| [[War Spells III.md\|War Spells III]] |
+| Related Talents                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Spacetime Spells III.md\|Spacetime Spells III]] |
+| [[War Spells III.md\|War Spells III]]             |
 
 ---
 

@@ -9,7 +9,7 @@ These spells are added to your [[Spiritual Spell List]].
 
 - [[Animate Dead]]
 - [[Bestow Curse]]
-- [[Blink]]
+- [[Vanish]]
 - [[Drain Life]]
 - [[Fear]]
 - [[Feign Death]]

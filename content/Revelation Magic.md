@@ -11,7 +11,7 @@ _Strand of magic that x._
 | [[Guidance.md\|Guidance]]                         | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | 8 hours                                                                       |
 | [[Augury.md\|Augury]]                             | [[Triple Action.md\|Triple Action]] | S, M\*       | 2    | Self      | Instant                                                                       |
 | [[Borrowed Knowledge.md\|Borrowed Knowledge]]     | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 day                                                                         |
-| [[Detect Thoughts.md\|Detect Thoughts]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Detect Thoughts.md\|Detect Thoughts]]           | [[Triple Action.md\|Triple Action]] | F, S        | 2    | 4 metres  | [[Concentration.md\|Concentration]], 1 minute   |
 | [[See Invisibility.md\|See Invisibility]]         | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | 1 hour                                                                        |
 | [[Trace.md\|Trace]]                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Zone of Truth.md\|Zone of Truth]]               | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |

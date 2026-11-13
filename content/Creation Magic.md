@@ -13,7 +13,6 @@ _Definition._
 | [[Hunter's Mark.md\|Hunter's Mark]]                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Infestation.md\|Infestation]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres | Instant                                                                       |
 | [[Mage Hand.md\|Mage Hand]]                             | [[Double Action.md\|Double Action]] | V, S        | 0    | 10 metres | 1 minute                                                                      |
-| [[Magic Fruit.md\|Magic Fruit]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Minor Illusion.md\|Minor Illusion]]                   | [[Triple Action.md\|Triple Action]] | F, S        | 0    | 10 metres | 1 minute                                                                      |
 | [[Poison Spray.md\|Poison Spray]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres  | Instant                                                                       |
 | [[Produce Flame.md\|Produce Flame]]                     | [[Double Action.md\|Double Action]] | V, S        | 0    | Self      | 10 minutes                                                                    |
@@ -50,6 +49,7 @@ _Definition._
 | [[Conceal Magic.md\|Conceal Magic]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Darkness.md\|Darkness]]                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Disarm Weapons.md\|Disarm Weapons]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Magic Fruit.md\|Magic Fruit]]                         | [[Triple Action.md\|Triple Action]] | F, S        | 2    | Self      | Instant                                                                       |
 | [[Mind Whip.md\|Mind Whip]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Mirror Image.md\|Mirror Image]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 minute                                                                      |
 | [[Pass Without Trace.md\|Pass Without Trace]]           | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |

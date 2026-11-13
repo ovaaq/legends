@@ -9,7 +9,6 @@ _Strand of magic that creates things from nothing._
 | [[Ethereal Blade.md\|Ethereal Blade]]       | [[Action.md\|Action]]               | S           | 0    | Self      | 1 hour                                                                      |
 | [[Hunter's Mark.md\|Hunter's Mark]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Infestation.md\|Infestation]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres | Instant                                                                     |
-| [[Magic Fruit.md\|Magic Fruit]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Poison Spray.md\|Poison Spray]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres  | Instant                                                                     |
 | [[Produce Flame.md\|Produce Flame]]         | [[Double Action.md\|Double Action]] | V, S        | 0    | Self      | 10 minutes                                                                  |
 | [[Spiritual Weapon.md\|Spiritual Weapon]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
@@ -28,6 +27,7 @@ _Strand of magic that creates things from nothing._
 | [[Minor Conjuration.md\|Minor Conjuration]] | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | 8 hours                                                                     |
 | [[Chains of Ice.md\|Chains of Ice]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
 | [[Disarm Weapons.md\|Disarm Weapons]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
+| [[Magic Fruit.md\|Magic Fruit]]             | [[Triple Action.md\|Triple Action]] | F, S        | 2    | Self      | Instant                                                                     |
 | [[Mind Whip.md\|Mind Whip]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
 | [[Conjure Building.md\|Conjure Building]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Duplicate.md\|Duplicate]]                 | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instant                                                                     |

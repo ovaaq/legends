@@ -89,6 +89,8 @@
 | [[01 - Projects/3 Game Master/Whale.md\|Whale]]                       | -     | - | -     | -      | -                  |
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
 | [[Wolf.md\|Wolf]]                       | 0      | 10 | 8      | 13      | 7 metres            |
+| [[Skeleton.md\|Skeleton]]               | 1      | 13 | 12     | 8       | 6 metres            |
+| [[Zombie.md\|Zombie]]                   | 1      | 22 | 8      | 8       | 4 metres            |
 | [[Dire Wolf.md\|Dire Wolf]]             | 2      | 45 | 8      | 12      | 12 metres           |
 
 ---

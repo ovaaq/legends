@@ -14,8 +14,9 @@ you can alter its [[Creature Size]] by one so [[Medium]] to [[Small]], or [[Medi
 
 **Type**:: [[Alteration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Spacetime Spells II.md\|Spacetime Spells II]] |
 
 ---
 

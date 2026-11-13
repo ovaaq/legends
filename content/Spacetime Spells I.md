@@ -11,6 +11,16 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 
 #### 1st Level Spells
 
+- [[Misty Step]]
+- [[Gentle Repose]]
+- [[Feather Fall]]
+- [[Call Object]]
+- [[Deflect]]
+- [[Longstrider]]
+- [[Magnify Gravity]]
+- [[Repair]]
+- [[Thunderwave]]
+- [[Wind Step]]
 -
 
 **Tree**:: [[Spacetime Talent Tree]]

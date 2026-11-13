@@ -20,6 +20,7 @@ The object must weigh no more than 5 kg, must be able to fit in one hand, and ca
 | ----------------------------------------------------------------------------- |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
+| [[Spacetime Spells I.md\|Spacetime Spells I]]   |
 
 ---
 

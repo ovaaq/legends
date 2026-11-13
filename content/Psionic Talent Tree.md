@@ -25,3 +25,5 @@
 
 #talent_tree #innate
 [[Talent Tree]]
+
+share memories

@@ -7,6 +7,14 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 
 #### 2nd Level Spells
 
+- [[Transposition]]
+- [[Alter Size]]
+- [[Blur]]
+- [[Displace Object]]
+- [[Force Barrier]]
+- [[Levitate]]
+- [[Rope Trick]]
+- [[Shatter]]
 -
 
 **Tree**:: [[Spacetime Talent Tree]]

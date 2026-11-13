@@ -21,6 +21,7 @@ _\*When a [[Creature]] within range of you falls._
 | [[Beast Spells I.md\|Beast Spells I]]           |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
 | [[Elemental Spells I.md\|Elemental Spells I]]   |
+| [[Spacetime Spells I.md\|Spacetime Spells I]]   |
 
 ---
 

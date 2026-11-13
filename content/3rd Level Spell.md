@@ -3,7 +3,6 @@
 | [[Animate Dead.md\|Animate Dead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Bestow Curse.md\|Bestow Curse]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Blazing Step.md\|Blazing Step]]                       | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instant                                                                                               |
-| [[Blink.md\|Blink]]                                     | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self      | Instant                                                                                               |
 | [[Chain Lightning.md\|Chain Lightning]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 20 metres | Instant                                                                                               |
 | [[Conjure Building.md\|Conjure Building]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Counterspell.md\|Counterspell]]                       | [[Reaction]]\*                                                     | F, V, S     | 3    | 20 metres | Instant                                                                                               |
@@ -26,7 +25,7 @@
 | [[Immovable Object.md\|Immovable Object]]               | [[Triple Action.md\|Triple Action]] | F, S        | 3    | 4 metres  | 1 hour                                                                                                |
 | [[Lethargy.md\|Lethargy]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Lightning Arrow.md\|Lightning Arrow]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
-| [[Magic Limb.md\|Magic Limb]]                           | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul> |
+| [[Magic Limb.md\|Magic Limb]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 10 metres | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul> |
 | [[Major Image.md\|Major Image]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Mana Burn.md\|Mana Burn]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Mana Siphon.md\|Mana Siphon]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
@@ -50,6 +49,7 @@
 | [[Sunlight.md\|Sunlight]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 | [[Thunder Step.md\|Thunder Step]]                       | [[Double Action.md\|Double Action]] | V, S        | 3    | 20 metres | Instant                                                                                               |
 | [[Tongues.md\|Tongues]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
+| [[Vanish.md\|Vanish]]                                   | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self      | Instant                                                                                               |
 | [[Wall of Vines.md\|Wall of Vines]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                               |
 
 ---

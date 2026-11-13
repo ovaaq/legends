@@ -23,6 +23,7 @@ The [[Object]] is restored to its original, undamaged state. Tears seal without 
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Harmony Spells I.md\|Harmony Spells I]]       |
+| [[Spacetime Spells I.md\|Spacetime Spells I]]   |
 
 ---
 

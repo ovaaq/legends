@@ -17,6 +17,7 @@ You can bring along objects as long as their weight doesn’t exceed what you ca
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells IV.md\|Afterlife Spells IV]] |
+| [[Spacetime Spells IV.md\|Spacetime Spells IV]] |
 
 ---
 

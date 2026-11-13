@@ -22,6 +22,7 @@ In addition, unsecured objects that are completely within the area of effect are
 | [[Divination Spells I.md\|Divination Spells I]] |
 | [[Elemental Spells I.md\|Elemental Spells I]]   |
 | [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Spacetime Spells I.md\|Spacetime Spells I]]   |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 
 ---

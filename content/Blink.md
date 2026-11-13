@@ -1,21 +1,22 @@
-_[[3rd Level Spell]]_
+_[[X Level Spell]]_
 
-**Casting**:: [[Reaction]]
-**Components**:: F, V, S
-**Mana**:: 3
-**Range**:: Self
+**Casting**:: **▶▶▶⚡〇**
+**Components**:: F, V, S, M\*
+**Mana**:: 0
+**Range**:: 20 metres
 **Duration**:: Instant
 
-**Effect**:: You disappear, causing [[Attack|Attacks]] against you to automatically miss and allowing you to automatically avoid harmful area effects. Other magical effects and [[Spell|Spells]] resolve before you disappear. While gone, you cannot take any actions. You reappear in the same space at the start of your next [[Turn]].
+_\*100 grams of [[Gold Dust]], consumed by the spell_
 
-**Upcasting**:: For each additional 2 mana spent, the duration which you are gone increases by 1 [[Turn]]. You can upcast the spell with a maximum of 4 extra mana.
+**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
 
-**Type**:: [[Distortion Magic]]
+**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 
-| Related Talents                                                                 |
-| ------------------------------------------------------------------------------- |
-| [[Afterlife Spells III.md\|Afterlife Spells III]] |
+**Type**:: [[Conjuration Magic]]
+
+| Related Talents |
+| --------------- |
 
 ---
 
-#spell #3rd  [[Spell]]
+#spell #template [[Spell]]

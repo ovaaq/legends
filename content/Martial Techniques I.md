@@ -7,6 +7,7 @@ The following [[1st Level Martial Technique|1st Level Martial techniques]] are u
 
 | 1st Level Martial Techniques                                                    | Execution                                                         | Stamina | Range     | Weapon                                                | Type                                                                          |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[Backstab 1.md\|Backstab 1]]                     | **▶▶▶⚡〇**                                                         | 0       | Melee     | Bludgeoning                                           | -                                                                            |
 | [[Bait and Switch.md\|Bait and Switch]]           | [[Action.md\|Action]]               | 1       | 1 metre   | None                                                  | [[Support Technique.md\|Support Technique]]     |
 | [[Blockade.md\|Blockade]]                         | [[Action.md\|Action]]               | 1       | Melee     | [[Polearm.md\|Polearm]] | [[Support Technique.md\|Support Technique]]     |
 | [[Brute Strike.md\|Brute Strike]]                 | [[Free Action]]\*                                                  | 1       | Melee     | [[Heavy.md\|Heavy]]     | [[Offensive Technique.md\|Offensive Technique]] |
@@ -37,6 +38,7 @@ The following [[1st Level Martial Technique|1st Level Martial techniques]] are u
 | [[Taunting Strike.md\|Taunting Strike]]           | [[Free Action]]\*                                                  | 1       | 4 metres  | Any                                                   | [[Support Technique.md\|Support Technique]]     |
 | [[Trick Shot.md\|Trick Shot]]                     | [[Action.md\|Action]]               | 1       | Range     | [[Ranged]] or [[Thrown]]                              | [[Offensive Technique.md\|Offensive Technique]] |
 | [[Trip Attack.md\|Trip Attack]]                   | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                   | [[Offensive Technique.md\|Offensive Technique]] |
+| [[Whirlwind.md\|Whirlwind]]                       | **▶▶▶⚡〇**                                                         | 0       | Melee     | Bludgeoning                                           | -                                                                            |
 | [[Withdrawing Strike.md\|Withdrawing Strike]]     | [[Free Action]]\*                                                  | 1       | Melee     | Any                                                   | [[Defensive Technique.md\|Defensive Technique]] |
 
 **Tree**:: [[Martial Talent Tree]]

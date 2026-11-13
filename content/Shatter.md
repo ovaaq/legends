@@ -14,9 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                   |
-| ----------------------------------------------------------------- |
-| [[War Spells II.md\|War Spells II]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Spacetime Spells II.md\|Spacetime Spells II]] |
+| [[War Spells II.md\|War Spells II]]             |
 
 ---
 

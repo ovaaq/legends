@@ -20,6 +20,7 @@ _\*When someone makes an [[Attack]] towards you._
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Life Spells I.md\|Life Spells I]]             |
+| [[Spacetime Spells I.md\|Spacetime Spells I]]   |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 | [[War Spells I.md\|War Spells I]]               |
 

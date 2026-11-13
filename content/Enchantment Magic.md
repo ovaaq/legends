@@ -22,7 +22,6 @@ _Strand of magic that x._
 | [[Command.md\|Command]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | Instant                                                                       |
 | [[Dissonant Whispers.md\|Dissonant Whispers]]       | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres | Instant                                                                       |
 | [[Hex.md\|Hex]]                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 hour     |
-| [[Hold Humanoid.md\|Hold Humanoid]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Influence Emotion.md\|Influence Emotion]]         | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 20 metres | 1 hour                                                                        |
 | [[Longstrider.md\|Longstrider]]                     | [[Action.md\|Action]]               | F, V, S     | 1    | Touch     | 1 hour                                                                        |
 | [[Sleep.md\|Sleep]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 hour     |
@@ -32,6 +31,7 @@ _Strand of magic that x._
 | [[Enhance Ability.md\|Enhance Ability]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Enthral.md\|Enthral]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 10 minutes                                                                    |
 | [[Fire Breath.md\|Fire Breath]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Hold Humanoid.md\|Hold Humanoid]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Phantasmal Force.md\|Phantasmal Force]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Suggestion.md\|Suggestion]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 8 hours                                                                       |
 | [[Fast Friends.md\|Fast Friends]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |

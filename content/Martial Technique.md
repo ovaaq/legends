@@ -1,5 +1,6 @@
 | Martial Techniques                                                                |
 | --------------------------------------------------------------------------------- |
+| [[Backstab 1.md\|Backstab 1]]                       |
 | [[Bait and Switch.md\|Bait and Switch]]             |
 | [[Blockade.md\|Blockade]]                           |
 | [[Brute Strike.md\|Brute Strike]]                   |
@@ -31,6 +32,7 @@
 | [[Taunting Strike.md\|Taunting Strike]]             |
 | [[Trick Shot.md\|Trick Shot]]                       |
 | [[Trip Attack.md\|Trip Attack]]                     |
+| [[Whirlwind.md\|Whirlwind]]                         |
 | [[Withdrawing Strike.md\|Withdrawing Strike]]       |
 
 ---

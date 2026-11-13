@@ -17,6 +17,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Elemental Spells III.md\|Elemental Spells III]] |
+| [[Spacetime Spells III.md\|Spacetime Spells III]] |
 
 ---
 

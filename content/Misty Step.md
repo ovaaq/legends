@@ -12,9 +12,10 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Distortion Magic]]
 
-| Related Talents                                               |
-| ------------------------------------------------------------- |
-| [[Shadow Step.md\|Shadow Step]] |
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Shadow Step.md\|Shadow Step]]               |
+| [[Spacetime Spells I.md\|Spacetime Spells I]] |
 
 ---
 

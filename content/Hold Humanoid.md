@@ -2,7 +2,7 @@ _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
-**Mana**:: 1
+**Mana**:: 2
 **Range**:: 20 metres
 **Duration**:: [[Concentration]], 1 minute
 

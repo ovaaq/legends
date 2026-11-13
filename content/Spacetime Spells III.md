@@ -7,6 +7,19 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 
 #### 3rd Level Spells
 
+- [[Vanish]]
+- [[Blazing Step]]
+- [[Fly]]
+- [[Haste]]
+- [[Immovable Object]]
+- [[Melt into Stone]]
+- [[Pulse]]
+- [[Sending]]
+- [[Thunder Step]]
+- [[Slow]]
+- [[Gravity Well]]
+- [[Gravity hard to walk area]]
+- [[Nearest Summoning Stone]]
 -
 
 **Tree**:: [[Spacetime Talent Tree]]
