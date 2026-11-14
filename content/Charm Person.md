@@ -12,18 +12,13 @@ On a failed save, the target gains the [[Charmed]] condition for the duration. T
 
 While [[Charmed]] by this spell, the target is [[Friendly]] toward you. When the spell ends, the target knows it was [[Charmed]] by you.
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Humanoid]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, you can target one additional [[Humanoid]].HOUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Enchantment Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Arcane Spells I.md\|Arcane Spells I]]         |
-| [[Divination Spells I.md\|Divination Spells I]] |
-| [[Elven Spells I.md\|Elven Spells I]]           |
-| [[Harmony Spells I.md\|Harmony Spells I]]       |
-| [[Vampire Spells I.md\|Vampire Spells I]]       |
-
----
-
-#spell #1st [[Spell]]
+___
+#spell #1st [[Spell|]]
+```

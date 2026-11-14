@@ -25,7 +25,7 @@ Choose one of the d12s rolled. The number on that die determines the attack's [[
 |   11   |   [[Shadow Damage]]    |
 |   12   |   [[Radiant Damage]]   |
 
-**Upcasting**:: For each additional 2 mana spent, the damage increases by 1d12. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional mana spent, the damage increases by 1d12.
 
 **Type**:: [[Evocation Magic]]
 

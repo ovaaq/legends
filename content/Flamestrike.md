@@ -8,13 +8,13 @@ _[[5th Level Spell]]_
 
 **Effect**:: 10d4, funny shape
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.OUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Evocation Magic]]
+```
 
-| Related Talents |
-| --------------- |
-
----
-
-#spell #5th [[Spell]]
+___
+#spell #5th [[Spell|]]
+```

@@ -8,7 +8,7 @@ _[[2nd Level Spell]]_
 
 **Effect**:: Your spell bolsters your allies with toughness and resolve. Choose up to three [[Creature|Creatures]] within range. Each target's [[Hit Point Maximum]] and current [[Hit Point|Hit Points]] increase by 5 for the duration.
 
-**Upcasting**:: For each 2 additional mana spent, the [[Hit Point Maximum]] increases by 5. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional mana spent, the [[Hit Point Maximum]] increases by 5.
 
 **Type**:: [[Warding Magic]]
 

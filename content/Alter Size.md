@@ -10,7 +10,7 @@ _[[2nd Level Spell]]_
 
 you can alter its [[Creature Size]] by one so [[Medium]] to [[Small]], or [[Medium]] to [[Large]] for eg.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 3 additional mana spent, size gategory moves one extra step.
 
 **Type**:: [[Alteration Magic]]
 

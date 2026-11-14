@@ -10,7 +10,7 @@ _[[3rd Level Spell]]_
 
 You have [[Advantage]] against [[Creature|Creatures]] wearing [[Metallic]] [[Armour]] or carrying a significant amount of [[Metal]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d4. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, the damage increases by 1d4.
 
 **Type**:: [[Evocation Magic]]
 

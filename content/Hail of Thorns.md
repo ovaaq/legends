@@ -13,7 +13,7 @@ _[[1st Level Spell]]_
 **Failure:** The target takes 2d6 [[Piercing Damage]].
 **Critical Failure:** The target takes double damage.
 
-**Upcasting**:: For each additional 2 mana spent, the damage increases by 1d4. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each additional 2 mana spent, the damage increases by 1d4.
 
 **Type**:: [[Conjuration Magic]]
 

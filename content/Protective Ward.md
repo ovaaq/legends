@@ -12,7 +12,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, roll an additional 1d6 per spell slot used when rolling for reducing the damage of your marked creature and the damage you take when your marked creature takes damage.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Conjuration Magic]]
 

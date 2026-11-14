@@ -10,10 +10,4 @@ _[[3rd Level Spell]]_
 
 For the spell’s duration, or until you use an action to touch the target and dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target’s status. The target is blinded and incapacitated, and its speed drops to 0. The target has resistance to all damage except psychic damage. If the target is diseased or poisoned when you cast the spell, or becomes diseased or poisoned while under the spell’s effect, the disease and poison have no effect until the spell ends.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
-
-**Type**:: [[Projection Magic]]
-
----
-
-#spell #3rd   [[Spell]]
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.pell|]]

@@ -15,7 +15,7 @@ _[[1st Level Spell]]_
 
 Whenever a target with Bane Die must make an [[Attack Roll]] or [[Saving Throw]], the target must subtract the Bane Dice from the [[Attack Roll]] or [[Saving Throw]].
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, you can target one additional [[Creature]].
 
 **Type**:: [[Enchantment Magic]]
 

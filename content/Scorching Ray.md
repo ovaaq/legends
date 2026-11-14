@@ -6,9 +6,9 @@ _[[2nd Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-**Effect**:: 3 bolts of 3d4 [[Fire Damage]]
+**Effect**:: Create three rays of fire and hurl each at a target within range. The rays can target the same or different targets. Make a [[Ranged Spell Attack]] for each ray. On a hit, a ray deals 3d4 [[Fire Damage]].
 
-**Upcasting**:: For each additional 2 mana spent, the one bolt more. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each additional 2 mana spent, create one additional ray.
 
 **Type**:: [[Evocation Magic]]
 

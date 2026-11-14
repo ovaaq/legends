@@ -8,10 +8,4 @@ _[[Cantrip]]_
 
 **Effect**:: You create a lash of lightning energy that strikes at one [[Creature]] within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and is pulled 2 meters towards you if its is [[Large]] or smaller. On a [[Critical Hit]], the target is pulled 4 meters, or 2 meters if its is [[Large]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
-
-**Type**:: [[Evocation Magic]]
-
----
-
-#spell #cantrip  [[Spell]]
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.\[Spell|]]

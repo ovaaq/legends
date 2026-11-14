@@ -15,14 +15,13 @@ _[[3rd Level Spell]]_
 
 At the end of each of its [[Turn|Turns]], the target can repeat the [[Constitution Saving Throw]]. On a success, [[Feeble]] ends.
 
-**Upcasting**:: For 3 additional mana spent you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For 3 additional mana spent you can target one additional [[Creature]].D file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Decay Magic]]
+```
 
-| Related Talents                                                           |
-| ------------------------------------------------------------------------- |
-| [[Harmony Spells IV.md\|Harmony Spells IV]] |
-
----
-
-#spell #3rd[[Spell]]
+___
+#spell #3rd[[Spell|]]
+```

@@ -10,14 +10,13 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Effect**:: on failure targets next turn is skipped as targed freezes for a moment
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.HOUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Distortion Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Spacetime Spells IV.md\|Spacetime Spells IV]] |
-
----
-
-#spell #4th  [[Spell]]
+___
+#spell #4th  [[Spell|]]
+```

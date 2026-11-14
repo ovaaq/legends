@@ -3,7 +3,6 @@ _Strand of magic that x._
 | Spell                                                                 | Casting                                                           | Components  | Mana | Range     | Duration |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | -------- |
 | [[Destroy Water.md\|Destroy Water]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant  |
-| [[Silence.md\|Silence]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant  |
 | [[Counterspell.md\|Counterspell]]       | [[Reaction]]\*                                                     | F, V, S     | 3    | 20 metres | Instant  |
 | [[Destroy Object.md\|Destroy Object]]   | [[Reaction]]\*                                                     | F, V, S, M\* | 3    | 20 metres | Instant  |
 | [[Dispel Magic.md\|Dispel Magic]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant  |

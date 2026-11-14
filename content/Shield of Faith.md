@@ -8,7 +8,7 @@ _[[1st Level Spell]]_
 
 **Effect**:: A shimmering field surrounds a [[Creature]] you can see within range, granting it a +2 bonus to [[Armour Class]] for the duration.
 
-**Upcasting**:: For each additional 2 mana spent, bonus to [[Armour Class]] increases by 1. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each additional 2 mana spent, bonus to [[Armour Class]] increases by 1.
 
 **Type**:: [[Warding Magic]]
 

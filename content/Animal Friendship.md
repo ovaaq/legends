@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 While the target is [[Charmed]], you have [[Advantage]] on [[Animal Handling]] [[Check|Checks]] made to interact with it.
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Natural Beast]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, you can target one additional [[Natural Beast]].
 
 **Type**:: [[Enchantment Magic]]
 

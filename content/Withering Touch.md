@@ -8,15 +8,13 @@ _[[Cantrip]]_
 
 **Effect**:: You channel magic, collecting necrotic energy on your palm. Make a [[Touch Spell Attack]] against a [[Creature]] within reach. On a hit, the target takes 1d8 [[Necrotic Damage]]. If target is [[Bloodied]] you deal additional 1d8 [[Necrotic Damage]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Decay Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Afterlife Spells I.md\|Afterlife Spells I]]   |
-| [[Spellblade Spells I.md\|Spellblade Spells I]] |
-
----
-
-#spell #cantrip  [[Spell]]
+___
+#spell #cantrip  [[Spell|]]
+```

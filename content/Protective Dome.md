@@ -12,17 +12,13 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 The wall is an object that can be damaged and thus breached. It has AC 12 and 30 Hit Points per 10-foot section, and it has Immunity to [[Poison Damage]], and [[Psychic Damage]]. Reducing a 10-foot section of wall to 0 Hit Points destroys it and leaves behind a sheet of frigid air in the space the wall occupied.
 
-**Upcasting**:: For each additional mana spent, Hit Points increases by 10. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, Hit Points increases by 10. ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Warding Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Dwarven Spells II.md\|Dwarven Spells II]]     |
-| [[Harmony Spells II.md\|Harmony Spells II]]     |
-| [[Spacetime Spells II.md\|Spacetime Spells II]] |
-| [[War Spells II.md\|War Spells II]]             |
-
----
-
-#spell #2nd  [[Spell]]
+___
+#spell #2nd  [[Spell|]]
+```

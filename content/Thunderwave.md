@@ -12,7 +12,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Evocation Magic]]
 

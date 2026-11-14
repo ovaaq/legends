@@ -12,15 +12,10 @@ _[[Cantrip]]_
 **Failure:** Target takes 1d6 [[Acid Damage]].
 **Critical Failure:** Target takes 1d6 [[Acid Damage]] and is [[Blinded]] until the start of your next turn.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.e ASC
 
-**Type**:: [[Conjuration Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
-| [[Innate Spells I.md\|Innate Spells I]]         |
-
----
-
-#spell #cantrip  [[Spell]]
+___
+#spell #cantrip  [[Spell|]]
+```

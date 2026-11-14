@@ -10,17 +10,13 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Effect**:: Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 damage on a hit. Whether you hit or miss, your [[Walking Speed]] is doubled until the end of that turn.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.HOUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Distortion Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Beast Spells I.md\|Beast Spells I]]           |
-| [[Draconic Spells I.md\|Draconic Spells I]]     |
-| [[Spellblade Spells I.md\|Spellblade Spells I]] |
-| [[War Spells I.md\|War Spells I]]               |
-
----
-
-#spell #1st  [[Spell]]
+___
+#spell #1st  [[Spell|]]
+```

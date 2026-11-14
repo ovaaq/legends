@@ -12,7 +12,7 @@ _[[Cantrip]]_
 **Failure:**  A target takes takes 1d6 [[Psychic Damage]] and subtracts 1d4 from the next [[Saving Throw]] it makes before the end of your next [[Turn]].
 **Critical Failure:** A target takes takes 1d6 [[Psychic Damage]] and is [[Confused]] until the start of your next turn.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Enchantment Magic]]
 

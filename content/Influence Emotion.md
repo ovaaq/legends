@@ -14,7 +14,7 @@ _[[1st Level Spell]]_
 
 Soothe calms fear, hostility, and agitation, while Riot heightens anger, aggression, and irritation.
 
-**Upcasting**:: For each additional mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the radius increases by 1 metre.
 
 **Type**:: [[Enchantment Magic]]
 

@@ -18,7 +18,7 @@ _\*[[Divination Tools]]._
 
 The omen reveals the most prominent outcome. Each casting after the first before your next [[Long Rest]] has a cumulative 25% chance to produce a random omen.
 
-**Upcasting**:: For every 2 additional mana spent, you receive one additional omen. The [[Game Master|GM]] reveals them in order of prominence. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional mana spent, you receive one additional omen. The [[Game Master|GM]] reveals them in order of prominence.
 
 **Type**:: [[Revelation Magic]]
 

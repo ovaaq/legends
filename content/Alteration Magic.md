@@ -9,13 +9,11 @@ _Strand of magic that x._
 | [[Prestidigitation.md\|Prestidigitation]] | [[Triple Action.md\|Triple Action]] | S, V        | 0    | 2 metres  | 1 hour                                                                      |
 | [[Shape Earth.md\|Shape Earth]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres | Instant                                                                     |
 | [[Thaumaturgy.md\|Thaumaturgy]]           | [[Double Action.md\|Double Action]] | V           | 0    | 10 metres | 1 minute                                                                    |
-| [[Venom Fang.md\|Venom Fang]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | Melee     | Instant                                                                     |
 | [[Alter Object.md\|Alter Object]]         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |
 | [[Alter Self.md\|Alter Self]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                     |
 | [[Alter Size.md\|Alter Size]]             | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
 | [[Beast Sense.md\|Beast Sense]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
 | [[Consume Soul.md\|Consume Soul]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
-| [[Scrying.md\|Scrying]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
 
 ---
 

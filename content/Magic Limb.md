@@ -10,7 +10,7 @@ _\*2 [[Karat]] of [[Diamond]], consumed by the [[Spell]]._
 
 **Effect**:: Makes spectral limb that works like normal with some twist.
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]].
 
 **Type**:: [[Restoration Magic]]
 

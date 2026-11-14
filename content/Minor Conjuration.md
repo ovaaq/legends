@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 A [[Creature]] can make an [Arcana](Arcana) [Check](Check) against your [Spell Save DC](Spell%20Save%20DC) to determine that the [Object](Object) is temporarily conjured. [[Detect Magic]] reveals the [[Object]] as [[Magical]].
 
-**Upcasting**:: For each additional mana spent, the weight limit increases by 5 kg. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the weight limit increases by 5 kg.
 
 **Type**:: [[Conjuration Magic]]
 

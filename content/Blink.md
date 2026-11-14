@@ -10,7 +10,7 @@ _[[3rd Level Spell]]_
 
 While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creature that aren't there can't perceive you or interact with you, unless they have the ability to do so.
 
-**Upcasting**:: For each additional 2 mana spent, the duration which you are gone increases by 1 [[Turn]]. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each additional 2 mana spent, the duration which you are gone increases by 1 [[Turn]].
 
 **Type**:: [[Distortion Magic]]
 

@@ -13,7 +13,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a [[Creature]] must take the [[Inspect]] action to study your appearance and succeed on an [[Investigation]] [[Check]] against your [[Spell Save DC]].
 
-**Upcasting**:: For each additional mana spent, the [[Spell Save DC]] increases by 1. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the [[Spell Save DC]] increases by 1.
 
 **Type**:: [[Projection Magic]]
 

@@ -10,7 +10,7 @@ _\*When someone makes an [[Attack]] towards you._
 
 **Effect**:: A magical barrier surrounds you, protecting you from harm. Reduce the incoming [[Attack Roll]] by an amount equal to your [[Sorcery]].
 
-**Upcasting**:: For each additional mana spent, the [[Attack Roll]] reduction increases by 1. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the [[Attack Roll]] reduction increases by 1.
 
 **Type**:: [[Warding Magic]]
 

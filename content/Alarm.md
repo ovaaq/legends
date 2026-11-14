@@ -12,7 +12,7 @@ _[[1st Level Spell]]_
 
 **Mental Alarm.** You are alerted by a mental ping if you are within 2 kilometres of the warded area. This ping awakens you if you’re asleep.
 
-**Upcasting**:: For each additional mana spent, the range of mental alarm or the spell duration is doubled. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Revelation Magic]]
 

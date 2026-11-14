@@ -12,7 +12,7 @@ _\*[[Crystal Ball]]_
 
 If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 30 feet of the target. Make an [[Ranged Spell Attack]] against the new target, and make a new damage roll.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Evocation Magic]]
 

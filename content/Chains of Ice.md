@@ -17,7 +17,7 @@ A [[Stuck]] or [[Restrained]] [[Creature]] can use a [[Double Action]] to make a
 
 As an [[Action]] you can pull [[Restrained]] [[Creature]] 2 metres towards you.
 
-**Upcasting**:: For each additional two mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional two mana spent, you can target one additional [[Creature]].
 
 **Type**:: [[Conjuration Magic]]
 

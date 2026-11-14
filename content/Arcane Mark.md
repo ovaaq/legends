@@ -15,7 +15,7 @@ _[[Cantrip]]_
 
 If you cast this [[Spell]] multiple times, you can have up to three of its effects active at a time.
 
-**Upcasting**:: For each additional mana spent, the duration increases by 7 days. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, the duration increases by 7 days.
 
 **Type**:: [[Alteration Magic]]
 

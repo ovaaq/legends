@@ -8,7 +8,7 @@ _[[Cantrip]]_
 
 **Effect**:: You shoot a bolt of acid at a target within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 2d6 [[Acid Damage]]. An [[Object]] hit by this starts to dissolve if it isn’t being worn or carried.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Conjuration Magic]]
 

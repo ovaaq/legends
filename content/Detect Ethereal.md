@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 The spell is blocked by 30 centimetres of stone, dirt, or wood; 2.5 centimetres of metal; or a thin sheet of lead.
 
-**Upcasting**:: For each additional mana spent, the range increases by 4 meters. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the range increases by 4 meters.
 
 **Type**:: [[Revelation Magic]]
 

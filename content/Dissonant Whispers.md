@@ -15,7 +15,7 @@ _[[1st Level Spell]]_
 
 On a [[Failure]], the target uses its [[Reaction]], to move away from you for it's [[Walking Speed]]. The target doesn't move into obviously dangerous terrain.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Enchantment Magic]]
 

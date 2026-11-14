@@ -14,7 +14,7 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
-**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Creature]]. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Creature]].
 
 **Type**:: [[Enchantment Magic]]
 

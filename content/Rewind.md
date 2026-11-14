@@ -10,7 +10,7 @@ _\*5 [[Karat]] of [[Amethyst]], consumed by the [[Spell]]._
 
 **Effect**:: Travel back 10 minutes. You stay as is, but everything else changes back.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Distortion Magic]]
 

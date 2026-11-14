@@ -8,7 +8,7 @@ _[[1st Level Spell]]_
 
 **Effect**:: You touch a [[Creature]]. The target’s [[Walking Speed]] increases by 2 metres until the spell ends.
 
-**Upcasting**:: For each additional mana spent, [[Walking Speed]] increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, [[Walking Speed]] increases by 1 metre.
 
 **Type**:: [[Enchantment Magic]]
 

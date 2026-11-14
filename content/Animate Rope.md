@@ -13,7 +13,7 @@ _\*[[Rope]]._
 
 The spell lasts until the rope is destroyed or the spell ends, at which point the rope becomes [[Non-magical]] and inanimate once more.
 
-**Upcasting**:: For each additional mana spent, the you can animate one additional rope. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, the you can animate one additional rope.
 
 **Type**:: [[Enchantment Magic]]
 

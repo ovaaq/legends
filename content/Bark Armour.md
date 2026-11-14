@@ -8,7 +8,7 @@ _[[1st Level Spell]]_
 
 **Effect**:: Protective bark grows across your body. When you cast this spell and at the start of each of your [[Turn|Turns]] for the duration, you gain 2 [[Temporary Hit Point|Temporary Hit Points]].
 
-**Upcasting**:: For each additional mana spent, the amount of [[Temporary Hit Point|Temporary Hit Points]] gained increases by 1. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, the amount of [[Temporary Hit Point|Temporary Hit Points]] gained increases by 1.
 
 **Type**:: [[Conjuration Magic]]
 

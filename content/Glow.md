@@ -10,7 +10,7 @@ _[[Cantrip]]_
 
 If you target an [[Object]] held or worn by a hostile [[Creature]], that [[Creature]] must succeed on a [[Agility Saving Throw]] to avoid the spell.
 
-**Upcasting**:: For each additional mana spent, the duration increases by 2 hours. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, the radius of [[Bright Light]] and [[Dim Light]] increase by 1 metre.
 
 **Type**:: [[Projection Magic]]
 

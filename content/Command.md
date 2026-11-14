@@ -18,7 +18,7 @@ _[[1st Level Spell]]_
 
 **Halt.** On its turn, the target doesn’t move and takes no [[Action|Actions]].
 
-**Upcasting**:: For each additional mana spent, you can affect one additional [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, you can affect one additional [[Creature]].
 
 **Type**:: [[Enchantment Magic]]
 

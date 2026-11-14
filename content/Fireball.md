@@ -15,7 +15,7 @@ _[[3rd Level Spell]]_
 
 A [[Flammable]] [[Object]] hit by this spell ignites if it isn’t being worn or carried.
 
-**Upcasting**:: For each additional 2 mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each additional 2 mana spent, the radius increases by 1 metre.
 
 **Type**:: [[Evocation Magic]]
 

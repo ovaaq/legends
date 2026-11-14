@@ -14,7 +14,7 @@ On each of your [turns](https://roll20.net/compendium/dnd5e/Combat#toc_5), you 
 
 [[Zombie]] or [[Skeleton]]
 
-**Upcasting**:: For each additional mana spent, the [[Hit Point|Hit Points]] of [[Undead]] [[Creature]] increases by 5 and [[Attack]] get +1 bonus. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, the [[Hit Point|Hit Points]] of [[Undead]] [[Creature]] increases by 5 and [[Attack]] get +1 bonus.
 
 **Type**:: [[Summon Magic]]
 

@@ -10,26 +10,20 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.OUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Evocation Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
-| [[Draconic Spells I.md\|Draconic Spells I]]     |
-| [[Dwarven Spells I.md\|Dwarven Spells I]]       |
-| [[Elemental Spells I.md\|Elemental Spells I]]   |
-| [[Innate Spells I.md\|Innate Spells I]]         |
-
----
-
-#spell #1st [[Spell]]
+___
+#spell #1st [[Spell|]]
 
 **CAST TIME**: ▶▶▶
 **MANA**: 0
 **RANGE**: Self
-**SPELL PARTS**: F, V, S, M\*
+**SPELL PARTS**: F, V, S, M*
 **LEVEL**: [[1st Level Spell]]
 **DURATION**: Instant
 
@@ -39,4 +33,5 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **UPCASTING**: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
 
-_[[Elemental Magic]]_
+ *[[Elemental Magic]]*
+```

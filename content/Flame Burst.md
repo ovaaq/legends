@@ -13,7 +13,7 @@ _[[Cantrip]]_
 
 A [[Flammable]] [[Object]] hit by this spell ignites if it isn’t being worn or carried.
 
-**Upcasting**:: For each additional two mana spent, the damage increases by 1d4. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 2 additional two mana spent, the damage increases by 1d4.
 
 **Type**:: [[Evocation Magic]]
 

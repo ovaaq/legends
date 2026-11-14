@@ -8,14 +8,13 @@ _[[Cantrip]]_
 
 **Effect**:: You conjure spray of poison towards creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d12 [[Poison Damage]]. If you score a [[Critical Hit]] the target is [[Poisoned]] until the start your next turn.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.THOUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Conjuration Magic]]
+```
 
-| Related Talents                                                       |
-| --------------------------------------------------------------------- |
-| [[Innate Spells I.md\|Innate Spells I]] |
-
----
-
-#spell #cantrip [[Spell]]
+___
+#spell #cantrip [[Spell|]]
+```

@@ -10,7 +10,7 @@ _[[2nd Level Spell]]_
 
 An affected [[Creature]] is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a [[Creature]] can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-**Upcasting**:: For each additional mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the radius increases by 1 metre.
 
 **Type**:: [[Revelation Magic]]
 

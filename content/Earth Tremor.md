@@ -10,16 +10,13 @@ _\*When someone makes an [[Attack]] towards you._
 
 **Effect**:: A magical barrier surrounds you, protecting you from harm. Reduce the incoming [[Attack Roll]] by an amount equal to your [[Sorcery]] Score.
 
-**Upcasting**:: For each additional mana spent, the [[Attack Roll]] reduction increases by 1. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the [[Attack Roll]] reduction increases by 1. ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Warding Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Dwarven Spells I.md\|Dwarven Spells I]]       |
-| [[Elemental Spells I.md\|Elemental Spells I]]   |
-| [[Spellblade Spells I.md\|Spellblade Spells I]] |
-
----
-
-#spell #1st   [[Spell]]
+___
+#spell #1st   [[Spell|]]
+```

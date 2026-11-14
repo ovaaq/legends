@@ -10,7 +10,7 @@ _[[Cantrip]]_
 
 If you score a [[Critical Hit]] the target is [[Muted]] until the start of your next turn.
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Conjuration Magic]]
 

@@ -15,7 +15,7 @@ _[[2nd Level Spell]]_
 
 In addition, one [[Creature]] of your choice in that area regains [[Hit Point|Hit Points]] equalling half the total damage dealt.
 
-**Upcasting**:: For each additional two mana spent, the radius increases by 1 metre. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 1 additional mana spentthe radius increases by 1 metre.
 
 **Type**:: [[Distortion Magic]]
 

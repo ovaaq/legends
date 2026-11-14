@@ -8,7 +8,7 @@ _[[2nd Level Spell]]_
 
 **Effect**:: For the duration, you see [[Invisible]] [[Creature|Creatures]] and [[Object|Objects]] as if they were visible, and you can see into the [[Ethereal Plane]]. [[Ethereal]] [[Creature|Creatures]] and [[Object|Objects]] appear ghostly and translucent.
 
-**Upcasting**:: For each additional mana spent, the duration increases by 1 hour. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the duration increases by 1 hour.
 
 **Type**:: [[Revelation Magic]]
 

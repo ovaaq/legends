@@ -13,7 +13,7 @@ The servant has 5 [[Hit Point|Hit Points]], [[Armour Class]] 8, [[Evasion Class]
 
 As an [[Action]], you can mentally command the servant to move up to 3 metres and interact with an [[Object]]. It can perform simple tasks that a human servant could do, such as fetching items, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once commanded, the servant carries out the task to the best of its ability until completed, then waits for your next command.
 
-**Upcasting**:: For each additional mana spent, the amount of servants increases by 1. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the amount of servants increases by 1.
 
 **Type**:: [[Summon Magic]]
 

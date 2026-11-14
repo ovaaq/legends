@@ -15,7 +15,7 @@ _[[2nd Level Spell]]_
 
 At the end of each of its turns, the target can make another [[Charisma Saving Throw]]. On a success, the spell ends on the target.
 
-**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Humanoid]]. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Humanoid]].
 
 **Type**:: [[Enchantment Magic]]
 

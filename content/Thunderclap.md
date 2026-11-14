@@ -12,7 +12,7 @@ _[[Cantrip]]_
 **Failure:** Target takes 1d6 [[Lightning Damage]].
 **Critical Failure:** Target takes 1d6 [[Lightning Damage]] and is [[Deafened]] until the start of your next turn.
 
-**Upcasting**:: For each additional two mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 2 additional mana spent, the damage increases by 1d6.
 
 **Type**:: [[Evocation Magic]]
 

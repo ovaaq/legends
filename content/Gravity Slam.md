@@ -12,7 +12,7 @@ _[[Cantrip]]_
 **Failure:** Target takes 1d8 [[Bludgeoning Damage]].
 **Critical Failure:** Target takes 1d8 [[Bludgeoning Damage]] and drops [[Prone]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Distortion Magic]]
 

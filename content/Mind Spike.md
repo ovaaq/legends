@@ -13,7 +13,7 @@ _[[2nd Level Spell]]_
 **Failure:** A target takes 3d8 [[Psychic Damage]].
 **Critical Failure:** A target takes double the damage and gains [[Dazed]] until the start of your [[Turn]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Distortion Magic]]
 

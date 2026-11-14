@@ -8,7 +8,7 @@ _[[2nd Level Spell]]_
 
 **Effect**:: Each [[Creature]] of your choice within range regains [[Hit Point|Hit Points]] equal to 2d6 + [[Sorcery]].
 
-**Upcasting**:: For each additional mana spent, the healing increases by 1d4. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the healing increases by 1d4.
 
 **Type**:: [[Restoration Magic]]
 

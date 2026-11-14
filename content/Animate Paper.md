@@ -15,7 +15,7 @@ While animated, a piece of parchment can:
 - Fly up to 5 metres per turn.
 - Follow simple verbal commands from you.
 
-**Upcasting**:: For each additional mana spent, you can affect additional sheet of parchment. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, you can affect additional sheet of parchment.
 
 **Type**:: [[Summon Magic]]
 

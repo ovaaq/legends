@@ -8,7 +8,7 @@ _[[1st Level Spell]]_
 
 **Effect**:: A [[Creature]] you touch regains a number of [[Hit Point|Hit Points]] equal to 2d8 + [[Sorcery]].
 
-**Upcasting**:: For each additional mana spent, the healing increases by 1d8. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the healing increases by 1d8.
 
 **Type**:: [[Restoration Magic]]
 

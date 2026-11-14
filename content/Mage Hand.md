@@ -17,14 +17,13 @@ As an [[Action]], you can control the hand to:
 
 The hand can move up to 10 metres each time you control it. It cannot [[Attack]], [[Use Magic Item]], or carry [[Object|Objects]] weighting more than 5 kg.
 
-**Upcasting**:: For each additional mana spent, the [[Strength]] Score increases by 2 and it can carry 10kg more. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the [[Strength]] Score increases by 2 and it can carry 10kg more.ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Summon Magic]]
+```
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
-
----
-
-#spell #cantrip [[Spell]]
+___
+#spell #cantrip [[Spell|]]
+```

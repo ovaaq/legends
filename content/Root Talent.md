@@ -68,7 +68,72 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### General
 
-|Root Talent2|Tree|Cost|Unlocks|
+|Root Talent67|Tree|Cost|Unlocks|
 |---|---|---|---|
+|[[Acid Stream\|Acid Stream]]|||—|
+|[[Anti Teleport Aura\|Anti Teleport Aura]]|||—|
+|[[Arcane Anchor\|Arcane Anchor]]|||—|
+|[[Aura of Healing\|Aura of Healing]]|||—|
+|[[Blur\|Blur]]|||—|
+|[[Burning Hands\|Burning Hands]]|||—|
+|[[Charm Person\|Charm Person]]|||—|
+|[[Chill Touch\|Chill Touch]]|||—|
+|[[Commune with Dead\|Commune with Dead]]|||—|
+|[[Conjure Big Hand\|Conjure Big Hand]]|||—|
+|[[Create Undead\|Create Undead]]|||—|
+|[[Dominate Humanoid\|Dominate Humanoid]]|||—|
+|[[Earth Tremor\|Earth Tremor]]|||—|
+|[[Enhance Ability\|Enhance Ability]]|||—|
+|[[Explosion\|Explosion]]|||—|
+|[[Fabricate\|Fabricate]]|||—|
+|[[Fast Friends\|Fast Friends]]|||—|
+|[[Fear\|Fear]]|||—|
+|[[Fire Blast\|Fire Blast]]|||—|
+|[[Flamestrike\|Flamestrike]]|||—|
+|[[Frostbite\|Frostbite]]|||—|
+|[[Greater Heal\|Greater Heal]]|||—|
+|[[Guiding Bolt\|Guiding Bolt]]|||—|
+|[[Haste\|Haste]]|||—|
+|[[Healing Word\|Healing Word]]|||—|
+|[[Hypnotic Pattern\|Hypnotic Pattern]]|||—|
+|[[Mage Hand\|Mage Hand]]|||—|
+|[[Mana Siphon\|Mana Siphon]]|||—|
+|[[Mass Healing Word\|Mass Healing Word]]|||—|
+|[[Mass Suggestion\|Mass Suggestion]]|||—|
+|[[Misty Step\|Misty Step]]|||—|
+|[[Mocking Taunt\|Mocking Taunt]]|||—|
+|[[Moonbeam\|Moonbeam]]|||—|
+|[[Nearest Summoning Stone\|Nearest Summoning Stone]]|||—|
+|[[Necrosis\|Necrosis]]|||—|
 |[[Path of Feywild\|Path of Feywild]]||1 LP|—|
 |[[Path of Voodoo\|Path of Voodoo]]||1 LP|—|
+|[[Poison Spray\|Poison Spray]]|||—|
+|[[Portal\|Portal]]|||—|
+|[[Produce Flame\|Produce Flame]]|||—|
+|[[Protective Dome\|Protective Dome]]|||—|
+|[[Ray of Enfeeblement\|Ray of Enfeeblement]]|||—|
+|[[Rope Trick\|Rope Trick]]|||—|
+|[[Sacred Flame\|Sacred Flame]]|||—|
+|[[Sandstorm\|Sandstorm]]|||—|
+|[[Scrying\|Scrying]]|||—|
+|[[Shadow Tendril\|Shadow Tendril]]|||—|
+|[[Shocking Grasp\|Shocking Grasp]]|||—|
+|[[Silence\|Silence]]|||—|
+|[[Sleep\|Sleep]]|||—|
+|[[Solar Flare\|Solar Flare]]|||—|
+|[[Speak with Spirit\|Speak with Spirit]]|||—|
+|[[Spider Climb\|Spider Climb]]|||—|
+|[[Summon Spirit\|Summon Spirit]]|||—|
+|[[Summon Tiny Beast\|Summon Tiny Beast]]|||—|
+|[[Summon Tiny Elemental\|Summon Tiny Elemental]]|||—|
+|[[Tailwind Strike\|Tailwind Strike]]|||—|
+|[[Telepathy\|Telepathy]]|||—|
+|[[Temporal Life\|Temporal Life]]|||—|
+|[[Thorn Dart\|Thorn Dart]]|||—|
+|[[Time Skip Spell\|Time Skip Spell]]|||—|
+|[[Time Stuff\|Time Stuff]]|||—|
+|[[Toxic Torrent\|Toxic Torrent]]|||—|
+|[[Transposition\|Transposition]]|||—|
+|[[Venom Fang\|Venom Fang]]|||—|
+|[[Wall of Stone\|Wall of Stone]]|||—|
+|[[Withering Touch\|Withering Touch]]|||—|

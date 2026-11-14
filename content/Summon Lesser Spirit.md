@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 The [[Creature]] shares your [[Turn]], and you can mentally command it to act. If you don’t issue any commands, it takes the [[Dodge]] action and uses its movement to avoid danger.
 
-**Upcasting**:: For each additional two mana spent, you can summon additional spirit. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each 1 additional mana spentitional spirit.
 
 **Type**:: [[Summon Magic]]
 

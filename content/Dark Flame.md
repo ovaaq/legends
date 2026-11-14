@@ -8,7 +8,7 @@ _[[Cantrip]]_
 
 **Effect**:: You conjure a slashing wind at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 2d4 [[Slashing Damage]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
 **Type**:: [[Evocation Magic]]
 

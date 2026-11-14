@@ -8,14 +8,13 @@ _[[Cantrip]]_
 
 **Effect**:: You hurl conjured thorns at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 3d4 [[Piercing Damage]].
 
-**Upcasting**:: For each additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.THOUT ID file.link AS "Related Talents"
+FROM #talent
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 
-**Type**:: [[Conjuration Magic]]
+```
 
-| Related Talents                                                       |
-| --------------------------------------------------------------------- |
-| [[Nature Spells I.md\|Nature Spells I]] |
-
----
-
-#spell #cantrip  [[Spell]]
+___
+#spell #cantrip  [[Spell|]]
+```

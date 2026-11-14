@@ -15,7 +15,7 @@ _[[1st Level Spell]]_
 
 Choose an [[Attribute]]. The [[Cursed]] target takes a -1 penalty to [[Check|Checks]] using it. While [[Cursed]], target takes an extra 1d6 [[Shadow Damage]] from your [[Attack|Attacks]].
 
-**Upcasting**:: For each two additional mana spent, the damage increases by 1d6. You can upcast the spell with a maximum of 4 extra mana.
+**Upcasting**:: For each two additional mana spent, the damage increases by 1d6.
 
 **Type**:: [[Enchantment Magic]]
 

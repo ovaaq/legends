@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 When the grease appears, each creature standing in its area must succeed on a [[Agility Saving Throw]] or fall [[Prone]]. A creature that enters the area or ends its turn there must also succeed on a [[Agility Saving Throw]] or fall [[Prone]].
 
-**Upcasting**:: For each additional mana spent, the area increases my 1 metre for each direction. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, the area increases my 1 metre for each direction.
 
 **Type**:: [[Conjuration Magic]]
 

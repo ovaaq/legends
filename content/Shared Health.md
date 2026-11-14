@@ -8,7 +8,7 @@ _[[1st Level Spell]]_
 
 **Effect**:: Choose two [[Willing]] [[Humanoid]] [[Creature|Creatures]]. Add their current [[Hit Point|Hit Points]] together and divide the total by the number of targets. Each target's [[Hit Point|Hit Points]] become equal to this average. Any excess [[Hit Point|Hit Points]] above a target's [[Hit Point Maximum]] are lost.
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Willing]] [[Humanoid]] [[Creature]]. You can upcast the spell with a maximum of 3 extra mana.
+**Upcasting**:: For each additional mana spent, you can target one additional [[Willing]] [[Humanoid]] [[Creature]].
 
 **Type**:: [[Distortion Magic]]
 
