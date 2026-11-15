@@ -11,12 +11,12 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Bestow Curse]]
 - [[Drain Life]]
 - [[Fear]]
-- [[Stasis]]
 - [[Major Illusion]]
 - [[Phantom Steed]]
 - [[Remove Curse]]
 - [[Speak with Dead]]
 - [[Spirit Guardians]]
+- [[Stasis]]
 - [[Summon Spirit]]
 - [[Vanish]]
 
