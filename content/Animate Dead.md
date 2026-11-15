@@ -10,7 +10,7 @@ _\*1 [[Karat]] of [[Tourmaline]], consumed by the [[Spell]]._
 
 **Effect**:: You animate a pile of bones or the corpse of a [[Small]] or [[Medium]] [[Humanoid]] within range. It becomes a [[Skeleton]] if you chose bones, or a [[Zombie]] if you chose a corpse.
 
-On each of your [[Turn|Turns]], you can use a [[Double Action]] to mentally issue the same command to all [[Undead]] you created with this [[Spell]] within 20 metres of you. Once given a command, the [[Undead]] continues to follow it until the task is complete. If given no command, it only defends itself against hostile [[Creature|Creatures]].
+On each of your [[Turn|Turns]], you can use a [[Double Action]] to mentally issue one command to all [[Undead]] you created with this [[Spell]] within 20 metres of you. Once given a command, the [[Undead]] continues to follow it until the task is complete. If given no command, it only defends itself against hostile [[Creature|Creatures]].
 
 **Upcasting**:: For each 1 additional mana spent, the animated [[Undead]] gains 5 [[Hit Point Maximum|maximum Hit Points]] and a +1 bonus to [[Attack Roll|Attack Rolls]] and [[Damage Roll|Damage Rolls]].
 

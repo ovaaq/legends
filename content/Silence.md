@@ -10,7 +10,7 @@ _[[2nd Level Spell]]_
 
 **Upcasting**:: For each 2 additional mana spent, increase the radius by 1 metre.
 
-**Type**:: [[Conjuration Magic]]
+**Type**:: [[Removal Magic]]
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |

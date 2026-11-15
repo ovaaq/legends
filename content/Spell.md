@@ -21,18 +21,18 @@ Each [[Spell]] is also associated with a [[Strand of Magic]], which groups [[Spe
 
 | Type                                                                      | Spell Count |
 | ------------------------------------------------------------------------- | ----------- |
-| [[Conjuration Magic.md\|Conjuration Magic]] | 41          |
-| [[Enchantment Magic.md\|Enchantment Magic]] | 34          |
+| [[Conjuration Magic.md\|Conjuration Magic]] | 38          |
+| [[Enchantment Magic.md\|Enchantment Magic]] | 35          |
 | [[Distortion Magic.md\|Distortion Magic]]   | 24          |
 | [[Evocation Magic.md\|Evocation Magic]]     | 21          |
 | [[Warding Magic.md\|Warding Magic]]         | 21          |
-| [[Revelation Magic.md\|Revelation Magic]]   | 15          |
 | [[Restoration Magic.md\|Restoration Magic]] | 14          |
-| [[Projection Magic.md\|Projection Magic]]   | 13          |
+| [[Revelation Magic.md\|Revelation Magic]]   | 14          |
+| [[Summon Magic.md\|Summon Magic]]           | 13          |
 | [[Alteration Magic.md\|Alteration Magic]]   | 12          |
-| [[Decay Magic.md\|Decay Magic]]             | 11          |
-| [[Summon Magic.md\|Summon Magic]]           | 11          |
-| [[Removal Magic.md\|Removal Magic]]         | 9           |
+| [[Decay Magic.md\|Decay Magic]]             | 12          |
+| [[Projection Magic.md\|Projection Magic]]   | 12          |
+| [[Removal Magic.md\|Removal Magic]]         | 10          |
 
 Below are all [[Spell|Spells]] listed in alphabetical order.
 
@@ -125,7 +125,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Ethereal Blade.md\|Ethereal Blade]]                                                           | [[Action.md\|Action]]               | S           | 0    | Self            | 1 hour                                                                        |
 | [[Extract Memory.md\|Extract Memory]]                                                           | [[Double Action.md\|Double Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
 | [[Faerie Fire.md\|Faerie Fire]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres       | [[Concentration.md\|Concentration]], 1 minute   |
-| [[Fear.md\|Fear]]                                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
+| [[Fear.md\|Fear]]                                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self            | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Feather Fall.md\|Feather Fall]]                                                               | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres       | 10 minutes                                                                    |
 | [[Feral Claw.md\|Feral Claw]]                                                                   | [[Double Action.md\|Double Action]] | S           | 0    | Melee           | Instant                                                                       |
 | [[Fire Bolt.md\|Fire Bolt]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 20 metres       | Instant                                                                       |
@@ -192,7 +192,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Magic Weapon.md\|Magic Weapon]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                       |
 | [[Magnetize.md\|Magnetize]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
 | [[Magnify Gravity.md\|Magnify Gravity]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres       | 1 turn                                                                        |
-| [[Major Image.md\|Major Image]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
+| [[Major Illusion.md\|Major Illusion]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 40 metres       | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Mana Burn.md\|Mana Burn]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
 | [[Mass Healing Word.md\|Mass Healing Word]]                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres       | Instant                                                                       |
 | [[Melt into Stone.md\|Melt into Stone]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
@@ -213,7 +213,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Parasite.md\|Parasite]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres       | Instant                                                                       |
 | [[Pass Without Trace.md\|Pass Without Trace]]                                                   | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self            | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Phantasmal Force.md\|Phantasmal Force]]                                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres       | [[Concentration.md\|Concentration]], 1 minute   |
-| [[Phantom Steed.md\|Phantom Steed]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
+| [[Phantom Steed.md\|Phantom Steed]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 10 metres       | 1 hour                                                                        |
 | [[Plant Growth.md\|Plant Growth]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres       | Instant                                                                       |
 | [[Pocket Vault.md\|Pocket Vault]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                       |
 | [[Polymorph.md\|Polymorph]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
@@ -260,7 +260,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Speak with Dead.md\|Speak with Dead]]                                                         | [[Triple Action.md\|Triple Action]] | V, S        | 3    | 2 metres        | Instant                                                                       |
 | [[Spectral Grasp.md\|Spectral Grasp]]                                                           | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres       | Instant                                                                       |
 | [[Speed Armour.md\|Speed Armour]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
-| [[Spirit Guardians.md\|Spirit Guardians]]                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
+| [[Spirit Guardians.md\|Spirit Guardians]]                                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self            | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Spiritual Weapon.md\|Spiritual Weapon]]                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
 | [[Starry Wisp.md\|Starry Wisp]]                                                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres       | Instant                                                                       |
 | [[Suggestion.md\|Suggestion]]                                                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres       | 8 hours                                                                       |

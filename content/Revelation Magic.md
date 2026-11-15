@@ -15,7 +15,6 @@ _Strand of magic that x._
 | [[Detect Thoughts.md\|Detect Thoughts]]           | [[Triple Action.md\|Triple Action]] | F, S        | 2    | 4 metres  | [[Concentration.md\|Concentration]], 1 minute   |
 | [[See Invisibility.md\|See Invisibility]]         | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | 1 hour                                                                        |
 | [[Trace.md\|Trace]]                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
-| [[Zone of Truth.md\|Zone of Truth]]               | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Speak with Dead.md\|Speak with Dead]]           | [[Triple Action.md\|Triple Action]] | V, S        | 3    | 2 metres  | Instant                                                                       |
 
 ---

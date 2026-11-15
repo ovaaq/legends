@@ -12,7 +12,7 @@ An affected [[Creature]] is aware of the spell and can thus avoid answering ques
 
 **Upcasting**:: For each additional mana spent, the radius increases by 1 metre.
 
-**Type**:: [[Revelation Magic]]
+**Type**:: [[Enchantment Magic]]
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |

@@ -1,18 +1,24 @@
 _[[3rd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 3
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: Self
+**Duration**:: [[Concentration]], 1 minute
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: You show the worst fears of each [[Creature]] in a 6-metre [[Cone]]. Each target must make a [[Charisma Saving Throw]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Success:** No effect.
+**Failure:** The target is [[Frightened]].
+**Critical Failure:** The target is [[Frightened]] and drops what it is holding.
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
+While [[Frightened]], the target must [[Sprint]] away from you by the safest route on each [[Turn]].
 
-**Type**:: [[Conjuration Magic]]
+If the target ends its [[Turn]] without line of sight to you, it repeats the [[Saving Throw]], ending the [[Spell]] on a [[Success]].
+
+**Upcasting::** For each 1 additional mana spent, increase the [[Cone]] by 1 metre.
+
+**Type**:: [[Projection Magic]]
 
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |

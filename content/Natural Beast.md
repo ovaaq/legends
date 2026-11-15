@@ -31,7 +31,7 @@ Natural beasts are ordinary beast without any magical powers or effects. These l
 | [[01 - Projects/3 Game Master/Gorilla.md\|Gorilla]]                   | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Griffon.md\|Griffon]]                   | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Hedgehog.md\|Hedgehog]]                 | -     | - | -     | -      | -                  |
-| [[01 - Projects/3 Game Master/Horse.md\|Horse]]                       | -     | - | -     | -      | -                  |
+| [[Horse.md\|Horse]]                     | -     | - | -     | -      | 15 metres           |
 | [[01 - Projects/3 Game Master/Hyena.md\|Hyena]]                       | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironbeak.md\|Ironbeak]]                 | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironscale Crab.md\|Ironscale Crab]]     | -     | - | -     | -      | -                  |

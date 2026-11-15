@@ -12,9 +12,8 @@ _Strand of magic that creates observable experiences._
 | [[Darkness.md\|Darkness]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Mirror Image.md\|Mirror Image]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 minute                                                                      |
 | [[Pass Without Trace.md\|Pass Without Trace]] | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
-| [[Bestow Curse.md\|Bestow Curse]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
-| [[Major Image.md\|Major Image]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
-| [[Spirit Guardians.md\|Spirit Guardians]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Fear.md\|Fear]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Major Illusion.md\|Major Illusion]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 40 metres | [[Concentration.md\|Concentration]], 10 minutes |
 
 ---
 

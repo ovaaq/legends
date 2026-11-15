@@ -12,7 +12,7 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Drain Life]]
 - [[Fear]]
 - [[Stasis]]
-- [[Major Image]]
+- [[Major Illusion]]
 - [[Phantom Steed]]
 - [[Remove Curse]]
 - [[Speak with Dead]]

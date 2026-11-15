@@ -1,18 +1,23 @@
 _[[3rd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 3
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: Self
+**Duration**:: [[Concentration]], 10 minutes
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: You summon [[Spirit|Spirits]] in a 4-metre radius around you. Choose [[Celestial]], [[Fiend]], [[Undead]] or [[Fey]], dealing [[Radiant Damage|Radiant]], [[Shadow Damage|Shadow]], [[Necrotic Damage|Necrotic]] or [[Psychic Damage]], respectively.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+Choose any number of [[Creature|Creatures]] you can see to be unaffected. Others in the area have their [[Walking Speed]] halved and make a [[Charisma Saving Throw]] at the start of each [[Turn]].
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
+**Critical Success:** No effect.
+**Success:** The target takes half damage.\
+**Failure:** The target takes 3d8 chosen damage.\
+**Critical Failure:** The target takes double damage.
 
-**Type**:: [[Projection Magic]]
+**Upcasting**:: For each 2 additional mana spent, increase the damage by 1d4.
+
+**Type**:: [[Summon Magic]]
 
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
