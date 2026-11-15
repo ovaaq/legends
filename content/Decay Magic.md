@@ -1,19 +1,19 @@
 _Strand of magic that x._
 
-| Spell                                                                 | Casting                                                           | Components  | Mana | Range     | Duration |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | -------- |
-| [[Crimson Cut.md\|Crimson Cut]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres | Instant  |
-| [[Sapping Sting.md\|Sapping Sting]]     | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 40 metres | Instant  |
-| [[Spectral Grasp.md\|Spectral Grasp]]   | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres | Instant  |
-| [[Inflict Wounds.md\|Inflict Wounds]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant  |
-| [[Ray of Sickness.md\|Ray of Sickness]] | [[Double Action.md\|Double Action]] | F, S        | 1    | 20 metres | Instant  |
-| [[Bestow Curse.md\|Bestow Curse]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant  |
-| [[Lethargy.md\|Lethargy]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant  |
-| [[Blight.md\|Blight]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
-| [[Frailty.md\|Frailty]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
-| [[Necrotic Bolt.md\|Necrotic Bolt]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
-| [[Nightmare.md\|Nightmare]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
-| [[Rotting Flesh.md\|Rotting Flesh]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
+| Spell                                                                 | Casting                                                           | Components  | Mana | Range     | Duration  |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | --------- |
+| [[Crimson Cut.md\|Crimson Cut]]         | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 10 metres | Instant   |
+| [[Sapping Sting.md\|Sapping Sting]]     | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 40 metres | Instant   |
+| [[Spectral Grasp.md\|Spectral Grasp]]   | [[Triple Action.md\|Triple Action]] | V, S        | 0    | 20 metres | Instant   |
+| [[Inflict Wounds.md\|Inflict Wounds]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant   |
+| [[Ray of Sickness.md\|Ray of Sickness]] | [[Double Action.md\|Double Action]] | F, S        | 1    | 20 metres | Instant   |
+| [[Bestow Curse.md\|Bestow Curse]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 10 metres | Permanent |
+| [[Lethargy.md\|Lethargy]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant   |
+| [[Blight.md\|Blight]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
+| [[Frailty.md\|Frailty]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
+| [[Necrotic Bolt.md\|Necrotic Bolt]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
+| [[Nightmare.md\|Nightmare]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
+| [[Rotting Flesh.md\|Rotting Flesh]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
 
 ---
 
