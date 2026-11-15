@@ -8,7 +8,7 @@ _[[2nd Level Spell]]_
 
 **Effect**:: You call forth a spirit to soothe the wounded. The [[Incorporeal]] [[Spirit]] appears in a 1-metre cube you can see within range.
 
-Once per [[Turn]], as an [[Action]], you can move the [[Spirit]] up to 10 metres to a space you can see. During this movement, choose a [[Creature]] whose space the [[Spirit]] enters or passes through. That [[Creature]] regains 1d6 hit points.
+Once per [[Turn]], you can use an [[Action]] to move the [[Spirit]] up to 10 metres to a space you can see. Choose one [[Creature]] whose space the [[Spirit]] enters or passes through during this movement. That [[Creature]] regains 1d6 [[Hit Point|Hit Points]].
 
 **Upcasting**:: For each 2 additional two mana spent, the healing increases by 1d6.
 
@@ -17,6 +17,7 @@ Once per [[Turn]], as an [[Action]], you can move the [[Spirit]] up to 10 metres
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
+| [[Beast Spells II.md\|Beast Spells II]]         |
 | [[Harmony Spells II.md\|Harmony Spells II]]     |
 | [[Life Spells II.md\|Life Spells II]]           |
 

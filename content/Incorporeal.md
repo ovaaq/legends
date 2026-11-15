@@ -1,3 +1,3 @@
 ---
 
-#keyword
+#keyword #condition

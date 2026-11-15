@@ -3,18 +3,16 @@ _[[3rd Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
 **Mana**:: 3
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: 10 metres
+**Duration**:: Permanent
 
 _\*1 [[Karat]] of [[Tourmaline]], consumed by the [[Spell]]._
 
-**Effect**:: This spell creates an [undead](https://roll20.net/compendium/dnd5e/Monsters#toc_3) servant. Choose a pile of bones or a corpse of a [Medium](https://roll20.net/compendium/dnd5e/Monsters#toc_1) or [Small](https://roll20.net/compendium/dnd5e/Monsters#toc_1) humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a [skeleton](https://roll20.net/compendium/dnd5e/Skeleton#content) if you chose bones or a [zombie](https://roll20.net/compendium/dnd5e/Zombie#content) if you chose a corpse.
+**Effect**:: You animate a pile of bones or the corpse of a [[Small]] or [[Medium]] [[Humanoid]] within range. It becomes a [[Skeleton]] if you chose bones, or a [[Zombie]] if you chose a corpse.
 
-On each of your [turns](https://roll20.net/compendium/dnd5e/Combat#toc_5), you can use a [bonus action](https://roll20.net/compendium/dnd5e/Combat#toc_6) to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what [action](https://roll20.net/compendium/dnd5e/Combat#toc_20) the creature will take and where it will [move](https://roll20.net/compendium/dnd5e/Combat#toc_9) during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+On each of your [[Turn|Turns]], you can use a [[Double Action]] to mentally issue the same command to all [[Undead]] you created with this [[Spell]] within 20 metres of you. Once given a command, the [[Undead]] continues to follow it until the task is complete. If given no command, it only defends itself against hostile [[Creature|Creatures]].
 
-[[Zombie]] or [[Skeleton]]
-
-**Upcasting**:: For each 1 additional mana spent, the [[Hit Point|Hit Points]] of [[Undead]] [[Creature]] increases by 5 and [[Attack]] get +1 bonus.
+**Upcasting**:: For each 1 additional mana spent, the animated [[Undead]] gains 5 [[Hit Point Maximum|maximum Hit Points]] and a +1 bonus to [[Attack Roll|Attack Rolls]] and [[Damage Roll|Damage Rolls]].
 
 **Type**:: [[Summon Magic]]
 

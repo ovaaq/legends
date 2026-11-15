@@ -11,7 +11,7 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Animal Messenger]]
 - [[Beast Sense]]
 - [[Flock of Familiars]]
-- [[Invisibility]]
+- [[Healing Spirit]]
 - [[Levitate]]
 - [[Locate Wildlife]]
 - [[Moonbeam]]

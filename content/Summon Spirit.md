@@ -1,22 +1,23 @@
 _[[3rd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 3
-**Range**:: 20 metres
-**Duration**:: 1 hour
+**Range**:: 10 metres
+**Duration**:: [[Concentration]], 10 minutes
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: You call forth a spirit. Select [[Shadow]], [[Ghost]] or [[Wraith]] that manifests in an unoccupied space that you can see within range. It disappears when it drops to 0 [[Hit Point|Hit Points]] or when the spell ends.
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+The [[Spirit]] shares your [[Turn]], and you can mentally command it to act. If you don’t issue any commands, it takes the [[Dodge]] action and uses its movement to avoid danger.
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6. ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 3 additional mana spent, summon additional [[Spirit]].
 
-```
+**Type**:: [[Summon Magic]]
 
-___
-#spell #3rd [[Spell|]]
-```
+| Related Talents                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Afterlife Spells III.md\|Afterlife Spells III]] |
+
+---
+
+#spell #template

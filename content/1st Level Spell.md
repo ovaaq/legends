@@ -13,6 +13,7 @@
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres | Instant                                                                       |
 | [[Call to Duel.md\|Call to Duel]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
+| [[Charm Humanoid.md\|Charm Humanoid]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
 | [[Chromatic Orb.md\|Chromatic Orb]]                     | [[Double Action.md\|Double Action]] | V, S, M\*    | 1    | 20 metres | Instant                                                                       |
 | [[Colour Spray.md\|Colour Spray]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Command.md\|Command]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | Instant                                                                       |
@@ -40,7 +41,7 @@
 | [[Hellish rebuke.md\|Hellish rebuke]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Heroism.md\|Heroism]]                                 | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Hex.md\|Hex]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 hour     |
-| [[Hold Beast.md\|Hold Beast]]                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Hold Beast.md\|Hold Beast]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Hunter's Mark.md\|Hunter's Mark]]                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Inflict Wounds.md\|Inflict Wounds]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant                                                                       |
 | [[Influence Emotion.md\|Influence Emotion]]             | [[Triple Action.md\|Triple Action]] | F, S        | 1    | 20 metres | 1 hour                                                                        |
@@ -126,7 +127,7 @@ Minor Creation / Minor Provision
 - **Transformation Magic**
   - Alteration Magic - [[Alter Self]], [[Plant Growth]]
   - Distortion Magic - [[Feather Fall]], [[Magnify Gravity]]
-  - Enchantment Magic - [[Bless]], [[Charm Person]]
+  - Enchantment Magic - [[Bless]], [[Charm Humanoid]]
 - **Destruction Magic**
   - Removal Magic - [[Destroy Water]], [[Absorb Elements]]
   - Decay Magic - [[Ray of Sickness]], [[Inflict Wounds]]

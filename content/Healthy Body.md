@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-You have advantage on [[Saving Throw|Saving Throws]] against [[Poison|Poisons]] and [[Disease|Diseases]].
+You have advantage on [[Saving Throw|Saving Throws]] against [[Poison|Poisons]] and [[Minor Disease|Diseases]].
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]

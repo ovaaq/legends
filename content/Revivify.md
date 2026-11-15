@@ -19,4 +19,4 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 ---
 
-#spell #3rd   [[Spell]]
+#spell #4th

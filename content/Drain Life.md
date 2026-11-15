@@ -16,6 +16,7 @@ _[[3rd Level Spell]]_
 | ------------------------------------------------------------------------------- |
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
 | [[Nature Spells II.md\|Nature Spells II]]         |
+| [[Vampire Spells III.md\|Vampire Spells III]]     |
 
 ---
 

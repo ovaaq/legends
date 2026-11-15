@@ -12,7 +12,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Animate Rope]]
 - [[Arcane Arrow]]
 - [[Call Object]]
-- [[Charm Person]]
+- [[Charm Humanoid]]
 - [[Chromatic Orb]]
 - [[Colour Spray]]
 - [[Comprehend Languages]]

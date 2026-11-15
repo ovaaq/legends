@@ -12,8 +12,13 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-**Type**:: [[Summon Magic]]
+**Type**:: [[Conjuration Magic]]
+
+| Related Talents                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Afterlife Spells III.md\|Afterlife Spells III]] |
+| [[Beast Spells III.md\|Beast Spells III]]         |
 
 ---
 
-#spell #3rd   [[Spell]]
+#spell #3rd

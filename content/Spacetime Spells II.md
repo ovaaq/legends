@@ -15,7 +15,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Levitate]]
 - [[Rope Trick]]
 - [[Shatter]]
--
+- [[Silence]]
 
 **Tree**:: [[Spacetime Talent Tree]]
 **Group**:: [[Arcane Talent]]

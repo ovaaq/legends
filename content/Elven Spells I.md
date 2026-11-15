@@ -15,7 +15,7 @@ These spells are added to your [[Innate Spell List]]. Additionally, choose one [
 ##### 1st Level Spells
 
 - [[Bark Armour]]
-- [[Charm Person]]
+- [[Charm Humanoid]]
 - [[Disguise Self]]
 - [[Faerie Fire]]
 - [[Fog Cloud]]

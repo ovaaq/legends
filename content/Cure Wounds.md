@@ -6,9 +6,9 @@ _[[1st Level Spell]]_
 **Range**:: Touch
 **Duration**:: Instant
 
-**Effect**:: A [[Creature]] you touch regains a number of [[Hit Point|Hit Points]] equal to 2d8 + [[Sorcery]].
+**Effect**:: A [[Creature]] you touch regains [[Hit Point|Hit Points]] equal to 2d8 + [[Sorcery]].
 
-**Upcasting**:: For each additional mana spent, the healing increases by 1d8.
+**Upcasting**:: For each 1 additional mana spent, the healing increases by 1d6.
 
 **Type**:: [[Restoration Magic]]
 

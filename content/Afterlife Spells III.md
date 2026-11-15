@@ -11,7 +11,7 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Bestow Curse]]
 - [[Drain Life]]
 - [[Fear]]
-- [[Feign Death]]
+- [[Stasis]]
 - [[Major Image]]
 - [[Phantom Steed]]
 - [[Remove Curse]]

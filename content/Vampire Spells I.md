@@ -21,7 +21,7 @@ _Flavour text_.
 You add the following spells to your [[Inborn Spell List]]. Also add one of the following spells to your [[Known Spell]].
 
 [[Bane]]
-[[Charm Person]]
+[[Charm Humanoid]]
 [[Compelled Duel]]
 [[Grasping Darkness]]
 [[Command]]

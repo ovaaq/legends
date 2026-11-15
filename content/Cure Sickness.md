@@ -5,7 +5,7 @@ _Flavour text_.
 
 You gain 2 additional [[Faith Point|Faith Points]].
 
-**Cure Sickness.** As an [[Double Action]], you can spend 1 [[Faith Point]] to cure the target of one [[Disease]] or neutralize one [[Poison]] affecting it.
+**Cure Sickness.** As an [[Double Action]], you can spend 1 [[Faith Point]] to cure the target of one [[Minor Disease]] or neutralize one [[Poison]] affecting it.
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]

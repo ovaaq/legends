@@ -12,7 +12,7 @@ _[[2nd Level Spell]]_
 **Failure:** The target has [[Disadvantage]] on [[Perception]] [[Check|Checks]] made to perceive anything else than you for the duration.
 **Critical Failure:** The target cannot take [[Perception]] [[Check|Checks]] for the duration.
 
-The spell ends if you become incapacitated, if you can no longer speak, or if the target can no longer hear you.
+The [[Spell]] ends if you become [[Incapacitated]], [[Muted]], or if the target can no longer hear you.
 
 **Type**:: [[Enchantment Magic]]
 

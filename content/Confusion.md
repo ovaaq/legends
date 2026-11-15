@@ -1,16 +1,21 @@
 _[[2nd Level Spell]]_
 
-**Casting**:: **▶▶▶⚡〇**
-**Components**:: F, V, S, M\*
-**Mana**:: 0
-**Range**:: 20 metres
-**Duration**:: Instant
+**Casting**:: [[Triple Action]]
+**Components**:: F, V, S
+**Mana**:: 2
+**Range**:: 10 metres
+**Duration**:: [[Concentration]], 1 minute
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Choose a [[Creature]] that you can see within range. The target must make a [[Intelligence Saving Throw]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Critical Success:** No effect.
+**Success:** The target is [[Dazed]] until the start of your next [[Turn]].
+**Failure:** The target is [[Confused]].
+**Critical Failure:** The target is [[Confused]] and has [[Disadvantage]] on its first [[Saving Throw]] to end the [[Spell]].
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
+At the end of each of its [[Turn|Turns]], the target repeats the [[Saving Throw]], ending the spell on a [[Success]].
+
+**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Creature]].
 
 **Type**:: [[Enchantment Magic]]
 

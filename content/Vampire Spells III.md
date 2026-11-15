@@ -5,6 +5,8 @@ _Flavour text_.
 
 Benefit.
 
+[[Drain Life]]
+
 **Tree**:: [[Vampire Talent Tree]]
 **Group**:: [[Innate Talent]]
 **Following**:: [[Vampire Spells IV]]

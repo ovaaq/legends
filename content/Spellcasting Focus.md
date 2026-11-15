@@ -1,3 +1,5 @@
+_[[Equipment]]_
+
 fulfils F component in spells
 
 2h focus that grants +1 to [[Spellcasting]] [[Check]] and [[Spell Save DC]].

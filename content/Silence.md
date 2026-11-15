@@ -1,22 +1,22 @@
 _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 2
 **Range**:: 20 metres
-**Duration**:: Instant
+**Duration**:: [[Concentration]], 10 minutes
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: Choose a point within range. A 4-metre-radius [[Sphere]] forms around that point. No sound can be created within or pass through the [[Sphere]]. [[Creature|Creatures]] inside are [[Deafened]] and cannot cast spells with a [[Verbal Component]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Upcasting**:: For each 2 additional mana spent, increase the radius by 1 metre.
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.T ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Type**:: [[Conjuration Magic]]
 
-```
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Harmony Spells II.md\|Harmony Spells II]]     |
+| [[Spacetime Spells II.md\|Spacetime Spells II]] |
 
-___
-#spell #2nd [[Spell|]]
-```
+---
+
+#spell #2nd

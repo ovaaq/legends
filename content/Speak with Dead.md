@@ -1,12 +1,10 @@
 _[[3rd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: V, S, M\*
+**Components**:: V, S
 **Mana**:: 3
 **Range**:: 2 metres
 **Duration**:: Instant
-
-_\*[[Corpse]]._
 
 **Effect**:: You grant a corpse within range a semblance of life and intellect, allowing it to answer up to five questions. The [[Corpse]] must have a mouth, can't be [[Undead]], and can't have been targeted by this [[Spell]] within the last 10 days.
 
@@ -14,7 +12,7 @@ The corpse knows only what it knew in life and speaks only languages it knew. It
 
 This [[Spell]] doesn't return the [[Corpse|Corpse's]] [[Soul]]. It can't learn new information, know what has happened since its death, or speculate about future events.
 
-**Upcasting**:: For each additional mana spent, the amount of questions increases by 1.
+**Upcasting**:: For each 1 additional mana spent, one additional question is answered.
 
 **Type**:: [[Revelation Magic]]
 

@@ -62,7 +62,6 @@
 | [[01 - Projects/3 Game Master/Hyena.md\|Hyena]]                       | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironbeak.md\|Ironbeak]]                 | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironscale Crab.md\|Ironscale Crab]]     | -     | - | -     | -      | -                  |
-| [[Lesser Spirit.md\|Lesser Spirit]]     | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Lizard.md\|Lizard]]                     | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Lynx.md\|Lynx]]                         | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Moose.md\|Moose]]                       | -     | - | -     | -      | -                  |
@@ -90,8 +89,12 @@
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
 | [[Wolf.md\|Wolf]]                       | 0      | 10 | 8      | 13      | 7 metres            |
 | [[Skeleton.md\|Skeleton]]               | 1      | 13 | 12     | 8       | 6 metres            |
+| [[Will-o'-Wisp.md\|Will-o'-Wisp]]       | 1      | 10 | 8      | 16      | 15 [[Flying Speed]] |
 | [[Zombie.md\|Zombie]]                   | 1      | 22 | 8      | 8       | 4 metres            |
 | [[Dire Wolf.md\|Dire Wolf]]             | 2      | 45 | 8      | 12      | 12 metres           |
+| [[Ghost.md\|Ghost]]                     | 2      | 2  | 8      | 15      | 5 [[Flying Speed]]  |
+| [[01 - Projects/3 Game Master/Shadow.md\|Shadow]]                     | 2      | 2  | 8      | 15      | 10 [[Flying Speed]] |
+| [[01 - Projects/3 Game Master/Wraith.md\|Wraith]]                     | 2      | 2  | 8      | 15      | 10 [[Flying Speed]] |
 
 ---
 

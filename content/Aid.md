@@ -6,9 +6,9 @@ _[[2nd Level Spell]]_
 **Range**:: 10 metres
 **Duration**:: 8 hour
 
-**Effect**:: Your spell bolsters your allies with toughness and resolve. Choose up to three [[Creature|Creatures]] within range. Each target's [[Hit Point Maximum]] and current [[Hit Point|Hit Points]] increase by 5 for the duration.
+**Effect**:: Your bolsters your allies with toughness and resolve. Choose up to three [[Creature|Creatures]] within range. Each target's [[Hit Point Maximum]] and current [[Hit Point|Hit Points]] increase by 5 for the duration.
 
-**Upcasting**:: For each 2 additional mana spent, the [[Hit Point Maximum]] increases by 5.
+**Upcasting**:: For each 2 additional mana spent, the [[Hit Point Maximum]] and current [[Hit Point|Hit Points]] increase by 5.
 
 **Type**:: [[Warding Magic]]
 

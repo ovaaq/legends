@@ -15,7 +15,7 @@ These spells are added to your [[Divine Spell List]].
 ##### 1st Level Spells
 
 - [[Animal Friendship]]
-- [[Charm Person]]
+- [[Charm Humanoid]]
 - [[Guidance]]
 - [[Heroism]]
 - [[Influence Emotion]]

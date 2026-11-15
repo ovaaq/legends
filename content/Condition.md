@@ -22,6 +22,7 @@ Still under work: [[Blinded]], [[Dying]], [[Frightened]]
 | [[Handcuffed.md\|Handcuffed]]       |
 | [[Immobilized.md\|Immobilized]]     |
 | [[Incapacitated.md\|Incapacitated]] |
+| [[Incorporeal.md\|Incorporeal]]     |
 | [[Invisible.md\|Invisible]]         |
 | [[Muted.md\|Muted]]                 |
 | [[Paralyzed.md\|Paralyzed]]         |

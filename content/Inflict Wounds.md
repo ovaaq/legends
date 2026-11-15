@@ -12,6 +12,12 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Decay Magic]]
 
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]] |
+| [[Vampire Spells I.md\|Vampire Spells I]]     |
+| [[War Spells I.md\|War Spells I]]             |
+
 ---
 
 #spell #1st [[Spell]]

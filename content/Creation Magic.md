@@ -46,11 +46,13 @@ _Definition._
 | [[Mind Whip.md\|Mind Whip]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Mirror Image.md\|Mirror Image]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 minute                                                                      |
 | [[Pass Without Trace.md\|Pass Without Trace]]           | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
-| [[Animate Dead.md\|Animate Dead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Silence.md\|Silence]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
+| [[Animate Dead.md\|Animate Dead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 10 metres | Permanent                                                                     |
 | [[Bestow Curse.md\|Bestow Curse]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Conjure Building.md\|Conjure Building]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Duplicate.md\|Duplicate]]                             | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instant                                                                       |
 | [[Extract Memory.md\|Extract Memory]]                   | [[Double Action.md\|Double Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Fear.md\|Fear]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Freeze Area.md\|Freeze Area]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Greater Familiar.md\|Greater Familiar]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Ice Spear.md\|Ice Spear]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |

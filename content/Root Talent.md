@@ -68,7 +68,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### General
 
-|Root Talent67|Tree|Cost|Unlocks|
+|Root Talent61|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Acid Stream\|Acid Stream]]|||—|
 |[[Anti Teleport Aura\|Anti Teleport Aura]]|||—|
@@ -76,7 +76,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Aura of Healing\|Aura of Healing]]|||—|
 |[[Blur\|Blur]]|||—|
 |[[Burning Hands\|Burning Hands]]|||—|
-|[[Charm Person\|Charm Person]]|||—|
 |[[Chill Touch\|Chill Touch]]|||—|
 |[[Commune with Dead\|Commune with Dead]]|||—|
 |[[Conjure Big Hand\|Conjure Big Hand]]|||—|
@@ -87,7 +86,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Explosion\|Explosion]]|||—|
 |[[Fabricate\|Fabricate]]|||—|
 |[[Fast Friends\|Fast Friends]]|||—|
-|[[Fear\|Fear]]|||—|
 |[[Fire Blast\|Fire Blast]]|||—|
 |[[Flamestrike\|Flamestrike]]|||—|
 |[[Frostbite\|Frostbite]]|||—|
@@ -98,7 +96,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Hypnotic Pattern\|Hypnotic Pattern]]|||—|
 |[[Mage Hand\|Mage Hand]]|||—|
 |[[Mana Siphon\|Mana Siphon]]|||—|
-|[[Mass Healing Word\|Mass Healing Word]]|||—|
 |[[Mass Suggestion\|Mass Suggestion]]|||—|
 |[[Misty Step\|Misty Step]]|||—|
 |[[Mocking Taunt\|Mocking Taunt]]|||—|
@@ -110,7 +107,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Poison Spray\|Poison Spray]]|||—|
 |[[Portal\|Portal]]|||—|
 |[[Produce Flame\|Produce Flame]]|||—|
-|[[Protective Dome\|Protective Dome]]|||—|
 |[[Ray of Enfeeblement\|Ray of Enfeeblement]]|||—|
 |[[Rope Trick\|Rope Trick]]|||—|
 |[[Sacred Flame\|Sacred Flame]]|||—|
@@ -118,12 +114,10 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Scrying\|Scrying]]|||—|
 |[[Shadow Tendril\|Shadow Tendril]]|||—|
 |[[Shocking Grasp\|Shocking Grasp]]|||—|
-|[[Silence\|Silence]]|||—|
 |[[Sleep\|Sleep]]|||—|
 |[[Solar Flare\|Solar Flare]]|||—|
 |[[Speak with Spirit\|Speak with Spirit]]|||—|
 |[[Spider Climb\|Spider Climb]]|||—|
-|[[Summon Spirit\|Summon Spirit]]|||—|
 |[[Summon Tiny Beast\|Summon Tiny Beast]]|||—|
 |[[Summon Tiny Elemental\|Summon Tiny Elemental]]|||—|
 |[[Tailwind Strike\|Tailwind Strike]]|||—|
