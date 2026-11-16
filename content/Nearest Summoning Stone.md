@@ -6,7 +6,7 @@ _[[3rd Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-_\*1 [[Karat]] of [[Amethyst]], consumed by the [[Spell]]._
+_\*A 1-[[Karat]] [[Amethyst]], consumed by the [[Spell]]._
 
 **Effect**:: As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 

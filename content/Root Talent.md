@@ -62,8 +62,9 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Spiritual Talent
 
-|Root Talent1|Tree|Cost|Unlocks|
+|Root Talent2|Tree|Cost|Unlocks|
 |---|---|---|---|
+|[[Afterlife Spells III\|Afterlife Spells III]]|[[Afterlife Talent Tree\|Afterlife Talent Tree]]|4 LP|• [[Afterlife Spells IV\|Afterlife Spells IV]]|
 |[[Spiritual Connection\|Spiritual Connection]]|[[Spiritual Talent Tree\|Spiritual Talent Tree]]|1 LP|• [[Channelling Practice\|Channelling Practice]]  <br>• [[Spiritual Spellcasting\|Spiritual Spellcasting]]  <br>• [[Spirit Guide\|Spirit Guide]]  <br>• [[Ethereal Sight\|Ethereal Sight]]  <br>• [[Essence Flow\|Essence Flow]]  <br>• [[Turn Spirits\|Turn Spirits]]|
 
 ### General

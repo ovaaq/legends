@@ -12,7 +12,7 @@ Spells are divided into seven levels, from [[Cantrip]] to [[6th Level Spell]].
 | [[Cantrip.md\|Cantrip]]                 | 44          |
 | [[1st Level Spell.md\|1st Level Spell]] | 74          |
 | [[2nd Level Spell.md\|2nd Level Spell]] | 68          |
-| [[3rd Level Spell.md\|3rd Level Spell]] | 51          |
+| [[3rd Level Spell.md\|3rd Level Spell]] | 52          |
 | [[4th Level Spell.md\|4th Level Spell]] | 22          |
 | [[5th Level Spell.md\|5th Level Spell]] | 7           |
 | [[6th Level Spell.md\|6th Level Spell]] | 4           |
@@ -23,7 +23,7 @@ Each [[Spell]] is also associated with a [[Strand of Magic]], which groups [[Spe
 | ------------------------------------------------------------------------- | ----------- |
 | [[Conjuration Magic.md\|Conjuration Magic]] | 46          |
 | [[Enchantment Magic.md\|Enchantment Magic]] | 35          |
-| [[Distortion Magic.md\|Distortion Magic]]   | 24          |
+| [[Distortion Magic.md\|Distortion Magic]]   | 25          |
 | [[Warding Magic.md\|Warding Magic]]         | 23          |
 | [[Evocation Magic.md\|Evocation Magic]]     | 21          |
 | [[Revelation Magic.md\|Revelation Magic]]   | 14          |
@@ -120,6 +120,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Duplicate.md\|Duplicate]]                                                                     | 10 minutes                                                        | F, V, S, M\* | 3    | Touch           | Instant                                                                       |
 | [[Earthbind.md\|Earthbind]]                                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                       |
 | [[Eldritch Blast.md\|Eldritch Blast]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 40 metres       | Instant                                                                       |
+| [[Elemental Protection.md\|Elemental Protection]]                                               | [[Double Action.md\|Double Action]] | V, S        | 3    | Touch           | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Elemental Weapon.md\|Elemental Weapon]]                                                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |
 | [[Empathetic Connection.md\|Empathetic Connection]]                                             | [[Double Action.md\|Double Action]] | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
 | [[Ensnairing Strike.md\|Ensnairing Strike]]                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
@@ -295,7 +296,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Trace.md\|Trace]]                                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 2    | 20 metres       | Instant                                                                       |
 | [[Unearthly Chorus.md\|Unearthly Chorus]]                                                       | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres       | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Unseen Servant.md\|Unseen Servant]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres       | 1 hour                                                                        |
-| [[Vanish.md\|Vanish]]                                                                           | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self            | Instant                                                                       |
+| [[Vanish.md\|Vanish]]                                                                           | [[Reaction.md\|Reaction]]           | F, V, S     | 3    | Self            | 1 [[Turn]]                                                                    |
 | [[Vine Lash.md\|Vine Lash]]                                                                     | [[Double Action.md\|Double Action]] | V, S, M\*    | 0    | 4 metres        | Instant                                                                       |
 | [[Wall of Fire.md\|Wall of Fire]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres       | Instant                                                                       |
 | [[Wall of Vines.md\|Wall of Vines]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres       | Instant                                                                       |

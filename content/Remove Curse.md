@@ -6,7 +6,7 @@ _[[3rd Level Spell]]_
 **Range**:: touch
 **Duration**:: Instant
 
-_\*2 [[Karat|Karats]] of [[Onyx]], consumed by the [[Spell]]._
+_\*A 2-[[Karat]] [[Onyx]], consumed by the [[Spell]]._
 
 **Effect**:: You touch a [[Cursed]] [[Creature]] or [[Object]] and attempt to break its curse. [[Minor Curse]] ends immediately. more powerful curses, you instead learn what is required to break it. If the target is a [[Cursed]] [[Object]], its curse remains, but its bond to its owner ends, allowing the item to be removed or discarded.
 

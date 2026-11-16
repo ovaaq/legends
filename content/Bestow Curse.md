@@ -6,7 +6,7 @@ _[[3rd Level Spell]]_
 **Range**:: 10 metres
 **Duration**:: Permanent
 
-_\*2 [[Karat|Karats]] of [[Ruby]], consumed by the [[Spell]]._
+_\*A 2-[[Karat]] [[Ruby]], consumed by the [[Spell]]._
 
 **Effect**:: Choose a [[Humanoid]] that you can see within range. The target must make a [[Charisma Saving Throw]].
 

@@ -4,9 +4,13 @@ _[[3rd Level Spell]]_
 **Components**:: F, V, S
 **Mana**:: 3
 **Range**:: Self
-**Duration**:: Instant
+**Duration**:: 1 [[Turn]]
 
-**Effect**:: You temporarily vanish from the [[Material Plane]] to [[Ethereal Plane]]. [[Attack|Attacks]] against you automatically miss, and you automatically avoid harmful area effects. Other magical effects and [[Spell|Spells]] resolve before you vanish. While gone, you cannot take actions. You reappear in the same space at the start of your next [[Turn]]. [[Spell]] fails if you cast it on [[Ethereal Plane]].
+**Effect**:: You vanish from the [[Material Plane]] into the [[Ethereal Plane]]. [[Attack|Attacks]] against you automatically miss, and you avoid harmful area effects. Other magical effects and [[Spell|Spells]] resolve before you vanish. This [[Spell]] fails if you are already on the [[Ethereal Plane]].
+
+While gone, you are [[Immobilized]]. You can see and hear the plane you left within 10 metres, appearing in shades of grey.
+
+At the start of your next [[Turn]], you return to an unoccupied space of your choice that you can see within 2 metres of the space you vanished from. If none is available, return to the nearest unoccupied space.
 
 **Upcasting**:: For each additional 2 mana spent, the duration which you are gone increases by 1 [[Turn]].
 

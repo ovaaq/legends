@@ -6,7 +6,7 @@ _[[3rd Level Spell]]_
 **Range**:: 10 metres
 **Duration**:: [[Concentration]], 1 minute
 
-_\*2 [[Karat]] of [[Diamond]], consumed by the [[Spell]]._
+_\*A 2-[[Karat]] [[Diamond]], consumed by the [[Spell]]._
 
 **Effect**:: Makes spectral limb that works like normal with some twist.
 

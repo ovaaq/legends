@@ -7,8 +7,8 @@ These spells are added to your [[Spiritual Spell List]].
 
 ##### 3rd Level Spells
 
-- [[Blazing Step]]
 - [[Chain Lightning]]
+- [[Elemental Protection]]
 - [[Elemental Weapon]]
 - [[Erupting Earth]]
 - [[Fireball]]

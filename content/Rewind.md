@@ -6,7 +6,7 @@ _[[6th Level Spell]]_
 **Range**:: 20 metres
 **Duration**:: Instant
 
-_\*5 [[Karat]] of [[Amethyst]], consumed by the [[Spell]]._
+_\*A 5-[[Karat]] [[Amethyst]], consumed by the [[Spell]]._
 
 **Effect**:: Travel back 10 minutes. You stay as is, but everything else changes back.
 

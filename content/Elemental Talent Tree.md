@@ -40,7 +40,7 @@
 
 [[Elemental Transformation]]
 
-[[Elemental Resistance]]
+[[Elemental Protection]]
 
 ---
 
