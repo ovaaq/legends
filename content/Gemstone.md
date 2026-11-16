@@ -1,6 +1,6 @@
 Each gemstone has associated [[Strand of Magic]].
 
-|    Strand of Magic    |    Gemstone    |                     |                     Colour                      |
+|    Strand of Magic    |    Gemstone    |        Dust         |                     Colour                      |
 | :-------------------: | :------------: | :-----------------: | :---------------------------------------------: |
 | [[Conjuration Magic]] |  [[Emerald]]   |  [[Emerald Dust]]   |   <span style="color:rgb(0, 128, 0)">◆</span>   |
 | [[Projection Magic]]  |  [[Citrine]]   |  [[Citrine Dust]]   |  <span style="color:rgb(255, 215, 0)">◆</span>  |

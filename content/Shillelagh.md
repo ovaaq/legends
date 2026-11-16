@@ -14,9 +14,8 @@ _\*Wooden [[Club]] or [[Quarterstaff]]_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents                                                     |
-| ------------------------------------------------------------------- |
-| [[Beast Spells I.md\|Beast Spells I]] |
+| Related Talents |
+| --------------- |
 
 ---
 

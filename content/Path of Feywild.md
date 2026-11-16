@@ -1,4 +1,4 @@
-**Requirements**::
+**Requirements**:: [[Spiritual Connection]]
 **Cost**:: 1 LP
 
 _Flavour text_.

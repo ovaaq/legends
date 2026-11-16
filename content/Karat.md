@@ -7,3 +7,5 @@
 |3|Medium|
 |4|Large|
 |5|Huge|
+
+Grinding each [[Karat]] of a [[Gemstone]] produces 2 grams of [[Gemstone Dust]].

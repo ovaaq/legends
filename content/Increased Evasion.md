@@ -2,7 +2,7 @@
 
 _Flavour text_
 
-Your [[Evasion Class]] increases by 1.
+Increase your [[Evasion Class]] by 1.
 
 This [[Talent]] can be taken 5 times.
 

@@ -8,13 +8,15 @@ _[[1st Level Spell]]_
 
 **Effect**:: You vanish into a silvery mist and teleport up to 4 meters to an unoccupied space you can see.
 
-**Upcasting**:: For each additional mana spent, the distance teleported increases by 2 metres.OUT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-```
+**Type**:: [[Conjuration Magic]]
 
-___
-#spell #1st [[Spell|]]
-```
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Shadow Step.md\|Shadow Step]]               |
+| [[Spacetime Spells I.md\|Spacetime Spells I]] |
+
+---
+
+#spell #1st

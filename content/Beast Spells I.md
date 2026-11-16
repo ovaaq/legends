@@ -9,7 +9,7 @@ These spells are added to your [[Spiritual Spell List]].
 
 - [[Animal Call]]
 - [[Feral Claw]]
-- [[Shillelagh]]
+- [[Summon Insect Swarm]]
 - [[Venom Fang]]
 
 ##### 1st Level Spells

@@ -14,6 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Distortion Magic]]
 
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Dwarven Spells II.md\|Dwarven Spells II]] |
+
 ---
 
 #spell #2nd [[Spell]]

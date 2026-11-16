@@ -26,6 +26,7 @@ _Strand of magic that x._
 | [[Animal Messenger.md\|Animal Messenger]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Calm Emotions.md\|Calm Emotions]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Confusion.md\|Confusion]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Enhance Ability.md\|Enhance Ability]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | Instant                                                                       |
 | [[Enthral.md\|Enthral]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 10 minutes                                                                    |
 | [[Fire Breath.md\|Fire Breath]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Hold Beast.md\|Hold Beast]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |

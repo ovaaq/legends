@@ -6,7 +6,7 @@ _[[3rd Level Spell]]_
 **Range**:: 10 metres
 **Duration**:: Permanent
 
-_\*A 1-[[Karat]] [[Tourmaline]], consumed by the [[Spell]]._
+_\*A 2-[[Karat]] [[Tourmaline]], consumed by the [[Spell]]._
 
 **Effect**:: You animate a pile of bones or the corpse of a [[Small]] or [[Medium]] [[Humanoid]] within range. It becomes a [[Skeleton]] if you chose bones, or a [[Zombie]] if you chose a corpse. You can control a number of these [[Undead]] equal to your [[Spellcasting]] [[Rank]].
 

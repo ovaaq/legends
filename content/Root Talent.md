@@ -62,17 +62,14 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Spiritual Talent
 
-|Root Talent2|Tree|Cost|Unlocks|
+|Root Talent1|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Afterlife Spells III\|Afterlife Spells III]]|[[Afterlife Talent Tree\|Afterlife Talent Tree]]|4 LP|• [[Afterlife Spells IV\|Afterlife Spells IV]]|
 |[[Spiritual Connection\|Spiritual Connection]]|[[Spiritual Talent Tree\|Spiritual Talent Tree]]|1 LP|• [[Channelling Practice\|Channelling Practice]]  <br>• [[Spiritual Spellcasting\|Spiritual Spellcasting]]  <br>• [[Spirit Guide\|Spirit Guide]]  <br>• [[Ethereal Sight\|Ethereal Sight]]  <br>• [[Essence Flow\|Essence Flow]]  <br>• [[Turn Spirits\|Turn Spirits]]|
 
 ### General
 
-|Root Talent60|Tree|Cost|Unlocks|
+|Root Talent46|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Acid Stream\|Acid Stream]]|||—|
-|[[Anti Teleport Aura\|Anti Teleport Aura]]|||—|
 |[[Arcane Anchor\|Arcane Anchor]]|||—|
 |[[Aura of Healing\|Aura of Healing]]|||—|
 |[[Blur\|Blur]]|||—|
@@ -83,7 +80,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Create Undead\|Create Undead]]|||—|
 |[[Dominate Humanoid\|Dominate Humanoid]]|||—|
 |[[Earth Tremor\|Earth Tremor]]|||—|
-|[[Enhance Ability\|Enhance Ability]]|||—|
 |[[Explosion\|Explosion]]|||—|
 |[[Fabricate\|Fabricate]]|||—|
 |[[Fast Friends\|Fast Friends]]|||—|
@@ -95,18 +91,13 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Haste\|Haste]]|||—|
 |[[Healing Word\|Healing Word]]|||—|
 |[[Hypnotic Pattern\|Hypnotic Pattern]]|||—|
-|[[Mage Hand\|Mage Hand]]|||—|
 |[[Mana Siphon\|Mana Siphon]]|||—|
 |[[Mass Suggestion\|Mass Suggestion]]|||—|
-|[[Misty Step\|Misty Step]]|||—|
 |[[Mocking Taunt\|Mocking Taunt]]|||—|
 |[[Moonbeam\|Moonbeam]]|||—|
 |[[Nearest Summoning Stone\|Nearest Summoning Stone]]|||—|
 |[[Necrosis\|Necrosis]]|||—|
-|[[Path of Feywild\|Path of Feywild]]||1 LP|—|
-|[[Path of Voodoo\|Path of Voodoo]]||1 LP|—|
 |[[Poison Spray\|Poison Spray]]|||—|
-|[[Portal\|Portal]]|||—|
 |[[Produce Flame\|Produce Flame]]|||—|
 |[[Ray of Enfeeblement\|Ray of Enfeeblement]]|||—|
 |[[Rope Trick\|Rope Trick]]|||—|
@@ -117,17 +108,11 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Sleep\|Sleep]]|||—|
 |[[Solar Flare\|Solar Flare]]|||—|
 |[[Speak with Spirit\|Speak with Spirit]]|||—|
-|[[Spider Climb\|Spider Climb]]|||—|
-|[[Summon Tiny Beast\|Summon Tiny Beast]]|||—|
 |[[Summon Tiny Elemental\|Summon Tiny Elemental]]|||—|
 |[[Tailwind Strike\|Tailwind Strike]]|||—|
-|[[Telepathy\|Telepathy]]|||—|
 |[[Temporal Life\|Temporal Life]]|||—|
 |[[Thorn Dart\|Thorn Dart]]|||—|
 |[[Time Skip Spell\|Time Skip Spell]]|||—|
-|[[Time Stuff\|Time Stuff]]|||—|
 |[[Toxic Torrent\|Toxic Torrent]]|||—|
 |[[Transposition\|Transposition]]|||—|
 |[[Venom Fang\|Venom Fang]]|||—|
-|[[Wall of Stone\|Wall of Stone]]|||—|
-|[[Withering Touch\|Withering Touch]]|||—|
