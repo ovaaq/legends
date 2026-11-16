@@ -2,7 +2,6 @@ _Strand of magic that x._
 
 | Spell                                                                 | Casting                                                           | Components  | Mana | Range     | Duration                                                                      |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ----------------------------------------------------------------------------- |
-| [[Cleanse.md\|Cleanse]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Erase Memory.md\|Erase Memory]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Remove Air.md\|Remove Air]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Destroy Water.md\|Destroy Water]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |

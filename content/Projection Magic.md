@@ -13,6 +13,7 @@ _Strand of magic that creates observable experiences._
 | [[Pass Without Trace.md\|Pass Without Trace]] | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Fear.md\|Fear]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Major Illusion.md\|Major Illusion]]         | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 40 metres | [[Concentration.md\|Concentration]], 10 minutes |
+| [[Mislead.md\|Mislead]]                       | [[Triple Action.md\|Triple Action]] | F           | 4    | 20 metres | Instant                                                                       |
 
 ---
 

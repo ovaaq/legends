@@ -12,6 +12,7 @@
 | [[Living Flame.md\|Living Flame]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Magic Contract.md\|Magic Contract]]                                                           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant  |
 | [[Mass Healing Word.md\|Mass Healing Word]]                                                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |
+| [[Mislead.md\|Mislead]]                                                                         | [[Triple Action.md\|Triple Action]] | F           | 4    | 20 metres | Instant  |
 | [[Necrotic Bolt.md\|Necrotic Bolt]]                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Nightmare.md\|Nightmare]]                                                                     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant  |
 | [[Parasite.md\|Parasite]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant  |

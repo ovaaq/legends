@@ -69,6 +69,7 @@ _Definition._
 | [[Wind Wall.md\|Wind Wall]]                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Anti Heal spell.md\|Anti Heal spell]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Living Flame.md\|Living Flame]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
+| [[Mislead.md\|Mislead]]                                 | [[Triple Action.md\|Triple Action]] | F           | 4    | 20 metres | Instant                                                                       |
 | [[Parasite.md\|Parasite]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Sandstorm.md\|Sandstorm]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Wall of Fire.md\|Wall of Fire]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |

@@ -14,7 +14,7 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Lesser Restoration]]
 - [[Magic Fruit]]
 - [[Web]]
-- [[Cleanse]]
+-
 - [[Create Water]]
 - [[Earthbind]]
 - [[Obscure Senses]]

@@ -5,6 +5,7 @@ _Strand of magic that x._
 | [[Close Wounds.md\|Close Wounds]]               | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres | Instant                                                                     |
 | [[Cure Wounds.md\|Cure Wounds]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | Instant                                                                     |
 | [[Repair.md\|Repair]]                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | Instant                                                                     |
+| [[Cleanse.md\|Cleanse]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | Instant                                                                     |
 | [[Healing Spirit.md\|Healing Spirit]]           | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute |
 | [[Lesser Restoration.md\|Lesser Restoration]]   | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Touch     | Instant                                                                     |
 | [[Prayer of Healing.md\|Prayer of Healing]]     | 10 minutes                                                        | F, V, S     | 2    | 2 metres  | Instant                                                                     |

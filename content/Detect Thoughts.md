@@ -1,20 +1,18 @@
 _[[2nd Level Spell]]_
 
-**Casting**:: [[Triple Action]]
+**Casting**:: [[Double Action]]
 **Components**:: F, S
 **Mana**:: 2
 **Range**:: 4 metres
 **Duration**:: [[Concentration]], 1 minute
 
-**Effect**:: For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn’t speak any language, the creature is unaffected.
+**Effect**:: Choose a [[Creature]] you can see within range and read its surface thoughts. This [[Spell]] fails against [[Creature|Creatures]] with [[Intelligence]] -3 or lower.
 
-You initially learn the surface thoughts of the creature - what is most on its mind in that moment. As an action, you can either shift your attention to another creature’s thoughts or attempt to probe deeper into the same creature’s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature’s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
+As a [[Double Action]], probe deeper into its mind or switch to another [[Creature]].
 
-Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.
+When probing deeper, the target must make a [[Charisma Saving Throw]]. On a [[Failure]], you learn its reasoning, emotional state, and most prominent thoughts. On a [[Success]], the [[Spell]] ends and the target knows its mind was probed.
 
-You can also use this spell to detect the presence of thinking creatures you can’t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can’t detect a creature with an Intelligence of 3 or lower or one that doesn’t speak any language.
-
-Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can’t see it, but it must still be within range.
+You can also use a [[Double Action]] to detect thinking creatures within range, even if unseen.
 
 **Type**:: [[Revelation Magic]]
 

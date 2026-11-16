@@ -14,6 +14,7 @@ These spells are added to your [[Divine Spell List]].
 - [[Life Transfer]]
 - [[Prayer of Healing]]
 - [[Warding Wind]]
+- [[Cleanse]]
 -
 
 **Tree**:: [[Life Talent Tree]]

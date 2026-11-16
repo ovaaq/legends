@@ -13,7 +13,7 @@ Spells are divided into seven levels, from [[Cantrip]] to [[6th Level Spell]].
 | [[1st Level Spell.md\|1st Level Spell]] | 74          |
 | [[2nd Level Spell.md\|2nd Level Spell]] | 68          |
 | [[3rd Level Spell.md\|3rd Level Spell]] | 52          |
-| [[4th Level Spell.md\|4th Level Spell]] | 22          |
+| [[4th Level Spell.md\|4th Level Spell]] | 23          |
 | [[5th Level Spell.md\|5th Level Spell]] | 7           |
 | [[6th Level Spell.md\|6th Level Spell]] | 4           |
 
@@ -26,13 +26,13 @@ Each [[Spell]] is also associated with a [[Strand of Magic]], which groups [[Spe
 | [[Distortion Magic.md\|Distortion Magic]]   | 25          |
 | [[Warding Magic.md\|Warding Magic]]         | 23          |
 | [[Evocation Magic.md\|Evocation Magic]]     | 21          |
+| [[Restoration Magic.md\|Restoration Magic]] | 14          |
 | [[Revelation Magic.md\|Revelation Magic]]   | 14          |
 | [[Summon Magic.md\|Summon Magic]]           | 14          |
 | [[Decay Magic.md\|Decay Magic]]             | 13          |
-| [[Removal Magic.md\|Removal Magic]]         | 13          |
-| [[Restoration Magic.md\|Restoration Magic]] | 13          |
 | [[Alteration Magic.md\|Alteration Magic]]   | 12          |
-| [[Projection Magic.md\|Projection Magic]]   | 11          |
+| [[Projection Magic.md\|Projection Magic]]   | 12          |
+| [[Removal Magic.md\|Removal Magic]]         | 12          |
 
 Below are all [[Spell|Spells]] listed in alphabetical order.
 
@@ -80,7 +80,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Charm Humanoid.md\|Charm Humanoid]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres       | 1 hour                                                                        |
 | [[Charming Smile.md\|Charming Smile]]                                                           | [[Double Action.md\|Double Action]] | V           | 0    | 4 metres        | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Chromatic Orb.md\|Chromatic Orb]]                                                             | [[Double Action.md\|Double Action]] | V, S, M\*    | 1    | 20 metres       | Instant                                                                       |
-| [[Cleanse.md\|Cleanse]]                                                                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant                                                                       |
+| [[Cleanse.md\|Cleanse]]                                                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres       | Instant                                                                       |
 | [[Close Wounds.md\|Close Wounds]]                                                               | [[Double Action.md\|Double Action]] | F, V, S     | 0    | 10 metres       | Instant                                                                       |
 | [[Colour Spray.md\|Colour Spray]]                                                               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 1    | 20 metres       | Instant                                                                       |
 | [[Command.md\|Command]]                                                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres       | Instant                                                                       |
@@ -106,7 +106,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Destroy Water.md\|Destroy Water]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres       | Instant                                                                       |
 | [[Detect Ethereal.md\|Detect Ethereal]]                                                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres       | Instant                                                                       |
 | [[Detect Magic.md\|Detect Magic]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self            | [[Concentration.md\|Concentration]], 10 minutes |
-| [[Detect Thoughts.md\|Detect Thoughts]]                                                         | [[Triple Action.md\|Triple Action]] | F, S        | 2    | 4 metres        | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Detect Thoughts.md\|Detect Thoughts]]                                                         | [[Double Action.md\|Double Action]] | F, S        | 2    | 4 metres        | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Detect Undead.md\|Detect Undead]]                                                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self            | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Dimension Door.md\|Dimension Door]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S     | 4    | 40 metres       | Instant                                                                       |
 | [[Disarm Weapons.md\|Disarm Weapons]]                                                           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                       |
@@ -209,6 +209,7 @@ Below are all [[Spell|Spells]] listed in alphabetical order.
 | [[Minor Conjuration.md\|Minor Conjuration]]                                                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres        | 8 hours                                                                       |
 | [[Minor Illusion.md\|Minor Illusion]]                                                           | [[Triple Action.md\|Triple Action]] | F, S        | 0    | 10 metres       | 1 minute                                                                      |
 | [[Mirror Image.md\|Mirror Image]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self            | 1 minute                                                                      |
+| [[Mislead.md\|Mislead]]                                                                         | [[Triple Action.md\|Triple Action]] | F           | 4    | 20 metres       | Instant                                                                       |
 | [[Moonfire.md\|Moonfire]]                                                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                       |
 | [[Mortal Dread.md\|Mortal Dread]]                                                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 4 metres        | Instant                                                                       |
 | [[Necrotic Bolt.md\|Necrotic Bolt]]                                                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres       | Instant                                                                       |
