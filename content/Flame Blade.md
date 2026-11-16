@@ -17,7 +17,6 @@ _\*[[Melee Weapon]]_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
-| [[Elemental Spells II.md\|Elemental Spells II]] |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 
 ---

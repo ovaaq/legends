@@ -16,6 +16,7 @@ _\*2 [[Karat|Karats]] of [[Onyx]], consumed by the [[Spell]]._
 | ------------------------------------------------------------------------------- |
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
 | [[Harmony Spells III.md\|Harmony Spells III]]     |
+| [[Nature Spells III.md\|Nature Spells III]]       |
 
 ---
 

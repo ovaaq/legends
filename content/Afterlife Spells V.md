@@ -3,7 +3,13 @@
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]].
+
+##### 5th Level Spells
+
+- [[Legend Lore]]
+- [[Consume Soul]]
+-
 
 **Tree**:: [[Afterlife Talent Tree]]
 **Group**:: [[Spiritual Talent]]

@@ -21,9 +21,10 @@ As an [[Action]] you can pull [[Restrained]] [[Creature]] 2 metres towards you.
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                   |
-| ----------------------------------------------------------------- |
-| [[War Spells II.md\|War Spells II]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Elemental Spells II.md\|Elemental Spells II]] |
+| [[War Spells II.md\|War Spells II]]             |
 
 ---
 

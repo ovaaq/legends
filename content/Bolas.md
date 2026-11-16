@@ -9,7 +9,7 @@ _Thrown with a tight spin, it whirls around the enemy's legs and hits with a hea
 **Properties**:: [[Finesse]], [[Special]], [[Thrown]], [[Ranged]] (10m / 20m)
 **Damage**::
 
-Attacks with this weapon target only the [[Creature|Creature's]] [[Evasion Class]]. On a hit, a [[Medium]] or smaller creature becomes [[Restrained]]. [[Formless]] [[Creature|Creatures]] are [[Immune]] to this effect.
+Attacks with this weapon target only the [[Creature|Creature's]] [[Evasion Class]]. On a hit, a [[Medium]] or smaller creature becomes [[Restrained]]. [[Formless]] [[Creature|Creatures]] are [[Immunity]] to this effect.
 
 **Escape.** A [[Restrained]] [[Creature]] can attempt an [[Athletics]] or [[Sleight of Hand]] [[Check]] DC 10 to escape.
 

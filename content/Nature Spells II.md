@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-These spells are added to your [[Spiritual Spell List]]:
+These spells are added to your [[Spiritual Spell List]].
 
 ##### 2nd Level Spells
 
@@ -12,10 +12,13 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Earthbind]]
 - [[Enthral]]
 - [[Lesser Restoration]]
-- [[Drain Life]]
 - [[Magic Fruit]]
 - [[Web]]
--
+- [[Cleanse]]
+- [[Create Water]]
+- [[Earthbind]]
+- [[Obscure Senses]]
+- [[Pass Without Trace]]
 
 **Tree**:: [[Nature Talent Tree]]
 **Group**:: [[Spiritual Talent]]

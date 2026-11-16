@@ -14,8 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Beast Spells III.md\|Beast Spells III]] |
 
 ---
 

@@ -87,10 +87,10 @@
 | [[01 - Projects/3 Game Master/Weasel.md\|Weasel]]                     | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Whale.md\|Whale]]                       | -     | - | -     | -      | -                  |
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
-| [[Wolf.md\|Wolf]]                       | 0      | 10 | 8      | 13      | 7 metres            |
-| [[Skeleton.md\|Skeleton]]               | 1      | 13 | 12     | 8       | 6 metres            |
+| [[Skeleton.md\|Skeleton]]               | 1      | 15 | 10     | 12      | 6 metres            |
 | [[Will-o'-Wisp.md\|Will-o'-Wisp]]       | 1      | 10 | 8      | 16      | 15 [[Flying Speed]] |
-| [[Zombie.md\|Zombie]]                   | 1      | 22 | 8      | 8       | 4 metres            |
+| [[Wolf.md\|Wolf]]                       | 1      | 10 | 8      | 13      | 7 metres            |
+| [[Zombie.md\|Zombie]]                   | 1      | 27 | 8      | 8       | 4 metres            |
 | [[Dire Wolf.md\|Dire Wolf]]             | 2      | 45 | 8      | 12      | 12 metres           |
 | [[Ghost.md\|Ghost]]                     | 2      | 2  | 8      | 15      | 5 [[Flying Speed]]  |
 | [[01 - Projects/3 Game Master/Shadow.md\|Shadow]]                     | 2      | 2  | 8      | 15      | 10 [[Flying Speed]] |

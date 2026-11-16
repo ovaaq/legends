@@ -6,7 +6,7 @@ _[[3rd Level Spell]]_
 **Range**:: 40 metres
 **Duration**:: Instant
 
-**Effect**:: You cause an explosion of fire at a point you can see within range. Each [[Creature]] in a 4-metre radius sphere centred on that point must make a [[Agility Saving Throw]].
+**Effect**:: You cause an explosion of fire at a point you can see within range. Each [[Creature]] in a 4-metre radius [[Sphere]] centred on that point must make a [[Agility Saving Throw]].
 
 **Critical Success:** No effect.
 **Success:** The target takes half damage.

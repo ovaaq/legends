@@ -5,11 +5,13 @@ _Flavour text_.
 
 These spells are added to your [[Spiritual Spell List]].
 
-##### 3rd Level Spells
+##### 4th Level Spells
 
 - [[Wall of Fire]]
 - [[Living Flame]]
 - [[Sandstorm]]
+- [[Call Lightning]]
+- [[Living Flame]]
 -
 
 **Tree**:: [[Elemental Talent Tree]]

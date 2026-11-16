@@ -33,7 +33,7 @@ _[[Tiny]] [[Spirit]]_
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | +1  | +2  | +2  | +1  | +1  | -3  | -4  | -3  |
 
-**Construct**: [[Immune]] to [[Charmed]] effects, [[Minor Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
+**Construct**: [[Immunity]] to [[Charmed]] effects, [[Minor Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
 
 **Ropy**. [[Vulnerability]] to [[Slashing Damage]].
 

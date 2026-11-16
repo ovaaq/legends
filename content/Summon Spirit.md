@@ -20,4 +20,4 @@ The [[Spirit]] shares your [[Turn]], and you can mentally command it to act. If 
 
 ---
 
-#spell #template
+#spell #3rd

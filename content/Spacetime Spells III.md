@@ -20,7 +20,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Gravity Well]]
 - [[Gravity hard to walk area]]
 - [[Nearest Summoning Stone]]
--
+- [[Stasis]]
 
 **Tree**:: [[Spacetime Talent Tree]]
 **Group**:: [[Arcane Talent]]

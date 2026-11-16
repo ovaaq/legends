@@ -1,4 +1,4 @@
-_[[Medium]] [[Spirit]]_
+_[[Medium]] [[Undead]] [[Spirit]]_
 
 **Threat**:: 2
 **HP**:: 2
@@ -17,4 +17,4 @@ _[[Medium]] [[Spirit]]_
 
 ---
 
-#creature #spirit
+#creature #spirit #undead

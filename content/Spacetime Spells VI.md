@@ -7,6 +7,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 
 #### 6th Level Spells
 
+- [[Disintegrate]]
 -
 
 **Tree**:: [[Spacetime Talent Tree]]

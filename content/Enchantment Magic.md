@@ -35,7 +35,7 @@ _Strand of magic that x._
 | [[Zone of Truth.md\|Zone of Truth]]                 | [[Triple Action.md\|Triple Action]] | V, S        | 2    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Lightning Arrow.md\|Lightning Arrow]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Pulse.md\|Pulse]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
-| [[Sending.md\|Sending]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Sending.md\|Sending]]                             | [[Triple Action.md\|Triple Action]] | V, S        | 3    | 20 metres | Instant                                                                       |
 | [[Tongues.md\|Tongues]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 
 ---

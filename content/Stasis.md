@@ -19,7 +19,8 @@ As an [[Action]], you can touch the target to end the [[Spell]].
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
+| [[Spacetime Spells III.md\|Spacetime Spells III]] |
 
 ---
 
-#spell #template
+#spell #3rd

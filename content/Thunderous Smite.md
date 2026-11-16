@@ -1,0 +1,24 @@
+_[[1st Level Spell]]_
+
+**Casting**:: [[Reaction]]\*
+**Components**:: V, S
+**Mana**:: 1
+**Range**:: Self
+**Duration**:: Instant
+
+_\*When someone makes an [[Attack]] towards you._
+
+**Effect**:: A magical barrier surrounds you, protecting you from harm. Reduce the incoming [[Attack Roll]] by an amount equal to your [[Sorcery]] Score.
+
+**Upcasting**:: For each additional mana spent, the [[Attack Roll]] reduction increases by 1.
+
+**Type**:: [[Warding Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Elemental Spells I.md\|Elemental Spells I]]   |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
+---
+
+#spell #1st   [[Spell]]

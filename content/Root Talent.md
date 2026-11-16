@@ -68,7 +68,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### General
 
-|Root Talent61|Tree|Cost|Unlocks|
+|Root Talent60|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Acid Stream\|Acid Stream]]|||—|
 |[[Anti Teleport Aura\|Anti Teleport Aura]]|||—|
@@ -110,7 +110,6 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Ray of Enfeeblement\|Ray of Enfeeblement]]|||—|
 |[[Rope Trick\|Rope Trick]]|||—|
 |[[Sacred Flame\|Sacred Flame]]|||—|
-|[[Sandstorm\|Sandstorm]]|||—|
 |[[Scrying\|Scrying]]|||—|
 |[[Shadow Tendril\|Shadow Tendril]]|||—|
 |[[Shocking Grasp\|Shocking Grasp]]|||—|

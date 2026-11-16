@@ -1,7 +1,7 @@
 _[[Medium]] [[Undead]]_
 
 **Threat**:: 1
-**HP**:: 22
+**HP**:: 27
 **Armour**:: 8
 **Evasion**:: 8
 **Speed**:: 4 metres

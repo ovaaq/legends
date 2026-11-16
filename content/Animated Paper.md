@@ -12,7 +12,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | -4  | +1  | +1  | -2  | -2  | -3  | -4  | -3  |
 
-**Construct**: [[Immune]] to [[Charmed]] effects, [[Minor Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
+**Construct**: [[Immunity]] to [[Charmed]] effects, [[Minor Disease]], [[Poison]], [[Paralyzed]], sleep effects, [[Stunned]], death effects, and necromancy effects.
 
 **Papery**. [[Vulnerability]] to [[Slashing Damage]].
 

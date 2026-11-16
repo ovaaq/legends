@@ -15,7 +15,7 @@ _[[3rd Level Spell]]_
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
-| [[Nature Spells II.md\|Nature Spells II]]         |
+| [[Nature Spells III.md\|Nature Spells III]]       |
 | [[Vampire Spells III.md\|Vampire Spells III]]     |
 
 ---

@@ -14,6 +14,7 @@ _Strand of magic that x._
 | [[Necrotic Bolt.md\|Necrotic Bolt]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
 | [[Nightmare.md\|Nightmare]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
 | [[Rotting Flesh.md\|Rotting Flesh]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant   |
+| [[Disintegrate.md\|Disintegrate]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 6    | 10 metres | Instant   |
 
 ---
 

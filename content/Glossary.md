@@ -144,7 +144,7 @@
 | [[Hostile.md\|Hostile]]                                             |
 | [[Identify Magic.md\|Identify Magic]]                               |
 | [[Immobilized.md\|Immobilized]]                                     |
-| [[Immune.md\|Immune]]                                               |
+| [[Immunity.md\|Immunity]]                                           |
 | [[Improve Comfort.md\|Improve Comfort]]                             |
 | [[Incapacitated.md\|Incapacitated]]                                 |
 | [[Incorporeal.md\|Incorporeal]]                                     |

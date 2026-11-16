@@ -3,13 +3,14 @@
 
 _Flavour text_.
 
-These spells are added to your [[Spiritual Spell List]]:
+These spells are added to your [[Spiritual Spell List]].
 
 ##### 3rd Level Spells
 
 - [[Fear]]
 - [[Phantom Steed]]
 - [[Spirit Guardians]]
+- [[Greater Familiar]]
 -
 
 **Tree**:: [[Beast Talent Tree]]

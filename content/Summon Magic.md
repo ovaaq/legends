@@ -13,8 +13,9 @@ _Strand of magic that summons spirits and creatures._
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
 | [[Animate Dead.md\|Animate Dead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 10 metres | Permanent                                                                     |
 | [[Phantom Steed.md\|Phantom Steed]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 10 metres | 1 hour                                                                        |
-| [[Spirit Guardians.md\|Spirit Guardians]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 10 minutes |
+| [[Spirit Guardians.md\|Spirit Guardians]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Summon Greater Familiar.md\|Summon Greater Familiar]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 2 metres  | Instant                                                                       |
+| [[Summon Spirit.md\|Summon Spirit]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
 
 ---
 

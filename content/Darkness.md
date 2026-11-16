@@ -14,7 +14,7 @@ If any of this spell's area overlaps with an area of light created by a [[Spell]
 
 **Upcasting**:: For each additional mana spent, the radius increases by 1 metre.
 
-**Type**:: [[Projection Magic]]
+**Type**:: [[Removal Magic]]
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |

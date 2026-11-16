@@ -1,7 +1,7 @@
 | Cantrip                                                               | Casting                                                           | Components  | Mana | Range     | Duration |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | -------- |
 | [[Antimagic Field.md\|Antimagic Field]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 6    | 20 metres | Instant  |
-| [[Disintegrate.md\|Disintegrate]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 6    | 20 metres | Instant  |
+| [[Disintegrate.md\|Disintegrate]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 6    | 10 metres | Instant  |
 | [[Resurrection.md\|Resurrection]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 6    | 20 metres | Instant  |
 | [[Rewind.md\|Rewind]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant  |
 

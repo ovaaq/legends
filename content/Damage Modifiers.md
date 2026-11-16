@@ -1,4 +1,4 @@
-[[Immune]]
+[[Immunity]]
 [[Greater Resistance]]
 [[Resistance]]
 [[Weakness]]

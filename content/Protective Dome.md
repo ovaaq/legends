@@ -1,16 +1,20 @@
 _[[2nd Level Spell]]_
 
-**Casting**:: [[Reaction]]\*
+**Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 2
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: Self
+**Duration**:: 8 hours
 
-**Effect**:: An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (you choose which side).
+**Effect**:: You create an immobile [[Magical]] half-[[Sphere]] with a 2-metre radius around yourself. The dome has 30 [[Hit Point|Hit Points]] and an [[Armour Class]] of 15.
 
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 Hit Points per 10-foot section, and it has Immunity to [[Poison Damage]], and [[Psychic Damage]]. Reducing a 10-foot section of wall to 0 Hit Points destroys it and leaves behind a sheet of frigid air in the space the wall occupied.
+[[Creature|Creatures]] inside the dome when it is created can freely pass through it, along with [[Object|Objects]] they are wearing or carrying. Other [[Creature|Creatures]] and [[Object|Objects]] cannot pass through the dome. [[Attack|Attacks]], [[Spell|Spells]], and other effects cannot pass through it.
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
+The dome is transparent like glass. It is immune to [[Necrotic Damage]], [[Poison Damage]], and [[Psychic Damage]] and provides shelter from weather and other environmental conditions.
+
+The dome is destroyed when reduced to 0 [[Hit Point|Hit Points]] or when you leave it.
+
+**Upcasting**:: For each 1 additional mana spent, increase the dome's [[Hit Point|Hit Points]] by 10.
 
 **Type**:: [[Warding Magic]]
 

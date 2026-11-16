@@ -12,10 +12,11 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-**Type**:: [[Restoration Magic]]
+**Type**:: [[Removal Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                         |
+| ----------------------------------------------------------------------- |
+| [[Nature Spells II.md\|Nature Spells II]] |
 
 ---
 

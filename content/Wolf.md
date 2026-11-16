@@ -1,6 +1,6 @@
 _[[Small]] [[Natural Beast]]_
 
-**Threat**:: 0
+**Threat**:: 1
 **HP**:: 10
 **Armour**:: 8
 **Evasion**:: 13

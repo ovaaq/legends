@@ -3,6 +3,7 @@ _Definition._
 | Spell                                                                                 | Casting                                                           | Components  | Mana | Range     | Duration                                                                      |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | ----------------------------------------------------------------------------- |
 | [[Animate Paper.md\|Animate Paper]]                     | [[Triple Action.md\|Triple Action]] | S, M\*       | 0    | Touch     | [[Concentration.md\|Concentration]], 10 minutes |
+| [[Call Lightning.md\|Call Lightning]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Corrosive Shot.md\|Corrosive Shot]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres | Instant                                                                       |
 | [[Create Water.md\|Create Water]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Dancing Lights.md\|Dancing Lights]]                   | [[Action.md\|Action]]               | F, V, S     | 0    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
@@ -40,7 +41,6 @@ _Definition._
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
 | [[Chains of Ice.md\|Chains of Ice]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Conceal Magic.md\|Conceal Magic]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
-| [[Darkness.md\|Darkness]]                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Disarm Weapons.md\|Disarm Weapons]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Magic Fruit.md\|Magic Fruit]]                         | [[Triple Action.md\|Triple Action]] | F, S        | 2    | Self      | Instant                                                                       |
 | [[Mind Whip.md\|Mind Whip]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
@@ -49,20 +49,28 @@ _Definition._
 | [[Animate Dead.md\|Animate Dead]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 10 metres | Permanent                                                                     |
 | [[Conjure Building.md\|Conjure Building]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Duplicate.md\|Duplicate]]                             | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instant                                                                       |
+| [[Elemental Weapon.md\|Elemental Weapon]]               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Erupting Earth.md\|Erupting Earth]]                   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Extract Memory.md\|Extract Memory]]                   | [[Double Action.md\|Double Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Fear.md\|Fear]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Freeze Area.md\|Freeze Area]]                         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Greater Familiar.md\|Greater Familiar]]               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Ice Spear.md\|Ice Spear]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Major Illusion.md\|Major Illusion]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 40 metres | [[Concentration.md\|Concentration]], 10 minutes |
+| [[Meld into Stone.md\|Meld into Stone]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Phantom Steed.md\|Phantom Steed]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 10 metres | 1 hour                                                                        |
-| [[Spirit Guardians.md\|Spirit Guardians]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 10 minutes |
+| [[Spirit Guardians.md\|Spirit Guardians]]               | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Summon Greater Familiar.md\|Summon Greater Familiar]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 2 metres  | Instant                                                                       |
+| [[Summon Spirit.md\|Summon Spirit]]                     | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | 10 metres | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Sunlight.md\|Sunlight]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Tidal Wave.md\|Tidal Wave]]                           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Wall of Vines.md\|Wall of Vines]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Water Breathing.md\|Water Breathing]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
+| [[Wind Wall.md\|Wind Wall]]                             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                       |
 | [[Anti Heal spell.md\|Anti Heal spell]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Living Flame.md\|Living Flame]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Parasite.md\|Parasite]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
+| [[Sandstorm.md\|Sandstorm]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Wall of Fire.md\|Wall of Fire]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Maelstrom.md\|Maelstrom]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                       |
 

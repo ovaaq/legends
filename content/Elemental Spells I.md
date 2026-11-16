@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-These spells are added to your [[Spiritual Spell List]]:
+These spells are added to your [[Spiritual Spell List]].
 
 ##### Cantrips
 
@@ -22,8 +22,6 @@ These spells are added to your [[Spiritual Spell List]]:
 - [[Frost Armour]]
 - [[Earth Tremor]]
 - [[Feather Fall]]
-- [[Frost Fingers]]
-- [[Ice Knife]]
 - [[Searing Smite]]
 - [[Thunderous Smite]]
 - [[Thunderwave]]

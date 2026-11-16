@@ -2,6 +2,7 @@ _Strand of magic that creates things from nothing._
 
 | Spell                                                                     | Casting                                                           | Components  | Mana | Range     | Duration                                                                    |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------- | --------------------------------------------------------------------------- |
+| [[Call Lightning.md\|Call Lightning]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Corrosive Shot.md\|Corrosive Shot]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 0    | 10 metres | Instant                                                                     |
 | [[Create Water.md\|Create Water]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
 | [[Ensnairing Strike.md\|Ensnairing Strike]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                     |
@@ -29,15 +30,22 @@ _Strand of magic that creates things from nothing._
 | [[Mind Whip.md\|Mind Whip]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                     |
 | [[Conjure Building.md\|Conjure Building]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Duplicate.md\|Duplicate]]                 | 10 minutes                                                        | F, V, S, M\* | 3    | Touch     | Instant                                                                     |
+| [[Elemental Weapon.md\|Elemental Weapon]]   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
+| [[Erupting Earth.md\|Erupting Earth]]       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Extract Memory.md\|Extract Memory]]       | [[Double Action.md\|Double Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Freeze Area.md\|Freeze Area]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Greater Familiar.md\|Greater Familiar]]   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Ice Spear.md\|Ice Spear]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
+| [[Meld into Stone.md\|Meld into Stone]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Sunlight.md\|Sunlight]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
+| [[Tidal Wave.md\|Tidal Wave]]               | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Wall of Vines.md\|Wall of Vines]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
+| [[Water Breathing.md\|Water Breathing]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
+| [[Wind Wall.md\|Wind Wall]]                 | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 3    | 20 metres | Instant                                                                     |
 | [[Anti Heal spell.md\|Anti Heal spell]]     | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
 | [[Living Flame.md\|Living Flame]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
 | [[Parasite.md\|Parasite]]                   | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
+| [[Sandstorm.md\|Sandstorm]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
 | [[Wall of Fire.md\|Wall of Fire]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 4    | 20 metres | Instant                                                                     |
 | [[Maelstrom.md\|Maelstrom]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres | Instant                                                                     |
 

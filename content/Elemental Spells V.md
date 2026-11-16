@@ -3,7 +3,12 @@
 
 _Flavour text_.
 
-Benefit.
+These spells are added to your [[Spiritual Spell List]].
+
+##### 5th Level Spells
+
+- [[Maelstrom]]
+-
 
 **Tree**:: [[Elemental Talent Tree]]
 **Group**:: [[Spiritual Talent]]

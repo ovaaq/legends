@@ -1,4 +1,4 @@
-_[[3rd Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
@@ -14,10 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents                                                                 |
-| ------------------------------------------------------------------------------- |
-| [[Elemental Spells III.md\|Elemental Spells III]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Elemental Spells II.md\|Elemental Spells II]] |
 
 ---
 
-#spell #3rd   [[Spell]]
+#spell #2nd   [[Spell]]

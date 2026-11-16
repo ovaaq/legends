@@ -16,6 +16,7 @@ _\*4 [[Karat]] of [[Moonstone]], consumed by the [[Spell]]._
 
 | Related Talents                                                             |
 | --------------------------------------------------------------------------- |
+| [[Afterlife Spells V.md\|Afterlife Spells V]] |
 | [[Knowledge Spells V.md\|Knowledge Spells V]] |
 
 ---

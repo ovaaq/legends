@@ -69,6 +69,7 @@
 | [[Summon Familiar.md\|Summon Familiar]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 2 metres  | Instant                                                                       |
 | [[Summon Lesser Spirit.md\|Summon Lesser Spirit]]       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 4 metres  | [[Concentration.md\|Concentration]], 10 minutes |
 | [[Summon Tiny Construct.md\|Summon Tiny Construct]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
+| [[Thunderous Smite.md\|Thunderous Smite]]               | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
 | [[Thunderwave.md\|Thunderwave]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Unearthly Chorus.md\|Unearthly Chorus]]               | [[Triple Action.md\|Triple Action]] | V           | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Unseen Servant.md\|Unseen Servant]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |
