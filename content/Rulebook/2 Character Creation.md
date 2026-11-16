@@ -7,8 +7,8 @@ For a quick overview of character creation, see [[Filling Out the Character Shee
 You may create your character in any order, but the following sequence is recommended for convenience.
 
 [[2.1 Character Concept]]
-[[2.2 Choose an Ancestry]]
-[[2.3 Determine Attributes]]
+[[2.2 Determine Attributes]]
+[[2.3 Choose an Ancestry]]
 [[2.4 Build a Background]]
 [[2.5 Select Talents]]
 [[2.6 Buy Starting Equipment]]
@@ -19,13 +19,13 @@ You may create your character in any order, but the following sequence is recomm
 
 ![[2.1 Character Concept]]
 
-## 2.2 Choose an Ancestry
+## 2.2 Determine Attributes
 
-![[2.2 Choose an Ancestry]]
+![[2.2 Determine Attributes]]
 
-## 2.3 Determine Attributes
+## 2.3 Choose an Ancestry
 
-![[2.3 Determine Attributes]]
+![[2.3 Choose an Ancestry]]
 
 ## 2.4 Build a Background
 

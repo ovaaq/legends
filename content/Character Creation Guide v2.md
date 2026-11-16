@@ -17,13 +17,13 @@ You may create your character in any order, but the following sequence is recomm
 
 > [!NOTE] Character Creation at a Glance
 >
-> 1. [[2.3 Determine Attributes]]
-> 2. [[2.2 Choose an Ancestry]]
+> 1. [[2.2 Determine Attributes]]
+> 2. [[2.3 Choose an Ancestry]]
 > 3. [[2.4 Build a Background]]
 > 4. [[2.5 Select Talents]]
 > 5. [[2.6 Buy Starting Equipment]]
 
-![[2.3 Determine Attributes| no title]]
+![[2.2 Determine Attributes| no title]]
 
 if you need tips how to do this you can read few example characters being build
 [[Building Example Characters]]
