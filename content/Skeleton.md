@@ -8,20 +8,16 @@ _[[Medium]] [[Undead]]_
 
 | Strength | Agility | Precision | Constitution | Awareness | Charisma | Intelligence | Sorcery |
 | :------: | :-----: | :-------: | :----------: | :-------: | :------: | :----------: | :-----: |
-|    0     |   +2    |    +2     |      -3      |     0     |    -1    |      -1      |   -3    |
+|    0     |   +2    |    +2     |      -3      |     0     |    -1    |      -1      |   -2    |
 |    0     |   +2    |           |      -3      |           |    -1    |      -1      |         |
 
-[[Immunity]] to [[Poison Damage]], [[Exhausted]], [[Poisoned]]
+**Damage Vulnerabilities.** [[Bludgeoning Damage]]
 
-[[Vulnerability]] to [[Bludgeoning Damage]]
+**Damage Resistances.** [[Piercing Damage|Piercing]] & [[Slashing Damage]]
 
-[[Resistance]] to [[Piercing Damage]] and [[Slashing Damage]]
+**Shortsword.** As a [[Action]], make a [[Melee Weapon Attack]] with a +3 bonus to hit. On a hit, the attack deals 1d6 [[Slashing Damage]].
 
-**Undead Fortitude.** If damage reduces the [[Skeleton]] to 0 [[Hit Point]], it must make a [[Constitution Saving Throw]] with a DC of 10+the damage taken, unless the damage is radiant or from a critical hit. On a success, the [[Skeleton]] drops to 1 hit point instead.
-
-**Skills.** [[Perception]] +2, [[Acrobatics]] +5
-
-**Peck.** As a [[Double Action]], make a [[Melee Weapon Attack]] with a +2 bonus to hit. On a hit, the attack deals 1 [[Piercing Damage]].
+**Shortbow.**  As a [[Double Action]], make a [[Ranged Weapon Attack]] with a +3 bonus to hit. On a hit, the attack deals 1d10 [[Piercing Damage]].
 
 ---
 

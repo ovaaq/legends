@@ -10,11 +10,7 @@ _[[Large]] [[Natural Beast]]_
 | :------: | :-----: | :-------: | :----------: | :-------: | :------: | :----------: | :-----: |
 |    +3    |   +1    |    -2     |      +4      |    +1     |    -2    |      -4      |   -4    |
 |    +4    |   +2    |           |      +4      |           |    -2    |      -4      |         |
-**Bite.**
-
-**Claws.**
-
-**Pounce.**
+**Bite.** As a [[Double Action]], make a [[Melee Weapon Attack]] with a +5 bonus to hit. On a hit, the attack deals 2d6 + 3 [[Piercing Damage]]. If the target is a [[Creature]], it must succeed on a DC 13 [[Strength Saving Throw]] or be knocked [[Prone]].
 
 ---
 

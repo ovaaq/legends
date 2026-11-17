@@ -8,14 +8,12 @@ _[[Medium]] [[Undead]]_
 
 | Strength | Agility | Precision | Constitution | Awareness | Charisma | Intelligence | Sorcery |
 | :------: | :-----: | :-------: | :----------: | :-------: | :------: | :----------: | :-----: |
-|    0     |   -2    |    -2     |      0       |     0     |    0     |      -4      |   -4    |
-|          |         |           |              |           |          |              |         |
+|    +1    |   -2    |    -2     |      +1      |     0     |    0     |      -4      |   -4    |
+|    +1    |   -2    |           |      +1      |           |    0     |      -4      |         |
 
-**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+**Undead Fortitude.** If damage reduces the [[Zombie]] to 0 hit points, it must make a [[Constitution Saving Throw]] with a DC of 10 + the damage taken, unless the damage is [[Radiant Damage]] or from a [[Critical Hit]]. On a success, the [[Zombie]] drops to 1 hit point instead.
 
-**Bite.** As a [[Double Action]], make a [[Melee Weapon Attack]] with a +2 bonus to hit. On a hit, the attack deals 1 [[Piercing Damage]].
-
-**Unarmed Strike.** e
+**Slam.** As a [[Triple Action]], make a [[Melee Weapon Attack]] with a +3 bonus to hit. On a hit, the attack deals 1d6 + 1 [[Bludgeoning Damage]].
 
 ---
 

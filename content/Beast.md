@@ -34,7 +34,6 @@ _[[Creature]]_
 | [[01 - Projects/3 Game Master/Gorilla.md\|Gorilla]]                   | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Griffon.md\|Griffon]]                   | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Hedgehog.md\|Hedgehog]]                 | -     | - | -     | -      | -                  |
-| [[Horse.md\|Horse]]                     | -     | - | -     | -      | 15 metres           |
 | [[01 - Projects/3 Game Master/Hyena.md\|Hyena]]                       | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironbeak.md\|Ironbeak]]                 | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironscale Crab.md\|Ironscale Crab]]     | -     | - | -     | -      | -                  |
@@ -63,5 +62,6 @@ _[[Creature]]_
 | [[01 - Projects/3 Game Master/Weasel.md\|Weasel]]                     | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Whale.md\|Whale]]                       | -     | - | -     | -      | -                  |
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
+| [[Horse.md\|Horse]]                     | 1      | 24 | 8      | 11      | 15 metres           |
 | [[Wolf.md\|Wolf]]                       | 1      | 10 | 8      | 13      | 7 metres            |
 | [[Dire Wolf.md\|Dire Wolf]]             | 2      | 45 | 8      | 12      | 12 metres           |

@@ -57,7 +57,6 @@
 | [[01 - Projects/3 Game Master/Griffon.md\|Griffon]]                   | -     | - | -     | -      | -                  |
 | [[Halfling.md\|Halfling]]               | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Hedgehog.md\|Hedgehog]]                 | -     | - | -     | -      | -                  |
-| [[Horse.md\|Horse]]                     | -     | - | -     | -      | 15 metres           |
 | [[01 - Projects/3 Game Master/Human.md\|Human]]                       | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Hyena.md\|Hyena]]                       | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Ironbeak.md\|Ironbeak]]                 | -     | - | -     | -      | -                  |
@@ -87,14 +86,16 @@
 | [[01 - Projects/3 Game Master/Weasel.md\|Weasel]]                     | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Whale.md\|Whale]]                       | -     | - | -     | -      | -                  |
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
+| [[Horse.md\|Horse]]                     | 1      | 24 | 8      | 11      | 15 metres           |
 | [[Skeleton.md\|Skeleton]]               | 1      | 15 | 10     | 12      | 6 metres            |
 | [[Will-o'-Wisp.md\|Will-o'-Wisp]]       | 1      | 10 | 8      | 16      | 15 [[Flying Speed]] |
+| [[Will-o’-Wisp.md\|Will-o’-Wisp]]       | 1      | 8  | 8      | 16      | 10 [[Flying Speed]] |
 | [[Wolf.md\|Wolf]]                       | 1      | 10 | 8      | 13      | 7 metres            |
 | [[Zombie.md\|Zombie]]                   | 1      | 27 | 8      | 8       | 4 metres            |
 | [[Dire Wolf.md\|Dire Wolf]]             | 2      | 45 | 8      | 12      | 12 metres           |
-| [[Ghost.md\|Ghost]]                     | 2      | 2  | 8      | 15      | 5 [[Flying Speed]]  |
-| [[01 - Projects/3 Game Master/Shadow.md\|Shadow]]                     | 2      | 2  | 8      | 15      | 10 [[Flying Speed]] |
-| [[01 - Projects/3 Game Master/Wraith.md\|Wraith]]                     | 2      | 2  | 8      | 15      | 10 [[Flying Speed]] |
+| [[Ghost.md\|Ghost]]                     | 2      | 28 | 8      | 13      | 5 [[Flying Speed]]  |
+| [[Shadow.md\|Shadow]]                   | 2      | 20 | 8      | 15      | 10 [[Flying Speed]] |
+| [[Wraith.md\|Wraith]]                   | 2      | 30 | 8      | 13      | 10 [[Flying Speed]] |
 
 ---
 

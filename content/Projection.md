@@ -1,12 +1,22 @@
-**CAST TIME**: ▶▶▶
-**MANA**: 0
-**RANGE**: 20 meters
-**SPELL PARTS**: F, V, S, M\*
-**LEVEL**: [[3rd Level Spell]]
-**DURATION**: Instant
+_[[X Level Spell]]_
 
-**EFFECT**: Project yourself somewhere where you can speak and see.
+**Casting**:: **▶▶▶⚡〇**
+**Components**:: F, V, S, M\*
+**Mana**:: 0
+**Range**:: 20 metres
+**Duration**:: Instant
 
-**UPCASTING**: For each additional mana spent, the damage increases by 1d6.
+_\*A 2-[[Karat]] [[Ruby]], consumed by the [[Spell]]._
 
-_[[Evocation Magic]]_
+**Effect**:: project illusion of yourself to in some radius
+
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
+
+**Type**:: [[Conjuration Magic]]
+
+| Related Talents |
+| --------------- |
+
+---
+
+#spell #template
