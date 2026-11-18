@@ -14,13 +14,19 @@ _[[1st Level Spell]]_
 
 A [[Creature]] affected by this spell wakes up if it takes damage, or if another [[Creature]] uses an [[Action]] to shake or slap it awake.
 
-**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]].HOUT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each additional mana spent, you can target one additional [[Creature]].
 
-```
+**Type**:: [[Enchantment Magic]]
 
-___
-#spell #1st [[Spell|]]
-```
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Arcane Spells I.md\|Arcane Spells I]]         |
+| [[Beast Spells I.md\|Beast Spells I]]           |
+| [[Divination Spells I.md\|Divination Spells I]] |
+| [[Elven Spells I.md\|Elven Spells I]]           |
+| [[Harmony Spells I.md\|Harmony Spells I]]       |
+
+---
+
+#spell #template [[Spell]]

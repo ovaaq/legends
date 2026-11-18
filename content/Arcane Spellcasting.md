@@ -5,7 +5,7 @@ _You're a wizard._
 
 Increase your [[Spellcraft]] [[Rank]] by 1.
 
-These spells are added to your [[Arcane Spell List]]:
+These spells are added to your [[Arcane Spell List]].
 
 ##### Cantrips
 

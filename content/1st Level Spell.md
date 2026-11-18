@@ -13,6 +13,7 @@
 | [[Bane.md\|Bane]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Bark Armour.md\|Bark Armour]]                         | [[Double Action.md\|Double Action]] | F, V, S     | 1    | Self      | 1 minute                                                                      |
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
+| [[Burning Hands.md\|Burning Hands]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Call Object.md\|Call Object]]                         | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres | Instant                                                                       |
 | [[Call to Duel.md\|Call to Duel]]                       | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres | Instant                                                                       |
 | [[Charm Humanoid.md\|Charm Humanoid]]                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 hour                                                                        |

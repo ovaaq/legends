@@ -12,13 +12,13 @@ _[[Cantrip]]_
 **Failure:** Target takes 1d12 [[Poison Damage]].
 **Critical Failure:** Target takes 1d12 [[Poison Damage]] and is [[Blinded]] until the start of your next turn.
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.THOUT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-```
+**Type**:: [[Conjuration Magic]]
 
-___
-#spell #cantrip  [[Spell|]]
-```
+| Related Talents |
+| --------------- |
+
+---
+
+#spell #template [[Spell]]

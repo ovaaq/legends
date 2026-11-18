@@ -11,13 +11,14 @@ _[[Cantrip]]_
 **Success:** Target takes no damage.
 **Failure:** Target takes 1d12 [[Radiant Damage]].
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.OUT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-```
+**Type**:: [[Evocation Magic]]
 
-___
-#spell #cantrip  [[Spell|]]
-```
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Divine Spellcasting.md\|Divine Spellcasting]] |
+
+---
+
+#spell #template [[Spell]]

@@ -9,7 +9,7 @@ These spells are added to your [[Divine Spell List]].
 
 - [[Counterspell]]
 - [[Remove Curse]]
-- [[Beacon of Hope]]
+- [[Reflecting damage back spell]]
 - [[Dispel Magic]]
 - [[Fast Friends]]
 - [[Hypnotic Pattern]]

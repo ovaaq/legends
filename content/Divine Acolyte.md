@@ -3,7 +3,13 @@
 
 _Flavour text_.
 
+Increase your [[Prayer]] [[Rank]] by 1.
+
 **Faith Points.** You have 2 [[Faith Point|Faith Points]]. You regain all expended [[Faith Point|Faith Points]] when you finish a [[Long Rest]].
+
+Any divine abilities that force saving throw uses your [[Divine Save DC]]
+
+![[Divine Save DC]]
 
 **Tiny Miracles.** As an [[Double Action]] you can spend 1 [[Faith Point]]  and choose one of the four aspects divine:
 

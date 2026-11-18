@@ -8,13 +8,13 @@ _[[5th Level Spell]]_
 
 **Effect**:: 10d4, funny shape
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.OUT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-```
+**Type**:: [[Evocation Magic]]
 
-___
-#spell #5th [[Spell|]]
-```
+| Related Talents |
+| --------------- |
+
+---
+
+#spell #template [[Spell]]

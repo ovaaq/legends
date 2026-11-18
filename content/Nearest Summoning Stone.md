@@ -14,13 +14,14 @@ Many major temples, guilds, and other important places have permanent teleportat
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.HOUT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-```
+**Type**:: [[Evocation Magic]]
 
-___
-#spell #template [[Spell|]]
-```
+| Related Talents                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Spacetime Spells III.md\|Spacetime Spells III]] |
+
+---
+
+#spell #template [[Spell]]

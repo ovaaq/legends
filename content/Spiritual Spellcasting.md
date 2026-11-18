@@ -3,8 +3,6 @@
 
 _Flavour text._
 
-Increase your [[Channelling]] [[Rank]] by 1.
-
 These spells are added to your [[Spiritual Spell List]].
 
 ##### Cantrips

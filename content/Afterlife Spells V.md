@@ -9,6 +9,7 @@ These spells are added to your [[Spiritual Spell List]].
 
 - [[Legend Lore]]
 - [[Consume Soul]]
+- [[Commune with Dead]]
 -
 
 **Tree**:: [[Afterlife Talent Tree]]

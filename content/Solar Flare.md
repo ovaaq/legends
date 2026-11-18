@@ -12,13 +12,16 @@ _[[Cantrip]]_
 **Failure:** Target takes 1d4 [[Fire Damage]].
 **Critical Failure:** Target takes 1d4 [[Fire Damage]] and is [[Blinded]] until the start of your next turn.
 
-**Upcasting**:: For each 2 additional two mana spent, the damage increases by 1d6.UT ID file.link AS "Related Talents"
-FROM #talent
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name ASC
+**Upcasting**:: For each 2 additional two mana spent, the damage increases by 1d6.
 
-```
+**Type**:: [[Evocation Magic]]
 
-___
-#spell #cantrip  [[Spell|]]
-```
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Harmony Spells I.md\|Harmony Spells I]]       |
+| [[Innate Spells I.md\|Innate Spells I]]         |
+| [[Spellblade Spells I.md\|Spellblade Spells I]] |
+
+---
+
+#spell #template [[Spell]]

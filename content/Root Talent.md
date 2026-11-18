@@ -53,66 +53,17 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Pact Talent
 
-|Root Talent4|Tree|Cost|Unlocks|
+|Root Talent6|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Angelic Pact\|Angelic Pact]]|[[Angelic Pact Talent Tree\|Angelic Pact Talent Tree]]|1 LP|• [[cr1\|cr1]]  <br>• [[ca1\|ca1]]  <br>• [[cp1\|cp1]]  <br>• [[Angelic Spells I\|Angelic Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 |[[Artifact Pact\|Artifact Pact]]|[[Artifact Pact Talent Tree\|Artifact Pact Talent Tree]]|1 LP|• [[ar1\|ar1]]  <br>• [[aa1\|aa1]]  <br>• [[ap1\|ap1]]  <br>• [[Artifact Spells I\|Artifact Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[00 - Inbox/Devilish Pact\|Devilish Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 |[[Draconic Pact\|Draconic Pact]]|[[Draconic Pact Talent Tree\|Draconic Pact Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[da1\|da1]]  <br>• [[dp1\|dp1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 |[[Fey Pact\|Fey Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[00 - Inbox/Symbiote Pact\|Symbiote Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 
 ### Spiritual Talent
 
 |Root Talent1|Tree|Cost|Unlocks|
 |---|---|---|---|
 |[[Spiritual Connection\|Spiritual Connection]]|[[Spiritual Talent Tree\|Spiritual Talent Tree]]|1 LP|• [[Channelling Practice\|Channelling Practice]]  <br>• [[Spiritual Spellcasting\|Spiritual Spellcasting]]  <br>• [[Spirit Guide\|Spirit Guide]]  <br>• [[Ethereal Sight\|Ethereal Sight]]  <br>• [[Essence Flow\|Essence Flow]]  <br>• [[Turn Spirits\|Turn Spirits]]|
-
-### General
-
-|Root Talent46|Tree|Cost|Unlocks|
-|---|---|---|---|
-|[[Arcane Anchor\|Arcane Anchor]]|||—|
-|[[Aura of Healing\|Aura of Healing]]|||—|
-|[[Blur\|Blur]]|||—|
-|[[Burning Hands\|Burning Hands]]|||—|
-|[[Chill Touch\|Chill Touch]]|||—|
-|[[Commune with Dead\|Commune with Dead]]|||—|
-|[[Conjure Big Hand\|Conjure Big Hand]]|||—|
-|[[Create Undead\|Create Undead]]|||—|
-|[[Dominate Humanoid\|Dominate Humanoid]]|||—|
-|[[Earth Tremor\|Earth Tremor]]|||—|
-|[[Explosion\|Explosion]]|||—|
-|[[Fabricate\|Fabricate]]|||—|
-|[[Fast Friends\|Fast Friends]]|||—|
-|[[Fire Blast\|Fire Blast]]|||—|
-|[[Flamestrike\|Flamestrike]]|||—|
-|[[Frostbite\|Frostbite]]|||—|
-|[[Greater Heal\|Greater Heal]]|||—|
-|[[Guiding Bolt\|Guiding Bolt]]|||—|
-|[[Haste\|Haste]]|||—|
-|[[Healing Word\|Healing Word]]|||—|
-|[[Hypnotic Pattern\|Hypnotic Pattern]]|||—|
-|[[Mana Siphon\|Mana Siphon]]|||—|
-|[[Mass Suggestion\|Mass Suggestion]]|||—|
-|[[Mocking Taunt\|Mocking Taunt]]|||—|
-|[[Moonbeam\|Moonbeam]]|||—|
-|[[Nearest Summoning Stone\|Nearest Summoning Stone]]|||—|
-|[[Necrosis\|Necrosis]]|||—|
-|[[Poison Spray\|Poison Spray]]|||—|
-|[[Produce Flame\|Produce Flame]]|||—|
-|[[Ray of Enfeeblement\|Ray of Enfeeblement]]|||—|
-|[[Rope Trick\|Rope Trick]]|||—|
-|[[Sacred Flame\|Sacred Flame]]|||—|
-|[[Scrying\|Scrying]]|||—|
-|[[Shadow Tendril\|Shadow Tendril]]|||—|
-|[[Shocking Grasp\|Shocking Grasp]]|||—|
-|[[Sleep\|Sleep]]|||—|
-|[[Solar Flare\|Solar Flare]]|||—|
-|[[Speak with Spirit\|Speak with Spirit]]|||—|
-|[[Summon Tiny Elemental\|Summon Tiny Elemental]]|||—|
-|[[Tailwind Strike\|Tailwind Strike]]|||—|
-|[[Temporal Life\|Temporal Life]]|||—|
-|[[Thorn Dart\|Thorn Dart]]|||—|
-|[[Time Skip Spell\|Time Skip Spell]]|||—|
-|[[Toxic Torrent\|Toxic Torrent]]|||—|
-|[[Transposition\|Transposition]]|||—|
-|[[Venom Fang\|Venom Fang]]|||—|

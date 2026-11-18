@@ -1,11 +1,12 @@
-| Cantrip                                                         | Casting                                                           | Components  | Mana | Range           | Duration |
-| --------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------------- | -------- |
-| [[Consume Soul.md\|Consume Soul]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres       | Instant  |
-| [[Containment.md\|Containment]]   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 5    | 20 metres       | Instant  |
-| [[Erase Memory.md\|Erase Memory]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant  |
-| [[Legend Lore.md\|Legend Lore]]   | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant  |
-| [[Maelstrom.md\|Maelstrom]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres       | Instant  |
-| [[Regeneration.md\|Regeneration]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres       | Instant  |
-| [[Teleport.md\|Teleport]]         | 1 minute                                                          | F, V, S, M\* | 5    | 1000 kilometres | Instant  |
+| Cantrip                                                                   | Casting                                                           | Components  | Mana | Range           | Duration |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | ---- | --------------- | -------- |
+| [[Commune with Dead.md\|Commune with Dead]] | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant  |
+| [[Consume Soul.md\|Consume Soul]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres       | Instant  |
+| [[Containment.md\|Containment]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 5    | 20 metres       | Instant  |
+| [[Erase Memory.md\|Erase Memory]]           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant  |
+| [[Legend Lore.md\|Legend Lore]]             | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 0    | 20 metres       | Instant  |
+| [[Maelstrom.md\|Maelstrom]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres       | Instant  |
+| [[Regeneration.md\|Regeneration]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 5    | 20 metres       | Instant  |
+| [[Teleport.md\|Teleport]]                   | 1 minute                                                          | F, V, S, M\* | 5    | 1000 kilometres | Instant  |
 
 ---

@@ -3,8 +3,6 @@
 
 _Flavour text_.
 
-Increase your [[Prayer]] [[Rank]] by 1.
-
 These spells are added to your [[Divine Spell List]].
 
 ##### Cantrips
