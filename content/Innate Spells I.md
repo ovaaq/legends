@@ -50,7 +50,7 @@ These spells are added to your [[Innate Spell List]]:
 - [[Wind Step]]
 - [[Long Strider]]
 - [[Thunderwave]]
-- [[Witch Bolt]]
+- [[Lightning Arc]]
 
 **Tree**:: [[Innate Talent Tree]]
 **Group**:: [[Innate Talent]]

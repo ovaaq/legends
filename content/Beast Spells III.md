@@ -11,6 +11,10 @@ These spells are added to your [[Spiritual Spell List]].
 - [[Phantom Steed]]
 - [[Spirit Guardians]]
 - [[Greater Familiar]]
+- [[Drain Life]]
+- [[Elemental Protection]]
+- [[Fly]]
+- [[Water Breathing]]
 -
 
 **Tree**:: [[Beast Talent Tree]]

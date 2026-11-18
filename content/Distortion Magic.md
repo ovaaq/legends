@@ -12,6 +12,7 @@ _Strand of magic that x._
 | [[Wind Slash.md\|Wind Slash]]                     | [[Double Action.md\|Double Action]] | V, S        | 0    | 40 metres       | Instant                                                                     |
 | [[Call Object.md\|Call Object]]                   | [[Double Action.md\|Double Action]] | V, S        | 1    | 20 metres       | Instant                                                                     |
 | [[Feather Fall.md\|Feather Fall]]                 | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres       | 10 minutes                                                                  |
+| [[Misty Step.md\|Misty Step]]                     | [[Action.md\|Action]]               | S           | 1    | Self            | Instant                                                                     |
 | [[Shared Health.md\|Shared Health]]               | [[Double Action.md\|Double Action]] | F, S        | 1    | 10 metres       | Instant                                                                     |
 | [[Air Bubble.md\|Air Bubble]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                     |
 | [[Displace Object.md\|Displace Object]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres       | Instant                                                                     |

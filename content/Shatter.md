@@ -16,6 +16,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Spacetime Spells II.md\|Spacetime Spells II]] |
 | [[War Spells II.md\|War Spells II]]             |
 

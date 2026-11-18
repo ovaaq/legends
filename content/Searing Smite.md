@@ -16,6 +16,7 @@ _\*When someone makes an [[Attack]] towards you._
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |
 | [[Elemental Spells I.md\|Elemental Spells I]]   |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |

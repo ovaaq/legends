@@ -17,6 +17,7 @@ _[[Cantrip]]_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Divine Spellcasting.md\|Divine Spellcasting]] |
 
 ---

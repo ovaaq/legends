@@ -38,6 +38,7 @@
 | [[Lesser Restoration.md\|Lesser Restoration]] | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Touch     | Instant                                                                                                 |
 | [[Levitate.md\|Levitate]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Life Transfer.md\|Life Transfer]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
+| [[Lightning Arc.md\|Lightning Arc]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 10 metres | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Lightning Arrow.md\|Lightning Arrow]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 3    | 20 metres | Instant                                                                                                 |
 | [[Locate Object.md\|Locate Object]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Locate Wildlife.md\|Locate Wildlife]]       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |

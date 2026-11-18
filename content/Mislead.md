@@ -14,8 +14,9 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 **Type**:: [[Projection Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                       |
+| --------------------------------------------------------------------- |
+| [[Beast Spells IV.md\|Beast Spells IV]] |
 
 ---
 

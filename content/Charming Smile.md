@@ -16,6 +16,7 @@ _[[Cantrip]]_
 
 | Related Talents                                                         |
 | ----------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]] |
 | [[Harmony Spells I.md\|Harmony Spells I]] |
 | [[Innate Spells I.md\|Innate Spells I]]   |
 

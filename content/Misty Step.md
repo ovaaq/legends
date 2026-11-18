@@ -10,7 +10,7 @@ _[[1st Level Spell]]_
 
 **Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
 
-**Type**:: [[Conjuration Magic]]
+**Type**:: [[Distortion Magic]]
 
 | Related Talents                                                             |
 | --------------------------------------------------------------------------- |

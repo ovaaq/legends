@@ -49,7 +49,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Snare]]
 - [[Summon Weapon]]
 - [[Thunderous Smite]]
-- [[Witch Bolt]]
+- [[Lightning Arc]]
 - [[Tailwind Strike]]
 - [[Thunderwave]]
 - [[Grease]]

@@ -3,7 +3,10 @@
 
 _Flavour text_.
 
-**Symbol of Contract.** jiji
+Select which [[Creation]], [[Destruction]], [[Transformation]] or [[Preservation]] archangel is related.
+that grants certain options in angelic spells and possibly others.
+
+**Symbol of Contract.** you have a halo around your wrist.
 
 **Master’s Will.** Yes yes master by servant.
 

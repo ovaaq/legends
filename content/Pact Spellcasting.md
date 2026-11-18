@@ -5,7 +5,7 @@ _Your patron has given you magical strength to cast spells._
 
 Increase your [[Invocation]] [[Rank]] by 1.
 
-**Given Power.** Select two [[Cantrip|Cantrips]] from your [[Pact Spell List]] and add them to your [[Learned Pact Spells]] list.
+**Given Power.** Select two [[Cantrip|Cantrips]] and two [[1st Level Spell]] from your [[Pact Spell List]] and add them to your [[Learned Pact Spells]] list.
 
 **Spell Slots.** Pact spellcasting uses [[Spell Slot|Spell Slots]] instead of [[Mana]]. You have two 1st level [[Spell Slot|Spell Slots]]. You regain all expended [[Spell Slot|Spell Slots]] when you finish a [[Long Rest]]. [[Cantrip|Cantrips]] do not consume [[Spell Slot|Spell Slots]]. To cast a [[Spell]], you must expend a [[Spell Slot]] equal to or higher than the [[Spell|Spell's]] [[Mana]] cost. If you use a higher-level [[Spell Slot]], the difference upcasts the spell.
 

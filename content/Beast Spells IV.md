@@ -7,6 +7,10 @@ These spells are added to your [[Spiritual Spell List]].
 
 ##### 4th Level Spells
 
+- [[Death Ward]]
+- [[Frailty]]
+- [[Mislead]]
+- [[Parasite]]
 -
 
 **Tree**:: [[Beast Talent Tree]]

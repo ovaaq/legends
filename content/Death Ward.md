@@ -17,6 +17,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells IV.md\|Afterlife Spells IV]] |
+| [[Beast Spells IV.md\|Beast Spells IV]]         |
 
 ---
 

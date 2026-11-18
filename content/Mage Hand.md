@@ -23,6 +23,7 @@ The hand can move up to 10 metres each time you control it. It cannot [[Attack]]
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 
 ---

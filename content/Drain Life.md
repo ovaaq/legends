@@ -17,6 +17,7 @@ On [[Critical Hit]] target also becomes [[Feeble]] until the start of your next 
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
+| [[Beast Spells III.md\|Beast Spells III]]         |
 | [[Nature Spells III.md\|Nature Spells III]]       |
 | [[Vampire Spells III.md\|Vampire Spells III]]     |
 

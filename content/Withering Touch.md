@@ -15,6 +15,7 @@ _[[Cantrip]]_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 
 ---

@@ -14,6 +14,7 @@ _[[Cantrip]]_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
 | [[Elemental Spells I.md\|Elemental Spells I]]   |

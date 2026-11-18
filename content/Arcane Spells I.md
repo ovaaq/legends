@@ -31,7 +31,7 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Summon Weapon]]
 - [[Floating Disk]]
 - [[Thunderwave]]
-- [[Witch Bolt]]
+- [[Lightning Arc]]
 
 **Tree**:: [[Arcane Talent Tree]]
 **Group**:: [[Arcane Talent]]

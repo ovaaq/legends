@@ -16,6 +16,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Draconic Spells I.md\|Draconic Spells I]]     |
 | [[Dwarven Spells I.md\|Dwarven Spells I]]       |

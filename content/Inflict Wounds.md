@@ -15,6 +15,7 @@ _[[1st Level Spell]]_
 | Related Talents                                                             |
 | --------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]] |
+| [[Angelic Spells I.md\|Angelic Spells I]]     |
 | [[Vampire Spells I.md\|Vampire Spells I]]     |
 | [[War Spells I.md\|War Spells I]]             |
 

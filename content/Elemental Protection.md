@@ -14,6 +14,7 @@ _[[3rd Level Spell]]_
 
 | Related Talents                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Beast Spells III.md\|Beast Spells III]]         |
 | [[Elemental Spells III.md\|Elemental Spells III]] |
 
 ---
