@@ -1,6 +1,6 @@
 _[[Utility Action]]_
 
-**Execution**:: [[Double Action]]
+**Execution**:: [[Triple Action]]
 **Target**:: [[Dying]] [[Creature]]
 
 You attempt to stabilize a [[Dying]] [[Creature]]. Make a [[Medicine]] [[Check]] DC 10.

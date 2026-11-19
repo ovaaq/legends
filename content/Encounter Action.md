@@ -132,7 +132,6 @@ Movement Types
 | [[Disarm.md\|Disarm]]                         | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Dodge.md\|Dodge]]                           | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Escape.md\|Escape]]                         | [[Double Action.md\|Double Action]] | -                                                           |
-| [[First Aid.md\|First Aid]]                   | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Grapple.md\|Grapple]]                       | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Hide.md\|Hide]]                             | [[Double Action.md\|Double Action]] | -                                                           |
 | [[Raise Shield.md\|Raise Shield]]             | [[Double Action.md\|Double Action]] | -                                                           |
@@ -143,6 +142,7 @@ Movement Types
 | [[Drop Object.md\|Drop Object]]               | [[Free Action.md\|Free Action]]     | -                                                           |
 | [[Fall Prone.md\|Fall Prone]]                 | [[Free Action.md\|Free Action]]     | -                                                           |
 | [[Disarm Trap.md\|Disarm Trap]]               | [[Triple Action.md\|Triple Action]] | -                                                           |
+| [[First Aid.md\|First Aid]]                   | [[Triple Action.md\|Triple Action]] | -                                                           |
 | [[Pick Lock.md\|Pick Lock]]                   | [[Triple Action.md\|Triple Action]] | -                                                           |
 | [[Sprint.md\|Sprint]]                         | [[Triple Action.md\|Triple Action]] | -                                                           |
 

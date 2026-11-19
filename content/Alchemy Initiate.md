@@ -1,11 +1,11 @@
 **Requirements**::
 **Cost**:: 2 LP
 
-_You're a starting alchemist. As you appear to understand now basics of alchemy._
+_You now understand basics of alchemy._
 
 Increase your [[Alchemy]] [[Rank]] by 1.
 
-Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formula List]].
+These [[Alchemical Formula|Alchemical Formulas]] are added to your [[Alchemical Formula List]].
 
 ##### 1st Level Alchemical Formulas
 
@@ -19,9 +19,9 @@ Add these [[Alchemical Formula|Alchemical Formulas]] to your [[Alchemical Formul
 - [[Venomous Oil Formula]]
 - [[White Arsenic Formula]]
 
-**Alchemy Book.** You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]] that you have created. Select four [[1st Level Alchemical Formula|1st Level Alchemical Formulas]] from your [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
+**Alchemy Book.** You gain [[Alchemy Book]], which is used to record your [[Alchemical Formula|Alchemical Formulas]]. Choose four [[1st Level Alchemical Formula|1st Level Alchemical Formulas]] from your [[Alchemical Formula List]] and add them to your [[Alchemy Book]].
 
-**Copying Alchemical Formula.** You can use ink to copy any formula to your [[Alchemy Book]] you can freely study. Copying takes 1 hour per [[Alchemical Formula]] level.
+**Copying Alchemical Formula.** You can copy any formula to your [[Alchemy Book]] you can freely study. Copying takes 1 hour per [[Alchemical Formula]] level.
 
 ![[Alchemy Save DC]]
 

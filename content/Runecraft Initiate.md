@@ -5,7 +5,7 @@ _Flavour text_.
 
 Increase your [[Runecraft]] [[Rank]] by 1.
 
-Add these [[Rune|Runes]] to your [[Rune List]].
+These [[Rune|Runes]] are added to your [[Rune List]].
 
 ##### 1st Level Runes
 
@@ -14,11 +14,11 @@ Add these [[Rune|Runes]] to your [[Rune List]].
 - [[Rune of Strength]]
 - [[Rune of Vitality]]
 
-**Runic Knowledge.** Select two [[1st Level Rune|1st Level Runes]] from your [[Rune List]] and add them to your [[Known Runes List]].
+**Runic Knowledge.** Choose two [[1st Level Rune|1st Level Runes]] from your [[Rune List]] and add them to your [[Known Runes List]].
 
-**Inscribe Rune.** By spending 2 hours of work and using 1 [[Mana]] per [[Rune]] level, you can carve a [[Rune]] from [[Known Runes List]] into a [[Non-magical]] [[Object]] that meets the rune’s item description. Upon completion, the [[Object]] becomes a [[Magical]] [[Object]] that requires [[Attunement]].
+**Inscribe Rune.** By spending 2 hours of work and using 1 [[Mana]] per [[Rune]] level, you can carve a [[Rune]] from [[Known Runes List]] into a [[Non-magical]] [[Object]] that meets the [[Rune|Rune's]] requirements. The [[Object]] becomes [[Magical]] and requires [[Attunement]].
 
-**Rune Capacity.** You can have only one active [[Rune]] at a time. Your runes remain on the item indefinitely, but if you die, they vanish after a number of days equal to your [[Sorcery]].
+**Rune Capacity.** You can have only one inscribed [[Rune]] at a time. Inscribed [[Rune]] remains on the [[Object]] indefinitely, but if you [[Dead|Die]], the [[Rune]] vanishes after a number of days equal to your [[Runecraft]] [[Rank]].
 
 ![[Runecraft Save DC]]
 

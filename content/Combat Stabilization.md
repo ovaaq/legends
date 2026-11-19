@@ -1,9 +1,9 @@
 **Requirements**:: [[Healer]]
-**Cost**:: 2 LP
+**Cost**:: 1 LP
 
 _Flavour text_.
 
-You can do [[First Aid]] as 1 [[Action]].
+**Combat Stabilization.** You can perform [[First Aid]] as an [[Action]].
 
 **Tree**:: [[Healer Talent Tree]]
 **Group**:: [[General Talent]]

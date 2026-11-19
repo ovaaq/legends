@@ -32,7 +32,7 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 
 - [[Capability Talent Tree|Capability Talent Tree]] - Increased skill and doing.
 - [[Haste Talent Tree|Haste Talent Tree]] - Extremely fast reactions and actions.
-- [[Healer Talent Tree|Healer Talent Tree]] - Healing others through normal means.
+- [[Healer Talent Tree|Healer Talent Tree]] - Healing others through medical skill.
 - [[Inspirer Talent Tree|Inspirer Talent Tree]] - Inspiring others to their highest potential.
 - [[Luck Talent Tree|Luck Talent Tree]] - Luck helping you and even others.
 - [[Mental Talent Tree|Mental Talent Tree]] - Mental use in highest level.

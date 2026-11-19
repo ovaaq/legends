@@ -1,8 +1,22 @@
 - [[Healer]]
   - [[Combat Stabilization]]
-  - [[Pain Suppression]]
-  - [[Remove Condition]]
-  - [[Help Injury]]
+  - [[Tend the Wounded]]
+
+**Theme**:: Healing others through medical skill.
+**Group**:: [[General Talent]]
+
+---
+
+#talent_tree #general
+[[Talent Tree]]
+
+Scales with medicine?
+
+```
+- [[Pain Suppression]]
+- [[Remove Condition]]
+- [[Help Injury]]
+```
 
 -combat healing branch
 -resting benefits branch
@@ -22,13 +36,3 @@
 
 - **Auto-Response Training**\
   When an ally nearby drops, you may immediately move toward them without provoking reactions.
-
-**Theme**:: Healing others through normal means.
-**Group**:: [[General Talent]]
-
----
-
-#talent_tree #general
-[[Talent Tree]]
-
-Scales with medicine?

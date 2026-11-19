@@ -7,21 +7,16 @@ Increase your [[Prayer]] [[Rank]] by 1.
 
 **Faith Points.** You have 2 [[Faith Point|Faith Points]]. You regain all expended [[Faith Point|Faith Points]] when you finish a [[Long Rest]].
 
+**Sacred Rite.** Spend 1 hour performing a ritual, expend 1 [[Faith Point]], and consume 1 gram of [[Incense]] to create one of the following blessed substances.
+
+- [[Holy Water]]
+- [[Holy Silver]]
+- [[Holy Clay]]
+- [[Holy Fire]]
+
 When any of your divine talents requires a [[Creature]] to make a [[Saving Throw]], it uses your [[Divine Save DC]].
 
 ![[Divine Save DC]]
-
-**Tiny Miracles.** As an [[Double Action]] you can spend 1 [[Faith Point]]  and choose one of the four aspects divine:
-
-- **Creation:** You conjure a simple, non-magical item worth no more than 1 gp and weighing no more than 0.5 kg. Examples include a toy, a flower, a stone, or a scrap of cloth. You cannot create exact replicas of specific objects or items with intricate mechanisms.
-
-- **Preservation:** Select one non-magical object you can see within 4 metres. The object gains 20 [[Temporary Hit Point|Temporary Hit Points]] for 24 hours. While these [[Temporary Hit Point|Temporary Hit Points]] remain, it resists scratches, dents, cracks, and minor impacts. Once the [[Temporary Hit Point|Temporary Hit Points]] are depleted, the object becomes non-magical again.
-
-- **Transformation:** Select one non-magical object you can see within 4 metres. You alter the non-magical object in a minor way, affecting no more than 10  litres of volume. Examples include:
-  - Turning water into wine
-  - Changing the colour of an item
-
-- **Destruction:** Select one non-magical object you can see within 4 metres. The object loses up to 10 [[Hit Point|Hit Points]]. Small, fragile items may be destroyed outright, while larger items may be partially broken.
 
 **Tree**:: [[Divine Talent Tree]]
 **Group**:: [[Divine Talent]]

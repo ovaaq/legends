@@ -86,6 +86,7 @@
 | [[01 - Projects/3 Game Master/Weasel.md\|Weasel]]                     | -     | - | -     | -      | -                  |
 | [[01 - Projects/3 Game Master/Whale.md\|Whale]]                       | -     | - | -     | -      | -                  |
 | [[Dove.md\|Dove]]                       | 0      | 2  | 8      | 15      | 25 [[Flying Speed]] |
+| [[Commoner.md\|Commoner]]               | 1      | 12 | 8      | 10      | 7 metres            |
 | [[Horse.md\|Horse]]                     | 1      | 24 | 8      | 11      | 15 metres           |
 | [[Skeleton.md\|Skeleton]]               | 1      | 15 | 10     | 12      | 6 metres            |
 | [[Will-o'-Wisp.md\|Will-o'-Wisp]]       | 1      | 10 | 8      | 16      | 15 [[Flying Speed]] |
