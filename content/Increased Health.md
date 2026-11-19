@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase your [[Hit Point Maximum]] and gain one [[Hit Die]], as determined by your [[Constitution]] using the table below.
+Increase your [[Hit Point Maximum]] and current [[Hit Point|Hit Points]] by the amount shown in the table below. You also gain one [[Hit Die]] of the indicated size.
 
 | Constitution | Hit Die | Hit Points |
 | :----------: | :-----: | :--------: |
@@ -15,7 +15,7 @@ Increase your [[Hit Point Maximum]] and gain one [[Hit Die]], as determined by y
 |      5       |   d12   |     7      |
 | 6 or higher  |   d12   |     8      |
 
-Once gained, this increase to your [[Hit Point Maximum]] and your [[Hit Die]] does not change if your [[Constitution]] later increases or decreases.
+This increase to your [[Hit Point Maximum]] and your [[Hit Die]] does not change if your [[Constitution]] later increases or decreases.
 
 **Tree**:: [[Vitality Talent Tree]]
 **Group**:: [[General Talent]]

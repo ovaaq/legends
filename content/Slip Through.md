@@ -1,4 +1,4 @@
-**Requirements**:: [[Mobile]]
+**Requirements**:: [[Increased Speed]]
 **Cost**:: 1 LP
 
 _Lore_

@@ -16,7 +16,6 @@ If you score a [[Critical Hit]], the target’s [[Walking Speed]] is reduced by 
 
 | Related Talents                                                                     |
 | ----------------------------------------------------------------------------------- |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]]       |
 | [[Draconic Spells I.md\|Draconic Spells I]]           |
 | [[Elemental Spells I.md\|Elemental Spells I]]         |
 | [[Innate Spells I.md\|Innate Spells I]]               |

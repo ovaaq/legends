@@ -18,6 +18,7 @@ _[[1st Level Spell]]_
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
+| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Arcane Spells I.md\|Arcane Spells I]]         |
 | [[Divination Spells I.md\|Divination Spells I]] |
 | [[Knowledge Spells I.md\|Knowledge Spells I]]   |

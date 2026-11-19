@@ -7,9 +7,9 @@ Increase your [[Channelling]] [[Rank]] by 1.
 
 **Spirit Points.** You have 2 [[Spirit Point|Spirit Points]]. You regain all expended [[Spirit Point|Spirit Points]] when you finish a [[Long Rest]].
 
-**Spiritual Awareness.** As an [[Action]], you can spend 1 [[Spirit Point]] to sense all [[Spirit|Spirits]] within 40 meters. You immediately learn their rough locations and the general nature of each [[Spirit]].
+**Spiritual Awareness.** As an [[Action]], you can spend 1 [[Spirit Point]] to sense all [[Spirit|Spirits]] within 40 meters for 1 minute. You learn their approximate locations and general nature.
 
-Any spiritual abilities that force saving throw uses your [[Spiritual Save DC]]
+When any of your spiritual talents requires a [[Creature]] to make a [[Saving Throw]], it uses your [[Spiritual Save DC]].
 
 ![[Spiritual Save DC]]
 

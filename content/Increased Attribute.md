@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase one [[Attribute]] by 1.
+Increase one of your [[Attribute|Attributes]] by 1, up to your [[Attribute Limit]].
 
 **Tree**:: [[Capability Talent Tree]]
 **Group**:: [[General Talent]]

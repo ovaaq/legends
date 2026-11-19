@@ -2,7 +2,7 @@ _[[Equipment]]_
 
 _In case you need some protection..._
 
-**Description**:: Protective gear that reduces damage and increases survivability in combat.
+[[Armour]] grants [[Armour Class]] while worn. If you lack the required [[Light Armour Training|Armour Training]], you suffer the [[Untrained Armour Penalty]]. Different sets of [[Armour]] may also have different [[Armour Property|Armour Properties]].
 
 | Light Armour                                                                        | Cost   | Armour Class | Properties                                                           |
 | ----------------------------------------------------------------------------------- | ------ | ------------ | -------------------------------------------------------------------- |
@@ -20,8 +20,8 @@ _In case you need some protection..._
 | [[Carapace Armour.md\|Carapace Armour]]     | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2)                                      |
 | [[Breastplate.md\|Breastplate]]             | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (1), [[Heavy]] (2), [[Metallic]]                        |
 | [[Scale Mail.md\|Scale Mail]]               | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]]              |
-| [[Dragon Scale Mail.md\|Dragon Scale Mail]] | 1000 gp | 17           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Loud]], [[Special]]               |
 | [[Halfplate.md\|Halfplate]]                 | 2 gp    | 17           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]]              |
+| [[Dragon Scale Mail.md\|Dragon Scale Mail]] | 1000 gp | 17           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Loud]], [[Special]]               |
 | [[Arm Guard.md\|Arm Guard]]                 | 150 gp  | +1           | [[Special.md\|Special]]                                       |
 
 | Heavy Armour                                                      | Cost    | Armour Class | Properties                                                                     |
@@ -34,3 +34,5 @@ _In case you need some protection..._
 ---
 
 #keyword #equipment #armour #group
+
+**Description**:: Protective gear that reduces damage and increases survivability in combat.

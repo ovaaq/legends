@@ -19,7 +19,6 @@ A [[Flammable]] [[Object]] hit by this spell ignites if it isn’t being worn or
 
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
 | [[Innate Spells I.md\|Innate Spells I]]         |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
 

@@ -3,10 +3,10 @@
 
 _Flavour text_.
 
-Choose one of the following:
+Choose one of the following options.
 
-- Increase [[Rank]] of one [[General Skill]] or one [[Expertise]] by 2.
-- Increase the [[Rank]] of any combination of three different [[General Skill|General Skills]] or [[Expertise|Expertises]] by 1.
+- Increase the [[Rank]] of one of your [[General Skill|General Skills]] or [[Expertise|Expertises]] by 2.
+- Increase the [[Rank]] of three different [[General Skill|General Skills]] or [[Expertise|Expertises]] by 1 each.
 
 **Tree**:: [[Capability Talent Tree]]
 **Group**:: [[General Talent]]

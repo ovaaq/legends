@@ -1,7 +1,7 @@
 **Requirements**::
 **Cost**:: 1 LP
 
-_You have mastered the basics of weaponry. Now, your path to martial excellence begins._
+_Shield good._
 
 Using [[Shield]] will not impose [[Untrained Armour Penalty]].
 

@@ -1,4 +1,4 @@
-- [[Mobile]]
+- [[Increased Speed]]
   - [[Fancy Footwork]]
     - [[Wall Runner]]
       - [[Slow Fall]]

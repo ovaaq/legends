@@ -29,8 +29,8 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |[[Increased Attribute\|Increased Attribute]]|[[Capability Talent Tree\|Capability Talent Tree]]|3 LP|—|
 |[[Increased Health\|Increased Health]]|[[Vitality Talent Tree\|Vitality Talent Tree]]|1 LP|• [[Second Wind\|Second Wind]]  <br>• [[Survival Instinct\|Survival Instinct]]  <br>• [[Healthy Body\|Healthy Body]]|
 |[[Increased Resilience\|Increased Resilience]]|[[Resistance Talent Tree\|Resistance Talent Tree]]|2 LP|• [[Defensive Brace\|Defensive Brace]]|
+|[[Increased Speed\|Increased Speed]]|[[Mobility Talent Tree\|Mobility Talent Tree]]|2 LP|• [[Fancy Footwork\|Fancy Footwork]]  <br>• [[Slip Through\|Slip Through]]  <br>• [[Explosive Dash\|Explosive Dash]]|
 |[[Lucky\|Lucky]]|[[Luck Talent Tree\|Luck Talent Tree]]|4 LP|• [[Shared Luck\|Shared Luck]]|
-|[[Mobile\|Mobile]]|[[Mobility Talent Tree\|Mobility Talent Tree]]|2 LP|• [[Fancy Footwork\|Fancy Footwork]]  <br>• [[Slip Through\|Slip Through]]  <br>• [[Explosive Dash\|Explosive Dash]]|
 |[[Skill Practice\|Skill Practice]]|[[Capability Talent Tree\|Capability Talent Tree]]|1 LP|• [[Reliable Talent\|Reliable Talent]]|
 
 ### Innate Talent

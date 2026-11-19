@@ -7,7 +7,7 @@ Increase your [[Prayer]] [[Rank]] by 1.
 
 **Faith Points.** You have 2 [[Faith Point|Faith Points]]. You regain all expended [[Faith Point|Faith Points]] when you finish a [[Long Rest]].
 
-Any divine abilities that force saving throw uses your [[Divine Save DC]]
+When any of your divine talents requires a [[Creature]] to make a [[Saving Throw]], it uses your [[Divine Save DC]].
 
 ![[Divine Save DC]]
 

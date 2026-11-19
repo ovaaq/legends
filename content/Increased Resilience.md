@@ -3,7 +3,7 @@
 
 _Flavour text_.
 
-Increase [[Rank]] of the one [[Saving Throw]] by 1.
+Increase one of your [[Saving Throw]] [[Rank|Ranks]] by 1.
 
 **Tree**:: [[Resistance Talent Tree]]
 **Group**:: [[General Talent]]

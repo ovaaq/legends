@@ -16,11 +16,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Evocation Magic]]
 
-| Related Talents                                                               |
-| ----------------------------------------------------------------------------- |
-| [[Arcane Spellcasting.md\|Arcane Spellcasting]] |
-| [[Draconic Spells I.md\|Draconic Spells I]]     |
-| [[Innate Spells I.md\|Innate Spells I]]         |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Draconic Spells I.md\|Draconic Spells I]] |
+| [[Innate Spells I.md\|Innate Spells I]]     |
 
 ---
 

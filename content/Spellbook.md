@@ -4,6 +4,8 @@ Your spellbook is a unique compilation of spells, with its own decorative flouri
 
 If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 
+![[Copying an Arcane Spell]]
+
 ---
 
 #keyword
