@@ -37,10 +37,10 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent4|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Mark of Bite\|Mark of Bite]]|[[Vampire Talent Tree\|Vampire Talent Tree]]|1 LP|• [[Vampiric Bite\|Vampiric Bite]]  <br>• [[Heightened Senses\|Heightened Senses]]  <br>• [[Vampiric Shapeshift\|Vampiric Shapeshift]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Vampire Spells I\|Vampire Spells I]]|
-|[[Mark of Mutant\|Mark of Mutant]]|[[Mutant Talent Tree\|Mutant Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Mutant Spells I\|Mutant Spells I]]|
-|[[Mark of Psion\|Mark of Psion]]|[[Psionic Talent Tree\|Psionic Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Psionic Spells I\|Psionic Spells I]]|
-|[[Mark of Wild Magic\|Mark of Wild Magic]]|[[Wild Magic Talent Tree\|Wild Magic Talent Tree]]|1 LP|• [[Wild Magic Surge\|Wild Magic Surge]]  <br>• [[wa1\|wa1]]  <br>• [[Twisted Body\|Twisted Body]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Wild Magic Spells I\|Wild Magic Spells I]]|
+|[[Mutant Gift\|Mutant Gift]]|[[Mutant Talent Tree\|Mutant Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Mutant Spells I\|Mutant Spells I]]|
+|[[Psionic Gift\|Psionic Gift]]|[[Psionic Talent Tree\|Psionic Talent Tree]]|1 LP|• [[mm1\|mm1]]  <br>• [[ma2\|ma2]]  <br>• [[mz1\|mz1]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Psionic Spells I\|Psionic Spells I]]|
+|[[Vampiric Gift\|Vampiric Gift]]|[[Vampire Talent Tree\|Vampire Talent Tree]]|1 LP|• [[Vampiric Bite\|Vampiric Bite]]  <br>• [[Heightened Senses\|Heightened Senses]]  <br>• [[Vampiric Shapeshift\|Vampiric Shapeshift]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Vampire Spells I\|Vampire Spells I]]|
+|[[Wild Magic Gift\|Wild Magic Gift]]|[[Wild Magic Talent Tree\|Wild Magic Talent Tree]]|1 LP|• [[Wild Magic Surge\|Wild Magic Surge]]  <br>• [[wa1\|wa1]]  <br>• [[Twisted Body\|Twisted Body]]  <br>• [[Innate Spellcasting\|Innate Spellcasting]]  <br>• [[Wild Magic Spells I\|Wild Magic Spells I]]|
 
 ### Martial Talent
 
@@ -55,12 +55,12 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 |Root Talent6|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Angelic Pact\|Angelic Pact]]|[[Angelic Pact Talent Tree\|Angelic Pact Talent Tree]]|1 LP|• [[cr1\|cr1]]  <br>• [[ca1\|ca1]]  <br>• [[cp1\|cp1]]  <br>• [[Angelic Spells I\|Angelic Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Artifact Pact\|Artifact Pact]]|[[Artifact Pact Talent Tree\|Artifact Pact Talent Tree]]|1 LP|• [[ar1\|ar1]]  <br>• [[aa1\|aa1]]  <br>• [[ap1\|ap1]]  <br>• [[Artifact Spells I\|Artifact Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Devilish Pact\|Devilish Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Draconic Pact\|Draconic Pact]]|[[Draconic Pact Talent Tree\|Draconic Pact Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[da1\|da1]]  <br>• [[dp1\|dp1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Fey Pact\|Fey Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Symbiote Pact\|Symbiote Pact]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Artifact Servitude\|Artifact Servitude]]|[[Artifact Pact Talent Tree\|Artifact Pact Talent Tree]]|1 LP|• [[ar1\|ar1]]  <br>• [[aa1\|aa1]]  <br>• [[ap1\|ap1]]  <br>• [[Artifact Spells I\|Artifact Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Celestial Servitude\|Celestial Servitude]]|[[Angelic Pact Talent Tree\|Angelic Pact Talent Tree]]|1 LP|• [[cr1\|cr1]]  <br>• [[ca1\|ca1]]  <br>• [[cp1\|cp1]]  <br>• [[Angelic Spells I\|Angelic Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Draconic Servitude\|Draconic Servitude]]|[[Draconic Pact Talent Tree\|Draconic Pact Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[da1\|da1]]  <br>• [[dp1\|dp1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Fey Servitude\|Fey Servitude]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Fiendish Servitude\|Fiendish Servitude]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Symbiotic Servitude\|Symbiotic Servitude]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
 
 ### Spiritual Talent
 

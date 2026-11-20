@@ -1,4 +1,4 @@
-- [[Angelic Pact]]
+- [[Celestial Servitude]]
   - [[cr1]]
     - [[cr2]]
       - [[cr3]]

@@ -1,4 +1,4 @@
-- [[Mark of Psion]]
+- [[Psionic Gift]]
   - [[ps1]]
     - [[ps2]]
       - [[ps3]]

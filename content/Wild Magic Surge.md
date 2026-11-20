@@ -1,4 +1,4 @@
-**Requirements**:: [[Mark of Wild Magic]]
+**Requirements**:: [[Wild Magic Gift]]
 **Cost**:: 1 LP
 
 _Flavour text_.

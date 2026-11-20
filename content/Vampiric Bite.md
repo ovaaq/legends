@@ -1,4 +1,4 @@
-**Requirements**:: [[Mark of Bite]]
+**Requirements**:: [[Vampiric Gift]]
 **Cost**:: 1 LP
 
 _You have learned to siphon vitality from living creatures, turning their essence into your own strength._

@@ -6,4 +6,4 @@ example of talent tree
 
 example talent
 
-![[Mark of Bite]]
+![[Vampiric Gift]]

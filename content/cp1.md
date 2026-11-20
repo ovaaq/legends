@@ -1,4 +1,4 @@
-**Requirements**:: [[Angelic Pact]]
+**Requirements**:: [[Celestial Servitude]]
 **Cost**:: 1 LP
 
 _Flavour text_.

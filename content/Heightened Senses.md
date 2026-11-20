@@ -1,4 +1,4 @@
-**Requirements**:: [[Mark of Bite]]
+**Requirements**:: [[Vampiric Gift]]
 **Cost**:: 1 LP
 
 _Flavour text_.

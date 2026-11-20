@@ -1,4 +1,4 @@
-- [[Draconic Pact]]
+- [[Draconic Servitude]]
   - [[dr1]]
     - [[dr2]]
       - [[dr3]]

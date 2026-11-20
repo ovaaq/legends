@@ -1,4 +1,4 @@
-- [[Mark of Wild Magic]]
+- [[Wild Magic Gift]]
   - [[Wild Magic Surge]]
     - [[Tides of Chaos]]
       - [[Bend Luck]]

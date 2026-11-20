@@ -1,4 +1,4 @@
-**Requirements**:: [[Draconic Pact]]
+**Requirements**:: [[Draconic Servitude]]
 **Cost**:: 1 LP
 
 _Flavour text_.

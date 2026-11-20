@@ -1,4 +1,4 @@
-**Requirements**:: [[Angelic Pact]] or [[Devilish Pact]] or [[Draconic Pact]] or [[Symbiote Pact]]
+**Requirements**:: [[Celestial Servitude]] or [[Fiendish Servitude]] or [[Draconic Servitude]] or [[Symbiotic Servitude]]
 **Cost**:: 4 LP
 
 _Your patron has given you magical strength to cast spells._

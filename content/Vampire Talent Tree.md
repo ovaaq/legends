@@ -1,4 +1,4 @@
-- [[Mark of Bite|Mark of Bite]]
+- [[Vampiric Gift|Vampiric Gift]]
   - [[Vampiric Bite|Vampiric Bite]]
     - [[Blood Frenzy|Blood Frenzy]]
       - [[Blood Siphon|Blood Siphon]]
@@ -26,7 +26,7 @@
           - [[Vampire Spells V|Vampire Spells V]]
             - [[Vampire Spells VI|Vampire Spells VI]]
 
-- [[Mark of Bite]]
+- [[Vampiric Gift]]
   - [[Vampiric Bite]]
     - [[Blood Frenzy]]
       - [[Blood Siphon]]

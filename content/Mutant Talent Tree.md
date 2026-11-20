@@ -1,4 +1,4 @@
-- [[Mark of Mutant]]
+- [[Mutant Gift]]
   - [[mm1]]
     - [[mm2]]
       - [[mm3]]
