@@ -17,6 +17,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | Related Talents                                                           |
 | ------------------------------------------------------------------------- |
 | [[Draconic Spells I.md\|Draconic Spells I]] |
+| [[Symbiote Spells I.md\|Symbiote Spells I]] |
 
 ---
 

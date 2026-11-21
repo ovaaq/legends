@@ -3,17 +3,21 @@
 
 _Flavour text_.
 
-**Symbol of Contract.** jiji
+Increase your [[Invocation]] [[Rank]] by 1.
 
-**Master’s Will.** Yes yes master by servant.
+**Fey Mark.** Your patron leaves a visible mark upon you, such as flowers growing through your hair, skin resembling bark, frost upon your breath, an unnatural scent, or another feature appropriate to the fey.
 
-Any pact abilities that force saving throw uses your [[Pact Save DC]]
+**Regeneration.** You cannot be [[Charmed]] by [[Fey]] [[Creature|Creatures]].
+
+**Fey Favours.** Your patron expects regular favours appropriate to its nature, such as keeping unusual promises, observing ancient customs, delivering messages, collecting memories, preserving natural places, creating mischief, or performing acts of service. Determine the nature of this obligation with your [[Game Master]] when you gain this talent.
+
+When any of your pact talents requires a [[Creature]] to make a [[Saving Throw]], it uses your [[Pact Save DC]].
 
 ![[Pact Save DC]]
 
-**Tree**:: [[Archfey Pact Talent Tree]]
+**Tree**:: [[Fey Talent Tree]]
 **Group**:: [[Pact Talent]]
-**Following**:: [[fr1]], [[fa1]], [[fp1]], [[Fey Spells I]], [[Pact Spellcasting]], [[Eldritch Invocations]], [[Pact Boon]], [[Bargain]]
+**Following**:: [[fey1]], [[Fey Spells I]]
 
 ---
 

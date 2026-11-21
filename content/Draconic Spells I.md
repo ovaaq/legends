@@ -29,7 +29,7 @@ These spells are added to your [[Pact Spell List]]:
 - [[Tailwind Strike]]
 - [[Wind Step]]
 
-**Tree**:: [[Draconic Pact Talent Tree]]
+**Tree**:: [[Draconic Talent Tree]]
 **Group**:: [[Pact Talent]]
 **Following**:: [[Pact Spellcasting]], [[Draconic Spells II]]
 

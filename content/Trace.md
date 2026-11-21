@@ -18,6 +18,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | ----------------------------------------------------------------------------- |
 | [[Beast Spells I.md\|Beast Spells I]]           |
 | [[Knowledge Spells II.md\|Knowledge Spells II]] |
+| [[Symbiote Spells II.md\|Symbiote Spells II]]   |
 
 ---
 

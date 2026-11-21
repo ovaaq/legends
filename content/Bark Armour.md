@@ -12,12 +12,13 @@ _[[1st Level Spell]]_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Elven Spells I.md\|Elven Spells I]]     |
-| [[Nature Spells I.md\|Nature Spells I]]   |
-| [[War Spells I.md\|War Spells I]]         |
-| [[Warding Spells I.md\|Warding Spells I]] |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Elven Spells I.md\|Elven Spells I]]       |
+| [[Nature Spells I.md\|Nature Spells I]]     |
+| [[Symbiote Spells I.md\|Symbiote Spells I]] |
+| [[War Spells I.md\|War Spells I]]           |
+| [[Warding Spells I.md\|Warding Spells I]]   |
 
 ---
 

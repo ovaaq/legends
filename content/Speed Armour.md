@@ -15,9 +15,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents                                                   |
-| ----------------------------------------------------------------- |
-| [[War Spells II.md\|War Spells II]] |
+| Related Talents                                                             |
+| --------------------------------------------------------------------------- |
+| [[Symbiote Spells II.md\|Symbiote Spells II]] |
+| [[War Spells II.md\|War Spells II]]           |
 
 ---
 

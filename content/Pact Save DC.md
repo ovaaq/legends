@@ -1,1 +1,1 @@
-[[Pact Save DC]] = 8 + [[Sorcery]] + [[Invocation]]
+[[Pact Save DC]] = 11 + [[Invocation]] [[Rank]]

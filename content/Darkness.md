@@ -20,6 +20,7 @@ If any of this spell's area overlaps with an area of light created by a [[Spell]
 | ----------------------------------------------------------------------------- |
 | [[Afterlife Spells II.md\|Afterlife Spells II]] |
 | [[Nature Spells II.md\|Nature Spells II]]       |
+| [[Symbiote Spells II.md\|Symbiote Spells II]]   |
 
 ---
 

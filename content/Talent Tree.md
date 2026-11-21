@@ -60,10 +60,11 @@ A [[Talent Tree]] is a structured group of [[Talent|Talents]] arranged in a prog
 ### Pact Talent Trees
 
 - [[Angelic Pact Talent Tree|Angelic Pact Talent Tree]] - Servant of and celestial being.
-- [[Devilish Pact Talent Tree|Devilish Pact Talent Tree]] - Gained powers through dealing with devil.
-- [[Draconic Pact Talent Tree|Draconic Pact Talent Tree]] - Serving a dragon of great power.
+- [[Demonic Talent Tree|Demonic Talent Tree]] - Gained powers through dealing with devil.
+- [[Draconic Talent Tree|Draconic Talent Tree]] - Serving a dragon of great power.
+- [[Fey Talent Tree|Fey Talent Tree]] - Gained powers through dealing with Fey.
 - [[Pact Talent Tree|Pact Talent Tree]] - General pact talents.
-- [[Symbiote Pact Talent Tree|Symbiote Pact Talent Tree]] - Living with symbiote, a substance in you granting powers.
+- [[Symbiote Talent Tree|Symbiote Talent Tree]] - Living with symbiote, a substance in you granting powers.
 
 ### Spellcasting Talent Trees
 

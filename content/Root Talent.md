@@ -53,14 +53,12 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 
 ### Pact Talent
 
-|Root Talent6|Tree|Cost|Unlocks|
+|Root Talent4|Tree|Cost|Unlocks|
 |---|---|---|---|
-|[[Artifact Servitude\|Artifact Servitude]]|[[Artifact Pact Talent Tree\|Artifact Pact Talent Tree]]|1 LP|• [[ar1\|ar1]]  <br>• [[aa1\|aa1]]  <br>• [[ap1\|ap1]]  <br>• [[Artifact Spells I\|Artifact Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Celestial Servitude\|Celestial Servitude]]|[[Angelic Pact Talent Tree\|Angelic Pact Talent Tree]]|1 LP|• [[cr1\|cr1]]  <br>• [[ca1\|ca1]]  <br>• [[cp1\|cp1]]  <br>• [[Angelic Spells I\|Angelic Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Draconic Servitude\|Draconic Servitude]]|[[Draconic Pact Talent Tree\|Draconic Pact Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[da1\|da1]]  <br>• [[dp1\|dp1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Fey Servitude\|Fey Servitude]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Fiendish Servitude\|Fiendish Servitude]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
-|[[Symbiotic Servitude\|Symbiotic Servitude]]|[[Archfey Pact Talent Tree\|Archfey Pact Talent Tree]]|1 LP|• [[fr1\|fr1]]  <br>• [[fa1\|fa1]]  <br>• [[fp1\|fp1]]  <br>• [[Fey Spells I\|Fey Spells I]]  <br>• [[Pact Spellcasting\|Pact Spellcasting]]  <br>• [[Eldritch Invocations\|Eldritch Invocations]]  <br>• [[Pact Boon\|Pact Boon]]  <br>• [[Bargain\|Bargain]]|
+|[[Demonic Servitude\|Demonic Servitude]]|[[Demonic Talent Tree\|Demonic Talent Tree]]|1 LP|• [[dem1\|dem1]]  <br>• [[Demonic Spells I\|Demonic Spells I]]|
+|[[Draconic Servitude\|Draconic Servitude]]|[[Draconic Talent Tree\|Draconic Talent Tree]]|1 LP|• [[dr1\|dr1]]  <br>• [[Draconic Spells I\|Draconic Spells I]]|
+|[[Fey Servitude\|Fey Servitude]]|[[Fey Talent Tree\|Fey Talent Tree]]|1 LP|• [[fey1\|fey1]]  <br>• [[Fey Spells I\|Fey Spells I]]|
+|[[Symbiotic Servitude\|Symbiotic Servitude]]|[[Symbiote Talent Tree\|Symbiote Talent Tree]]|1 LP|• [[Living Armour\|Living Armour]]  <br>• [[Symbiote Spells I\|Symbiote Spells I]]|
 
 ### Spiritual Talent
 

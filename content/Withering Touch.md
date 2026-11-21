@@ -17,6 +17,7 @@ _[[Cantrip]]_
 | [[Afterlife Spells I.md\|Afterlife Spells I]]   |
 | [[Angelic Spells I.md\|Angelic Spells I]]       |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[Symbiote Spells I.md\|Symbiote Spells I]]     |
 
 ---
 

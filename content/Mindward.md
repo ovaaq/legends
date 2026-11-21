@@ -18,6 +18,7 @@ _\*1 gram of [[Topaz Dust]], consumed by the spell._
 | --------------------------------------------------------------------------- |
 | [[Harmony Spells I.md\|Harmony Spells I]]     |
 | [[Knowledge Spells I.md\|Knowledge Spells I]] |
+| [[Symbiote Spells I.md\|Symbiote Spells I]]   |
 | [[Warding Spells I.md\|Warding Spells I]]     |
 
 ---

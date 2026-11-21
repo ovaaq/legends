@@ -5,7 +5,7 @@ _Flavour text_.
 
 x
 
-**Tree**:: [[Draconic Pact Talent Tree]]
+**Tree**:: [[Draconic Talent Tree]]
 **Group**:: [[Pact Talent]]
 **Following**:: [[Draconic Spells VI]]
 

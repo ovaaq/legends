@@ -76,6 +76,7 @@ ideas
 
 | List of Cantrips                                                                    |
 | ----------------------------------------------------------------------------------- |
+| -                                                                                  |
 | [[Acid Splash.md\|Acid Splash]]                       |
 | [[Animal Call.md\|Animal Call]]                       |
 | [[Animate Paper.md\|Animate Paper]]                   |
@@ -151,6 +152,7 @@ ideas
 | [[Static Charge.md\|Static Charge]]                   |
 | [[Summon Insect Swarm.md\|Summon Insect Swarm]]       |
 | [[Sword Burst.md\|Sword Burst]]                       |
+| [[Symbiote Spells I.md\|Symbiote Spells I]]           |
 | [[Telekinetic Throw.md\|Telekinetic Throw]]           |
 | [[Thaumaturgy.md\|Thaumaturgy]]                       |
 | [[Thorn Dart.md\|Thorn Dart]]                         |

@@ -99,7 +99,7 @@ Types of Magic
 
 [[Pact Talent]]
 
-- [[Draconic Pact Talent Tree]]
+- [[Draconic Talent Tree]]
 - [[Hexcore Talent Tree]]
 
 [[Resonant Talent]]

@@ -15,6 +15,7 @@ _[[Cantrip]]_
 | Related Talents                                                             |
 | --------------------------------------------------------------------------- |
 | [[Afterlife Spells I.md\|Afterlife Spells I]] |
+| [[Symbiote Spells I.md\|Symbiote Spells I]]   |
 
 ---
 

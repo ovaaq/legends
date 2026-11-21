@@ -1,3 +1,5 @@
+[[Beast]]
+
 | Cantrip                                                       | Threat | HP | Armour | Evasion | Speed |
 | ------------------------------------------------------------- | ------ | -- | ------ | ------- | ----- |
 | [[01 - Projects/3 Game Master/Fire Dragon.md\|Fire Dragon]]   | -     | - | -     | -      | -    |

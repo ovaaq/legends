@@ -16,6 +16,7 @@ _[[2nd Level Spell]]_
 | ----------------------------------------------------------------------------- |
 | [[Knowledge Spells II.md\|Knowledge Spells II]] |
 | [[Life Spells II.md\|Life Spells II]]           |
+| [[Symbiote Spells II.md\|Symbiote Spells II]]   |
 
 ---
 

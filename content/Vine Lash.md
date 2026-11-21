@@ -13,9 +13,10 @@ _[[Cantrip]]_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                       |
-| --------------------------------------------------------------------- |
-| [[Nature Spells I.md\|Nature Spells I]] |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Nature Spells I.md\|Nature Spells I]]     |
+| [[Symbiote Spells I.md\|Symbiote Spells I]] |
 
 ---
 

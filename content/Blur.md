@@ -15,6 +15,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | Related Talents                                                               |
 | ----------------------------------------------------------------------------- |
 | [[Spacetime Spells II.md\|Spacetime Spells II]] |
+| [[Symbiote Spells II.md\|Symbiote Spells II]]   |
 | [[War Spells II.md\|War Spells II]]             |
 
 ---

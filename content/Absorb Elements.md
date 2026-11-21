@@ -23,6 +23,7 @@ _\*When a [[Creature]] you can see within range takes [[Elemental Damage]]._
 | [[Innate Spells I.md\|Innate Spells I]]         |
 | [[Life Spells I.md\|Life Spells I]]             |
 | [[Spellblade Spells I.md\|Spellblade Spells I]] |
+| [[Symbiote Spells I.md\|Symbiote Spells I]]     |
 | [[Warding Spells I.md\|Warding Spells I]]       |
 
 ---

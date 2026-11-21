@@ -14,10 +14,11 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Conjuration Magic]]
 
-| Related Talents                                                         |
-| ----------------------------------------------------------------------- |
-| [[Nature Spells I.md\|Nature Spells I]]   |
-| [[Warding Spells I.md\|Warding Spells I]] |
+| Related Talents                                                           |
+| ------------------------------------------------------------------------- |
+| [[Nature Spells I.md\|Nature Spells I]]     |
+| [[Symbiote Spells I.md\|Symbiote Spells I]] |
+| [[Warding Spells I.md\|Warding Spells I]]   |
 
 ---
 
