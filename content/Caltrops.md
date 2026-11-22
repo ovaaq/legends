@@ -1,8 +1,8 @@
-_[[Adventuring Item]], [[Equipment]]_
+_[[Common]] [[Adventuring Item]]_
 
 _Have you ever counted how many balls once pouch contains?_
 
-**Weight**:: 1 Stack
+**Weight**:: 0.1 kg
 **Cost**:: 1 gp
 
 As an [[Action]], you can spill Caltrops from their pouch. They spread to cover a level, 1-square-meter area within 2 meters of yourself.

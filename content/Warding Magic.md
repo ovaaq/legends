@@ -22,7 +22,7 @@ _Strand of magic that x._
 | [[Protective Dome.md\|Protective Dome]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 8 hours                                                                       |
 | [[Warding Wind.md\|Warding Wind]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Negate Strike.md\|Negate Strike]]                     | [[Reaction]]\*                                                     | F, V, S     | 3    | Self      | Instant                                                                       |
-| [[Stasis.md\|Stasis]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Touch     | 1 hour                                                                        |
+| [[Stasis.md\|Stasis]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Touch     | 1 Hour                                                                        |
 | [[Death Ward.md\|Death Ward]]                           | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 4    | 20 metres | Instant                                                                       |
 | [[Containment.md\|Containment]]                         | **▶▶▶⚡〇**                                                         | F, V, S, M\* | 5    | 20 metres | Instant                                                                       |
 

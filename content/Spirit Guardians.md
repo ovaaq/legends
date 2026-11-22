@@ -3,10 +3,10 @@ _[[3rd Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 3
-**Range**:: Self
+**Range**:: [[Aura]] (4 metres)
 **Duration**:: [[Concentration]], 1 minute
 
-**Effect**:: You summon [[Spirit|Spirits]] in a 4-metre [[Aura]]. Choose [[Celestial]], [[Fiend]], [[Undead]] or [[Fey]], dealing [[Radiant Damage|Radiant]], [[Shadow Damage|Shadow]], [[Necrotic Damage|Necrotic]] or [[Psychic Damage|Psychic]] damage, respectively.
+**Effect**:: You summon [[Spirit|Spirits]] in a range. Choose [[Celestial]], [[Fiend]], [[Undead]] or [[Fey]], dealing [[Radiant Damage|Radiant]], [[Shadow Damage|Shadow]], [[Necrotic Damage|Necrotic]] or [[Psychic Damage|Psychic]] damage, respectively.
 
 Choose any visible [[Creature|Creatures]] to be unaffected by the [[Spell]]. Others [[Creature|Creatures]] in the [[Aura]] have their [[Walking Speed]] halved and must make a [[Charisma Saving Throw]] at the start of their [[Turn]].
 

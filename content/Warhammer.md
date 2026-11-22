@@ -1,15 +1,12 @@
-_[[Weapon]]_
+_[[Common]] [[Hammer]]_
 
 _Hammer for war._
 
 **Weight**:: 1.5kg
-**Cost**:: 20 gp
-**Rank**:: 2
-**Category**:: [[Hammer]]
-**Properties**:: [[Penetrating]], [[Versatile]] (2d8 + [[Strength]])
 **Attack**:: [[Double Action]]
 **Damage**:: 1d8 + [[Strength]]
-**Type**:: [[Bludgeoning Damage]] or [[Piercing Damage]]
+**Type**:: [[Bludgeoning Damage|Bludgeoning]] or [[Piercing Damage|Piercing]]
+**Properties**:: [[Penetrating]], [[Versatile]] (2d8 + [[Strength]])
 
 ---
 

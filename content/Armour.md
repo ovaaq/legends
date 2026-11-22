@@ -17,16 +17,16 @@ _In case you need some protection..._
 | [[Hide Armour.md\|Hide Armour]]             | 2 gp    | 14           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (1)                                      |
 | [[Chain Shirt.md\|Chain Shirt]]             | 2 gp    | 15           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]]              |
 | [[Spiked Armour.md\|Spiked Armour]]         | 2 gp    | 15           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]], [[Special]] |
+| [[Scale Mail.md\|Scale Mail]]               | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]]              |
 | [[Carapace Armour.md\|Carapace Armour]]     | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2)                                      |
 | [[Breastplate.md\|Breastplate]]             | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (1), [[Heavy]] (2), [[Metallic]]                        |
-| [[Scale Mail.md\|Scale Mail]]               | 2 gp    | 16           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]]              |
-| [[Dragon Scale Mail.md\|Dragon Scale Mail]] | 1000 gp | 17           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Loud]], [[Special]]               |
 | [[Halfplate.md\|Halfplate]]                 | 2 gp    | 17           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Metallic]], [[Loud]]              |
+| [[Dragon Scale Mail.md\|Dragon Scale Mail]] | 1000 gp | 17           | [[Protective]] (2), [[Restricting]] (2), [[Heavy]] (2), [[Loud]], [[Special]]               |
 | [[Arm Guard.md\|Arm Guard]]                 | 150 gp  | +1           | [[Special.md\|Special]]                                       |
 
 | Heavy Armour                                                      | Cost    | Armour Class | Properties                                                                     |
 | ----------------------------------------------------------------- | ------- | ------------ | ------------------------------------------------------------------------------ |
-| [[Ring Mail.md\|Ring Mail]]         | 30 gp   | 15           | [[Protective]] (3), [[Restricting]] (3), [[Heavy]] (3), [[Metallic]], [[Loud]] |
+| [[Ring Mail.md\|Ring Mail]]         | -      | 15           | [[Protective]] (3), [[Restricting]] (3), [[Heavy]] (3), [[Metallic]], [[Loud]] |
 | [[Chain Mail.md\|Chain Mail]]       | 75 gp   | 16           | [[Protective]] (3), [[Restricting]] (3), [[Heavy]] (3), [[Metallic]], [[Loud]] |
 | [[Splint Armour.md\|Splint Armour]] | 200 gp  | 17           | [[Protective]] (3), [[Restricting]] (3), [[Heavy]] (3), [[Metallic]], [[Loud]] |
 | [[Plate Armour.md\|Plate Armour]]   | 1500 gp | 18           | [[Protective]] (3), [[Restricting]] (3), [[Heavy]] (3), [[Metallic]], [[Loud]] |

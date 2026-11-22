@@ -6,13 +6,13 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 
 | Alchemical Item                                                               | Cost | Weight | Duration |
 | ----------------------------------------------------------------------------- | ---- | ------ | -------- |
-| [[98 - Meta/Templates/Alchemical Item Template.md\|Alchemical Item Template]] | 1 gp | 0.1 kg | Instant  |
+| [[98 - Meta/Templates/Alchemical Item Template.md\|Alchemical Item Template]] | -   | 0.1 kg | -       |
 | [[Alchemist's Fire.md\|Alchemist's Fire]]       | 1 gp | 0.1 kg | Instant  |
 | [[Alchemist's Frost.md\|Alchemist's Frost]]     | 1 gp | 0.1 kg | Instant  |
 | [[Alkahest.md\|Alkahest]]                       | 1 gp | 0.1 kg | Instant  |
 | [[Common Acid.md\|Common Acid]]                 | 1 gp | 0.1 kg | Instant  |
 | [[Dragonfire Vial.md\|Dragonfire Vial]]         | 1 gp | 0.1 kg | Instant  |
-| [[Freeze Powder.md\|Freeze Powder]]             | 1 gp | 0.1 kg | Instant  |
+| [[Freeze Powder.md\|Freeze Powder]]             | -   | 0.1 kg | -       |
 | [[Glue Vial.md\|Glue Vial]]                     | 1 gp | 0.1 kg | Instant  |
 | [[Leidenfrost.md\|Leidenfrost]]                 | 1 gp | 0.1 kg | Instant  |
 | [[Liquid Lightning.md\|Liquid Lightning]]       | 1 gp | 0.1 kg | Instant  |
@@ -28,7 +28,7 @@ Alchemical items are divided into three categories: [[Potion|Potions]], [[Poison
 | [[Common Antidote.md\|Common Antidote]]   | 1 gp | 0.1 kg | Instant         |
 | [[Common Poison.md\|Common Poison]]       | 1 gp | 0.1 kg | Instant         |
 | [[Dreamdust.md\|Dreamdust]]               | 1 gp | 0.1 kg | 2 days, 4 hours |
-| [[Knockout Drops.md\|Knockout Drops]]     | 1 gp | 0.1 kg | Instant         |
+| [[Knockout Drops.md\|Knockout Drops]]     | 1 gp | 0.1 kg | 2 Hours         |
 | [[Oil of Confusion.md\|Oil of Confusion]] | 1 gp | 0.1 kg | Instant         |
 | [[98 - Meta/Templates/Poison Template.md\|Poison Template]]             | 1 gp | 0.1 kg | Instant         |
 | [[Sightbane.md\|Sightbane]]               | 1 gp | 0.1 kg | Instant         |

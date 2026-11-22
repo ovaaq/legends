@@ -1,9 +1,9 @@
 **Requirements**:: [[Symbiotic Servitude]]
-**Cost**:: 2 LP
+**Cost**:: 3 LP
 
 _Flavour text_.
 
-These spells are added to your [[Pact Spell List]]. Additionally, choose two [[Cantrip|Cantrips]] and one [[1st Level Spell]] from this list and add them to your [[Learned Pact Spells]].
+These spells are added to your [[Pact Spell List]]. Additionally, choose two [[Cantrip|Cantrips]] and two [[1st Level Spell]] from this list and add them to your [[Learned Pact Spells]].
 
 ##### Cantrips
 

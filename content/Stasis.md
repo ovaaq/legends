@@ -4,7 +4,7 @@ _[[3rd Level Spell]]_
 **Components**:: F, V, S
 **Mana**:: 3
 **Range**:: Touch
-**Duration**:: 1 hour
+**Duration**:: 1 Hour
 
 **Effect**:: You touch a [[Willing]] [[Creature]], placing it in a cataleptic state indistinguishable from death. The target appears dead to physical inspection and magic used to determine its status.
 

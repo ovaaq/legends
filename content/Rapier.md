@@ -1,14 +1,12 @@
-_[[Weapon]]_
+_[[Common]] [[Sword]]_
 
 _Piercing through._
 
-**Weight**:: 1.0 kg
-**Cost**:: 20 gp
-**Category**:: [[Sword]]
-**Properties**:: [[Vicious]], [[Finesse]]
+**Weight**:: 1 kg
 **Attack**:: [[Action]]
 **Damage**:: 1d8
-**Type**:: [[Piercing Damage]]
+**Type**:: [[Piercing Damage|Piercing]]
+**Properties**:: [[Vicious]], [[Finesse]]
 
 ---
 

@@ -3,8 +3,8 @@ _[[2nd Level Spell]]_
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S
 **Mana**:: 2
-**Range**:: 20 metres
-**Duration**:: [[Concentration]], 10 minutes
+**Range**:: 20 Metres
+**Duration**:: [[Concentration]], 10 Minutes
 
 **Effect**:: Choose a point within range. A 4-metre-radius [[Sphere]] forms around that point. No sound can be created within or pass through the [[Sphere]]. [[Creature|Creatures]] inside are [[Deafened]] and cannot cast spells with a [[Verbal Component]].
 

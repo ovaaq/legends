@@ -1,12 +1,9 @@
-![[99 - Files/Gemini_Generated_Image_23zmri23zmri23zm.png|250]]
-
-_[[Light Armour]], [[Equipment]]_
+_[[Common]] [[Light Armour]]_
 
 _Thrown with a tight spin, it whirls around the enemy's legs and hits with a heavy thump._
 
-**Weight**:: 1 Stack
+**Weight**:: 2 kg
 **Cost**:: 5 gp
-
 **Armour**:: 12
 **Properties**:: [[Protective]] (1)
 

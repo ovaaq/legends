@@ -5,7 +5,7 @@ Poison have four different types. [[Contact Poison]], [[Ingested Poison]], [[Inh
 | [[Common Antidote.md\|Common Antidote]]   | -   | Instant         |
 | [[Common Poison.md\|Common Poison]]       | -   | Instant         |
 | [[Dreamdust.md\|Dreamdust]]               | -   | 2 days, 4 hours |
-| [[Knockout Drops.md\|Knockout Drops]]     | -   | Instant         |
+| [[Knockout Drops.md\|Knockout Drops]]     | -   | 2 Hours         |
 | [[Oil of Confusion.md\|Oil of Confusion]] | -   | Instant         |
 | [[98 - Meta/Templates/Poison Template.md\|Poison Template]]             | -   | Instant         |
 | [[Sightbane.md\|Sightbane]]               | -   | Instant         |

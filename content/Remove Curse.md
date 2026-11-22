@@ -1,6 +1,6 @@
 _[[3rd Level Spell]]_
 
-**Casting**:: [[Triple Action]]
+**Casting**:: 10 Minutes
 **Components**:: F, V, S, M\*
 **Mana**:: 3
 **Range**:: touch

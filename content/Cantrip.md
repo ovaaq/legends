@@ -76,7 +76,6 @@ ideas
 
 | List of Cantrips                                                                    |
 | ----------------------------------------------------------------------------------- |
-| -                                                                                  |
 | [[Acid Splash.md\|Acid Splash]]                       |
 | [[Animal Call.md\|Animal Call]]                       |
 | [[Animate Paper.md\|Animate Paper]]                   |

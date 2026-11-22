@@ -10,9 +10,7 @@ _[[2nd Level Spell]]_
 
 [[Creature|Creatures]] inside the dome when it is created can freely pass through it, along with [[Object|Objects]] they are wearing or carrying. Other [[Creature|Creatures]] and [[Object|Objects]] cannot pass through the dome. [[Attack|Attacks]], [[Spell|Spells]], and other effects cannot pass through it.
 
-The dome is transparent like glass. It is immune to [[Necrotic Damage|Necrotic]], [[Poison Damage|Poison]], and [[Psychic Damage]] and provides shelter from weather and other environmental conditions.
-
-The dome is destroyed when reduced to 0 [[Hit Point|Hit Points]] or when you leave it.
+The dome is transparent like glass. It is immune to [[Necrotic Damage|Necrotic]], [[Poison Damage|Poison]], and [[Psychic Damage]] and provides shelter from weather and other environmental conditions. The dome is destroyed when reduced to 0 [[Hit Point|Hit Points]] or when you leave it.
 
 **Upcasting**:: For each 1 additional mana spent, increase the dome's [[Hit Point|Hit Points]] by 10.
 

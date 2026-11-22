@@ -1,14 +1,12 @@
-_[[Weapon]]_
+_[[Common]] [[Sword]]_
 
-_Thief's basic need._
+_A thief's best friend._
 
-**Weight**:: 0.25kg
-**Cost**:: 2 gp
-**Category**:: [[Sword]]
-**Properties**:: [[Light]], [[Finesse]], [[Thrown]] (4m / 10m)
+**Weight**:: 0.2 kg
 **Attack**:: [[Action]]
 **Damage**:: 1d4
-**Type**:: [[Slashing Damage]] or [[Piercing Damage]]
+**Type**:: [[Piercing Damage|Piercing]] or [[Slashing Damage|Slashing]]
+**Properties**:: [[Light]], [[Finesse]], [[Thrown]] (4m)
 
 ---
 

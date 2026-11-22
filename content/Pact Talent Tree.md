@@ -1,5 +1,5 @@
+- [[Invocation Practice]]
 - [[Pact Spellcasting]]
-  - [[Invocation Practice]]
   - [[Learn Pact Spell]]
   - [[Increased Spell Slots]]
 - [[Eldritch Invocations]]
