@@ -1,4 +1,4 @@
-**Requirements**:: [[Toxic Tolerance]]
+**Requirements**:: [[Chemical Tolerance]]
 **Cost**:: 1 LP
 
 _Flavour text_.

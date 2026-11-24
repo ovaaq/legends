@@ -49,6 +49,7 @@ _Definition._
 | [[Chains of Ice.md\|Chains of Ice]]                               | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres           | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Conceal Magic.md\|Conceal Magic]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres           | Instant                                                                       |
 | [[Disarm Weapons.md\|Disarm Weapons]]                             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres           | Instant                                                                       |
+| [[Invisibility.md\|Invisibility]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Touch               | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Magic Fruit.md\|Magic Fruit]]                                   | [[Triple Action.md\|Triple Action]] | F, S        | 2    | Self                | Instant                                                                       |
 | [[Mind Whip.md\|Mind Whip]]                                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres           | Instant                                                                       |
 | [[Mirror Image.md\|Mirror Image]]                                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self                | 1 minute                                                                      |

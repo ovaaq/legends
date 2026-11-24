@@ -11,6 +11,19 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Time Skip Spell]]
 - [[Reverse Gravity]]
 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 **Tree**:: [[Spacetime Talent Tree]]
 **Group**:: [[Arcane Talent]]

@@ -1,7 +1,6 @@
 _[[Common]] [[Adventuring Item]]_
 
-_Have you ever counted how many balls once pouch contains?_
-
+**Execution**:: [[Action]]
 **Weight**:: 0.1 kg
 **Cost**:: 1 gp
 
@@ -14,6 +13,8 @@ As an [[Action]], you can spill Caltrops from their pouch. They spread to cover
 **Cautious Movement.** A [[Creature]] moving through the area at half speed doesn't need to make the [[Saving Throw]].
 
 **Recovery.** Recovering the scattered Caltrops takes 5 minutes.
+
+_Have you ever counted how many balls once pouch contains?_
 
 ---
 

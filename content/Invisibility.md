@@ -1,16 +1,21 @@
 _[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
-**Components**:: F, V, S, M\*
+**Components**:: F, V, S
 **Mana**:: 2
-**Range**:: 20 metres
-**Duration**:: Instant
+**Range**:: Touch
+**Duration**:: [[Concentration]], 1 hour
 
-_\*100 grams of [[Gold Dust]], consumed by the spell_
+**Effect**:: A [[Creature]] you touch becomes [[Invisible]] until the [[Spell]] ends. Anything the target is wearing or carrying is [[Invisible]] as long as it is on the target’s person. The [[Spell]] ends for a target that [[Attack|Attacks]] or casts a [[Spell]].
 
-**Effect**:: You hurl a crackling bolt of lightning at a creature within range. Make a [[Ranged Spell Attack]] against the target. On a hit, the target takes 1d8 [[Lightning Damage]] and cannot take [[Reaction|Reactions]] until the start of your next turn.
+**Upcasting**:: For each 2 additional mana spent, you can target one additional [[Creature]].
 
-**Upcasting**:: For each 1 additional mana spent, increase the damage by 1d6.
+**Type**:: [[Projection Magic]]
+
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Spacetime Spells II.md\|Spacetime Spells II]] |
+| [[Symbiote Spells II.md\|Symbiote Spells II]]   |
 
 ---
 

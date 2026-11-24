@@ -13,7 +13,7 @@
       - [[aa3]]
         - [[aa4]]
   - [[Favourable Exposure]]
-    - [[Toxic Tolerance]]
+    - [[Chemical Tolerance]]
       - [[Adapting Effect]]
         - [[Iron Lung]]
   - [[Alchemical Formulas I]]
@@ -30,3 +30,5 @@
 
 #talent_tree #crafting
 [[Talent Tree]]
+
+Scientific Method

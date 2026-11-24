@@ -2,6 +2,7 @@ _[[Uncommon]] [[Inhaled Poison]]_
 
 _Is it green?_
 
+**Execution**:: [[Double Action]]
 **Cost**:: 1 gp
 **Weight**:: 0.1 kg
 **Duration**:: 2 Hours

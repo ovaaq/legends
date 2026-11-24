@@ -9,6 +9,7 @@ _Strand of magic that creates observable experiences._
 | [[Shadow Cloak.md\|Shadow Cloak]]             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 20 metres | Instant                                                                       |
 | [[Silent Image.md\|Silent Image]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 10 minutes                                                                    |
 | [[Conceal Magic.md\|Conceal Magic]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Invisibility.md\|Invisibility]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Touch     | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Mirror Image.md\|Mirror Image]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 1 minute                                                                      |
 | [[Pass Without Trace.md\|Pass Without Trace]] | [[Double Action.md\|Double Action]] | F, V, S     | 2    | Self      | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Fear.md\|Fear]]                             | [[Triple Action.md\|Triple Action]] | F, V, S     | 3    | Self      | [[Concentration.md\|Concentration]], 1 minute   |

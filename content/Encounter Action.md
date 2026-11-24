@@ -7,17 +7,7 @@ On your [[Turn]], you have access to the following resources:
 - **1 Reaction:** Used once per [[Round]] in response to a specific trigger, even outside your turn. You regain your [[Reaction]] at the start of your next [[Turn]].
 - **Free Actions:** Minor activities that cost no actions or resources.
 
-### Encounter Action Types
-
-Actions are categorized by their function during combat:
-
-- [[Offensive Action]]: Attacking, controlling, or harming enemies (e.g., striking, tripping).
-- [[Defensive Action]]: Avoiding, mitigating, or protecting against incoming harm.
-- [[Magical Action]]: Casting spells, channelling supernatural abilities, or activating magic items.
-- [[Movement Action]]: Tactical positioning and physical manoeuvres (e.g., jumping, dashing, hiding).
-- [[Utility Action]]: Miscellaneous tasks (e.g., administering first aid, drinking a potion).
-
-**Action ( ▶)**
+**Action**
 
 - [[Demoralize]]
 - [[Draw Weapons]]
@@ -28,9 +18,8 @@ Actions are categorized by their function during combat:
 - [[Recall Knowledge]]
 - [[Search]]
 - [[Stand Up]]
-- [[Unarmed Strike]]
 
-**Double Action ( ▶▶)**
+**Double Action**
 
 - [[Dash]]
 - [[Deliver Potion]]
@@ -42,19 +31,25 @@ Actions are categorized by their function during combat:
 - [[Hide]]
 - [[Raise Shield]]
 - [[Shove]]
+- [[Unarmed Strike]]
 - [[Trip]]
 
-**Triple Action ( ▶▶▶)**
+**Triple Action**
 
 - [[Disarm Trap]]
 - [[Pick Lock]]
 - [[Sprint]]
 
-**Free Action ( 〇 )**
+**Free Action**
 
 - [[Dismiss Spell]]
 - [[Drop Object]]
 - [[Fall Prone]]
+
+**Prepare an Action**
+Preparing an action costs 1 [[Reaction]] and the [[Action|Actions]] required to complete it. When it is triggered, you can use up to half your [[Walking Speed]] that you did not use during your turn.
+
+---
 
 **Action ( ▶)**
 
@@ -95,11 +90,6 @@ Actions are categorized by their function during combat:
 - [[Drop Object]]
 - [[Dismiss Spell]]
 - [[Fall Prone]]
--
-
-Redying an action
-
-- cost reaction + actions needed to complete / movement
 -
 
 \[\[]]

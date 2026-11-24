@@ -2,6 +2,7 @@ _[[Uncommon]] [[Alchemical Item]]_
 
 _A pouch filled with tiny, delicate, star-shaped ice crystals._
 
+**Execution**:: [[Double Action]]
 **Weight**:: 0.1 kg
 
 As a [[Double Action]], you can sprinkle one dose of [[Freeze Powder]] onto a liquid, instantly freezing up to 1,000 litres of it. Other substances become covered in frost and extremely cold.

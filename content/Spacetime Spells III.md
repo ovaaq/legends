@@ -21,6 +21,12 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Gravity hard to walk area]]
 - [[Nearest Summoning Stone]]
 - [[Stasis]]
+- [[Unseen Step]]
+- x
+- x
+- x
+- x
+- x
 
 **Tree**:: [[Spacetime Talent Tree]]
 **Group**:: [[Arcane Talent]]

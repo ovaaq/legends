@@ -1,6 +1,6 @@
 | Martial Techniques                                                                |
 | --------------------------------------------------------------------------------- |
-| [[Backstab 1.md\|Backstab 1]]                       |
+| [[Backstab.md\|Backstab]]                           |
 | [[Bait and Switch.md\|Bait and Switch]]             |
 | [[Blockade.md\|Blockade]]                           |
 | [[Brute Strike.md\|Brute Strike]]                   |
@@ -12,7 +12,9 @@
 | [[Dirty Hit.md\|Dirty Hit]]                         |
 | [[Disarming Attack.md\|Disarming Attack]]           |
 | [[Distracting Strike.md\|Distracting Strike]]       |
+| [[Drop Down.md\|Drop Down]]                         |
 | [[Evasive Footwork.md\|Evasive Footwork]]           |
+| [[Feign Death.md\|Feign Death]]                     |
 | [[Feinting Attack.md\|Feinting Attack]]             |
 | [[Glancing Blow.md\|Glancing Blow]]                 |
 | [[Intimidating Command.md\|Intimidating Command]]   |
@@ -23,6 +25,7 @@
 | [[Pushing Attack.md\|Pushing Attack]]               |
 | [[Quick Coating.md\|Quick Coating]]                 |
 | [[Rally.md\|Rally]]                                 |
+| [[Reposition.md\|Reposition]]                       |
 | [[Riposte.md\|Riposte]]                             |
 | [[Silencing Strike.md\|Silencing Strike]]           |
 | [[Slashing Strike.md\|Slashing Strike]]             |

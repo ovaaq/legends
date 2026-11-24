@@ -16,6 +16,8 @@ These spells are added to your [[Arcane Spell List]]. Additionally, choose two [
 - [[Rope Trick]]
 - [[Shatter]]
 - [[Silence]]
+- [[Invisibility]]
+-
 
 **Tree**:: [[Spacetime Talent Tree]]
 **Group**:: [[Arcane Talent]]

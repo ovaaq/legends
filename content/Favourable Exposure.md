@@ -7,7 +7,7 @@ Each time you consume a [[Potion]] you gain [[Temporary Hit Point|Temporary Hit 
 
 **Tree**:: [[Alchemy Talent Tree]]
 **Group**:: [[Crafting Talent]]
-**Following**:: [[Toxic Tolerance]]
+**Following**:: [[Chemical Tolerance]]
 
 ---
 

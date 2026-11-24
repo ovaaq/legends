@@ -34,7 +34,7 @@
 | [[Heat Metal.md\|Heat Metal]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Hold Humanoid.md\|Hold Humanoid]]           | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Icewind.md\|Icewind]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 20 metres | Instant                                                                                                 |
-| [[Invisibility.md\|Invisibility]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
+| [[Invisibility.md\|Invisibility]]             | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Touch     | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 hour</li></ul>     |
 | [[Lesser Restoration.md\|Lesser Restoration]] | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Touch     | Instant                                                                                                 |
 | [[Levitate.md\|Levitate]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Life Transfer.md\|Life Transfer]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
