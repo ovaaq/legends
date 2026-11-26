@@ -33,8 +33,8 @@ Legends RPG is a passion project made for my own table and shared freely with ev
 [[3 Talents]]
 [[4 Magic]]
 [[5 Martial Techniques]]
-[[6 Equipment]]
-[[7 Appendix]]
+[[5 Equipment]]
+[[6 Appendix]]
 
 ### Materials
 

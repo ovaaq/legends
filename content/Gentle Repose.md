@@ -1,8 +1,8 @@
-_[[1st Level Spell]]_
+_[[2nd Level Spell]]_
 
 **Casting**:: [[Triple Action]]
 **Components**:: F, V, S, M\*
-**Mana**:: 1
+**Mana**:: 2
 **Range**:: Touch
 **Duration**:: Permanent
 
@@ -16,4 +16,4 @@ _\*1 gram of [[Topaz Dust]], consumed by the spell._
 
 ---
 
-#spell #1st  [[Spell]]
+#spell #2nd  [[Spell]]

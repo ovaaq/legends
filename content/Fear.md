@@ -24,6 +24,7 @@ If the target ends its [[Turn]] without line of sight to you, it repeats the [[S
 | ------------------------------------------------------------------------------- |
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
 | [[Beast Spells III.md\|Beast Spells III]]         |
+| [[Symbiote Spells III.md\|Symbiote Spells III]]   |
 
 ---
 

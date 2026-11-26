@@ -14,9 +14,10 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Enchantment Magic]]
 
-| Related Talents                                                             |
-| --------------------------------------------------------------------------- |
-| [[Harmony Spells III.md\|Harmony Spells III]] |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Harmony Spells III.md\|Harmony Spells III]]   |
+| [[Symbiote Spells III.md\|Symbiote Spells III]] |
 
 ---
 

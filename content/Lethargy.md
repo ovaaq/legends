@@ -14,8 +14,9 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 
 **Type**:: [[Decay Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Symbiote Spells III.md\|Symbiote Spells III]] |
 
 ---
 

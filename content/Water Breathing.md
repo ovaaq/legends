@@ -18,6 +18,7 @@ _\*100 grams of [[Gold Dust]], consumed by the spell_
 | ------------------------------------------------------------------------------- |
 | [[Beast Spells III.md\|Beast Spells III]]         |
 | [[Elemental Spells III.md\|Elemental Spells III]] |
+| [[Symbiote Spells III.md\|Symbiote Spells III]]   |
 
 ---
 

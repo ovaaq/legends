@@ -29,6 +29,7 @@
 | [[Flaming Sphere.md\|Flaming Sphere]]         | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Flock of Familiars.md\|Flock of Familiars]] | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Fortune's Favour.md\|Fortune's Favour]]     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
+| [[Gentle Repose.md\|Gentle Repose]]           | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | Touch     | Permanent                                                                                               |
 | [[Gust of Wind.md\|Gust of Wind]]             | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |
 | [[Healing Spirit.md\|Healing Spirit]]         | [[Double Action.md\|Double Action]] | F, V, S     | 2    | 10 metres | <ul><li>[[Concentration.md\|Concentration]]</li><li>1 minute</li></ul>   |
 | [[Heat Metal.md\|Heat Metal]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                                                 |

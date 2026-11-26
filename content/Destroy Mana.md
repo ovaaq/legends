@@ -12,8 +12,9 @@ _[[3rd Level Spell]]_
 
 **Type**:: [[Removal Magic]]
 
-| Related Talents |
-| --------------- |
+| Related Talents                                                               |
+| ----------------------------------------------------------------------------- |
+| [[Symbiote Spells III.md\|Symbiote Spells III]] |
 
 ---
 

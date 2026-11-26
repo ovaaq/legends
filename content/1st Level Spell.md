@@ -36,7 +36,6 @@
 | [[Feather Fall.md\|Feather Fall]]                       | [[Reaction]]\*                                                     | F, V        | 1    | 20 metres | 10 minutes                                                                    |
 | [[Fog Cloud.md\|Fog Cloud]]                             | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 40 metres | [[Concentration.md\|Concentration]], 1 hour     |
 | [[Frost Armour.md\|Frost Armour]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | 1 hour                                                                        |
-| [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | Touch     | Permanent                                                                     |
 | [[Grease.md\|Grease]]                                   | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | 20 metres | 1 minute                                                                      |
 | [[Grow bush spell.md\|Grow bush spell]]                 | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 20 metres | Instant                                                                       |
 | [[Guidance.md\|Guidance]]                               | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | 8 hours                                                                       |

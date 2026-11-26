@@ -1,6 +1,17 @@
+[[1.1 Roleplay]]
+[[1.2 Exploration]]
+[[1.3 Travel]]
+[[1.4 Encounters]]
+[[1.5 Downtime]]
+
 [[Exploration]]
-[[1.6 Encounters]]
+[[1.4 Encounters]]
 [[Roleplay]]
+[[1.Downtime]]
+[[Travel]]
+
+- [[Point Crawl]]
+- [[Hexcrawl]]
 
 1 Core Rules\
 ├── [[1.1 Playing the Game]]\
@@ -17,7 +28,7 @@
 │ ├── Exploration Time\
 │ └── Downtime\
 ├── 1.5 Exploration\
-├── [[1.6 Encounters]]\
+├── [[1.4 Encounters]]\
 ├── 1.7 Social Interaction\
 ├── 1.8 Travel\
 ├── 1.9 Downtime\
@@ -139,3 +150,5 @@ During a [[Short Rest]], you regain:
   - Regain half of your [[Hit Die|Hit Dice]]
   - Your Talents determine which resources are fully restored.
 - You must sleep for at least 6 of the 8 hours to gain Long Rest benefits.
+
+![[Resolution Mechanic]]

@@ -19,6 +19,7 @@ On [[Critical Hit]] target also becomes [[Feeble]] until the start of your next 
 | [[Afterlife Spells III.md\|Afterlife Spells III]] |
 | [[Beast Spells III.md\|Beast Spells III]]         |
 | [[Nature Spells III.md\|Nature Spells III]]       |
+| [[Symbiote Spells III.md\|Symbiote Spells III]]   |
 | [[Vampire Spells III.md\|Vampire Spells III]]     |
 
 ---

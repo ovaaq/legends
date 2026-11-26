@@ -7,6 +7,14 @@ These spells are added to your [[Pact Spell List]]. Additionally, choose one [[S
 
 ##### 3rd Level Spells
 
+- [[Fear]]
+- [[Destroy Mana]]
+- [[Drain Life]]
+- [[Lethargy]]
+- [[Melt into Stone]]
+- [[Tongues]]
+- [[Wall of Vines]]
+- [[Water Breathing]]
 -
 
 **Tree**:: [[Symbiote Talent Tree]]

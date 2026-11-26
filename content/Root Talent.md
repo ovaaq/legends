@@ -12,7 +12,7 @@ Root Talents are starting Talents that have no prerequisites. At the beginning o
 |---|---|---|---|
 |[[Alchemy Initiate\|Alchemy Initiate]]|[[Alchemy Talent Tree\|Alchemy Talent Tree]]|2 LP|• [[Alchemy Practice\|Alchemy Practice]]  <br>• [[Learn Alchemical Formulas\|Learn Alchemical Formulas]]  <br>• [[Experimental Elixir\|Experimental Elixir]]  <br>• [[Improvised Alchemy\|Improvised Alchemy]]  <br>• [[Favourable Exposure\|Favourable Exposure]]  <br>• [[Alchemical Formulas I\|Alchemical Formulas I]]|
 |[[Artificer Initiate\|Artificer Initiate]]|[[Artificer Talent Tree\|Artificer Talent Tree]]|2 LP|• [[Artifice Practice\|Artifice Practice]]  <br>• [[Learn Schemas\|Learn Schemas]]  <br>• [[art1\|art1]]  <br>• [[Schemas I\|Schemas I]]|
-|[[Runecraft Initiate\|Runecraft Initiate]]|[[Runecraft Talent Tree\|Runecraft Talent Tree]]|2 LP|• [[Rulebook/Runecraft Practice\|Runecraft Practice]]  <br>• [[Learn Runes\|Learn Runes]]  <br>• [[Runic Capacity\|Runic Capacity]]  <br>• [[Runic Shield\|Runic Shield]]  <br>• [[Spell Runes\|Spell Runes]]  <br>• [[Runes I\|Runes I]]|
+|[[Runecraft Initiate\|Runecraft Initiate]]|[[Runecraft Talent Tree\|Runecraft Talent Tree]]|2 LP|• [[Runecraft Practice\|Runecraft Practice]]  <br>• [[Learn Runes\|Learn Runes]]  <br>• [[Runic Capacity\|Runic Capacity]]  <br>• [[Runic Shield\|Runic Shield]]  <br>• [[Spell Runes\|Spell Runes]]  <br>• [[Runes I\|Runes I]]|
 
 ### Divine Talent
 

@@ -1,11 +1,11 @@
 **Requirements**::
 **Cost**:: 1 LP
 
-_A strange living organism has merged with your body, granting you power in exchange for nourishment._
+_A sentient substance has merged with your body, granting you power in exchange for body and nourishment._
 
 Increase your [[Invocation]] [[Rank]] by 1.
 
-**Symbiotic Manifestation.** Part of your body is visibly merged with your symbiote. Choose one arm, leg, side of your face, or another similarly sized area. The affected area might be covered in black living matter, bark, fungal growth, or another substance appropriate to the symbiote. It subtly shifts or reacts even while you remain still.
+**Symbiotic Manifestation.** Part of your body is visibly merged with your symbiote. Choose one arm, leg, side of your face, or another similarly sized area. The affected area might be covered in black living matter, bark, fungal growth, or another substance. It subtly shifts or reacts even while you remain still.
 
 **Regeneration.** Whenever you complete a [[Long Rest]], you regain 5 additional [[Hit Point|Hit Points]] and gain 5 [[Temporary Hit Point|Temporary Hit Points]].
 

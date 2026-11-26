@@ -6,7 +6,6 @@ _Strand of magic that x._
 | [[Bless.md\|Bless]]                                     | [[Double Action.md\|Double Action]] | F, V, S     | 1    | 10 metres | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Deflect.md\|Deflect]]                                 | [[Reaction]]\*                                                     | V, S        | 1    | Self      | Instant                                                                       |
 | [[Frost Armour.md\|Frost Armour]]                       | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Self      | 1 hour                                                                        |
-| [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | Touch     | Permanent                                                                     |
 | [[Heroism.md\|Heroism]]                                 | [[Triple Action.md\|Triple Action]] | V, S        | 1    | Touch     | [[Concentration.md\|Concentration]], 1 minute   |
 | [[Mage Armour.md\|Mage Armour]]                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 1    | Touch     | 8 hours                                                                       |
 | [[Mindward.md\|Mindward]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 1    | 10 metres | 1 hour                                                                        |
@@ -18,6 +17,7 @@ _Strand of magic that x._
 | [[Aid.md\|Aid]]                                         | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | 10 metres | 8 hours                                                                       |
 | [[Arcane Shield.md\|Arcane Shield]]                     | [[Reaction]]\*                                                     | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Barkskin.md\|Barkskin]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
+| [[Gentle Repose.md\|Gentle Repose]]                     | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | Touch     | Permanent                                                                     |
 | [[Moonfire.md\|Moonfire]]                               | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
 | [[Protective Dome.md\|Protective Dome]]                 | [[Triple Action.md\|Triple Action]] | F, V, S     | 2    | Self      | 8 hours                                                                       |
 | [[Warding Wind.md\|Warding Wind]]                       | [[Triple Action.md\|Triple Action]] | F, V, S, M\* | 2    | 20 metres | Instant                                                                       |
